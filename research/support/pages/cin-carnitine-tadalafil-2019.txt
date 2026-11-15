@@ -1,0 +1,49 @@
+# Source: PubMed (NCBI E-utilities efetch)
+# URL: https://pubmed.ncbi.nlm.nih.gov/31797710/
+# Fetched: 2026-11-15
+# PMID: 31797710
+
+1. Ren Fail. 2019 Nov;41(1):976-986. doi: 10.1080/0886022X.2019.1669459.
+
+Impact of pretreatment with carnitine and tadalafil on contrast-induced 
+nephropathy in CKD patients.
+
+Armaly Z(1), Artol S(2), Jabbour AR(3), Saffouri A(4), Habashi N(5), Abd Elkadir 
+A(1), Ghattas N(6), Farah R(7), Kinaneh S(1), Nseir W(4).
+
+Author information:
+(1)Department of Nephrology, E.M.M.S. Hospital, and Azrieli Faculty of Medicine 
+in Galilee, Bar- Ilan University, Zafed, Israel.
+(2)Department of Radiology, E.M.M.S. Hospital, Nazareth, Israel.
+(3)Laboratory of Medicine, E.M.M.S. Hospital, Nazareth, Israel.
+(4)Department of Internal Medicine, E.M.M.S. Hospital, Nazareth, Israel.
+(5)Department of Nephrology, HaEmeq Hospital Afula, Afula, Israel.
+(6)Department of Internal Medicine, The Western Galilee Hospital, Nahariya, 
+Israel.
+(7)Department of Internal Medicine "B", Ziv Medical Center, and Azrieli Faculty 
+of Medicine in Galilee, Bar- Ilan University, Zafed, Israel.
+
+Objective: The present study assesses whether phosphodiesterase type 5 (PDE-5) 
+inhibitor or carnitine exert nephroprotective effects against clinical 
+contrast-induced nephropathy (CIN).Materials and Methods: The present study 
+consisted of three groups of CKD patients. The first group was control group, 
+who were treated with N-acetyl-L-cysteine 1 day before and on the day of 
+radiocontrast administration. The second one was carnitine group, where the 
+patients were infused with carnitine over 10 min 2 h prior to the radiocontrast 
+administration and 24 h post CT. The third one was PDE-5 inhibitor group, where 
+patients were given tadalafil 2 h prior to the administration of the 
+radiocontrast and in the subsequent day. Urine and blood samples were collected 
+before and at the following time sequence: 2, 6, 12, 24, 48, and 120 h after the 
+contrast administration, for creatinine and NGAL determination.Results: 
+Pretreated with N-acetyl-L-cysteine prior to administration of contrast media 
+(CM) to CKD patients caused a significant increase in urinary but not of plasma 
+neutrophil gelatinase-associated lipocalin (NGAL) and serum creatinine (SCr). In 
+contrast, pretreatment with carnitine prevented the increase in urinary NGAL and 
+reduced SCr below basal levels. Similarly, tadalafil administration diminished 
+the elevation of CM-induced urinary NGAL.Conclusions: These results indicate 
+that carnitine and PDE-5 inhibitors may comprise potential therapeutic maneuvers 
+for CIN.
+
+DOI: 10.1080/0886022X.2019.1669459
+PMCID: PMC6913644
+PMID: 31797710 [Indexed for MEDLINE]

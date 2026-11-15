@@ -1,0 +1,676 @@
+{
+  "sources": [
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36472884/",
+      "title": "Carnitine supplements for people with chronic kidney disease requiring dialysis.",
+      "authors": "Nishioka N; Luo Y; Taniguchi T; Ohnishi T; Kimachi M; Ng RC; Watanabe N",
+      "year": "2022",
+      "journal_or_publisher": "Cochrane Database Syst Rev",
+      "vol_pages": "12(12):CD013601",
+      "doi": "10.1002/14651858.CD013601.pub2",
+      "pmid": "36472884",
+      "page_file": "research/support/pages/cochrane-carnitine-dialysis-2022.txt",
+      "quotes": [
+        "The available evidence does not currently support the use of carnitine supplementation in the treatment of dialysis-related carnitine deficiency."
+      ],
+      "notes": "Cochrane review: carnitine supplements in dialysis CKD (scope a)",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24368434/",
+      "title": "L-Carnitine supplementation for adults with end-stage kidney disease requiring maintenance hemodialysis: a systematic review and meta-analysis.",
+      "authors": "Chen Y; Abbate M; Tang L; Cai G; Gong Z; Wei R; Zhou J; Chen X",
+      "year": "2014",
+      "journal_or_publisher": "Am J Clin Nutr",
+      "vol_pages": "99(2):408-22",
+      "doi": "10.3945/ajcn.113.062802",
+      "pmid": "24368434",
+      "page_file": "research/support/pages/ajcn-carnitine-hemodialysis-meta-2014.txt",
+      "quotes": [
+        "This meta-analysis failed to confirm the previous findings regarding the effects of l-carnitine on hemoglobin and the erythropoietin dose but showed that l-carnitine significantly decreased serum LDL and CRP."
+      ],
+      "notes": "Systematic review/meta-analysis of RCTs, maintenance HD (scope a)",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26508680/",
+      "title": "Levocarnitine Improves Cardiac Function in Hemodialysis Patients With Left Ventricular Hypertrophy: A Randomized Controlled Trial.",
+      "authors": "Higuchi T; Abe M; Yamazaki T; Okawa E; Ando H; Hotta S; Oikawa O; Kikuchi F; Okada K; Soma M",
+      "year": "2016",
+      "journal_or_publisher": "Am J Kidney Dis",
+      "vol_pages": "67(2):260-70",
+      "doi": "10.1053/j.ajkd.2015.09.010",
+      "pmid": "26508680",
+      "page_file": "research/support/pages/levocarnitine-cardiac-lvh-rct-2016.txt",
+      "quotes": [
+        "Levocarnitine therapy is useful for hemodialysis patients with carnitine deficiency; these patients may benefit from such therapy, with amelioration of cardiac function and reduction of left ventricular mass index."
+      ],
+      "notes": "Randomized controlled trial, cardiac function, HD LVH (scope a)",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41644022/",
+      "title": "Effectiveness of L-Carnitine for the Treatment of Erythropoietin-Resistant Renal Anemia: A Randomized, Double-Blind, Placebo-Controlled Pilot Trial.",
+      "authors": "Reuter SE; Steiber AL; Faull RJ; Evans AM",
+      "year": "2026",
+      "journal_or_publisher": "J Ren Nutr",
+      "vol_pages": "36(3):491-501",
+      "doi": "10.1053/j.jrn.2026.01.008",
+      "pmid": "41644022",
+      "page_file": "research/support/pages/levocarnitine-anemia-rct-2026.txt",
+      "quotes": [
+        "L-carnitine supplementation was associated with a 25% reduction in ERI, significantly greater than that seen in placebo-treated patients (3% reduction)."
+      ],
+      "notes": "Randomized double-blind placebo-controlled pilot, ESA-resistant anemia (scope a)",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30943487/",
+      "title": "Prevalence of Carnitine Deficiency and Decreased Carnitine Levels in Patients on Hemodialysis.",
+      "authors": "Hatanaka Y; Higuchi T; Akiya Y; Horikami T; Tei R; Furukawa T; Takashima H; Tomita H; Abe M",
+      "year": "2019",
+      "journal_or_publisher": "Blood Purif",
+      "vol_pages": "47 Suppl 2:38-44",
+      "doi": "10.1159/000496720",
+      "pmid": "30943487",
+      "page_file": "research/support/pages/hd-carnitine-deficiency-prevalence-2019.txt",
+      "quotes": [
+        "The prevalence of carnitine deficiency and that of carnitine insufficiency was 25.3 and 86.7%, respectively."
+      ],
+      "notes": "Cross-sectional prevalence study, dialysis carnitine deficiency (scope a)",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12751050/",
+      "title": "Dialysis-related carnitine disorder and levocarnitine pharmacology.",
+      "authors": "Evans A",
+      "year": "2003",
+      "journal_or_publisher": "Am J Kidney Dis",
+      "vol_pages": "41(4 Suppl 4):S13-26",
+      "doi": "10.1016/s0272-6386(03)00113-6",
+      "pmid": "12751050",
+      "page_file": "research/support/pages/dialysis-carnitine-disorder-pharmacology-2003.txt",
+      "quotes": [
+        "Among the homeostatic processes controlling the endogenous L-carnitine pool in humans, the kidney has a vital role through extensive and adaptive tubular reabsorption.",
+        "Exogenous L-carnitine, administered intravenously, is approved for the treatment of secondary carnitine deficiency caused by long-term hemodialysis."
+      ],
+      "notes": "Review: dialysis-related carnitine disorder, renal handling (scopes a,d)",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17506778/",
+      "title": "A pharmacokinetic model for L-carnitine in patients receiving haemodialysis.",
+      "authors": "Fornasini G; Upton RN; Evans AM",
+      "year": "2007",
+      "journal_or_publisher": "Br J Clin Pharmacol",
+      "vol_pages": "64(3):335-45",
+      "doi": "10.1111/j.1365-2125.2007.02926.x",
+      "pmid": "17506778",
+      "page_file": "research/support/pages/carnitine-pk-hemodialysis-model-2007.txt",
+      "quotes": [
+        "Haemodialysis causes rapid reductions in plasma L-carnitine concentrations with each dialysis session.",
+        "the ongoing dialytic loss of L-carnitine may lead to a slow depletion of the compound, contributing to a possible secondary deficiency."
+      ],
+      "notes": "Pharmacokinetic model, dialytic carnitine removal (scope a)",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15386530/",
+      "title": "Protective effect of L-carnitine on renal ischaemia-reperfusion injury in the rat.",
+      "authors": "Görür S; Bağdatoğlu OT; Polat G",
+      "year": "2005",
+      "journal_or_publisher": "Cell Biochem Funct",
+      "vol_pages": "23(3):151-5",
+      "doi": "10.1002/cbf.1159",
+      "pmid": "15386530",
+      "page_file": "research/support/pages/carnitine-renal-ir-rat-2005.txt",
+      "quotes": [
+        "It is shown that carnitine protects kidney tissue against ischaemia-reperfusion injury.",
+        "received L-carnitine hydrochloride (100 mg kg(-1)) intraperitoneally."
+      ],
+      "notes": "Rodent renal ischemia-reperfusion, L-carnitine pretreatment (scope b)",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20093144/",
+      "title": "L-carnitine attenuates oxidant injury in HK-2 cells via ROS-mitochondria pathway.",
+      "authors": "Ye J; Li J; Yu Y; Wei Q; Deng W; Yu L",
+      "year": "2010",
+      "journal_or_publisher": "Regul Pept",
+      "vol_pages": "161(1-3):58-66",
+      "doi": "10.1016/j.regpep.2009.12.024",
+      "pmid": "20093144",
+      "page_file": "research/support/pages/carnitine-hk2-oxidant-injury-2010.txt",
+      "quotes": [
+        "These results suggested that L-carnitine could protect HK-2 cells from H(2)O(2)-induced injury through the inhibition of oxidative damage, mitochondria dysfunction and ultimately inhibition of cell apoptosis"
+      ],
+      "notes": "In-vitro HK-2 proximal tubule cells, oxidant injury (scope b)",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22698429/",
+      "title": "Stimulation of carnitine palmitoyltransferase 1 improves renal function and attenuates tissue damage after ischemia/reperfusion.",
+      "authors": "Idrovo JP; Yang WL; Nicastro J; Coppa GF; Wang P",
+      "year": "2012",
+      "journal_or_publisher": "J Surg Res",
+      "vol_pages": "177(1):157-64",
+      "doi": "10.1016/j.jss.2012.05.053",
+      "pmid": "22698429",
+      "page_file": "research/support/pages/cpt1-renal-ir-rat-2012.txt",
+      "quotes": [
+        "Fatty acid β-oxidation is the major metabolic pathway for generating adenosine triphosphate (ATP) in the kidneys, which is governed by carnitine palmitoyltransferase 1 (CPT1).",
+        "Stimulation of CPT1 activity by C75 recovered ATP depletion, improved renal function, attenuated tissue injury, and inhibited proinflammatory cytokine production and neutrophil infiltration after renal I/R injury."
+      ],
+      "notes": "Rodent renal I/R, CPT1 stimulation, ATP preservation (scopes b,d)",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21529274/",
+      "title": "The role of carnitine in preventing renal damage developed as a result of infrarenal aortic ischemia-reperfusion.",
+      "authors": "Yuksel S; Sezer MT; Sahin O; Sutcu R; Koçogullari C; Yilmaz HR; Uz E; Kara Y; Aydin B; Altuntas A",
+      "year": "2011",
+      "journal_or_publisher": "Ren Fail",
+      "vol_pages": "33(4):440-9",
+      "doi": "10.3109/0886022X.2011.568148",
+      "pmid": "21529274",
+      "page_file": "research/support/pages/carnitine-aortic-ir-rat-2011.txt",
+      "quotes": [
+        "In this study, we showed carnitine can partially prevent renal damage in infrarenal AIR models of rats."
+      ],
+      "notes": "Rodent infrarenal aortic I/R, carnitine prevention (scope b)",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41261345/",
+      "title": "L-carnitine mitigates urographin-induced nephrotoxicity via modulation of inflammatory, oxidative, and apoptotic pathways in rat kidney.",
+      "authors": "Erbaş M; Gündüz D; Sarman E; İlhan İ; Tepebaşı MY; Arlıoğlu M; Savran M",
+      "year": "2026",
+      "journal_or_publisher": "Mol Cell Biochem",
+      "vol_pages": "481(2):911-922",
+      "doi": "10.1007/s11010-025-05433-6",
+      "pmid": "41261345",
+      "page_file": "research/support/pages/carnitine-contrast-nephrotoxicity-rat-2026.txt",
+      "quotes": [
+        "LC exerts potent nephroprotective effects against URO-induced renal injury by attenuating oxidative stress, suppressing pro-inflammatory and apoptotic signaling, and promoting anti-apoptotic gene expression."
+      ],
+      "notes": "Rodent contrast (urographin) nephrotoxicity, L-carnitine (scopes b,c)",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31797710/",
+      "title": "Impact of pretreatment with carnitine and tadalafil on contrast-induced nephropathy in CKD patients.",
+      "authors": "Armaly Z; Artol S; Jabbour AR; Saffouri A; Habashi N; Abd Elkadir A; Ghattas N; Farah R; Kinaneh S; Nseir W",
+      "year": "2019",
+      "journal_or_publisher": "Ren Fail",
+      "vol_pages": "41(1):976-986",
+      "doi": "10.1080/0886022X.2019.1669459",
+      "pmid": "31797710",
+      "page_file": "research/support/pages/cin-carnitine-tadalafil-2019.txt",
+      "quotes": [
+        "In contrast, pretreatment with carnitine prevented the increase in urinary NGAL and reduced SCr below basal levels."
+      ],
+      "notes": "Clinical CKD contrast study, carnitine pretreatment (scope c)",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28828020/",
+      "title": "Nephroprotective Effects of L-Carnitine against Contrast-Induced Nephropathy in Patients Undergoing Percutaneous Coronary Intervention: A Randomized Open-Labeled Clinical Trial.",
+      "authors": "Mohammadi M; Hajhossein Talasaz A; Alidoosti M; Pour Hosseini HR; Gholami K; Jalali A; Aryannejad H",
+      "year": "2017",
+      "journal_or_publisher": "J Tehran Heart Cent",
+      "vol_pages": "12(2):57-64",
+      "doi": "",
+      "pmid": "28828020",
+      "page_file": "research/support/pages/cin-carnitine-pci-2017.txt",
+      "quotes": [
+        "Our results showed that oral L-carnitine was able to prevent an increase in NGAL following contrast medium administration in patients undergoing PCI."
+      ],
+      "notes": "Randomized open-label trial, PCI contrast NGAL (scope c)",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30646314/",
+      "title": "Effect of Levocarnitine vs Placebo as an Adjunctive Treatment for Septic Shock: The Rapid Administration of Carnitine in Sepsis (RACE) Randomized Clinical Trial.",
+      "authors": "Jones AE; Puskarich MA; Shapiro NI; Guirgis FW; Runyon M; Adams JY; Sherwin R; Arnold R; Roberts BW; Kurz MC; Wang HE; Kline JA; Courtney DM; Trzeciak S; Sterling SA; Nandi U; Patki D; Viele K",
+      "year": "2018",
+      "journal_or_publisher": "JAMA Netw Open",
+      "vol_pages": "1(8):e186076",
+      "doi": "10.1001/jamanetworkopen.2018.6076",
+      "pmid": "30646314",
+      "page_file": "research/support/pages/levocarnitine-septic-shock-rct-2018.txt",
+      "quotes": [
+        "In this dose-finding, phase 2 adaptive randomized trial, the most efficacious dose of levocarnitine (18 g) did not meaningfully reduce cumulative organ failure at 48 hours."
+      ],
+      "notes": "RACE randomized clinical trial, levocarnitine in septic shock (scope c)",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23851424/",
+      "title": "Preliminary safety and efficacy of L-carnitine infusion for the treatment of vasopressor-dependent septic shock: a randomized control trial.",
+      "authors": "Puskarich MA; Kline JA; Krabill V; Claremont H; Jones AE",
+      "year": "2014",
+      "journal_or_publisher": "JPEN J Parenter Enteral Nutr",
+      "vol_pages": "38(6):736-43",
+      "doi": "10.1177/0148607113495414",
+      "pmid": "23851424",
+      "page_file": "research/support/pages/carnitine-septic-shock-pilot-2014.txt",
+      "quotes": [
+        "Mortality was significantly lower at 28 days in the L-carnitine group (4/16 vs 9/15, P = .048), with a nonsignificant improved survival at 1 year (P = .06)."
+      ],
+      "notes": "Randomized pilot trial, L-carnitine in septic shock (scope c)",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36327640/",
+      "title": "The supplementation of L-carnitine in septic shock patients: Systematic review and meta-analysis.",
+      "authors": "Guedes GV; Minicucci MF; Tanni SE",
+      "year": "2022",
+      "journal_or_publisher": "Clinics (Sao Paulo)",
+      "vol_pages": "77:100124",
+      "doi": "10.1016/j.clinsp.2022.100124",
+      "pmid": "36327640",
+      "page_file": "research/support/pages/carnitine-septic-shock-meta-2022.txt",
+      "quotes": [
+        "There is low-quality evidence that the use of L-carnitine has no significant effect on reducing 28-day mortality in septic shock patients."
+      ],
+      "notes": "Systematic review/meta-analysis, L-carnitine septic shock mortality (scope c)",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41692009/",
+      "title": "L-Carnitine and Acetyl-L-Carnitine in Drug Poisonings: A Systematic Review of Clinical and Experimental Evidence.",
+      "authors": "Rezaee H; Abbasgholizadeh F",
+      "year": "2026",
+      "journal_or_publisher": "J Appl Toxicol",
+      "vol_pages": "46(5):1447-1459",
+      "doi": "10.1002/jat.70095",
+      "pmid": "41692009",
+      "page_file": "research/support/pages/carnitine-drug-poisonings-sr-2026.txt",
+      "quotes": [
+        "Clinical studies, mechanistic models, and animal experiments involving LC/ALC in valproic acid, aluminum phosphide, organophosphates, paracetamol (acetaminophen), methanol and other toxic alcohols, and anthracycline cardiotoxicity were found by searching PubMed, Scopus, and Web of Science between February and July 2025.",
+        "LC may be taken into consideration in cases of severe valproate toxicity with hyperammonemia or hepatotoxicity, as well as an adjuvant in certain organophosphate and aluminum phosphide poisonings within thorough resuscitation protocols."
+      ],
+      "notes": "Systematic review, L-carnitine/acetyl-L-carnitine in poisonings incl. valproate (scope c)",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28065453/",
+      "title": "Protective Effects of L-Carnitine Against Delayed Graft Function in Kidney Transplant Recipients: A Pilot, Randomized, Double-Blinded, Placebo-Controlled Clinical Trial.",
+      "authors": "Jafari A; Khatami MR; Dashti-Khavidaki S; Lessan-Pezeshki M; Abdollahi A; Moghaddas A",
+      "year": "2017",
+      "journal_or_publisher": "J Ren Nutr",
+      "vol_pages": "27(2):113-126",
+      "doi": "10.1053/j.jrn.2016.11.002",
+      "pmid": "28065453",
+      "page_file": "research/support/pages/carnitine-dgf-transplant-pilot-2017.txt",
+      "quotes": [
+        "This study showed no protective effects of oral L-carnitine supplementation against DGF occurrence recipients; however, 3-month graft loss was lower in the L-carnitine supplemented group."
+      ],
+      "notes": "Pilot randomized trial, L-carnitine and delayed graft function (scope c)",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34065078/",
+      "title": "Sugar or Fat? Renal Tubular Metabolism Reviewed in Health and Disease.",
+      "authors": "Gewin LS",
+      "year": "2021",
+      "journal_or_publisher": "Nutrients",
+      "vol_pages": "13(5)",
+      "doi": "10.3390/nu13051580",
+      "pmid": "34065078",
+      "page_file": "research/support/pages/renal-tubular-metabolism-review-2021.txt",
+      "quotes": [
+        "Thus, proximal tubules use fatty acid oxidation, which generates more adenosine triphosphate (ATP) than glucose metabolism, as its preferred metabolic pathway."
+      ],
+      "notes": "Review, renal tubular metabolism, FAO preference (scope d)",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10491743/",
+      "title": "Role of fatty acid beta-oxidation and calcium-independent phospholipase A2 in ischemic acute renal failure.",
+      "authors": "Portilla D",
+      "year": "1999",
+      "journal_or_publisher": "Curr Opin Nephrol Hypertens",
+      "vol_pages": "8(4):473-7",
+      "doi": "10.1097/00041552-199907000-00012",
+      "pmid": "10491743",
+      "page_file": "research/support/pages/fao-ischemic-renal-failure-1999.txt",
+      "quotes": [
+        "Altogether, lysophospholipids, long-chain acyl carnitines, and long-chain acyl coenzyme A inhibit proximal tubule Na+K(+)-ATPase."
+      ],
+      "notes": "Seminal review, FAO in ischemic acute renal failure (scopes b,d)",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39986590/",
+      "title": "Acute kidney injury and energy metabolism.",
+      "authors": "Zhang M; Ma Y; Jin Y; Wang Y; Wu X",
+      "year": "2025",
+      "journal_or_publisher": "Clin Chim Acta",
+      "vol_pages": "570:120208",
+      "doi": "10.1016/j.cca.2025.120208",
+      "pmid": "39986590",
+      "page_file": "research/support/pages/aki-energy-metabolism-2025.txt",
+      "quotes": [
+        "Special emphasis is placed on the role of fatty acid and carnitine metabolism in AKI, with the goal of providing a theoretical foundation for future investigations into AKI mechanisms and the identification of early diagnostic biomarkers."
+      ],
+      "notes": "Review, AKI and energy metabolism, fatty acid/carnitine (scope d)",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40402578/",
+      "title": "Involvement of impaired carnitine-induced fatty acid oxidation in experimental and human diabetic kidney disease.",
+      "authors": "Ito S; Taguchi K; Kodama G; Kubo S; Moriyama T; Yamashita Y; Yokota Y; Nakayama Y; Kaida Y; Shinohara M; Tashiro K; Ohta K; Yamagishi SI; Fukami K",
+      "year": "2025",
+      "journal_or_publisher": "JCI Insight",
+      "vol_pages": "10(13)",
+      "doi": "10.1172/jci.insight.179362",
+      "pmid": "40402578",
+      "page_file": "research/support/pages/carnitine-fao-diabetic-kidney-2025.txt",
+      "quotes": [
+        "In our single-center randomized control trial with patients undergoing peritoneal dialysis, l-carnitine supplementation preserved residual renal function and increased urine volume, the latter of which was correlated with improvement of tubular injury."
+      ],
+      "notes": "Experimental + clinical trial, carnitine-induced FAO in diabetic kidney disease (scopes c,d)",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29384504/",
+      "title": "Septic Shock Nonsurvivors Have Persistently Elevated Acylcarnitines Following Carnitine Supplementation.",
+      "authors": "Puskarich MA; Evans CR; Karnovsky A; Das AK; Jones AE; Stringer KA",
+      "year": "2018",
+      "journal_or_publisher": "Shock",
+      "vol_pages": "49(4):412-419",
+      "doi": "10.1097/SHK.0000000000000997",
+      "pmid": "29384504",
+      "page_file": "research/support/pages/acylcarnitines-septic-shock-2018.txt",
+      "quotes": [
+        "L-Carnitine treatment increased levels of all measured acylcarnitines; an effect that was sustained for at least 36 h following completion of the infusion and was more prominent among nonsurvivors."
+      ],
+      "notes": "Metabolomics substudy, acylcarnitines in septic shock (scope e)",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37775945/",
+      "title": "Kidney function as a key driver of the pharmacokinetic response to high-dose L-carnitine in septic shock.",
+      "authors": "Jennaro TS; Puskarich MA; Flott TL; McLellan LA; Jones AE; Pai MP; Stringer KA",
+      "year": "2023",
+      "journal_or_publisher": "Pharmacotherapy",
+      "vol_pages": "43(12):1240-1250",
+      "doi": "10.1002/phar.2882",
+      "pmid": "37775945",
+      "page_file": "research/support/pages/carnitine-pk-kidney-septic-shock-2023.txt",
+      "quotes": [
+        "Kidney function estimates that leverage cystatin C provided superior model fit."
+      ],
+      "notes": "Population PK study, kidney function and L-carnitine in septic shock (scopes c,e)",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32579962/",
+      "title": "Downregulation of OCTN2 by cytokines plays an important role in the progression of inflammatory bowel disease.",
+      "authors": "Li P; Wang Y; Luo J; Zeng Q; Wang M; Bai M; Zhou H; Wang J; Jiang H",
+      "year": "2020",
+      "journal_or_publisher": "Biochem Pharmacol",
+      "vol_pages": "178:114115",
+      "doi": "10.1016/j.bcp.2020.114115",
+      "pmid": "32579962",
+      "page_file": "research/support/pages/octn2-cytokine-downregulation-2020.txt",
+      "quotes": [
+        "Mixed proinflammatory cytokines TNF-α, IL-1β and IFNγ downregulated the expression of OCTN2 and subsequently reduced the l-Car content through PPARγ/RXRα pathways in FHC cells."
+      ],
+      "notes": "In-vitro/animal, OCTN2 downregulation by cytokines (scope e)",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38586373/",
+      "title": "Targeting SLC22A5 fosters mitophagy inhibition-mediated macrophage immunity against septic acute kidney injury upon CD47-SIRPα axis blockade.",
+      "authors": "Jia Y; Li JH; Hu BC; Huang X; Yang X; Liu YY; Cai JJ; Yang X; Lai JM; Shen Y; Liu JQ; Zhu HP; Ye XM; Mo SJ",
+      "year": "2024",
+      "journal_or_publisher": "Heliyon",
+      "vol_pages": "10(7):e26791",
+      "doi": "10.1016/j.heliyon.2024.e26791",
+      "pmid": "38586373",
+      "page_file": "research/support/pages/slc22a5-septic-aki-2024.txt",
+      "quotes": [
+        "Targeting SLC22A5 renders mitophagy inhibition of macrophages in response to LPS stimuli, improves survival and deters development of septic AKI."
+      ],
+      "notes": "Septic AKI, SLC22A5/OCTN2 bioinformatics (scope e)",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12908852/",
+      "title": "Pharmacokinetics of L-carnitine.",
+      "authors": "Evans AM; Fornasini G",
+      "year": "2003",
+      "journal_or_publisher": "Clin Pharmacokinet",
+      "vol_pages": "42(11):941-67",
+      "doi": "10.2165/00003088-200342110-00002",
+      "pmid": "12908852",
+      "page_file": "research/support/pages/carnitine-pharmacokinetics-2003.txt",
+      "quotes": [
+        "In humans, the endogenous carnitine pool, which comprises free L-carnitine and a range of short-, medium- and long-chain esters, is maintained by absorption of L-carnitine from dietary sources, biosynthesis within the body and extensive renal tubular reabsorption from glomerular filtrate."
+      ],
+      "notes": "Classic pharmacokinetic review, renal reabsorption (scopes e,f)",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/956930/",
+      "title": "Effects of carnitine administration, fasting, and exercise on urinary carnitine excretion in man.",
+      "authors": "Suzuki M; Kanaya M; Muramatsu S; Takahashi T",
+      "year": "1976",
+      "journal_or_publisher": "J Nutr Sci Vitaminol (Tokyo)",
+      "vol_pages": "22(2):167-74",
+      "doi": "",
+      "pmid": "956930",
+      "page_file": "research/support/pages/urinary-carnitine-excretion-exercise-1976.txt",
+      "quotes": [
+        "Urinary carnitine excretion was significantly increased during five-day fasting; a maximum level of 2.17 +/- 0.24 (mean and SD) mmoles/day was 4.6 times higher than the usual level of 0.47 +/- 0.10 mmoles/day (p less than 0.001).",
+        "The urinary excretion of carnitine increased slightly with heavy running exercise."
+      ],
+      "notes": "Human study, urinary carnitine excretion, exercise and fasting (scope f)",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/1922166/",
+      "title": "Carnitine in muscle, serum, and urine of nonprofessional athletes: effects of physical exercise, training, and L-carnitine administration.",
+      "authors": "Arenas J; Ricoy JR; Encinas AR; Pola P; D'Iddio S; Zeviani M; Didonato S; Corsi M",
+      "year": "1991",
+      "journal_or_publisher": "Muscle Nerve",
+      "vol_pages": "14(7):598-604",
+      "doi": "10.1002/mus.880140703",
+      "pmid": "1922166",
+      "page_file": "research/support/pages/athletes-carnitine-exercise-1991.txt",
+      "quotes": [
+        "These changes were likely related with the significantly increased urinary excretion of esterified and total carnitine which occurred after physical exercise."
+      ],
+      "notes": "Athlete study, muscle/serum/urine carnitine with training (scope f)",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34383825/",
+      "title": "Acylcarnitine profile in Alaskan sled dogs during submaximal multiday exercise points out metabolic flexibility and liver role in energy metabolism.",
+      "authors": "Tosi I; Art T; Boemer F; Votion DM; Davis MS",
+      "year": "2021",
+      "journal_or_publisher": "PLoS One",
+      "vol_pages": "16(8):e0256009",
+      "doi": "10.1371/journal.pone.0256009",
+      "pmid": "34383825",
+      "page_file": "research/support/pages/acylcarnitine-sled-dogs-2021.txt",
+      "quotes": [
+        "Our results show chain-specific modification of AC profiles during the exercise challenge: LCACs maintained a steady increase throughout exercise, some SCACs increased during the last phase of exercise and acetylcarnitine (C2) initially increased before decreasing during the later phase of exercise."
+      ],
+      "notes": "Multiday endurance exercise acylcarnitine profile, sled dogs (scope f)",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://www.dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=2685d8da-010e-40d7-914f-80546634888d",
+      "title": "LEVOCARNITINE injection, solution [U.S. FDA drug label, DailyMed]",
+      "authors": "U.S. Food and Drug Administration / DailyMed",
+      "year": "2024",
+      "journal_or_publisher": "DailyMed, National Library of Medicine",
+      "vol_pages": "",
+      "doi": "",
+      "pmid": "",
+      "page_file": "research/support/pages/fda-levocarnitine-injection-label.txt",
+      "quotes": [
+        "For the prevention and treatment of carnitine deficiency in patients with end stage renal disease who are undergoing dialysis.",
+        "The recommended starting dose is 10 to 20 mg/kg dry body weight as a slow 2 to 3 minute bolus injection into the venous return line after each dialysis session.",
+        "End Stage Renal Disease (ESRD) patients on maintenance hemodialysis may have low plasma carnitine concentrations and an increased ratio of acylcarnitine/carnitine because of reduced intake of meat and dairy products, reduced renal synthesis and dialytic losses."
+      ],
+      "notes": "FDA-approved levocarnitine label: ESRD indication, dosing, dialytic-loss mechanism (scope a)",
+      "extract_status": "ok"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "The FDA-approved label for levocarnitine injection covers the prevention and treatment of carnitine deficiency in patients with end-stage renal disease who are undergoing dialysis, with a recommended starting dose of 10 to 20 mg/kg dry body weight given intravenously into the venous return line after each dialysis session.",
+      "url": "https://www.dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=2685d8da-010e-40d7-914f-80546634888d",
+      "quote": "For the prevention and treatment of carnitine deficiency in patients with end stage renal disease who are undergoing dialysis.",
+      "strength": "review"
+    },
+    {
+      "claim": "Among 150 maintenance-dialysis patients, carnitine deficiency (serum free carnitine below 20 μmol/L) was present in 25.3% and carnitine insufficiency (acyl/free carnitine ratio above 0.4) in 86.7%.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30943487/",
+      "quote": "The prevalence of carnitine deficiency and that of carnitine insufficiency was 25.3 and 86.7%, respectively.",
+      "strength": "human"
+    },
+    {
+      "claim": "Each hemodialysis session causes rapid reductions in plasma L-carnitine concentrations, and ongoing dialytic loss may slowly deplete the body pool toward a secondary deficiency.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17506778/",
+      "quote": "Haemodialysis causes rapid reductions in plasma L-carnitine concentrations with each dialysis session.",
+      "strength": "human"
+    },
+    {
+      "claim": "The kidney maintains the endogenous carnitine pool through extensive and adaptive tubular reabsorption, so kidney disease disturbs carnitine homeostasis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12751050/",
+      "quote": "Among the homeostatic processes controlling the endogenous L-carnitine pool in humans, the kidney has a vital role through extensive and adaptive tubular reabsorption.",
+      "strength": "review"
+    },
+    {
+      "claim": "The 2022 Cochrane review concluded that the available evidence does not support carnitine supplementation for treating dialysis-related carnitine deficiency, while noting possible slight improvement in anaemia markers and that conclusions rest on limited data.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36472884/",
+      "quote": "The available evidence does not currently support the use of carnitine supplementation in the treatment of dialysis-related carnitine deficiency.",
+      "strength": "review"
+    },
+    {
+      "claim": "A systematic review and meta-analysis of randomized trials in maintenance hemodialysis found that l-carnitine significantly decreased serum LDL and CRP but did not confirm previous findings of benefits for hemoglobin or erythropoietin dose.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24368434/",
+      "quote": "This meta-analysis failed to confirm the previous findings regarding the effects of l-carnitine on hemoglobin and the erythropoietin dose but showed that l-carnitine significantly decreased serum LDL and CRP.",
+      "strength": "review"
+    },
+    {
+      "claim": "In a multicenter randomized controlled trial, levocarnitine therapy reduced left ventricular mass index, lowered NT-proBNP, and improved the erythropoietin responsiveness index in hemodialysis patients with left ventricular hypertrophy.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26508680/",
+      "quote": "Levocarnitine therapy is useful for hemodialysis patients with carnitine deficiency; these patients may benefit from such therapy, with amelioration of cardiac function and reduction of left ventricular mass index.",
+      "strength": "human"
+    },
+    {
+      "claim": "In a randomized, double-blind, placebo-controlled pilot trial in hemodialysis patients hyporesponsive to erythropoiesis-stimulating agents, L-carnitine reduced the erythropoietin resistance index by 25% versus 3% with placebo.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41644022/",
+      "quote": "L-carnitine supplementation was associated with a 25% reduction in ERI, significantly greater than that seen in placebo-treated patients (3% reduction).",
+      "strength": "human"
+    },
+    {
+      "claim": "In rats subjected to renal ischemia-reperfusion, pretreatment with L-carnitine hydrochloride 100 mg/kg intraperitoneally lowered renal tissue malondialdehyde, myeloperoxidase activity, and nitrite/nitrate levels, protecting kidney tissue against ischemia-reperfusion injury.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15386530/",
+      "quote": "It is shown that carnitine protects kidney tissue against ischaemia-reperfusion injury.",
+      "strength": "animal"
+    },
+    {
+      "claim": "L-carnitine protected human HK-2 proximal tubule cells from hydrogen-peroxide-induced injury through inhibition of oxidative damage, mitochondrial dysfunction, and cell apoptosis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20093144/",
+      "quote": "These results suggested that L-carnitine could protect HK-2 cells from H(2)O(2)-induced injury through the inhibition of oxidative damage, mitochondria dysfunction and ultimately inhibition of cell apoptosis",
+      "strength": "in-vitro"
+    },
+    {
+      "claim": "In a clinical study of CKD patients receiving radiocontrast, carnitine pretreatment prevented the contrast-induced increase in urinary NGAL and reduced serum creatinine below basal levels.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31797710/",
+      "quote": "In contrast, pretreatment with carnitine prevented the increase in urinary NGAL and reduced SCr below basal levels.",
+      "strength": "human"
+    },
+    {
+      "claim": "In a randomized open-label trial of 202 patients undergoing elective percutaneous coronary intervention, oral L-carnitine prevented the post-contrast rise in plasma NGAL at 12 hours.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28828020/",
+      "quote": "Our results showed that oral L-carnitine was able to prevent an increase in NGAL following contrast medium administration in patients undergoing PCI.",
+      "strength": "human"
+    },
+    {
+      "claim": "In a double-blind randomized pilot trial in vasopressor-dependent septic shock, L-carnitine infusion appeared safe, and 28-day mortality was significantly lower in the treatment group (4 of 16 vs 9 of 15, P = .048).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23851424/",
+      "quote": "Mortality was significantly lower at 28 days in the L-carnitine group (4/16 vs 9/15, P = .048), with a nonsignificant improved survival at 1 year (P = .06).",
+      "strength": "human"
+    },
+    {
+      "claim": "In the 250-patient phase-2 RACE adaptive randomized trial in septic shock, the most efficacious levocarnitine dose (18 g) did not meaningfully reduce cumulative organ failure at 48 hours versus placebo.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30646314/",
+      "quote": "In this dose-finding, phase 2 adaptive randomized trial, the most efficacious dose of levocarnitine (18 g) did not meaningfully reduce cumulative organ failure at 48 hours.",
+      "strength": "human"
+    },
+    {
+      "claim": "A systematic review and meta-analysis of L-carnitine in septic shock found low-quality evidence that it has no significant effect on reducing 28-day mortality.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36327640/",
+      "quote": "There is low-quality evidence that the use of L-carnitine has no significant effect on reducing 28-day mortality in septic shock patients.",
+      "strength": "review"
+    },
+    {
+      "claim": "A 2026 systematic review of L-carnitine and acetyl-L-carnitine in acute drug poisonings concluded that L-carnitine may be taken into consideration in severe valproate toxicity with hyperammonemia or hepatotoxicity, within thorough resuscitation protocols.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41692009/",
+      "quote": "LC may be taken into consideration in cases of severe valproate toxicity with hyperammonemia or hepatotoxicity, as well as an adjuvant in certain organophosphate and aluminum phosphide poisonings within thorough resuscitation protocols.",
+      "strength": "review"
+    },
+    {
+      "claim": "A pilot randomized trial of oral L-carnitine around deceased-donor kidney transplantation showed no reduction in delayed graft function, although 3-month graft loss was lower in the supplemented group (1 vs 6 patients, P = .05).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28065453/",
+      "quote": "This study showed no protective effects of oral L-carnitine supplementation against DGF occurrence recipients; however, 3-month graft loss was lower in the L-carnitine supplemented group.",
+      "strength": "human"
+    },
+    {
+      "claim": "Proximal tubules use fatty acid oxidation, which generates more ATP than glucose metabolism, as their preferred metabolic pathway to power solute reabsorption.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34065078/",
+      "quote": "Thus, proximal tubules use fatty acid oxidation, which generates more adenosine triphosphate (ATP) than glucose metabolism, as its preferred metabolic pathway.",
+      "strength": "review"
+    },
+    {
+      "claim": "During ischemic acute renal failure, inhibition of fatty-acid beta-oxidation causes long-chain acyl carnitines and long-chain acyl coenzyme A to accumulate, and together with lysophospholipids these inhibit proximal tubule Na+K(+)-ATPase.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10491743/",
+      "quote": "Altogether, lysophospholipids, long-chain acyl carnitines, and long-chain acyl coenzyme A inhibit proximal tubule Na+K(+)-ATPase.",
+      "strength": "review"
+    },
+    {
+      "claim": "Impairment of carnitine-induced fatty-acid oxidation contributes to diabetic kidney disease, and in a single-center randomized trial in patients undergoing peritoneal dialysis, l-carnitine supplementation preserved residual renal function and increased urine volume.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40402578/",
+      "quote": "In our single-center randomized control trial with patients undergoing peritoneal dialysis, l-carnitine supplementation preserved residual renal function and increased urine volume, the latter of which was correlated with improvement of tubular injury.",
+      "strength": "human"
+    },
+    {
+      "claim": "In patients with septic shock, L-carnitine treatment increased levels of all measured acylcarnitines, an effect sustained for at least 36 hours after the infusion and more prominent among nonsurvivors, who had higher acylcarnitines at enrollment.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29384504/",
+      "quote": "L-Carnitine treatment increased levels of all measured acylcarnitines; an effect that was sustained for at least 36 h following completion of the infusion and was more prominent among nonsurvivors.",
+      "strength": "human"
+    },
+    {
+      "claim": "Pro-inflammatory cytokines TNF-α, IL-1β and IFNγ downregulate OCTN2 (SLC22A5) and reduce cellular l-carnitine content through PPARγ/RXRα pathways in human colonocyte (FHC) cells.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32579962/",
+      "quote": "Mixed proinflammatory cytokines TNF-α, IL-1β and IFNγ downregulated the expression of OCTN2 and subsequently reduced the l-Car content through PPARγ/RXRα pathways in FHC cells.",
+      "strength": "in-vitro"
+    },
+    {
+      "claim": "In septic shock, kidney-function estimates that leverage cystatin C provided the best pharmacokinetic model fit for high-dose L-carnitine, indicating renal function is a key driver of carnitine exposure in critical illness.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37775945/",
+      "quote": "Kidney function estimates that leverage cystatin C provided superior model fit.",
+      "strength": "human"
+    },
+    {
+      "claim": "In healthy young men, urinary carnitine excretion rose 4.6-fold during five-day fasting, and the urinary excretion of carnitine increased slightly with heavy running exercise.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/956930/",
+      "quote": "Urinary carnitine excretion was significantly increased during five-day fasting; a maximum level of 2.17 +/- 0.24 (mean and SD) mmoles/day was 4.6 times higher than the usual level of 0.47 +/- 0.10 mmoles/day (p less than 0.001).",
+      "strength": "human"
+    },
+    {
+      "claim": "In endurance athletes, six months of training lowered muscle free and total carnitine and was accompanied by significantly increased urinary excretion of esterified and total carnitine after physical exercise, changes prevented by oral L-carnitine administration.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/1922166/",
+      "quote": "These changes were likely related with the significantly increased urinary excretion of esterified and total carnitine which occurred after physical exercise.",
+      "strength": "human"
+    }
+  ]
+}

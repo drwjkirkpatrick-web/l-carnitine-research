@@ -1,0 +1,48 @@
+20. Psychosom Med. 2018 Feb/Mar;80(2):154-159. doi: 10.1097/PSY.0000000000000537.
+
+Acetyl-L-Carnitine Supplementation and the Treatment of Depressive Symptoms: A 
+Systematic Review and Meta-Analysis.
+
+Veronese N(1), Stubbs B, Solmi M, Ajnakina O, Carvalho AF, Maggi S.
+
+Author information:
+(1)From the National Research Council, Neuroscience Institute (Veronese, Maggi), 
+Aging Branch, Padova, Italy; South London and Maudsley NHS FoundationTrust 
+(Stubbs), Denmark Hill; Institute of Psychiatry, Psychology and Neuroscience 
+(IoPPN), King's College London (Stubbs, Ajnakina), De Crespigny Park, London; 
+Faculty of Health, Social Care and Education, Anglia Ruskin University (Stubbs), 
+Chelmsford, United Kingdom; Department of Neurosciences, University of Padova 
+(Solmi), Padova, Italy; and Translational Psychiatry Research Group, Department 
+of Clinical Medicine, Faculty of Medicine, Federal University of Ceara 
+(Carvalho), Fortaleza, CE, Brazil.
+
+OBJECTIVE: Deficiency of acetyl-L-carnitine (ALC) seems to play a role in the 
+risk of developing depression, indicating a dysregulation of fatty acid 
+transport across the inner membrane of mitochondria. However, data about ALC 
+supplementation in humans are limited. We thus conducted a systematic review and 
+meta-analysis investigating the effect of ALC on depressive symptoms across 
+randomized controlled trials (RCTs).
+METHODS: A literature search in major databases, without language restriction, 
+was undertaken from inception until 30 December 2016. Eligible studies were RCTs 
+of ALC alone or in combination with antidepressant medications, with a control 
+group taking placebo/no intervention or antidepressants. Standardized mean 
+differences (SMDs) and 95% confidence intervals (CIs) were used for summarizing 
+outcomes with a random-effect model.
+RESULTS: Twelve RCTs (11 of which were ALC monotherapy) with a total of 791 
+participants (mean age = 54 years, % female = 65%) were included. Pooled data 
+across nine RCTs (231 treated with ALC versus 216 treated with placebo and 20 no 
+intervention) showed that ALC significantly reduced depressive symptoms (SMD = 
+-1.10, 95% CI = -1.65 to -0.56, I = 86%). In three RCTs comparing ALC versus 
+antidepressants (162 for each group), ALC demonstrated similar effectiveness 
+compared with established antidepressants in reducing depressive symptoms (SMD = 
+0.06, 95% CI = -0.22 to 0.34, I = 31%). In these latter RCTs, the incidence of 
+adverse effects was significantly lower in the ALC group than in the 
+antidepressant group. Subgroup analyses suggested that ALC was most efficacious 
+in older adults.
+CONCLUSIONS: ALC supplementation significantly decreases depressive symptoms 
+compared with placebo/no intervention, while offering a comparable effect with 
+that of established antidepressant agents with fewer adverse effects. Future 
+large scale trials are required to confirm/refute these findings.
+
+DOI: 10.1097/PSY.0000000000000537
+PMID: 29076953 [Indexed for MEDLINE]

@@ -1,0 +1,64 @@
+# Source: PubMed (NCBI E-utilities efetch)
+# URL: https://pubmed.ncbi.nlm.nih.gov/26508680/
+# Fetched: 2026-11-15
+# PMID: 26508680
+
+1. Am J Kidney Dis. 2016 Feb;67(2):260-70. doi: 10.1053/j.ajkd.2015.09.010. Epub 
+2015 Oct 23.
+
+Levocarnitine Improves Cardiac Function in Hemodialysis Patients With Left 
+Ventricular Hypertrophy: A Randomized Controlled Trial.
+
+Higuchi T(1), Abe M(2), Yamazaki T(1), Okawa E(1), Ando H(3), Hotta S(4), Oikawa 
+O(5), Kikuchi F(6), Okada K(5), Soma M(7).
+
+Author information:
+(1)Department of Nephrology, Keiai Hospital, Tokyo, Japan.
+(2)Division of Nephrology, Hypertension and Endocrinology, Department of 
+Internal Medicine, Nihon University School of Medicine, Tokyo, Japan. Electronic 
+address: abe.masanori@nihon-u.ac.jp.
+(3)Department of Cardiology, Keiai Hospital, Tokyo, Japan.
+(4)Department of Clinical Laboratory, Keiai Hospital, Tokyo, Japan.
+(5)Division of Nephrology, Hypertension and Endocrinology, Department of 
+Internal Medicine, Nihon University School of Medicine, Tokyo, Japan.
+(6)Department of Nephrology, Meirikai Chuo General Hospital, Tokyo, Japan.
+(7)Division of General Medicine, Department of Internal Medicine, Nihon 
+University School of Medicine, Tokyo, Japan.
+
+BACKGROUND: Levocarnitine deficiency in hemodialysis patients is common. 
+Although the effect of levocarnitine therapy on uremic anemia has been studied 
+in small trials, its effects on cardiac function remain unclear.
+STUDY DESIGN: Multicenter, prospective, open-label, parallel, randomized, 
+controlled trial.
+SETTING & PARTICIPANTS: Patients undergoing maintenance hemodialysis with 
+carnitine deficiency (free carnitine plasma concentration < 40μmol/L) enrolled 
+in 3 hemodialysis centers.
+INTERVENTION: Random assignment to treatment for 12 months with oral 
+levocarnitine therapy at a dose of 20mg/kg/d or control group (no levocarnitine 
+therapy).
+OUTCOMES & MEASUREMENTS: Cardiac function was assessed by echocardiography. The 
+primary end point was change in ejection fraction from baseline at the end of 
+the study. Secondary end points included changes in left ventricular mass index 
+and clinical parameters from baseline at the end of the study.
+RESULTS: 222 patients were randomly assigned, of whom 148 patients 
+(levocarnitine group, n=75; control group, n=73) were analyzed. Ejection 
+fraction increased from baseline to the end of the study in the levocarnitine 
+group by 5.43% (95% CI, 4.53%-6.32%), but not in the control group 
+(change, -0.14%; between-group difference, 5.57% [95% CI, 4.48%-6.66%]; 
+P<0.001). Left ventricular mass index decreased from baseline to the end of the 
+study in the levocarnitine group (change of -8.89 [95% CI, -11.7 to -6.09] 
+g/m(2)), but not in the control group (change of 1.62g/m(2); between-group 
+difference, 10.50 [95% CI, 7.51 to 13.60] g/m(2); P<0.001). Levocarnitine 
+therapy reduced N-terminal pro-brain natriuretic peptide (NT-proBNP) levels and 
+improved the erythropoietin responsiveness index, whereas no such effects were 
+observed in the control group.
+LIMITATIONS: Not a double-blinded study.
+CONCLUSIONS: Levocarnitine therapy is useful for hemodialysis patients with 
+carnitine deficiency; these patients may benefit from such therapy, with 
+amelioration of cardiac function and reduction of left ventricular mass index.
+
+Copyright © 2016 National Kidney Foundation, Inc. Published by Elsevier Inc. All 
+rights reserved.
+
+DOI: 10.1053/j.ajkd.2015.09.010
+PMID: 26508680 [Indexed for MEDLINE]

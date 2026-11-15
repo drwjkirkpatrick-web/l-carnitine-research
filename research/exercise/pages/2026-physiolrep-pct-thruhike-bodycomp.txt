@@ -1,0 +1,36 @@
+SOURCE: Case study: Body composition and bone changes following a thru-hike of the Pacific Crest Trail by a young female adult.
+URL: https://pubmed.ncbi.nlm.nih.gov/42572415/
+FETCHED: 2026-11-15 via NCBI efetch (pubmed abstract, retmode=text)
+PMID: 42572415
+DOI: 10.14814/phy2.71058
+------------------------------------------------------------------------
+12. Physiol Rep. 2026 Aug;14(15):e71058. doi: 10.14814/phy2.71058.
+
+Case study: Body composition and bone changes following a thru-hike of the 
+Pacific Crest Trail by a young female adult.
+
+Wagner DR(1), Heath EM(1), Gustavus M(2).
+
+Author information:
+(1)Kinesiology and Health Science, Utah State University, Logan, Utah, USA.
+(2)Campus Recreation, Utah State University, Logan, Utah, USA.
+
+A 24-year-old premenopausal female adult completed the entire Pacific Crest 
+Trail, an arduous backpacking thru-hike of 4265 km. Dual-energy x-ray 
+absorptiometry measurements were taken before and after the trek. Her body fat 
+percentage dropped from 33.2% to 24.9%, and there was a 52% decrease in visceral 
+adipose tissue mass and area. Total body bone mineral content and bone mineral 
+density (BMD) were retained; however, lumbar BMD decreased 3.8%. The hiker 
+eventually regained this loss of lumbar BMD. A decrease in lumbar BMD despite 
+engaging in load-bearing activity was also observed in two recent case study 
+reports of male thru-hikers, suggesting a maladaptive response that warrants 
+further investigation.
+
+© 2026 The Author(s). Physiological Reports published by Wiley Periodicals LLC 
+on behalf of The Physiological Society and the American Physiological Society.
+
+DOI: 10.14814/phy2.71058
+PMCID: PMC13454730
+PMID: 42572415 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors report no conflict of interest.

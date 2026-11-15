@@ -1,0 +1,40 @@
+# Source: PubMed (NCBI E-utilities efetch)
+# URL: https://pubmed.ncbi.nlm.nih.gov/21529274/
+# Fetched: 2026-11-15
+# PMID: 21529274
+
+1. Ren Fail. 2011;33(4):440-9. doi: 10.3109/0886022X.2011.568148.
+
+The role of carnitine in preventing renal damage developed as a result of 
+infrarenal aortic ischemia-reperfusion.
+
+Yuksel S(1), Sezer MT, Sahin O, Sutcu R, Koçogullari C, Yilmaz HR, Uz E, Kara Y, 
+Aydin B, Altuntas A.
+
+Author information:
+(1)Department of Internal Medicine, Division of Nephrology, School of Medicine, 
+Afyon Kocatepe University, Afyonkarahisar, Turkey. serefyuksel@aku.edu.tr
+
+BACKGROUND: This study was designed to use carnitine for preventing deposition 
+of end products of lipid peroxidation in rat models in the prevention of 
+ischemia-reperfusion (IR) damage frequently seen following operations of 
+infrarenal abdominal aorta (AA).
+METHODS: Forty male rats of Sprague-Dawley type were evenly (n = 8) randomized 
+to five groups: sham laparotomy (SHAM), carnitine control (CC), aortic IR (AIR), 
+AIR + low-dose carnitine (AIR+LDC), and AIR + high-dose carnitine (AIR+HDC).
+RESULTS: Compared to other groups, serum creatinine levels of AIR group were 
+significantly higher. Also tissue malondialdehyde (MDA) levels of AIR group were 
+significantly higher compared to SHAM, CC, and AIR+HDC groups. In 
+histopathological examination, although tubular necrosis atrophy and tubular 
+degeneration observed in AIR group showed regression with low-dose carnitine, 
+tubular necrosis atrophy, tubular degeneration, glomerular damage, and vascular 
+congestion thrombosis decreased with high-dose carnitine. Total score of 
+histological damage was significantly higher in AIR, AIR+LDC, and AIR+HDC groups 
+compared to SHAM and CC groups. Moreover, total score of histological damage was 
+significantly lower in AIR+HDC group than AIR+LDC group.
+CONCLUSIONS: In this study, we showed carnitine can partially prevent renal 
+damage in infrarenal AIR models of rats. This result may open new prospects to 
+us in the prevention of renal IR damage during surgery of aorta.
+
+DOI: 10.3109/0886022X.2011.568148
+PMID: 21529274 [Indexed for MEDLINE]

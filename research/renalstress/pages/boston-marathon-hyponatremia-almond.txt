@@ -1,0 +1,15 @@
+PMID: 15829535
+URL: https://pubmed.ncbi.nlm.nih.gov/15829535/
+Title: Hyponatremia among runners in the Boston Marathon.
+Authors: Almond CS; Shin AY; Fortescue EB; Mannix RC; Wypij D; Binstadt BA; Duncan CN; Olson DP; Salerno AE; Newburger JW; Greenes DS
+Journal: The New England journal of medicine
+Year: 2005
+Vol/Pages: 352(15):1550-6
+DOI: 10.1056/NEJMoa043901
+Accessed: 2026-11-15 (NCBI PubMed efetch abstract)
+
+ABSTRACT
+BACKGROUND: Hyponatremia has emerged as an important cause of race-related death and life-threatening illness among marathon runners. We studied a cohort of marathon runners to estimate the incidence of hyponatremia and to identify the principal risk factors.
+METHODS: Participants in the 2002 Boston Marathon were recruited one or two days before the race. Subjects completed a survey describing demographic information and training history. After the race, runners provided a blood sample and completed a questionnaire detailing their fluid consumption and urine output during the race. Prerace and postrace weights were recorded. Multivariate regression analyses were performed to identify risk factors associated with hyponatremia.
+RESULTS: Of 766 runners enrolled, 488 runners (64 percent) provided a usable blood sample at the finish line. Thirteen percent had hyponatremia (a serum sodium concentration of 135 mmol per liter or less); 0.6 percent had critical hyponatremia (120 mmol per liter or less). On univariate analyses, hyponatremia was associated with substantial weight gain, consumption of more than 3 liters of fluids during the race, consumption of fluids every mile, a racing time of >4:00 hours, female sex, and low body-mass index. On multivariate analysis, hyponatremia was associated with weight gain (odds ratio, 4.2; 95 percent confidence interval, 2.2 to 8.2), a racing time of >4:00 hours (odds ratio for the comparison with a time of <3:30 hours, 7.4; 95 percent confidence interval, 2.9 to 23.1), and body-mass-index extremes.
+CONCLUSIONS: Hyponatremia occurs in a substantial fraction of nonelite marathon runners and can be severe. Considerable weight gain while running, a long racing time, and body-mass-index extremes were associated with hyponatremia, whereas female sex, composition of fluids ingested, and use of nonsteroidal antiinflammatory drugs were not.

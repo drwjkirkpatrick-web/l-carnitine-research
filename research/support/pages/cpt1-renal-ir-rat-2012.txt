@@ -1,0 +1,49 @@
+# Source: PubMed (NCBI E-utilities efetch)
+# URL: https://pubmed.ncbi.nlm.nih.gov/22698429/
+# Fetched: 2026-11-15
+# PMID: 22698429
+
+1. J Surg Res. 2012 Sep;177(1):157-64. doi: 10.1016/j.jss.2012.05.053. Epub 2012 
+Jun 2.
+
+Stimulation of carnitine palmitoyltransferase 1 improves renal function and 
+attenuates tissue damage after ischemia/reperfusion.
+
+Idrovo JP(1), Yang WL, Nicastro J, Coppa GF, Wang P.
+
+Author information:
+(1)Department of Surgery, North Shore University Hospital and Long Island Jewish 
+Medical Center, Hofstra North Shore-LIJ School of Medicine, Manhasset, New York 
+11030, USA.
+
+BACKGROUND: Renal injury as a result of ischemia/reperfusion (I/R) is a major 
+clinical problem with a high mortality rate and a lack of therapeutic treatment. 
+During I/R, cellular homeostasis is disrupted owing to energy depletion, leading 
+to cell death. Fatty acid β-oxidation is the major metabolic pathway for 
+generating adenosine triphosphate (ATP) in the kidneys, which is governed by 
+carnitine palmitoyltransferase 1 (CPT1). C75 is a synthetic compound that 
+up-regulates CPT1 activity. Thus, we hypothesized that C75 treatment could 
+increase energy production and alleviate renal I/R injury.
+METHODS: We subjected male adult rats to renal I/R by bilateral renal pedicle 
+clamping with microvascular clips for 60 min, followed by administration of 8% 
+dimethyl sulfoxide (vehicle) or C75 (3 mg/kg body weight), with 5 animals/group. 
+We collected blood and renal tissues 24 h after reperfusion and subjected them 
+to various measurements and histological examination.
+RESULTS: C75 treatment restored the loss of CPT1 activity and intracellular ATP 
+levels in the kidneys after I/R. Administration of C75 significantly lowered 
+serum creatinine, blood urea nitrogen, aspartate aminotransferase, and lactate 
+dehydrogenase levels elevated by I/R. C75 treatment preserved morphological 
+features of the kidneys with a significant improvement in the damage score. In 
+addition, C75 treatment inhibited the increase of TNF-α levels in serum and 
+kidneys, and lowered myeloperoxidase activity in the kidneys after I/R.
+CONCLUSIONS: Stimulation of CPT1 activity by C75 recovered ATP depletion, 
+improved renal function, attenuated tissue injury, and inhibited proinflammatory 
+cytokine production and neutrophil infiltration after renal I/R injury. 
+Therefore, enhancing the metabolism pathways for energy production may provide a 
+novel modality to treat renal I/R injury.
+
+Copyright © 2012 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jss.2012.05.053
+PMCID: PMC3423512
+PMID: 22698429 [Indexed for MEDLINE]

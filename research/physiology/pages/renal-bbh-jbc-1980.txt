@@ -1,0 +1,35 @@
+PMID: 6773946
+PubMed URL: https://pubmed.ncbi.nlm.nih.gov/6773946/
+Fetched via NCBI eutils efetch, accessed 2026-11-15
+
+1. J Biol Chem. 1980 Sep 25;255(18):8700-5.
+
+Significance of renal gamma-butyrobetaine hydroxylase for carnitine biosynthesis 
+in man.
+
+Rebouche CJ, Engel AG.
+
+Carnitine biosynthesis was studied in man and rat. Three healthy adult men were 
+given intravenous injections of 1 mCi of 
+[methyl-3H]epsilon-N-trimethyl-L-lysine, a precursor of carnitine. Labeled 
+metabolites of this compound were monitored in serum and urine at 2, 6, 12, 24, 
+and 48 h. At least nine radioactive metabolites were detected. For each 
+collecton period, the specific activity of urinary carnitine exceeded the 
+average serum specific activity. In man, the amount of labeled carnitine in 
+urine was 2 to 8 times greater than labeled gamma-butyrobetaine (the immediate 
+precursor of carnitine). In similar experiments in rats (intravenous injection 
+of 0.1 mCi of [methyl-3H]epsilon-N-trimethyl-L-lysine), the specific activity of 
+carnitine in urine was always lower than the corresponding average specific 
+activity in serum. Between 0 and 2 h after administration of labeled precursor, 
+the animals excreted large amounts of labeled gamma-butyrobetaine but little 
+labeled carnitine. Significant gamma-butyrobetaine, 2-oxoglutarate dioxygenase 
+(EC 1.14.11.1) activity was found in human kidney but this activity was absent 
+in rat kidney. The results indicate that in man and rat the kidney accumulates 
+intravenously administered [methyl-3H]epsilon-N-trimethyl-L-lysine. This 
+compound is metabolized predominantly to gamma-butyrobetaine in rat kidney and 
+to carnitine in human kidney. In both species, the synthesized products are at 
+least partially leaked (either by secretion or by passive diffusion down a 
+concentration gradient) into the renal tubular lumen from which they are either 
+reabsorbed into the circulation for distribution to other tissues or excreted.
+
+PMID: 6773946 [Indexed for MEDLINE]

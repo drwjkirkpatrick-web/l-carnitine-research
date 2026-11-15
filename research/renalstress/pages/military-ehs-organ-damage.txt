@@ -1,0 +1,12 @@
+PMID: 42694931
+URL: https://pubmed.ncbi.nlm.nih.gov/42694931/
+Title: Acute kidney injury and liver damage are the most common forms of end organ damage in exertional heat illness in otherwise healthy young adults.
+Authors: DeGroot DW; Goodwin KC; Giersch GEW; Charkoudian N
+Journal: Temperature (Austin, Tex.)
+Year: 2026
+Vol/Pages: 13(3):264-274
+DOI: 10.1080/23328940.2026.2680846
+Accessed: 2026-11-15 (NCBI PubMed efetch abstract)
+
+ABSTRACT
+Exertional heat illness (EHI) is an under-recognized cause of emergency department admissions in otherwise healthy young people in athletic and occupational settings. Specifically, the frequency and severity of end-organ damage in EHI, which include exertional heat stroke (EHS), heat injury (HI), and heat exhaustion (HE) require better characterization to optimize triage and patient care. In the present study, we characterized end-organ damage following emergency department admission for EHI in young, otherwise healthy military service members who collapsed during training exercises. Standard clinical measures of creatinine (Cr), alanine transaminase (ALT), aspartate aminotransferase (AST), creatine kinase (CK), and troponin were used. Active-duty service members who were seen in the Martin Army Community Hospital emergency department and diagnosed with an EHI were eligible. Relevant laboratory data was retrieved from the electronic medical record after informed consent was obtained. Acute kidney injury was the most common form of end organ damage observed (73-86%) followed closely by liver damage (59-73%). EHS cases had higher peak damage levels for Cr, CK, AST, and ALT compared to either HI or HE. Muscle damage only occurred concurrently with liver or kidney damage. There was no disseminated intravascular coagulopathy, cardiovascular complications, or organ failure observed in this study. The frequency and severity of end-organ damage was greatest in EHS, followed by HI and HE. No patients developed organ failure or required transport to a higher level of care. Data suggest that cooling modality did not impact end-organ damage.

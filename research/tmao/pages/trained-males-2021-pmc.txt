@@ -1,0 +1,485 @@
+# URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC8371342/
+# Fetched via web_extract on 2026-11-15
+
+[Skip to main content](https://pmc.ncbi.nlm.nih.gov/articles/PMC8371342/#main-content)
+
+![](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/icon-dot-gov.svg)
+
+**Official websites use .gov**
+
+A
+**.gov** website belongs to an official
+government organization in the United States.
+
+
+![](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/icon-https.svg)
+
+**Secure .gov websites use HTTPS**
+
+A **lock** (
+Lock
+Locked padlock icon
+) or **https://** means you've safely
+connected to the .gov website. Share sensitive
+information only on official, secure websites.
+
+
+### NIH Websites Are Changing
+
+- [Get the Latest Updates and FAQs on the transition](https://www.nih.gov/web-modernization)
+- Per [Executive Order 14434](https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/), federal agencies are now using "Super Intelligence" (SI) in place of "Artificial Intelligence" (AI). You may see both terms across NIH content during this transition.
+
+[Home](https://pmc.ncbi.nlm.nih.gov/ "Home")
+
+![PMC search open icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/search.svg)![PMC search close ison](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/close.svg)
+
+Search PMC Full-Text Archive
+
+Search in PMC![Search](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons-bg/search--white.svg)
+
+- [Journal List](https://pmc.ncbi.nlm.nih.gov/journals/)
+- [User Guide](https://pmc.ncbi.nlm.nih.gov/about/userguide/)
+
+- ![Open resources icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/more_vert.svg)
+- [![View on publisher site icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/launch.svg)](https://doi.org/10.14814/phy2.14970) View on publisher site
+- [![Download PDF icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/file_download.svg)](https://pmc.ncbi.nlm.nih.gov/articles/PMC8371342/pdf/PHY2-9-e14970.pdf) Download PDF
+- ![Collections icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/action-bookmark-full.svg)![Collections icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/action-bookmark-empty.svg)Add to Collections
+- ![Cite icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/format_quote.svg)Cite
+- ![Show article permalink icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/share.svg)Permalink
+
+
+
+
+## PERMALINK
+
+
+
+![Copy icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/content_copy.svg)Copy
+
+
+![Open article navigation icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/list.svg)
+
+As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with,
+the contents by NLM or the National Institutes of Health.
+
+Learn more:
+[PMC Disclaimer](https://pmc.ncbi.nlm.nih.gov/about/disclaimer/)
+\|
+[PMC Copyright Notice](https://pmc.ncbi.nlm.nih.gov/about/copyright/)
+
+![Physiological Reports logo](https://cdn.ncbi.nlm.nih.gov/pmc/banners/logo-physrep.gif)
+
+Physiol Rep
+
+. 2021 Aug 17;9(16):e14970. doi: [10.14814/phy2.14970](https://doi.org/10.14814/phy2.14970)
+
+# Fasting and postprandial trimethylamine _N_‐oxide in sedentary and endurance‐trained males following a short‐term high‐fat diet
+
+[Cortney N Steele](https://pubmed.ncbi.nlm.nih.gov/?term=%22Steele%20CN%22[Author])
+
+### Cortney N Steele
+
+1Division of Renal Diseases and Hypertension, University of Colorado Anschutz Medical, Aurora, CO, USA
+
+Find articles by [Cortney N Steele](https://pubmed.ncbi.nlm.nih.gov/?term=%22Steele%20CN%22[Author])
+
+1, [Mary Elizabeth Baugh](https://pubmed.ncbi.nlm.nih.gov/?term=%22Baugh%20ME%22[Author])
+
+### Mary Elizabeth Baugh
+
+2Center for Transformative Research on Health Behaviors, Fralin Biomedical Research Institute at Virginia Tech Carilion, Roanoke, VA, USA
+
+Find articles by [Mary Elizabeth Baugh](https://pubmed.ncbi.nlm.nih.gov/?term=%22Baugh%20ME%22[Author])
+
+2, [Laura E Griffin](https://pubmed.ncbi.nlm.nih.gov/?term=%22Griffin%20LE%22[Author])
+
+### Laura E Griffin
+
+3Department of Food, Bioprocessing and Nutrition Sciences, North Carolina State University, Kannapolis, NC, USA
+
+4Plants for Human Health Institute, Kannapolis, NC, USA
+
+Find articles by [Laura E Griffin](https://pubmed.ncbi.nlm.nih.gov/?term=%22Griffin%20LE%22[Author])
+
+3,4, [Andrew P Neilson](https://pubmed.ncbi.nlm.nih.gov/?term=%22Neilson%20AP%22[Author])
+
+### Andrew P Neilson
+
+3Department of Food, Bioprocessing and Nutrition Sciences, North Carolina State University, Kannapolis, NC, USA
+
+4Plants for Human Health Institute, Kannapolis, NC, USA
+
+Find articles by [Andrew P Neilson](https://pubmed.ncbi.nlm.nih.gov/?term=%22Neilson%20AP%22[Author])
+
+3,4, [Brenda M Davy](https://pubmed.ncbi.nlm.nih.gov/?term=%22Davy%20BM%22[Author])
+
+### Brenda M Davy
+
+5Department of Human Nutrition, Foods, and Exercise, Virginia Tech, Blacksburg, VA, USA
+
+6Translational Obesity Research Interdisciplinary Graduate Education Program, Virginia Tech, Blacksburg, VA, USA
+
+Find articles by [Brenda M Davy](https://pubmed.ncbi.nlm.nih.gov/?term=%22Davy%20BM%22[Author])
+
+5,6, [Matthew W Hulver](https://pubmed.ncbi.nlm.nih.gov/?term=%22Hulver%20MW%22[Author])
+
+### Matthew W Hulver
+
+5Department of Human Nutrition, Foods, and Exercise, Virginia Tech, Blacksburg, VA, USA
+
+6Translational Obesity Research Interdisciplinary Graduate Education Program, Virginia Tech, Blacksburg, VA, USA
+
+Find articles by [Matthew W Hulver](https://pubmed.ncbi.nlm.nih.gov/?term=%22Hulver%20MW%22[Author])
+
+5,6, [Kevin P Davy](https://pubmed.ncbi.nlm.nih.gov/?term=%22Davy%20KP%22[Author])
+
+### Kevin P Davy
+
+5Department of Human Nutrition, Foods, and Exercise, Virginia Tech, Blacksburg, VA, USA
+
+6Translational Obesity Research Interdisciplinary Graduate Education Program, Virginia Tech, Blacksburg, VA, USA
+
+Find articles by [Kevin P Davy](https://pubmed.ncbi.nlm.nih.gov/?term=%22Davy%20KP%22[Author])
+
+5,6,✉
+
+- Author information
+- Article notes
+- Copyright and License information
+
+1Division of Renal Diseases and Hypertension, University of Colorado Anschutz Medical, Aurora, CO, USA
+
+2Center for Transformative Research on Health Behaviors, Fralin Biomedical Research Institute at Virginia Tech Carilion, Roanoke, VA, USA
+
+3Department of Food, Bioprocessing and Nutrition Sciences, North Carolina State University, Kannapolis, NC, USA
+
+4Plants for Human Health Institute, Kannapolis, NC, USA
+
+5Department of Human Nutrition, Foods, and Exercise, Virginia Tech, Blacksburg, VA, USA
+
+6Translational Obesity Research Interdisciplinary Graduate Education Program, Virginia Tech, Blacksburg, VA, USA
+
+\*
+
+**Correspondence**,
+Kevin P. Davy, Human Integrative Physiology Laboratory, Department of Human Nutrition, Foods and Exercise, Garvin Innovation Building, 1872 Pratt Drive, Suite 1575, Blacksburg, VA 24060, USA.
+Email: kdavy@vt.edu
+
+✉
+
+Corresponding author.
+
+Revised 2021 Jun 14; Received 2021 Jan 16; Accepted 2021 Jun 16; Collection date 2021 Aug.
+
+© 2021 The Authors. _Physiological Reports_ published by Wiley Periodicals LLC on behalf of The Physiological Society and the American Physiological Society
+
+This is an open access article under the terms of the [http://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/) License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.
+
+[PMC Copyright notice](https://pmc.ncbi.nlm.nih.gov/about/copyright/)
+
+PMCID: PMC8371342  PMID: [34405585](https://pubmed.ncbi.nlm.nih.gov/34405585/)
+
+## Abstract
+
+Gut bacteria release trimethylamine (TMA) from dietary substrates. TMA is absorbed and is subsequently oxidized in the liver to produce trimethylamine _N_‐oxide (TMAO). Plasma TMAO levels are positively correlated with risk for type 2 diabetes (T2D) and cardiovascular disease (CVD). High‐fat diet (HFD) consumption has been reported to increase fasting and postprandial TMAO in sedentary individuals. However, whether the increase in TMAO with consumption of an HFD is observed in endurance‐trained males is unknown. Healthy, sedentary ( _n_ = 17), and endurance‐trained ( _n_ = 7) males consumed a 10‐day eucaloric diet comprised of 55% carbohydrate, 30% total fat, and <10% saturated fat prior to baseline testing. Blood samples were obtained in a fasted state and for a 4‐hour high‐fat challenge (HFC) meal at baseline and then again following 5‐day HFD (30% carbohydrate, 55% total fat, and 25% saturated fat). Plasma TMAO and TMA‐moiety (choline, betaine, L‐carnitine) concentrations were measured using isocratic ultraperformance liquid chromatography‐tandem mass spectrometry. Age (23 ±3 vs. 22 ± 2 years) and body mass index (23.0 ± 3.0 vs. 23.5 ± 2.1 kg/m2) were similar (both _p_ > 0.05) in the sedentary and endurance‐trained group, respectively. _V_ O2max was significantly higher in the endurance‐trained compared with sedentary males (56.7 ± 8.2 vs. 39.9 ± 6.0 ml/kg/min). Neither the HFC nor the HFD evoked a detectable change in plasma TMAO ( _p_ > 0.05) in either group. Future studies are needed to identify the effects of endurance training on TMAO production.
+
+**Keywords:** endurance‐trained, high‐fat diet, sedentary, trimethylamine _N_‐oxide
+
+* * *
+
+Plasma trimethylamine _N_‐oxide (TMAO) levels are positively correlated with risk for cardiovascular disease and consumption of a high‐fat diet has been reported to increase TMAO. Healthy, sedentary ( _n_ = 17), and endurance‐trained ( _n_ = 7) males consumed a 10‐day eucaloric diet and a 5‐day high‐fat diet. There were no significant differences in fasting ( _p_ > 0.05) or postprandial TMAO ( _p_ > 0.05) between sedentary and endurance‐trained individuals before or following the high‐fat diet, despite the endurance‐trained group consuming more dietary precursors.
+
+![graphic file with name PHY2-9-e14970-g002.jpg](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/5499/8371342/ba1d4d70f4bb/PHY2-9-e14970-g002.jpg)
+
+## 1\. INTRODUCTION
+
+Cardiovascular disease (CVD) remains the leading cause of death and disability in the United States (Mensah & Brown, [2007](https://pmc.ncbi.nlm.nih.gov/articles/PMC8371342/#phy214970-bib-0012)). Recently, a link has been reported between the gut microbial metabolism of trimethylamine (TMA) moieties from dietary sources (choline, phosphatidylcholine, L‐carnitine, etc.) and CVD (Liu & Dai, [2020](https://pmc.ncbi.nlm.nih.gov/articles/PMC8371342/#phy214970-bib-0009); Tang & Hazen, [2017](https://pmc.ncbi.nlm.nih.gov/articles/PMC8371342/#phy214970-bib-0019); Tang et al., [2013](https://pmc.ncbi.nlm.nih.gov/articles/PMC8371342/#phy214970-bib-0020); Wang et al., [2011](https://pmc.ncbi.nlm.nih.gov/articles/PMC8371342/#phy214970-bib-0021)).
+
+Phosphatidylcholine, the major phospholipid in cell membranes, is abundant in the typical western diet and is a major source of choline in the diet of omnivores (Tang & Hazen, [2017](https://pmc.ncbi.nlm.nih.gov/articles/PMC8371342/#phy214970-bib-0019); Tang et al., [2013](https://pmc.ncbi.nlm.nih.gov/articles/PMC8371342/#phy214970-bib-0020)). Gut microbes metabolize dietary choline to release TMA primarily via the action of the enzyme _cutC_ TMA lyase. TMA is absorbed into the circulation and then oxidized by hepatic flavin monooxygenase 3 (FMO3) to produce TMAO (Romano et al., [2015](https://pmc.ncbi.nlm.nih.gov/articles/PMC8371342/#phy214970-bib-0016)). The ingestion of foods containing TMA moieties including choline, betaine, and L‐carnitine results in a significant rise in plasma TMAO concentrations (Taesuwan et al., [2017](https://pmc.ncbi.nlm.nih.gov/articles/PMC8371342/#phy214970-bib-0018); Tang & Hazen, [2017](https://pmc.ncbi.nlm.nih.gov/articles/PMC8371342/#phy214970-bib-0019)). As such, the diet has been implicated as playing a key role in the generation of TMAO.
+
+Boutagy and colleagues (Boutagy et al., [2015b](https://pmc.ncbi.nlm.nih.gov/articles/PMC8371342/#phy214970-bib-0005)) previously reported a significant increase in 4 h postprandial TMAO in young healthy males following an isocaloric, high‐ fat diet (HFD; 55% fat) for 5 days. Fasting TMAO increased after consuming a hypercaloric, HFD (55% fat) for 4 weeks (Boutagy et al., [2015a](https://pmc.ncbi.nlm.nih.gov/articles/PMC8371342/#phy214970-bib-0004)). Overall, HFD appear to be associated with increased fasting and postprandial TMAO in sedentary to recreationally trained individuals (Boutagy et al., [2015a](https://pmc.ncbi.nlm.nih.gov/articles/PMC8371342/#phy214970-bib-0004), [2015b](https://pmc.ncbi.nlm.nih.gov/articles/PMC8371342/#phy214970-bib-0005); Park et al., [2019](https://pmc.ncbi.nlm.nih.gov/articles/PMC8371342/#phy214970-bib-0015)). However, whether endurance‐trained individuals respond similarly to an HFD and whether TMAO is reduced in endurance‐trained individuals remain unclear. Lifestyle modifications that include both caloric restriction and exercise have been reported to reduce TMAO levels in humans (Erickson et al., [2019](https://pmc.ncbi.nlm.nih.gov/articles/PMC8371342/#phy214970-bib-0008)) and rodents (Zhang et al., [2017](https://pmc.ncbi.nlm.nih.gov/articles/PMC8371342/#phy214970-bib-0022)). Previous studies suggest that exercise training can alter the composition of the gut microbiome (Mach & Fuster‐Botella, [2017](https://pmc.ncbi.nlm.nih.gov/articles/PMC8371342/#phy214970-bib-0010); Mailing et al., [2019](https://pmc.ncbi.nlm.nih.gov/articles/PMC8371342/#phy214970-bib-0011); Mitchell et al., [2019](https://pmc.ncbi.nlm.nih.gov/articles/PMC8371342/#phy214970-bib-0014)) which, in turn, could influence TMAO production in endurance‐trained individuals. The purpose of this investigation was to test the hypothesis that fasting and postprandial TMAO concentrations are reduced in endurance‐trained males compared with sedentary males before and following a HFD. Our sample was limited to that included in the parent study which focused on skeletal muscle metabolism (Baugh et al., [2020](https://pmc.ncbi.nlm.nih.gov/articles/PMC8371342/#phy214970-bib-0001); Bowser et al., [2020](https://pmc.ncbi.nlm.nih.gov/articles/PMC8371342/#phy214970-bib-0006)).
+
+## 2\. MATERIALS AND METHODS
+
+### 2.1. Participants
+
+Seventeen healthy, sedentary (<2 h of physical activity/week for the previous 3 months and no exercise regime), and seven endurance‐trained (running for ≥5 h/week and competed in ≥2 races of ≥10 kilometers over the last 12 months) males aged 18–40 years met the inclusion criteria and subsequently completed the study (Table [1](https://pmc.ncbi.nlm.nih.gov/articles/PMC8371342/#phy214970-tbl-0001)). Individuals were excluded if they were taking antibiotics, prebiotics, or probiotics 3 months prior to screening. The protocol was approved by the Virginia Polytechnic Institute and State University Institutional Review Board (#06‐367) and both written and verbal informed consent were obtained from each participant. The present study was a secondary analysis that relied on stored blood samples collected from a study in which the experimental design and procedures have been described previously (Baugh et al., [2020](https://pmc.ncbi.nlm.nih.gov/articles/PMC8371342/#phy214970-bib-0001); Bowser et al., [2020](https://pmc.ncbi.nlm.nih.gov/articles/PMC8371342/#phy214970-bib-0006)). Therefore, our sample size was limited to males in our previous study focused on skeletal muscle metabolism because in our experience females have declined to undergo the biopsy procedures (Baugh et al., [2020](https://pmc.ncbi.nlm.nih.gov/articles/PMC8371342/#phy214970-bib-0001); Bowser et al., [2020](https://pmc.ncbi.nlm.nih.gov/articles/PMC8371342/#phy214970-bib-0006)).
+
+#### TABLE 1.
+
+Inclusion & exclusion criteria
+
+| Inclusion criteria | Exclusion criteria |
+| :-- | :-- |
+| Males age 18–40 years | BMI > 30 kg/m2 |
+| Weight stable for previous 6 months (±2.5 kg) | Fasting Blood glucose >126 mg/dl |
+| Sedentary‐to‐recreationally active or endurance trained | TCHOL >240 mg/dL; LDL‐C > 130 mg/dl |
+| Habitual dietary fat intake ≤40% | BP > 140/90 mmHg |
+| Non‐smokers | Taking any medications or supplements known to influence these blood markers or study outcome variables |
+| No history of CVD | Food allergies or lactose intolerance |
+
+[Open in a new tab](https://pmc.ncbi.nlm.nih.gov/articles/PMC8371342/table/phy214970-tbl-0001/)
+
+Abbreviations: BMI, body mass index; BP, blood pressure; CVD, cardiovascular disease; LDL‐C, low‐density lipoprotein‐cholesterol; TCHOL, total cholesterol.
+
+### 2.2. Experimental design
+
+Individuals completed two screening visits (Figure [1](https://pmc.ncbi.nlm.nih.gov/articles/PMC8371342/#phy214970-fig-0001)) to evaluate whether all inclusion criteria were met. During the initial screening visit, participants completed a fasting blood draw and anthropometric measures. They were also given instructions to record habitual dietary intake with 4‐day food intake records (3 weekdays and 1 weekend day). During the second visit, participants reviewed their 4‐day food intake records with a registered dietitian. Body weight was measured with a digital scale and height was measured using a stadiometer (Model 5002, Scale‐Tronix, Inc.). Brachial arterial pressure was measured in a seated position using automated sphygmomanometry (Press‐Mate BP 8800, Colin Medical Instruments Corp, San Antonio, TX, USA). Body composition was assessed via dual x‐ray absorptiometry (DXA, Lunar iDXA with enCORE version 17 software, GE Healthcare). Maximal oxygen consumption ( _V_ O2max) was measured during incremental treadmill exercise to volitional fatigue using indirect calorimetry (ParvoMedics TrueOne 2400, Sandy, UT). Plasma glucose was measured via a YSI 2300 Stat Plus glucose analyzer (Yellow Springs Instruments, Yellow Springs, OH). Lipid and lipoprotein concentrations were measured in a certified commercial laboratory (Solstas Lab Partners, Roanoke, VA).
+
+#### FIGURE 1.
+
+![FIGURE 1](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/5499/8371342/b40a5372049c/PHY2-9-e14970-g001.jpg)
+
+[Open in a new tab](https://pmc.ncbi.nlm.nih.gov/articles/PMC8371342/figure/phy214970-fig-0001/)
+
+Study timeline
+
+### 2.3. Controlled feeding and physical activity
+
+All diets were controlled and standardized to reduce the individual variability of habitual diet intake on study outcomes. The Mifflin‐St. Jeor equation was used to determine energy requirements determined from age, weight, height, and sex (Mifflin et al., [1990](https://pmc.ncbi.nlm.nih.gov/articles/PMC8371342/#phy214970-bib-0013)). Participants consumed a eucaloric (i.e., weight maintenance) standardized diet (55% carbohydrate, 30% total fat, <10% saturated fat) for 10 days. Following the isocaloric diet, participants completed a high‐fat challenge meal testing session consisting of two sausage, egg, and cheese breakfast sandwiches (820 kcals; 63% fat \[21% saturated fat\], 25% carbohydrate. 317.4 mg choline, 62.5 mg betaine, 8.1 mg L‐carnitine). Participants then completed a eucaloric 5‐day HFD phase (30% carbohydrate, 55% total fat, 25% saturated fat) and a second high‐fat challenge meal testing session. The Virginia Tech Metabolic Kitchen in the Laboratory for Eating Behaviors and Weight Management provided all foods and beverages to the participants. Food and beverage items were prepped and weighed using a digital benchtop scale (Practum 5101‐1S, Sartorius; Goettingen, Germany) to meet the requirements of the planned menu in grams (g) within ±0.9 g. Participants ate a supervised breakfast daily in the dining laboratory and were then given a cooler with food and beverages for the remainder of the day. During feeding periods, participants were given all foods and beverages with the exception of water. Participants were asked to consume all food in the cooler with optional snack modules if needed, which matched the macronutrient content of the controlled diet (~250 kcals). Body weight was measured on a digital scale (Scale‐Tronix Model 5002, Welch Allyn, Skaneateles Falls, NY, USA) during each visit to the dining laboratory. Participants remained weight stable throughout the study. If body weight change was >1.36 kg, the energy intake was adjusted accordingly to maintain weight stability. Short‐term (i.e., days to weeks) fluctuations in body weight in individuals not intending to gain or lose body weight may be as large ±3 kg (Bhutani et al., [2017](https://pmc.ncbi.nlm.nih.gov/articles/PMC8371342/#phy214970-bib-0003)). We selected a more conservative threshold of 1.36 kg (3 lbs). Participants were instructed to not change their exercise/physical activity levels throughout the study with the exception of avoiding moderate to vigorous physical activity for 24 h before testing sessions.
+
+### 2.4. Procedures and blood collection
+
+Daily choline and betaine intake were assessed for habitual, standardized, and high‐fat diets via Nutrition Data System for Research software (NDS‐R v. 2014; University of Minnesota, Minneapolis, MN, USA). Daily L‐carnitine intake was calculated using the food group classification and serving amount in NDS‐R, converting these servings into grams. The gram servings of each food were then converted to milligram intake of L‐carnitine, as previously reported (Baugh et al., [2018](https://pmc.ncbi.nlm.nih.gov/articles/PMC8371342/#phy214970-bib-0002); Boutagy et al., [2015a](https://pmc.ncbi.nlm.nih.gov/articles/PMC8371342/#phy214970-bib-0004), [2015b](https://pmc.ncbi.nlm.nih.gov/articles/PMC8371342/#phy214970-bib-0005); Demarquoy et al., [2004](https://pmc.ncbi.nlm.nih.gov/articles/PMC8371342/#phy214970-bib-0007)). All measurements and testing took place between the hours of 5:00 and 11:00 a.m. in the Human Integrative Physiology Laboratory. Participants came to the laboratory after an overnight fast (~12 h) and avoided vigorous physical activity for 36 h. Blood was obtained in a fasted state and each hour for 4 h after the consumption of the challenge meal. Blood samples were centrifuged and plasma was stored at −80°C until analysis could occur.
+
+### 2.5. Mass spectrometry
+
+Plasma TMAO, choline, betaine, and L‐carnitine were assessed using isocratic ultraperformance liquid chromatography‐tandem mass spectrometry as described previously (Boutagy et al., [2015a](https://pmc.ncbi.nlm.nih.gov/articles/PMC8371342/#phy214970-bib-0004), [2015b](https://pmc.ncbi.nlm.nih.gov/articles/PMC8371342/#phy214970-bib-0005)). Prior to analysis, samples were brought to room temperature. The internal standard/extraction solution was prepared by diluting 1 ml of concentrated stock solution \[aqueous choline chloride‐d9 (25 μM, Sigma, St. Louis, MO), betaine‐d9, TMAO‐d9 (25 μM, Cambridge Isotope Laboratories, Tewksbury, MA), and L‐carnitine‐d9 (120 μM, Cambridge Isotope Laboratories)\] to a final volume of 100 ml with acetonitrile (ACN). Plasma (25 μl) and internal standard/extraction solution (300 μl) were combined, vortexed, and centrifuged. (17,000 _g_, 3 min, room temperature). Supernatants were syringe filtered (PTFE, 4 mm, 0.2 μm pore size) into certified Waters LC‐MS vials w/with spring‐loaded deactivated glass inserts (150 μl) and analyzed immediately. Samples were analyzed (5 μl) on a Waters ACQUITY UPLC‐MS/MS instrument (Milford, MA). Separations were performed on a Waters BEH HILIC column (2.1 × 100 mm; 1.7 μm particle size) with a BEH HILIC VanGuard pre‐column (2.1 × 5 mm; 1.7 μm). Column and sample temperatures were 30 and 10°C, respectively. The mobile phases were 15 mM ammonium formate, pH 3.5 (phase A), and ACN (phase B). The flow rate was 0.65 ml/min and isocratic elution was achieved (20% A/80% B) over 3 min. Following separation, analytes and internal standards (IS) were quantified using electrospray ionization (ESI) in (+)‐mode. Source and capillary temperatures were 150 and 400°C, respectively. Capillary voltage was 0.60 kV and desolvation and cone gas (both N2) flow rates were 800 and 20 L/h, respectively. Collision‐induced dissociation was performed using Ar as the collision gas. Compounds were quantified using optimized multi‐reaction monitoring (MRM) functions (Table [2](https://pmc.ncbi.nlm.nih.gov/articles/PMC8371342/#phy214970-tbl-0002)). MRMs were optimized to achieve 12 points/10 s peak and the detection span was ±0.2 amu. Quantification was performed using the ratio of the target analyte and respective IS peak areas based on authentic external standard curves prepared using a wide range of target analyte concentrations (choline chloride, TMAO, betaine, and L‐carnitine, \[Sigma, St. Louis, MO, USA\]) bracketing the peak areas observed in the plasma samples and the same IS concentrations used to prepare the plasma samples.
+
+#### TABLE 2.
+
+MRM settings for UPLC‐MS/MS detection
+
+| Compound | Retention time (min) | MW (g/mol) | Parent \[M+H\]+ (m/z) | Daughter (m/z) | Cone voltage (V) | Collision energy (eV) |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| Betaine | 1.25 | 117.15 | 118.24 | 59.42 | 44 | 18 |
+| Betaine‐d9 | 1.25 | 126.14 | 127.3 | 68.10 | 46 | 18 |
+| Choline | 1.13 | 103.16 | 104.2 | 60.02 | 38 | 16 |
+| Choline‐d9 | 1.11 | 112.16 | 113.32 | 69.08 | 40 | 16 |
+| TMAO | 2.01 | 75.11 | 76.16 | 58.91 | 40 | 10 |
+| TMAO‐d9 | 1.98 | 84.12 | 85.22 | 68.1 | 40 | 12 |
+| L‐Carnitine | 2.09 | 161.20 | 162.26 | 84.99 | 34 | 20 |
+| L‐Carnitine‐d9 | 2.08 | 170.25 | 171.28 | 84.99 | 34 | 20 |
+
+[Open in a new tab](https://pmc.ncbi.nlm.nih.gov/articles/PMC8371342/table/phy214970-tbl-0002/)
+
+### 2.6. Statistical analysis
+
+Statistical analyses were conducted using SPSS statistical software (version 24, 2016; IBM, Armonk, NY, USA). Prism (GraphPad Software, version 7.03 for Windows, 2018, La Jolla, CA, USA) was used to generate figures and calculate integrated areas under the curve (iAUC). Normality testing was performed using Kolmogorov–Smirnov tests. Variables that were not normally distributed were log‐transformed prior to further statistical analysis. Independent samples _t_‐tests were used to compare group baseline characteristics and habitual dietary variables. Two‐way repeated‐measure analysis of variance was used to assess the effects of group, diet (standardized vs. HFD), and group × diet interaction on dietary variables. Two‐way repeated‐measures analysis of variance was used to assess the effects of group, HFD intervention (pre vs. post), and group × HFD intervention on dependent variables. The significance level of _p_ < 0.05 was set _a priori_ for all statistical tests.
+
+## 3\. RESULTS
+
+### 3.1. Participant characteristics
+
+Baseline participant characteristics (Table [3](https://pmc.ncbi.nlm.nih.gov/articles/PMC8371342/#phy214970-tbl-0003)) including age, body mass index, percent body fat, body weight, HDL‐cholesterol, triglycerides, and fasting plasma glucose did not differ between sedentary and endurance‐trained males (all _p_ > 0.05). Total cholesterol ( _p_ = 0.005) and LDL‐cholesterol ( _p_ = 0.003) were lower in the endurance‐trained compared with sedentary males. _V_ O2max was higher ( _p_ = 0.005) in the endurance‐trained group compared with the sedentary group. Body weight and percent body fat did not change during the intervention in either group (all _p_ > 0.05).
+
+#### TABLE 3.
+
+Participant characteristics at baseline
+
+|  | Sedentary ( _n_ = 17) | Endurance‐trained ( _n_ = 7) |
+| :-- | :-- | :-- |
+| Age (years) | 23 ± 3 | 22 ± 2 |
+| BMI (kg/m2) | 23.0 ± 3.0 | 23.5 ± 2.1 |
+| Body fat (%) | 21.0 ± 5.0 [a](https://pmc.ncbi.nlm.nih.gov/articles/PMC8371342/#phy214970-note-0004) | 15.8 ± 5.0 |
+| FFM (kg) | 18.7 ± 2.1 | 20.8 ± 2.9 |
+| Body weight (kg) | 73.5 ± 11.1 | 74.0 ± 12.0 |
+| Fasting plasma glucose (mg/dl) | 88 ± 10 [b](https://pmc.ncbi.nlm.nih.gov/articles/PMC8371342/#phy214970-note-0005) | 82 ± 17 |
+| Plasma total cholesterol (mg/dl) | 185 ± 27 | 150 ± 16 [\*](https://pmc.ncbi.nlm.nih.gov/articles/PMC8371342/#phy214970-note-0007) |
+| Plasma LDL Cholesterol (mg/dl) | 111 ± 28 | 73 ± 19 [\*](https://pmc.ncbi.nlm.nih.gov/articles/PMC8371342/#phy214970-note-0007) |
+| Plasma HDL Cholesterol (mg/dl) | 54 ± 13 | 63 ± 10 |
+| Plasma triglycerides (mg/dl) | 99 ± 36 | 68 ± 21 |
+| _V_ O2max (ml/kg/min) | 39.9 ± 6.0 [c](https://pmc.ncbi.nlm.nih.gov/articles/PMC8371342/#phy214970-note-0006) | 56.7 ± 8.2 [\*](https://pmc.ncbi.nlm.nih.gov/articles/PMC8371342/#phy214970-note-0007) |
+| _V_ O2max/FFM, (ml/min) | 1.95 ± 0.4 | 2.74 ± 0.3 [\*](https://pmc.ncbi.nlm.nih.gov/articles/PMC8371342/#phy214970-note-0007) |
+
+[Open in a new tab](https://pmc.ncbi.nlm.nih.gov/articles/PMC8371342/table/phy214970-tbl-0003/)
+
+Data are presented as means ± SD.
+
+Abbreviations: BMI, body mass index; FFM, fat‐free mass; HDL, high‐density lipoprotein‐cholesterol; LDL, low‐density lipoprotein‐cholesterol.
+
+a
+
+_n_ = 16 for the group.
+
+b
+
+_n_ = 13 for the group.
+
+c
+
+_n_ = 4 for the group.
+
+\*
+
+_p_ < 0.05 endurance‐trained versus sedentary group, independent _t_‐test.
+
+### 3.2. Dietary intake
+
+Habitual percent fat intake was lower ( _p_ = 0.005) in the endurance‐trained group compared with the sedentary (Table [4](https://pmc.ncbi.nlm.nih.gov/articles/PMC8371342/#phy214970-tbl-0004)). The endurance‐trained group consumed more habitual carbohydrates grams ( _p_ = 0.006) and percent carbohydrate ( _p_ = 0.01) compared with the sedentary group (Table [4](https://pmc.ncbi.nlm.nih.gov/articles/PMC8371342/#phy214970-tbl-0004)). Habitual total fiber ( _p_ = 0.0002), soluble fiber ( _p_ = 0.004), and insoluble fiber ( _p_ = 0.0005) were also higher in the endurance‐trained group compared with sedentary. Habitual TMAO moiety (betaine, choline, L‐carnitine) intake, regardless of how expressed, was similar between groups (All _p_ > 0.05). Standardized and high‐fat dietary intakes were significantly higher in the endurance‐trained males (Table [5](https://pmc.ncbi.nlm.nih.gov/articles/PMC8371342/#phy214970-tbl-0005)).
+
+#### TABLE 4.
+
+Habitual dietary intake of sedentary and endurance‐trained participants
+
+|  | Sedentary ( _n_ = 17) | Endurance trained ( _n_ = 7) |
+| :-- | :-- | :-- |
+| Energy (kcals/d) | 2311 ± 359 | 2607 ± 791 |
+| Fat (g/d) | 93 ± 20 | 88 ± 41 |
+| Fat intake (%) | 36 ± 4 | 29 ± 8 [\*](https://pmc.ncbi.nlm.nih.gov/articles/PMC8371342/#phy214970-note-0009) |
+| Carbohydrate (g/d) | 261 ± 47 | 344 ± 88 [\*](https://pmc.ncbi.nlm.nih.gov/articles/PMC8371342/#phy214970-note-0009) |
+| Carbohydrate intake (%) | 45 ± 6 | 54 ± 10 [\*](https://pmc.ncbi.nlm.nih.gov/articles/PMC8371342/#phy214970-note-0009) |
+| Protein (g/d) | 93 ± 21 | 103 ± 37 |
+| Protein intake (%) | 16 ± 4 | 16 ± 4 |
+| Betaine (mg/d) | 158 ± 36 | 286 ± 72 |
+| Choline (mg/d) | 370 ± 88 | 449 ± 72 |
+| L‐Carnitine (mg/d) | 63 ± 24 | 40 ± 7 |
+| Total fiber (g/d) | 16 ± 5 | 30 ± 10 [\*](https://pmc.ncbi.nlm.nih.gov/articles/PMC8371342/#phy214970-note-0009) |
+| Soluble fiber (g/d) | 5 ± 1 | 9 ± 4 [\*](https://pmc.ncbi.nlm.nih.gov/articles/PMC8371342/#phy214970-note-0009) |
+| Insoluble fiber (g/d) | 11 ± 3 | 21 ± 9 [\*](https://pmc.ncbi.nlm.nih.gov/articles/PMC8371342/#phy214970-note-0009) |
+
+[Open in a new tab](https://pmc.ncbi.nlm.nih.gov/articles/PMC8371342/table/phy214970-tbl-0004/)
+
+Data are presented as means ± SD.
+
+\*
+
+_p_ < 0.05 endurance‐trained versus sedentary group, independent _t_‐test.
+
+#### TABLE 5.
+
+Controlled feeding dietary intake of sedentary and endurance‐trained participants
+
+|  | Sedentary ( _n_ = 17) | Endurance trained ( _n_ = 7) | _p_‐values |
+| :-- | :-- | :-- | :-- |
+| Standardized diet | High‐fat diet | Standardized Diet | High‐fat diet | Group | Diet | Group × diet |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| Energy (kcals/d) | 2714 ± 259 | 2742 ± 319 | 3438 ± 486 | 3729 ± 590 | <0.001 | 0.189 | 0.277 |
+| Total fat (g/d) | 91 ± 8 | 168 ± 19 | 119 ± 7 | 227 ± 36 | <0.001 | <0.001 | 0.015 |
+| Polyunsaturated fatty acids (g/d) | 25 ± 3 | 32 ± 4 | 31 ± 4 | 46 ± 9 | <0.001 | <0.001 | 0.007 |
+| Monounsaturated fatty acids (g/d) | 33 ± 3 | 51 ± 6 | 43 ± 6 | 66 ± 10 | <0.001 | <0.001 | 0.207 |
+| Saturated fat (g/d) | 26 ± 3 | 75 ± 9 | 35 ± 6 | 100 ± 16 | <0.001 | <0.001 | 0.004 |
+| Carbohydrate (g/d) | 377 ± 36 | 207 ± 24 | 471 ± 65 | 288 ± 46 | <0.001 | <0.001 | 0.577 |
+| Protein (g/d) | 103 ± 10 | 101 ± 11 | 132 ± 19 | 136 ± 21 | <0.001 | 0.811 | 0.455 |
+| Betaine (mg/d) | 310 ± 13 | 202 ± 6 | 362 ± 16 | 238 ± 15 | 0.002 | <0.001 | 0.545 |
+| Choline (mg/d) | 325 ± 8 | 257 ± 15 | 410 ± 18 | 336 ± 21 | <0.001 | <0.001 | 0.768 |
+| L‐Carnitine (mg/d) | 51 ± 2 | 54 ± 2 | 63 ± 3 | 67 ± 4 | <0.001 | 0.218 | 0.822 |
+| Total fiber (g/d) | 18 ± 2 | 13 ± 2 | 22 ± 3 | 17 ± 3 | <0.001 | <0.001 | 0.589 |
+| Soluble fiber (g/d) | 7 ± 1 | 5 ± 1 | 8 ± 1 | 7 ± 1 | <0.001 | <0.001 | 0.944 |
+| Insoluble fiber (g/d) | 11 ± 1 | 8 ± 2 | 14 ± 2 | 10 ± 2 | <0.001 | <0.001 | 0.373 |
+
+[Open in a new tab](https://pmc.ncbi.nlm.nih.gov/articles/PMC8371342/table/phy214970-tbl-0005/)
+
+Data are presented as means ± SD.
+
+Group, endurance‐trained versus sedentary.
+
+Diet, high‐fat diet versus standardized diet.
+
+### 3.3. Fasting and postprandial plasma TMAO and TMA moiety concentrations
+
+Fasting plasma TMAO concentrations between the groups were similar at baseline ( _p_ = 0.724) (Figure [2](https://pmc.ncbi.nlm.nih.gov/articles/PMC8371342/#phy214970-fig-0002)). Fasting and postprandial TMAO concentration did not change in the endurance‐trained or sedentary groups with the intervention ( _p_ > 0.05) (Figure [3](https://pmc.ncbi.nlm.nih.gov/articles/PMC8371342/#phy214970-fig-0003)). There were no differences in fasting concentrations of choline, betaine, and L‐carnitine (all _p_ > 0.05) between endurance‐trained or sedentary groups at baseline or in response to the intervention (Figure [3](https://pmc.ncbi.nlm.nih.gov/articles/PMC8371342/#phy214970-fig-0003)). The iAUC for TMAO did not significantly change with the diet in either group ( _p_ > 0.05). The iAUC for plasma choline was higher from 0 to 4 h in endurance‐trained males post‐high‐fat diet (56.7 ± 7.2 vs. 48.7 ± 8.3 µM/h, _p_ = 0.032) when compared to sedentary males. There were no significant correlations between _V_ O2max and TMAO or its moieties.
+
+#### FIGURE 2.
+
+![FIGURE 2](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/5499/8371342/5a36e96f31aa/PHY2-9-e14970-g004.jpg)
+
+[Open in a new tab](https://pmc.ncbi.nlm.nih.gov/articles/PMC8371342/figure/phy214970-fig-0002/)
+
+Fasting plasma TMAO concentration in SED and ET before and followeing the high‐fat diet. Values are expressed as mean ± SD. ET, endurance‐trained group; SED, sedentary group; TMAO, trimethylamine _N‐_ oxide
+
+#### FIGURE 3.
+
+![FIGURE 3](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/5499/8371342/306232621c4b/PHY2-9-e14970-g003.jpg)
+
+[Open in a new tab](https://pmc.ncbi.nlm.nih.gov/articles/PMC8371342/figure/phy214970-fig-0003/)
+
+Fasting and postprandial plasma TMAO (panel a), Choline (panel b), Betaine (panel c), L‐carnitine (panel d) baseline and post‐ high fat diet. Values are expressed as mean ± SD. ET, endurance‐trained group; TMAO, trimethylamine _N‐_ oxide; HFD, high fat diet; SED, sedentary group
+
+## 4\. DISCUSSION
+
+The major new finding of the present investigation is that neither fasting nor postprandial plasma TMAO concentrations differed between endurance‐trained and sedentary males that were otherwise similar in their baseline characteristics with the exception of VO2 max and blood cholesterol concentrations (Table [3](https://pmc.ncbi.nlm.nih.gov/articles/PMC8371342/#phy214970-tbl-0003)). In addition, neither fasting nor postprandial TMAO concentrations changed following the HFD in either group despite significantly higher dietary intake of TMA precursors in the endurance‐trained males.
+
+The results of previous studies suggest that postprandial, but not fasting, TMAO increases in healthy young males following 5 days of consuming an isocaloric, HFD (Boutagy et al., [2015a](https://pmc.ncbi.nlm.nih.gov/articles/PMC8371342/#phy214970-bib-0004)). However, fasting TMAO was also reported to increase following a 4‐week hypercaloric, HFD in a similar population (Boutagy et al., [2015b](https://pmc.ncbi.nlm.nih.gov/articles/PMC8371342/#phy214970-bib-0005)). Taken together with the findings of the present study, these studies suggest that the consumption of HFD for a sufficiently longer period of time might be necessary to increase fasting and postprandial TMAO.
+
+We found that TMAO was similar in endurance‐trained and sedentary participants at baseline and following the HFD despite higher intake of TMA precursors in the former. The reasons for this remain uncertain but whether the higher intake of TMA‐moieties during the HFD in the endurance‐trained group was of sufficient magnitude to impact plasma TMAO concentrations is unclear. As such, there may be differences in the composition of the gut microbiota and/or hepatic FMO3 activity in the endurance‐trained compared with sedentary individuals which could have influenced TMAO production. In this regard, there is accumulating evidence that exercise training may alter gut microbiota composition (Mach & Fuster‐Botella, [2017](https://pmc.ncbi.nlm.nih.gov/articles/PMC8371342/#phy214970-bib-0010); Mailing et al., [2019](https://pmc.ncbi.nlm.nih.gov/articles/PMC8371342/#phy214970-bib-0011); Mitchell et al., [2019](https://pmc.ncbi.nlm.nih.gov/articles/PMC8371342/#phy214970-bib-0014); Zhao et al., [2018](https://pmc.ncbi.nlm.nih.gov/articles/PMC8371342/#phy214970-bib-0023)). However, to our knowledge, there is currently no information available on whether the abundance of TMA‐releasing bacteria or the expression of _CutC_ TMA lyase are reduced in endurance‐trained athletes. Similarly, whether FMO3 activity is modified by endurance training is unknown.
+
+Erickson et al. (Erickson et al., [2019](https://pmc.ncbi.nlm.nih.gov/articles/PMC8371342/#phy214970-bib-0008)) recently reported that only percentage change (not the absolute level or change) in fasting TMAO concentration was reduced following 12 weeks of a hypocaloric diet plus exercise but not an isocaloric diet plus exercise. In addition, baseline fasting TMAO was correlated with baseline _V_ O2max (r = 0.67, _p_ = 0.004). Our observation of similar fasting TMAO (absolute values) in the endurance‐trained and sedentary males in the present study would appear to be inconsistent with this prior observation. The reasons for this discrepancy are unclear but differences in how TMAO values were expressed and the study population might contribute. In addition, it is important to emphasize that Erickson and colleagues (Erickson et al. [2019](https://pmc.ncbi.nlm.nih.gov/articles/PMC8371342/#phy214970-bib-0008)) included sedentary older adults with obesity in their study and the independent role of exercise in contributing to the reduction in plasma TMAO remains unclear. It is also important to note that individuals in the current investigation remained weight stable whereas, in the study conducted by (Erickson et al., [2019](https://pmc.ncbi.nlm.nih.gov/articles/PMC8371342/#phy214970-bib-0008)), participants lost a significant amount of subcutaneous abdominal fat following the intervention, which may independently decrease TMAO production.
+
+There are several strengths of this investigation. First, we utilized a rigorous controlled feeding design, in which all foods and beverages were provided to participants during both standardized and HFD phases. Second, each participant's weight was measured daily, and when necessary, adjustments in energy intake were made to ensure that weight stability was maintained. Finally, differences in self‐reported exercise were used to determine endurance training status and verified using laboratory‐based assessments of maximal oxygen consumption.
+
+There are some limitations of our study that should be addressed. First, the study relied on stored samples from a prior study to test the stated hypothesis. As such, it is unclear whether implementing diets matched for TMA precursor intake would result in a different outcome. Second, the sample size of the present study was small and limited to males aged 18–40 years, thus limiting the generalizability of the findings. Third, the diet duration was relatively short; it is possible that a longer dietary intervention could produce different findings. However, the composition of the gut microbiome can be altered in as few as 1 to 2 days on a species and family level (Sonnenburg & Bäckhed, [2016](https://pmc.ncbi.nlm.nih.gov/articles/PMC8371342/#phy214970-bib-0017)). Therefore, it is reasonable to believe that the length of our intervention would be sufficient if changes in gut microbiota occurred leading to altered TMA production. Fourth, the differences in _V_ O2max between the sedentary and endurance‐trained males in the present study were relatively modest. As such, whether the inclusion of groups with larger differences in _V_ O2max would result in different findings is unknown. Fifth, we did not document compliance ensuring participants maintained their physical activity levels. This remains a limitation. Finally, we did not quantify either gut microbiota composition or hepatic FMO3 expression in the present study; the latter could not be done with liver biopsies. As such, the mechanism into why TMAO was similar in the two groups following the HFD despite higher intake of TMA precursors in the endurance‐trained males remains unclear.
+
+## 5\. CONCLUSION
+
+In summary, our findings suggest that neither fasting nor postprandial TMAO concentrations changed significantly following the HFD in the endurance‐trained group compared with sedentary males despite higher consumption of TMA dietary substrates in the endurance‐trained group. Future studies are needed to explore mechanisms in which TMAO can be altered by exercise training in relation to TMA precursor intake.
+
+## DISCLOSURES
+
+No conflicts of interest, financial or otherwise are declared by the authors.
+
+**AUTHOR CONTRIBUTIONS**
+
+Conceptualization, M.W.H., B.M.D., and K.P.D.; Methodology, M.W.H. A.P.N., B.M.D., and K.P.D.; Formal Analysis, C.N.S., L.E.G., A.P.N., and K.P.D.; Data Curation, C.N.S. and M.E.B.; Writing—Original Draft Preparation, C.N.S. and K.P.D.; Writing—Reviewing and Editing, C.N.S., M.E.B., L.E.G., A.P.N., B.M.D., M.W.H., and K.P.D.
+
+## ACKNOWLEDGMENTS
+
+This work was supported by an American Diabetes Association Grant ADA‐07‐12 (to M.W.H.), the Virginia Tech Translational Obesity Research Interdisciplinary Graduate Education Program, the North Carolina Agricultural Research Service (A.P.N.), and the Hatch Program of the National Institute of Food and Agriculture, U.S. Department of Agriculture (A.P.N). C.N.S. is supported by NIDDK (grant 5T32DK007135‐46).
+
+Steele, C. N., Baugh, M. E., Griffin, L. E., Neilson, A. P., Davy, B. M., Hulver, M. W., & Davy, K. P. (2021). Fasting and postprandial trimethylamine _N_‐oxide in sedentary and endurance‐trained males following a short‐term high‐fat diet. Physiological Reports, 9, e14970. 10.14814/phy2.14970
+
+## REFERENCES
+
+01. Baugh, M. E., Bowser, S. M., McMillan, R. P., Davy, B. M., Essenmacher, L. A., Neilson, A. P., Hulver, M. W., & Davy, K. P. (2020). Postprandial skeletal muscle metabolism following a high‐fat diet in sedentary and endurance‐trained males. Journal of Applied Physiology, 128, 872–883. \[ [DOI](https://doi.org/10.1152/japplphysiol.00576.2019)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7191504/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/32163335/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Journal%20of%20Applied%20Physiology&title=Postprandial%20skeletal%20muscle%20metabolism%20following%20a%20high%E2%80%90fat%20diet%20in%20sedentary%20and%20endurance%E2%80%90trained%20males&author=M.%20E.%20Baugh&author=S.%20M.%20Bowser&author=R.%20P.%20McMillan&author=B.%20M.%20Davy&author=L.%20A.%20Essenmacher&volume=128&publication_year=2020&pages=872-883&pmid=32163335&doi=10.1152/japplphysiol.00576.2019&)\]
+02. Baugh, M. E., Steele, C., Angiletta, C., Mitchell, C., Neilson, A., Davy, B., Hulver, M., & Davy, K. (2018). Inulin supplementation does not reduce plasma trimethylamine N‐oxide concentrations in individuals at risk for type 2 diabetes. Nutrients, 10, 793. \[ [DOI](https://doi.org/10.3390/nu10060793)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC6024751/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/29925775/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Nutrients&title=Inulin%20supplementation%20does%20not%20reduce%20plasma%20trimethylamine%20N%E2%80%90oxide%20concentrations%20in%20individuals%20at%20risk%20for%20type%202%20diabetes&author=M.%20E.%20Baugh&author=C.%20Steele&author=C.%20Angiletta&author=C.%20Mitchell&author=A.%20Neilson&volume=10&publication_year=2018&pages=793&pmid=29925775&doi=10.3390/nu10060793&)\]
+03. Bhutani, S., Kahn, E., Tasali, E., & Schoeller, D. A. (2017). Composition of two‐week change in body weight under unrestricted free‐living conditions. Physiological Reports, 5, e13336. \[ [DOI](https://doi.org/10.14814/phy2.13336)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC5506524/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/28676555/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Physiological%20Reports&title=Composition%20of%20two%E2%80%90week%20change%20in%20body%20weight%20under%20unrestricted%20free%E2%80%90living%20conditions&author=S.%20Bhutani&author=E.%20Kahn&author=E.%20Tasali&author=D.%20A.%20Schoeller&volume=5&publication_year=2017&pages=e13336&pmid=28676555&doi=10.14814/phy2.13336&)\]
+04. Boutagy, N. E., Neilson, A. P., Osterberg, K. L., Smithson, A. T., Englund, T. R., Davy, B. M., Hulver, M. W., & Davy, K. P. (2015a). Probiotic supplementation and trimethylamine‐N‐oxide production following a high‐fat diet. Obesity (Silver Spring), 23, 2357–2363. \[ [DOI](https://doi.org/10.1002/oby.21212)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/26465927/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Obesity%20(Silver%20Spring)&title=Probiotic%20supplementation%20and%20trimethylamine%E2%80%90N%E2%80%90oxide%20production%20following%20a%20high%E2%80%90fat%20diet&author=N.%20E.%20Boutagy&author=A.%20P.%20Neilson&author=K.%20L.%20Osterberg&author=A.%20T.%20Smithson&author=T.%20R.%20Englund&volume=23&publication_year=2015a&pages=2357-2363&pmid=26465927&doi=10.1002/oby.21212&)\]
+05. Boutagy, N. E., Neilson, A. P., Osterberg, K. L., Smithson, A. T., Englund, T. R., Davy, B. M., Hulver, M. W., & Davy, K. P. (2015b). Short‐term high‐fat diet increases postprandial trimethylamine‐N‐oxide in humans. Nutrition Research, 35, 858–864. \[ [DOI](https://doi.org/10.1016/j.nutres.2015.07.002)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/26265295/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Nutrition%20Research&title=Short%E2%80%90term%20high%E2%80%90fat%20diet%20increases%20postprandial%20trimethylamine%E2%80%90N%E2%80%90oxide%20in%20humans&author=N.%20E.%20Boutagy&author=A.%20P.%20Neilson&author=K.%20L.%20Osterberg&author=A.%20T.%20Smithson&author=T.%20R.%20Englund&volume=35&publication_year=2015b&pages=858-864&pmid=26265295&doi=10.1016/j.nutres.2015.07.002&)\]
+06. Bowser, S. M., McMillan, R. P., Boutagy, N. E., Tarpey, M. D., Smithson, A. T., Osterberg, K. L., Neilson, A. P., Davy, B. M., Davy, K. P., & Hulver, M. W. (2020). Serum endotoxin, gut permeability and skeletal muscle metabolic adaptations following a short term high fat diet in humans. Metabolism, 103, 154041. \[ [DOI](https://doi.org/10.1016/j.metabol.2019.154041)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/31785256/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Metabolism&title=Serum%20endotoxin,%20gut%20permeability%20and%20skeletal%20muscle%20metabolic%20adaptations%20following%20a%20short%20term%20high%20fat%20diet%20in%20humans&author=S.%20M.%20Bowser&author=R.%20P.%20McMillan&author=N.%20E.%20Boutagy&author=M.%20D.%20Tarpey&author=A.%20T.%20Smithson&volume=103&publication_year=2020&pages=154041&pmid=31785256&doi=10.1016/j.metabol.2019.154041&)\]
+07. Demarquoy, J., Georges, B. A., Rigault, C., Royer, M.‐C., Clairet, A. L., Soty, M., Lekounoungou, S., & le Borgne, F. O. (2004). Radioisotopic determination of l‐carnitine content in foods commonly eaten in Western countries. Food Chemistry, 86, 137–142. \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Food%20Chemistry&title=Radioisotopic%20determination%20of%20l%E2%80%90carnitine%20content%20in%20foods%20commonly%20eaten%20in%20Western%20countries&author=J.%20Demarquoy&author=B.%20A.%20Georges&author=C.%20Rigault&author=M.%E2%80%90C.%20Royer&author=A.%20L.%20Clairet&volume=86&publication_year=2004&pages=137-142&)\]
+08. Erickson, M. L., Malin, S. K., Wang, Z., Brown, J., Hazen, S., & Kirwan, J. (2019). Effects of lifestyle intervention on plasma trimethylamine N‐oxide in obese adults. Nutrients, 11, 179. \[ [DOI](https://doi.org/10.3390/nu11010179)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC6356515/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/30654453/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Nutrients&title=Effects%20of%20lifestyle%20intervention%20on%20plasma%20trimethylamine%20N%E2%80%90oxide%20in%20obese%20adults&author=M.%20L.%20Erickson&author=S.%20K.%20Malin&author=Z.%20Wang&author=J.%20Brown&author=S.%20Hazen&volume=11&publication_year=2019&pages=179&pmid=30654453&doi=10.3390/nu11010179&)\]
+09. Liu, Y., & Dai, M. (2020). Trimethylamine N‐oxide generated by the gut microbiota is associated with vascular inflammation: New insights into atherosclerosis. Mediators of Inflammation, 2020, 4634172. \[ [DOI](https://doi.org/10.1155/2020/4634172)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7048942/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/32148438/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Mediators%20of%20Inflammation&title=Trimethylamine%20N%E2%80%90oxide%20generated%20by%20the%20gut%20microbiota%20is%20associated%20with%20vascular%20inflammation:%20New%20insights%20into%20atherosclerosis&author=Y.%20Liu&author=M.%20Dai&volume=2020&publication_year=2020&pages=4634172&pmid=32148438&doi=10.1155/2020/4634172&)\]
+10. Mach, N., & Fuster‐Botella, D. (2017). Endurance exercise and gut microbiota: A review. Journal of Sport and Health Science, 6, 179–197. \[ [DOI](https://doi.org/10.1016/j.jshs.2016.05.001)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC6188999/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/30356594/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Journal%20of%20Sport%20and%20Health%20Science&title=Endurance%20exercise%20and%20gut%20microbiota:%20A%20review&author=N.%20Mach&author=D.%20Fuster%E2%80%90Botella&volume=6&publication_year=2017&pages=179-197&pmid=30356594&doi=10.1016/j.jshs.2016.05.001&)\]
+11. Mailing, L. J., Allen, J. M., Buford, T. W., Fields, C. J., & Woods, J. A. (2019). Exercise and the gut microbiome: A review of the evidence, potential mechanisms, and implications for human health. Exercise and Sport Sciences Reviews, 47, 75–85. \[ [DOI](https://doi.org/10.1249/JES.0000000000000183)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/30883471/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Exercise%20and%20Sport%20Sciences%20Reviews&title=Exercise%20and%20the%20gut%20microbiome:%20A%20review%20of%20the%20evidence,%20potential%20mechanisms,%20and%20implications%20for%20human%20health&author=L.%20J.%20Mailing&author=J.%20M.%20Allen&author=T.%20W.%20Buford&author=C.%20J.%20Fields&author=J.%20A.%20Woods&volume=47&publication_year=2019&pages=75-85&pmid=30883471&doi=10.1249/JES.0000000000000183&)\]
+12. Mensah, G. A., & Brown, D. W. (2007). An overview of cardiovascular disease burden in the United States. Health Affairs, 26, 38–48. \[ [DOI](https://doi.org/10.1377/hlthaff.26.1.38)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/17211012/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Health%20Affairs&title=An%20overview%20of%20cardiovascular%20disease%20burden%20in%20the%20United%20States&author=G.%20A.%20Mensah&author=D.%20W.%20Brown&volume=26&publication_year=2007&pages=38-48&pmid=17211012&doi=10.1377/hlthaff.26.1.38&)\]
+13. Mifflin, M. D., St Jeor, S. T., Hill, L. A., Scott, B. J., Daugherty, S. A., & Koh, Y. O. (1990). A new predictive equation for resting energy expenditure in healthy individuals. The American Journal of Clinical Nutrition, 51, 241–247. \[ [DOI](https://doi.org/10.1093/ajcn/51.2.241)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/2305711/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=The%20American%20Journal%20of%20Clinical%20Nutrition&title=A%20new%20predictive%20equation%20for%20resting%20energy%20expenditure%20in%20healthy%20individuals&author=%20Mifflin&author=%20St%20Jeor&author=L.%20A.%20Hill&author=B.%20J.%20Scott&author=S.%20A.%20Daugherty&volume=51&publication_year=1990&pages=241-247&pmid=2305711&doi=10.1093/ajcn/51.2.241&)\]
+14. Mitchell, C. M., Davy, B. M., Hulver, M. W., Neilson, A. P., Bennett, B. J., & Davy, K. P. (2019). Does exercise alter gut microbial composition? A systematic review. Medicine and Science in Sports and Exercise, 51, 160–167. \[ [DOI](https://doi.org/10.1249/MSS.0000000000001760)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/30157109/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Medicine%20and%20Science%20in%20Sports%20and%20Exercise&title=Does%20exercise%20alter%20gut%20microbial%20composition?%20A%20systematic%20review&author=C.%20M.%20Mitchell&author=B.%20M.%20Davy&author=M.%20W.%20Hulver&author=A.%20P.%20Neilson&author=B.%20J.%20Bennett&volume=51&publication_year=2019&pages=160-167&pmid=30157109&doi=10.1249/MSS.0000000000001760&)\]
+15. Park, J. E., Miller, M., Rhyne, J., Wang, Z., & Hazen, S. L. (2019). Differential effect of short‐term popular diets on TMAO and other cardio‐metabolic risk markers. Nutrition, Metabolism and Cardiovascular Diseases, 29, 513–517. \[ [DOI](https://doi.org/10.1016/j.numecd.2019.02.003)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/30940489/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Nutrition,%20Metabolism%20and%20Cardiovascular%20Diseases&title=Differential%20effect%20of%20short%E2%80%90term%20popular%20diets%20on%20TMAO%20and%20other%20cardio%E2%80%90metabolic%20risk%20markers&author=J.%20E.%20Park&author=M.%20Miller&author=J.%20Rhyne&author=Z.%20Wang&author=S.%20L.%20Hazen&volume=29&publication_year=2019&pages=513-517&pmid=30940489&doi=10.1016/j.numecd.2019.02.003&)\]
+16. Romano, K. A., Vivas, E. I., Amador‐Noguez, D., & Rey, F. E. (2015). Intestinal microbiota composition modulates choline bioavailability from diet and accumulation of the proatherogenic metabolite trimethylamine‐N‐oxide, mBio, 6, e02481. \[ [DOI](https://doi.org/10.1128/mBio.02481-14)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC4453578/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/25784704/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=mBio&title=Intestinal%20microbiota%20composition%20modulates%20choline%20bioavailability%20from%20diet%20and%20accumulation%20of%20the%20proatherogenic%20metabolite%20trimethylamine%E2%80%90N%E2%80%90oxide&author=K.%20A.%20Romano&author=E.%20I.%20Vivas&author=D.%20Amador%E2%80%90Noguez&author=F.%20E.%20Rey&volume=6&publication_year=2015&pages=e02481&pmid=25784704&doi=10.1128/mBio.02481-14&)\]
+17. Sonnenburg, J. L., & Bäckhed, F. (2016). Diet‐microbiota interactions as moderators of human metabolism. Nature, 535, 56–64. \[ [DOI](https://doi.org/10.1038/nature18846)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC5991619/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/27383980/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Nature&title=Diet%E2%80%90microbiota%20interactions%20as%20moderators%20of%20human%20metabolism&author=J.%20L.%20Sonnenburg&author=F.%20B%C3%A4ckhed&volume=535&publication_year=2016&pages=56-64&pmid=27383980&doi=10.1038/nature18846&)\]
+18. Taesuwan, S., Cho, C. E., Malysheva, O. V., Bender, E., King, J. H., Yan, J., Thalacker‐Mercer, A. E., & Caudill, M. A. (2017). The metabolic fate of isotopically labeled trimethylamine‐N‐oxide (TMAO) in humans. The Journal of Nutritional Biochemistry, 45, 77–82. \[ [DOI](https://doi.org/10.1016/j.jnutbio.2017.02.010)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/28433924/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=The%20Journal%20of%20Nutritional%20Biochemistry&title=The%20metabolic%20fate%20of%20isotopically%20labeled%20trimethylamine%E2%80%90N%E2%80%90oxide%20(TMAO)%20in%20humans&author=S.%20Taesuwan&author=C.%20E.%20Cho&author=O.%20V.%20Malysheva&author=E.%20Bender&author=J.%20H.%20King&volume=45&publication_year=2017&pages=77-82&pmid=28433924&doi=10.1016/j.jnutbio.2017.02.010&)\]
+19. Tang, W. H., & Hazen, S. L. (2017). Microbiome, trimethylamine N‐oxide, and cardiometabolic disease. Translational Research, 179, 108–115. \[ [DOI](https://doi.org/10.1016/j.trsl.2016.07.007)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC5164964/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/27490453/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Translational%20Research&title=Microbiome,%20trimethylamine%20N%E2%80%90oxide,%20and%20cardiometabolic%20disease&author=W.%20H.%20Tang&author=S.%20L.%20Hazen&volume=179&publication_year=2017&pages=108-115&pmid=27490453&doi=10.1016/j.trsl.2016.07.007&)\]
+20. Tang, W. H., Wang, Z., & Levison, B. S. (2013). Intestinal microbial metabolism of phosphatidylcholine and cardiovascular risk. Journal of Vascular Surgery, 58, 549. \[ [DOI](https://doi.org/10.1056/NEJMoa1109400)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC3701945/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/23614584/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Journal%20of%20Vascular%20Surgery&title=Intestinal%20microbial%20metabolism%20of%20phosphatidylcholine%20and%20cardiovascular%20risk&author=W.%20H.%20Tang&author=Z.%20Wang&author=B.%20S.%20Levison&volume=58&publication_year=2013&pages=549&pmid=23614584&doi=10.1056/NEJMoa1109400&)\]
+21. Wang, Z., Klipfell, E., Bennett, B. J., Koeth, R., Levison, B. S., Dugar, B., Feldstein, A. E., Britt, E. B., Fu, X., Chung, Y. M., Wu, Y., Schauer, P., Smith, J. D., Allayee, H., Tang, W. H., Didonato, J. A., Lusis, A. J., & Hazen, S. L. (2011). Gut flora metabolism of phosphatidylcholine promotes cardiovascular disease. Nature, 472, 57–63. \[ [DOI](https://doi.org/10.1038/nature09922)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC3086762/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/21475195/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Nature&title=Gut%20flora%20metabolism%20of%20phosphatidylcholine%20promotes%20cardiovascular%20disease&author=Z.%20Wang&author=E.%20Klipfell&author=B.%20J.%20Bennett&author=R.%20Koeth&author=B.%20S.%20Levison&volume=472&publication_year=2011&pages=57-63&pmid=21475195&doi=10.1038/nature09922&)\]
+22. Zhang, H., Meng, J., & Yu, H. (2017). Trimethylamine N‐oxide supplementation abolishes the cardioprotective effects of voluntary exercise in mice fed a western diet. Frontiers in Physiology, 8, 944. \[ [DOI](https://doi.org/10.3389/fphys.2017.00944)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC5703864/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/29218015/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Frontiers%20in%20Physiology&title=Trimethylamine%20N%E2%80%90oxide%20supplementation%20abolishes%20the%20cardioprotective%20effects%20of%20voluntary%20exercise%20in%20mice%20fed%20a%20western%20diet&author=H.%20Zhang&author=J.%20Meng&author=H.%20Yu&volume=8&publication_year=2017&pages=944&pmid=29218015&doi=10.3389/fphys.2017.00944&)\]
+23. Zhao, X., Zhang, Z., Hu, B., Huang, W., Yuan, C., & Zou, L. (2018). Response of gut microbiota to metabolite changes induced by endurance exercise. Frontiers in Microbiology, 9, 765. \[ [DOI](https://doi.org/10.3389/fmicb.2018.00765)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC5920010/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/29731746/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Frontiers%20in%20Microbiology&title=Response%20of%20gut%20microbiota%20to%20metabolite%20changes%20induced%20by%20endurance%20exercise&author=X.%20Zhao&author=Z.%20Zhang&author=B.%20Hu&author=W.%20Huang&author=C.%20Yuan&volume=9&publication_year=2018&pages=765&pmid=29731746&doi=10.3389/fmicb.2018.00765&)\]
+
+![Close](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/close.svg)
+
+## ACTIONS
+
+- [![View on publisher site icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/launch.svg)View on publisher site](https://doi.org/10.14814/phy2.14970)
+- [![Download PDF icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/file_download.svg)PDF (683.4 KB)](https://pmc.ncbi.nlm.nih.gov/articles/PMC8371342/pdf/PHY2-9-e14970.pdf)
+- ![Cite icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/format_quote.svg)Cite
+- ![Collections icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/action-bookmark-full.svg)![Collections icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/action-bookmark-empty.svg)Collections
+- ![Permalink icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/share.svg)Permalink
+
+
+
+
+## PERMALINK
+
+
+
+![Copy icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/content_copy.svg)Copy
+
+
+## RESOURCES
+
+### Similar articles
+
+### Cited by other articles
+
+### Links to NCBI Databases
+
+Back to Top![back to top icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/arrow_upward.svg)

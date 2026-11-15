@@ -1,0 +1,40 @@
+PMID: 33714931
+PubMed URL: https://pubmed.ncbi.nlm.nih.gov/33714931/
+Fetched via NCBI eutils efetch, accessed 2026-11-15
+
+1. Epilepsy Behav. 2021 Apr;117:107883. doi: 10.1016/j.yebeh.2021.107883. Epub
+2021  Mar 11.
+
+Carnitine supplementation prevents carnitine deficiency caused by 
+pivalate-conjugated antibiotics in patients with epilepsy prescribed valproate.
+
+Okumura A(1), Numoto S(2), Iwayama H(2), Azuma Y(2), Kurahashi H(2).
+
+Author information:
+(1)Department of Pediatrics, Aichi Medical University, Japan. Electronic 
+address: okumura.akihisa.479@mail.aichi-med-u.ac.jp.
+(2)Department of Pediatrics, Aichi Medical University, Japan.
+
+We measured carnitine levels before and after pivalate-conjugated antibiotic 
+(PCA) use in six patients with epilepsy who were prescribed valproate (VPA). 
+Three of the patients were on carnitine supplementation when PCA use started. 
+Serum FC levels were within the normal range (37.2-49.0 μmol/L) in all six 
+patients before PCA use. After PCA use, the serum free carnitine (FC) levels 
+remained within the normal range (48.0-68.2 μmol/L) in all three patients on 
+carnitine supplementation, but were below the normal range (18.7-30.8 μmol/L) in 
+the three patients not on carnitine supplementation. No remarkable changes in 
+serum VPA levels, platelet count, amylase or ammonia level was evident in any 
+patients in relation to PCA use. Carnitine deficiency due to PCA use was 
+prevented by carnitine supplementation in patients with epilepsy who were taking 
+VPA. Carnitine supplementation can support patients at risk of carnitine 
+deficiency.
+
+Copyright © 2021 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.yebeh.2021.107883
+PMID: 33714931 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.

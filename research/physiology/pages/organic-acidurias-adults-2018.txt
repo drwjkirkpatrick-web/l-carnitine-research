@@ -1,0 +1,47 @@
+PMID: 29335813
+PubMed URL: https://pubmed.ncbi.nlm.nih.gov/29335813/
+Fetched via NCBI eutils efetch, accessed 2026-11-15
+
+1. J Inherit Metab Dis. 2018 Sep;41(5):765-776. doi: 10.1007/s10545-017-0135-2. 
+Epub 2018 Jan 15.
+
+Organic acidurias in adults: late complications and management.
+
+Tuncel AT(1), Boy N(1), Morath MA(1), Hörster F(1), Mütze U(1), Kölker S(2).
+
+Author information:
+(1)Division of Neuropediatrics and Metabolic Medicine, Centre for Pediatric and 
+Adolescent Medicine, University Hospital Heidelberg, Im Neuenheimer Feld 430, 
+D-69120, Heidelberg, Germany.
+(2)Division of Neuropediatrics and Metabolic Medicine, Centre for Pediatric and 
+Adolescent Medicine, University Hospital Heidelberg, Im Neuenheimer Feld 430, 
+D-69120, Heidelberg, Germany. Stefan.Koelker@med.uni-heidelberg.de.
+
+Organic acidurias (synonym, organic acid disorders, OADs) are a heterogenous 
+group of inherited metabolic diseases delineated with the implementation of gas 
+chromatography/mass spectrometry in metabolic laboratories starting in the 1960s 
+and 1970s. Biochemically, OADs are characterized by accumulation of mono-, di- 
+and/or tricarboxylic acids ("organic acids") and corresponding coenzyme A, 
+carnitine and/or glycine esters, some of which are considered toxic at high 
+concentrations. Clinically, disease onset is variable, however, affected 
+individuals may already present during the newborn period with life-threatening 
+acute metabolic crises and acute multi-organ failure. Tandem mass 
+spectrometry-based newborn screening programmes, in particular for isovaleric 
+aciduria and glutaric aciduria type 1, have significantly reduced diagnostic 
+delay. Dietary treatment with low protein intake or reduced intake of the 
+precursor amino acid(s), carnitine supplementation, cofactor treatment (in 
+responsive patients) and nonadsorbable antibiotics is commonly used for 
+maintenance treatment. Emergency treatment options with high 
+carbohydrate/glucose intake, pharmacological and extracorporeal detoxification 
+of accumulating toxic metabolites for intensified therapy during threatening 
+episodes exist. Diagnostic and therapeutic measures have improved survival and 
+overall outcome in individuals with OADs. However, it has become increasingly 
+evident that the manifestation of late disease complications cannot be reliably 
+predicted and prevented. Conventional metabolic treatment often fails to prevent 
+irreversible organ dysfunction with increasing age, even if patients are 
+considered to be "metabolically stable". This has challenged our understanding 
+of OADs and has elicited the discussion on optimized therapy, including (early) 
+organ transplantation, and long-term care.
+
+DOI: 10.1007/s10545-017-0135-2
+PMID: 29335813 [Indexed for MEDLINE]

@@ -1,0 +1,42 @@
+SOURCE: Case studies in physiology: Impact of a long-distance hike on the Pacific Crest Trail on arterial function and body composition in a highly fit young male.
+URL: https://pubmed.ncbi.nlm.nih.gov/33661563/
+FETCHED: 2026-11-15 via NCBI efetch (pubmed abstract, retmode=text)
+PMID: 33661563
+DOI: 10.14814/phy2.14767
+------------------------------------------------------------------------
+11. Physiol Rep. 2021 Mar;9(5):e14767. doi: 10.14814/phy2.14767.
+
+Case studies in physiology: Impact of a long-distance hike on the Pacific Crest 
+Trail on arterial function and body composition in a highly fit young male.
+
+Heinbockel TC(1), Craighead DH(1).
+
+Author information:
+(1)Department of Integrative Physiology, The University of Colorado Boulder, 
+Boulder, CO, USA.
+
+The Pacific Crest Trail (PCT) is a 4265-km hiking trail that extends from the 
+US-Mexican border to the US-Canadian border through the mountain ranges of 
+western North America. Individuals who hike the entire length of the trail in 
+one season (4-6 months) perform long daily exercise durations while exposed to 
+extreme environmental temperatures, high altitudes, intense solar radiation, and 
+the consumption of calorie-rich, nutrient-poor diets. This case study reports 
+changes in arterial function and body composition in a subject before and after 
+a 112-day long-distance hike of the PCT. Brachial artery flow-mediated dilation, 
+a measure of vascular endothelial function, decreased from: 6.97% to 5.00%. 
+Carotid-femoral pulse wave velocity, a measure of aortic stiffness, increased 
+from 5.39 to 5.76 m/s. Dual-energy x-ray absorptiometry scans detected no major 
+changes in total-body bone mineral density, fat mass, or lean mass, although 
+there were minor, unfavorable changes in some subregions of the body. It is 
+important for individuals completing a long-distance hike to be aware of the 
+potential deleterious changes associated with large volumes of exercise and 
+consuming a high-calorie, low-quality diet.
+
+© 2021 The Authors. Physiological Reports published by Wiley Periodicals LLC on 
+behalf of The Physiological Society and the American Physiological Society.
+
+DOI: 10.14814/phy2.14767
+PMCID: PMC7931801
+PMID: 33661563 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.

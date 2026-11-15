@@ -1,0 +1,52 @@
+# Source: PubMed (NCBI E-utilities efetch)
+# URL: https://pubmed.ncbi.nlm.nih.gov/36327640/
+# Fetched: 2026-11-15
+# PMID: 36327640
+
+1. Clinics (Sao Paulo). 2022 Oct 31;77:100124. doi: 10.1016/j.clinsp.2022.100124.
+ eCollection 2022.
+
+The supplementation of L-carnitine in septic shock patients: Systematic review 
+and meta-analysis.
+
+Guedes GV(1), Minicucci MF(2), Tanni SE(2).
+
+Author information:
+(1)Faculdade de Medicina de Botucatu, Universidade Estadual Paulista (UNESP), 
+Botucatu, SP, Brazil. Electronic address: gvoltaniguedes@gmail.com.
+(2)Internal Medicine Department, Faculdade de Medicina de Botucatu, Universidade 
+Estadual Paulista (UNESP), Botucatu, SP, Brazil.
+
+BACKGROUND: Sepsis and septic shock are severe and difficult-to-treat conditions 
+with high lethality. There is interest in identifying new adjunct therapies that 
+are effective in reducing mortality. In this context, L-carnitine has been 
+investigated in trials as a potentially beneficial drug. Therefore, the aim of 
+this systematic review was to assess the clinical evidence to support the use of 
+L-carnitine in septic shock patients to reduce the risk of mortality. The 
+objective of this review was to evaluate the effect of L-carnitine compared to 
+placebo or Usual Care (UC) on the mortality rate in hospitalized adult septic 
+shock patients.
+METHODS: The authors exclusively included randomized clinical trials that 
+compared the use of L-carnitine versus placebo in adult (> 18 years old) septic 
+shock patients. The outcome was a mortality rate of 28 days. This systematic 
+review and meta-analysis were performed following the PRISMA guidelines and 
+registered in PROSPERO with the ID CRD42020180499.
+RESULTS: Following the initial search, 4007 citations were identified, 
+with 2701 remaining after duplicate removal. Eight citations were selected for 
+body text reading, and two were selected for inclusion. The studies 
+enrolled 275 patients, with 186 in the carnitine arm and 89 in the placebo arm. 
+The effect of L-carnitine uses in septic shock patients showed a difference risk 
+of -0.03 (95% Confidence Interval: -0.15-0.10, I2 = 77%, p = 0.69) compared to 
+placebo/in mortality rate with low quality of evidence.
+CONCLUSIONS: There is low-quality evidence that the use of L-carnitine has no 
+significant effect on reducing 28-day mortality in septic shock patients.
+
+Copyright © 2022 HCFMUSP. Published by Elsevier España, S.L.U. All rights 
+reserved.
+
+DOI: 10.1016/j.clinsp.2022.100124
+PMCID: PMC9636543
+PMID: 36327640 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflicts of interest The authors declare no 
+conflicts of interest.

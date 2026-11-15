@@ -1,0 +1,44 @@
+PMID: 9703262
+PubMed URL: https://pubmed.ncbi.nlm.nih.gov/9703262/
+Fetched via NCBI eutils efetch, accessed 2026-11-15
+
+1. Biol Pharm Bull. 1998 Jul;21(7):752-5. doi: 10.1248/bpb.21.752.
+
+Fractional absorption of L-carnitine after oral administration in rats: 
+evaluation of absorption site and dose dependency.
+
+Matsuda K(1), Yuasa H, Watanabe J.
+
+Author information:
+(1)Faculty of Pharmaceutical Sciences, Nagoya City University, Japan.
+
+We evaluated the fractional absorption of L-carnitine, a gamma-amino acid 
+essential cofactor for the transfer of long-chain fatty acids, in rats in vivo 
+after oral administration to determine its absorption behavior. At both low 
+(0.05 micromol/rat) and high (100 micromol/rat) doses, L-carnitine was recovered 
+only from the region of the cecum and below at 10 h after administration. During 
+a major shift in distribution from cecum at 10 h to feces at 24 h, there was no 
+significant change in the total recovery at each dose, suggesting that 
+L-carnitine absorption is negligible in the cecum and the large intestine (colon 
+and rectum). However, the recovery of L-carnitine was incomplete and the 
+fraction recovered was larger at the high dose than at the low dose. The 
+fractions absorbed were estimated to be 96.7 and 33.0% for the low and high 
+doses, respectively, as these were the fractions that disappeared from the 
+gastrointestinal tract. These values were comparable with 100 and 42%, 
+respectively, of bioavailability values by the pharmacokinetic analysis of 
+plasma concentration data in our preceding study [Matsuda et al., 
+Biopharmaceutics & Drug Disposition, in press]. These results suggest that 
+L-carnitine is significantly absorbed only in the small intestine, without 
+undergoing first-pass degradation, and in a dose-dependent manner presumably due 
+to the involvement of saturable transport by L-carnitine carriers. Consistent 
+with the suggestions in vivo, L-carnitine absorption in the closed intestinal 
+loop in situ was concentration-dependent in the small intestine but not in the 
+large intestine, and the apparent membrane permeability in the large intestine 
+was smaller by an order of magnitude than that of passive transport in the small 
+intestine. These findings support our preceding kinetic modeling strategy 
+assuming the small intestine to be the sole absorption site, and should be of 
+help in guiding studies on development of more efficient oral L-carnitine 
+delivery strategies.
+
+DOI: 10.1248/bpb.21.752
+PMID: 9703262 [Indexed for MEDLINE]

@@ -1,0 +1,60 @@
+SOURCE: Protein ingestion acutely inhibits insulin-stimulated muscle carnitine uptake in healthy young men.
+URL: https://pubmed.ncbi.nlm.nih.gov/26675771/
+FETCHED: 2026-11-15 via NCBI efetch (pubmed abstract, retmode=text)
+PMID: 26675771
+DOI: 10.3945/ajcn.115.119826
+------------------------------------------------------------------------
+13. Am J Clin Nutr. 2016 Jan;103(1):276-82. doi: 10.3945/ajcn.115.119826. Epub
+2015  Dec 16.
+
+Protein ingestion acutely inhibits insulin-stimulated muscle carnitine uptake in 
+healthy young men.
+
+Shannon CE(1), Nixon AV(1), Greenhaff PL(1), Stephens FB(2).
+
+Author information:
+(1)Medical Research Council/Arthritis Research UK Centre for Musculoskeletal 
+Ageing Research, School of Life Sciences, University of Nottingham, United 
+Kingdom.
+(2)Medical Research Council/Arthritis Research UK Centre for Musculoskeletal 
+Ageing Research, School of Life Sciences, University of Nottingham, United 
+Kingdom francis.stephens@nottingham.ac.uk.
+
+BACKGROUND: Increasing skeletal muscle carnitine content represents an appealing 
+intervention in conditions of perturbed lipid metabolism such as obesity and 
+type 2 diabetes but requires chronic L-carnitine feeding on a daily basis in a 
+high-carbohydrate beverage.
+OBJECTIVE: We investigated whether whey protein ingestion could reduce the 
+carbohydrate load required to stimulate insulin-mediated muscle carnitine 
+accretion.
+DESIGN: Seven healthy men [mean ± SD age: 24 ± 5 y; body mass index (in 
+kg/m(2)): 23 ± 3] ingested 80 g carbohydrate, 40 g carbohydrate + 40 g protein, 
+or control (flavored water) beverages 60 min after the ingestion of 4.5 g 
+L-carnitine tartrate (3 g L-carnitine; 0.1% (2)[H]3-L-carnitine). Serum insulin 
+concentration, net forearm carnitine balance (NCB; arterialized-venous and 
+venous plasma carnitine difference × brachial artery flow), and carnitine 
+disappearance (Rd) and appearance (Ra) rates were determined at 20-min intervals 
+for 180 min.
+RESULTS: Serum insulin and plasma flow areas under the curve (AUCs) were 
+similarly elevated by carbohydrate [4.5 ± 0.8 U/L · min (P < 0.01) and 0.5 ± 0.6 
+L (P < 0.05), respectively] and carbohydrate+protein [3.8 ± 0.6 U/L · min (P < 
+0.01) and 0.4 ± 0.6 L (P = 0.05), respectively] consumption, respectively, 
+compared with the control visit (0.04 ± 0.1 U/L · min and -0.5 ± 0.2 L). Plasma 
+carnitine AUC was greater after carbohydrate+protein consumption (3.5 ± 0.5 
+mmol/L · min) than after control and carbohydrate visits [2.1 ± 0.2 mmol/L · min 
+(P < 0.05) and 1.9 ± 0.3 mmol/L · min (P < 0.01), respectively]. NCB AUC with 
+carbohydrate (4.1 ± 3.1 μmol) was greater than during control and 
+carbohydrate-protein visits (-8.6 ± 3.0 and -14.6 ± 6.4 μmol, respectively; P < 
+0.05), as was Rd AUC after carbohydrate (35.7 ± 25.2 μmol) compared with control 
+and carbohydrate consumption [19.7 ± 15.5 μmol (P = 0.07) and 14.8 ± 9.6 μmol (P 
+< 0.05), respectively].
+CONCLUSIONS: The insulin-mediated increase in forearm carnitine balance with 
+carbohydrate consumption was acutely blunted by a carbohydrate+protein beverage, 
+which suggests that carbohydrate+protein could inhibit chronic muscle carnitine 
+accumulation.
+
+© 2016 American Society for Nutrition.
+
+DOI: 10.3945/ajcn.115.119826
+PMCID: PMC4756606
+PMID: 26675771 [Indexed for MEDLINE]

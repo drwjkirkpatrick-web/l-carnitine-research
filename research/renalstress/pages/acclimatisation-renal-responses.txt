@@ -1,0 +1,16 @@
+PMID: 31085130
+URL: https://pubmed.ncbi.nlm.nih.gov/31085130/
+Title: Variation in renal responses to exercise in the heat with progressive acclimatisation.
+Authors: Omassoli J; Hill NE; Woods DR; Delves SK; Fallowfield JL; Brett SJ; Wilson D; Corbett RW; Allsopp AJ; Stacey MJ
+Journal: Journal of science and medicine in sport
+Year: 2019
+Vol/Pages: 22(9):1004-1009
+DOI: 10.1016/j.jsams.2019.04.010
+Accessed: 2026-11-15 (NCBI PubMed efetch abstract)
+
+ABSTRACT
+OBJECTIVES: To investigate changes in renal status from exercise in the heat with acclimatisation and to evaluate surrogates markers of Acute Kidney Injury.
+DESIGN: Prospective observational cohort study.
+METHODS: 20 male volunteers performed 60 min standardised exercise in the heat, at baseline and on four subsequent occasions during a 23-day acclimatisation regimen. Blood was sampled before and after exercise for serum creatinine, copeptin, interleukin-6, normetanephrine and cortisol. Fractional excretion of sodium was calculated for corresponding urine samples. Ratings of Perceived Exertion were reported every 5 min during exercise. Acute Kidney Injury was defined as serum creatinine rise ≥26.5 μmol L-1 or fall in estimated glomerular filtration rate >25%. Predictive values of each candidate marker for developing Acute Kidney Injury were determined by ROC analysis.
+RESULTS: From baseline to Day 23, serum creatinine did not vary at rest, but showed a significant (P<0.05) reduction post-exercise (120 [102, 139] versus 102 [91, 112] μmol L-1). Acute Kidney Injury was common (26/100 exposures) and occurred most frequently in the unacclimatised state. Log-normalised fractional excretion of sodium showed a significant interaction (exercise by acclimatization day), with post-exercise values tending to rise with acclimatisation. Ratings of Perceived Exertion predicted AKI (AUC 0.76, 95% confidence interval 0.65-0.88), performing at least as well as biochemical markers.
+CONCLUSIONS: Heat acclimatization is associated with reduced markers of renal stress and AKI incidence, perhaps due to improved regional perfusion. Acclimatisation and monitoring Ratings of Perceived Exertion are practical, non-invasive measures that could help to reduce renal injury from exercise in the heat.

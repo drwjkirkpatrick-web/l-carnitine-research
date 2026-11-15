@@ -1,0 +1,49 @@
+PMID: 36293168
+PubMed URL: https://pubmed.ncbi.nlm.nih.gov/36293168/
+Fetched via NCBI eutils efetch, accessed 2026-11-15
+
+1. Int J Mol Sci. 2022 Oct 14;23(20):12304. doi: 10.3390/ijms232012304.
+
+PGC-1α and MEF2 Regulate the Transcription of the Carnitine Transporter OCTN2 
+Gene in C2C12 Cells and in Mouse Skeletal Muscle.
+
+Novakova K(1), Török M(1), Panajatovic M(1), Bouitbir J(1)(2), Duong FHT(3), 
+Handschin C(4), Krähenbühl S(1)(2).
+
+Author information:
+(1)Division of Clinical Pharmacology & Toxicology, University Hospital, 4031 
+Basel, Switzerland.
+(2)Molecular & Systems Toxicology, Department of Pharmaceutical Sciences, 
+University of Basel, 4001 Basel, Switzerland.
+(3)Department of Biomedicine, University of Basel, 4001 Basel, Switzerland.
+(4)Biocenter, University of Basel, 4001 Basel, Switzerland.
+
+OCTN2 (SLC22A5) is a carnitine transporter whose main function is the active 
+transport of carnitine into cells. In skeletal muscle and other organs, the 
+regulation of the SLC22A5 gene transcription has been shown to depend on the 
+nuclear transcription factor PPAR-α. Due to the observation that the muscle 
+OCTN2 mRNA level is maintained in PPAR-α knock-out mice and that PGC-1α 
+overexpression in C2C12 myoblasts increases OCTN2 mRNA expression, we suspected 
+additional regulatory pathways for SLC22A5 gene transcription. Indeed, we 
+detected several binding sites of the myocyte-enhancing factor MEF2 in the 
+upstream region of the SLC22A5 gene, and MEF2C/MEF2D stimulated the activity of 
+the OCTN2 promoter in gene reporter assays. This stimulation was increased by 
+PGC-1α and was blunted for a SLC22A5 promoter fragment with a mutated MEF2 
+binding site. Further, we demonstrated the specific binding of MEF2 to the 
+SLC22A5 gene promoter, and a supershift of the MEF2/DNA complex in 
+electrophoretic mobility shift assays. In immunoprecipitation experiments, we 
+could demonstrate the interaction between PGC-1α and MEF2. In addition, 
+SB203580, a specific inhibitor of p38 MAPK, blocked and interferon-γ stimulated 
+the transcriptional activity of the SLC22A5 gene promoter. Finally, mice with 
+muscle-specific overexpression of OCTN2 showed an increase in OCTN2 mRNA and 
+protein expression in skeletal muscle. In conclusion, we detected and 
+characterized a second stimulatory pathway of SLC22A5 gene transcription in 
+skeletal muscle, which involves the nuclear transcription factor MEF2 and 
+co-stimulation by PGC-1α and which is controlled by the p38 MAPK signaling 
+cascade.
+
+DOI: 10.3390/ijms232012304
+PMCID: PMC9604316
+PMID: 36293168 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.

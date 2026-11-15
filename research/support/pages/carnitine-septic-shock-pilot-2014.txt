@@ -1,0 +1,52 @@
+# Source: PubMed (NCBI E-utilities efetch)
+# URL: https://pubmed.ncbi.nlm.nih.gov/23851424/
+# Fetched: 2026-11-15
+# PMID: 23851424
+
+1. JPEN J Parenter Enteral Nutr. 2014 Aug;38(6):736-43. doi: 
+10.1177/0148607113495414. Epub 2013 Jul 12.
+
+Preliminary safety and efficacy of L-carnitine infusion for the treatment of 
+vasopressor-dependent septic shock: a randomized control trial.
+
+Puskarich MA(1), Kline JA(2), Krabill V(3), Claremont H(3), Jones AE(4).
+
+Author information:
+(1)Department of Emergency Medicine, University of Mississippi Medical Center, 
+Jackson.
+(2)Department of Emergency Medicine, University of Indiana School of Medicine, 
+Indianapolis.
+(3)Department of Emergency Medicine, Carolinas Medical Center, Charlotte, North 
+Carolina.
+(4)Department of Emergency Medicine, University of Mississippi Medical Center, 
+Jackson aejones@umc.edu.
+
+BACKGROUND: Sepsis is characterized by metabolic disturbances, and previous data 
+suggest a relative carnitine deficiency may contribute to metabolic dysfunction. 
+Studies regarding safety and patient-centered efficacy of carnitine during 
+septic shock are lacking.
+METHODS: This was a double-blind randomized control trial of levocarnitine 
+(L-carnitine) infusion vs normal saline for the treatment of 
+vasopressor-dependent septic shock. Patients meeting consensus definition for 
+septic shock with a cumulative vasopressor index ≥ 3 and sequential organ 
+failure assessment (SOFA) score ≥ 5 enrolled within 16 hours of the recognition 
+of septic shock were eligible. The primary safety outcome was difference in 
+serious adverse events (SAEs) per patient between groups. Efficacy outcomes 
+included proportion of patients demonstrating a decrease in SOFA score of 2 or 
+more points at 24 hours and short- and long-term survival.
+RESULTS: Of the 31 patients enrolled, 16 were in the L-carnitine and 15 were in 
+the placebo arm. There was no difference in SAEs between placebo and 
+intervention (2.1 vs 1.8 SAEs per patient, P = .44). There was no difference in 
+the proportion of patients achieving a decrease in SOFA score of 2 or more 
+points at 24 hours between placebo and treatment (53% vs 44%, P = .59). 
+Mortality was significantly lower at 28 days in the L-carnitine group (4/16 vs 
+9/15, P = .048), with a nonsignificant improved survival at 1 year (P = .06).
+CONCLUSION: L-carnitine infusion appears safe in vasopressor-dependent septic 
+shock. Preliminary efficacy data suggest potential benefit of L-carnitine 
+treatment, and further testing is indicated.
+
+© 2013 American Society for Parenteral and Enteral Nutrition.
+
+DOI: 10.1177/0148607113495414
+PMCID: PMC4069250
+PMID: 23851424 [Indexed for MEDLINE]

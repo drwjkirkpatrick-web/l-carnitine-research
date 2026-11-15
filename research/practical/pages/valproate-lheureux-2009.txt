@@ -1,0 +1,49 @@
+9. Clin Toxicol (Phila). 2009 Feb;47(2):101-11. doi: 10.1080/15563650902752376.
+
+Carnitine in the treatment of valproic acid-induced toxicity.
+
+Lheureux PE(1), Hantson P.
+
+Author information:
+(1)Department of Emergency Medicine, Erasme University Hospital, Universite 
+Libre de Bruxelles, Brussels, Belgium. plheureu@ulb.ac.be
+
+INTRODUCTION: Valproic acid (VPA) is a broad-spectrum antiepileptic drug that is 
+now used commonly for several other neurological and psychiatric indications. 
+VPA is usually well tolerated, but serious complications, including 
+hepatotoxicity and hyperammonemic encephalopathy, may occur. These complications 
+may also arise following acute VPA overdose, the incidence of which is 
+increasing. Intoxication usually only results in mild central nervous system 
+depression, but serious toxicity and death have been reported.
+VALPROIC ACID AND CARNITINE: As a branched chain carboxylic acid, VPA is 
+extensively metabolized by the liver via glucuronic acid conjugation, 
+mitochondrial beta- and cytosolic omega-oxidation to produce multiple 
+metabolites, some of which may be involved in its toxicity. Carnitine is an 
+amino acid derivative that is an essential cofactor in the beta-oxidation of 
+fatty acids. It is synthesized endogenously from the essential amino acids, 
+methionine and lysine. VPA inhibits the biosynthesis of carnitine by decreasing 
+the concentration of alpha-ketoglutarate and may contribute to carnitine 
+deficiency. It is postulated that carnitine supplementation may increase the 
+beta-oxidation of VPA, thereby limiting cytosolic omega-oxidation and the 
+production of toxic metabolites that are involved in liver toxicity and ammonia 
+accumulation. VPA-induced hepatotoxicity and hyperammonemic encephalopathy may 
+be promoted either by a pre-existing carnitine deficiency or by deficiency 
+induced by VPA per se.
+CARNITINE SUPPLEMENTATION: Some experimental and clinical data suggest that 
+early intravenous supplementation with l-carnitine could improve survival in 
+severe VPA-induced hepatotoxicity. Carnitine administration has been shown to 
+speed the decrease of ammonemia in patients with VPA-induced encephalopathy 
+although a correlation between ammonia concentrations and the clinical condition 
+was not always observed. As it does not appear to be harmful, l-carnitine is 
+commonly recommended in severe VPA poisoning, especially in children, although 
+the clinical benefit in terms of liver protection or hastening of recovery from 
+unconsciousness has not been established clearly. Prophylactic carnitine 
+supplementation is also advocated during VPA therapy in high-risk pediatric 
+patients.
+CONCLUSION: Further controlled, randomized, and probably multicenter trials are 
+required to better delineate the therapeutic and prophylactic roles of 
+l-carnitine and the optimal regimen of administration in the management of VPA 
+toxicity.
+
+DOI: 10.1080/15563650902752376
+PMID: 19280426 [Indexed for MEDLINE]

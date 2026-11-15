@@ -1,0 +1,56 @@
+SOURCE: l-Carnitine pretreatment ameliorates heat stress-induced acute kidney injury by restoring mitochondrial function of tubular cells.
+URL: https://pubmed.ncbi.nlm.nih.gov/38095023/
+FETCHED: 2026-11-15 via NCBI efetch (pubmed abstract, retmode=text)
+PMID: 38095023
+DOI: 10.1152/ajprenal.00196.2023
+------------------------------------------------------------------------
+13. Am J Physiol Renal Physiol. 2024 Mar 1;326(3):F338-F351. doi: 
+10.1152/ajprenal.00196.2023. Epub 2023 Dec 14.
+
+l-Carnitine pretreatment ameliorates heat stress-induced acute kidney injury by 
+restoring mitochondrial function of tubular cells.
+
+Goto H(1), Nakashima H(2), Mori K(2), Tanoue K(1), Ito S(3), Kearney BM(2)(4), 
+Kato A(2), Nakashima M(2), Imakiire T(1), Kumagai H(1), Kinoshita M(2), Oshima 
+N(1).
+
+Author information:
+(1)Department of Nephrology and Endocrinology, National Defense Medical College, 
+Tokorozawa, Japan.
+(2)Department of Immunology and Microbiology, National Defense Medical College, 
+Tokorozawa, Japan.
+(3)Self-Defense Force Iruma Hospital, Iruma, Japan.
+(4)United States Army Japan Engineer and Scientist Exchange Program, Camp Zama, 
+Zama, Japan.
+
+A major complication of heat-related illness is the development of acute kidney 
+injury (AKI) and damage to kidney tubular cells. Because kidney tubular cells 
+use fatty acids as a major energy source, impaired fatty acid oxidation (FAO) 
+may be associated with kidney injury due to heat stress. Carnitine is essential 
+in the transportation of fatty acid into mitochondria for FAO. To date, there 
+has been little attention given to the role of carnitine in heat-related illness 
+and AKI. To evaluate the relationship between carnitine inadequacy and 
+heat-related illness severity or AKI, we examined serum carnitine levels in 
+patients with heat-related illness. We also used heat-stressed mice to 
+investigate the effect of l-carnitine pretreatment on various kidney functions 
+such as mitochondrial activity, proinflammatory changes in kidney macrophages, 
+and histological damage. We observed an elevation in serum acylcarnitine levels, 
+indicating carnitine insufficiency in patients with severe heat-related illness 
+and/or AKI. l-Carnitine pretreatment ameliorated ATP production in murine 
+tubular cell mitochondria and prevented a change in the kidney macrophage 
+population dynamics observed in AKI: a decrease in tissue-resident macrophages, 
+influx of bone marrow-derived macrophages, and change toward proinflammatory M1 
+polarization. In conclusion, carnitine insufficiency may be closely associated 
+with severe heat-related illness and related AKI. Enhancement of the FAO pathway 
+by l-carnitine pretreatment may prevent heat stress-induced AKI by restoring 
+mitochondrial function.NEW & NOTEWORTHY Enhancing fatty acid oxidation (FAO) 
+after acute kidney injury (AKI) improves renal outcomes. This report shows that 
+carnitine insufficiency, which could inhibit FAO, correlates to severe 
+heat-related illness and AKI in a clinical study. We also demonstrate that 
+administering l-carnitine to mice improves mitochondrial respiratory function 
+and prevents deleterious changes in renal macrophage, resulting in improved 
+renal outcomes of heat-induced AKI. l-Carnitine may be an effective preventive 
+treatment for severe heat-related illness and related AKI.
+
+DOI: 10.1152/ajprenal.00196.2023
+PMID: 38095023 [Indexed for MEDLINE]

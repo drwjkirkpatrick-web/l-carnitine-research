@@ -1,0 +1,54 @@
+SOURCE: The bright and the dark sides of L-carnitine supplementation: a systematic review.
+URL: https://pubmed.ncbi.nlm.nih.gov/32958033/
+FETCHED: 2026-11-15 via NCBI efetch (pubmed abstract, retmode=text)
+PMID: 32958033
+DOI: 10.1186/s12970-020-00377-2
+------------------------------------------------------------------------
+1. J Int Soc Sports Nutr. 2020 Sep 21;17(1):49. doi: 10.1186/s12970-020-00377-2.
+
+The bright and the dark sides of L-carnitine supplementation: a systematic 
+review.
+
+Sawicka AK(1), Renzi G(2), Olek RA(3).
+
+Author information:
+(1)Department of Human Physiology, Faculty of Health Sciences, Medical 
+University of Gdansk, 80-210, Gdansk, Poland.
+(2)University of Camerino, 62032, Camerino, Italy.
+(3)Department of Athletics, Strength and Conditioning, Poznan University of 
+Physical Education, Krolowej Jadwigi 27/39, 61-871, Poznan, Poland. 
+robert.olek@aol.com.
+
+BACKGROUND: L-carnitine (LC) is used as a supplement by recreationally-active, 
+competitive and highly trained athletes. This systematic review aims to evaluate 
+the effect of prolonged LC supplementation on metabolism and metabolic 
+modifications.
+METHODS: A literature search was conducted in the MEDLINE (via PubMed) and Web 
+of Science databases from the inception up February 2020. Eligibility criteria 
+included studies on healthy human subjects, treated for at least 12 weeks with 
+LC administered orally, with no drugs or any other multi-ingredient supplements 
+co-ingestion.
+RESULTS: The initial search retrieved 1024 articles, and a total of 11 studies 
+were finally included after applying inclusion and exclusion criteria. All the 
+selected studies were conducted with healthy human subjects, with supplemented 
+dose ranging from 1 g to 4 g per day for either 12 or 24 weeks. LC 
+supplementation, in combination with carbohydrates (CHO) effectively elevated 
+total carnitine content in skeletal muscle. Twenty-four-weeks of LC 
+supplementation did not affect muscle strength in healthy aged women, but 
+significantly increased muscle mass, improved physical effort tolerance and 
+cognitive function in centenarians. LC supplementation was also noted to induce 
+an increase of fasting plasma trimethylamine-N-oxide (TMAO) levels, which was 
+not associated with modification of determined inflammatory nor oxidative stress 
+markers.
+CONCLUSION: Prolonged LC supplementation in specific conditions may affect 
+physical performance. On the other hand, LC supplementation elevates fasting 
+plasma TMAO, compound supposed to be pro-atherogenic. Therefore, additional 
+studies focusing on long-term supplementation and its longitudinal effect on the 
+cardiovascular system are needed.
+
+DOI: 10.1186/s12970-020-00377-2
+PMCID: PMC7507632
+PMID: 32958033 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.

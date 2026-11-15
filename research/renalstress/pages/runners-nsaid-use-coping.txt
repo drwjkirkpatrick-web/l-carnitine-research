@@ -1,0 +1,15 @@
+PMID: 29308843
+URL: https://pubmed.ncbi.nlm.nih.gov/29308843/
+Title: Associations between recreational runners' anti-inflammatory drug use, coping strategies, and time loss due to injury and illness during preparations for a marathon event.
+Authors: Tillander B; Gauffin H; Dahlström Ö; Timpka T
+Journal: The Journal of sports medicine and physical fitness
+Year: 2018
+Vol/Pages: 58(12):1839-1843
+DOI: 10.23736/S0022-4707.18.07747-2
+Accessed: 2026-11-15 (NCBI PubMed efetch abstract)
+
+ABSTRACT
+BACKGROUND: Due to the dominance of overuse injuries among runners, knowledge of how use of non-steroidal anti-inflammatory drugs (NSAIDs) and behavioral factors contribute to injury events is important. The aim of this study was to explore recreational marathon runners' strategies for coping with injury and illness, including use of drugs for control of pain and inflammation, and to investigate whether these strategies were associated with the 1-year prevalence of time-loss injury and illness.
+METHODS: An online questionnaire was used for data collection in this cross-sectional study. The population consisted of runners who had registered for a marathon (N.=341). Strategies used to understand and manage perceptions of injury and illness were measured with the Brief COPE instrument and the use of NSAIDs was investigated.
+RESULTS: Complete survey data were provided by 161 runners (47%). 42% reported NSAID use. A notable injury in the past year was reported by 43%, and 19% reported having had a time-loss illness episode. Runners who reported NSAID use in the past year reported significantly fewer time-loss injuries (P=0.003). Time loss due to illness only showed a negative correlation with using emotional support for coping (P=0.010) and a positive correlation with self-blame (P=0.039).
+CONCLUSIONS: Runners stating NSAID use reported fewer time-loss running injuries than non-NSAID users. Time loss due to illness showed different correlates with NSAID use and coping strategies than time loss due to injury, i.e. no association with drug use, less use of emotional support for coping and more use of self-blame.

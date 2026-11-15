@@ -1,0 +1,56 @@
+PMID: 11069438
+PubMed URL: https://pubmed.ncbi.nlm.nih.gov/11069438/
+Fetched via NCBI eutils efetch, accessed 2026-11-15
+
+1. Br J Clin Pharmacol. 2000 Nov;50(5):441-8. doi: 
+10.1046/j.1365-2125.2000.00280.x.
+
+Pharmacokinetics of propionyl-L-carnitine in humans: evidence for saturable 
+tubular reabsorption.
+
+Pace S(1), Longo A, Toon S, Rolan P, Evans AM.
+
+Author information:
+(1)Sigma Tau Industrie Farmaceutiche Riunite s.p.a., Pomezia, Rome, Italy.
+
+AIMS: Propionyl-L-carnitine (PLC) is an endogenous compound which, along with 
+L-carnitine (LC) and acetyl-L-carnitine (ALC), forms a component of the 
+endogenous carnitine pool in humans and most, if not all, animal species. PLC is 
+currently under investigation for the treatment of peripheral artery disease, 
+and the present study was conducted to assess the pharmacokinetics of 
+intravenous propionyl-L-carnitine hydrochloride.
+METHODS: This was a placebo-controlled, double-blind, parallel group, 
+dose-escalating study in which 24 healthy males were divided into four groups of 
+six. Four subjects from each group received propionyl-L-carnitine hydrochloride 
+and two received placebo. The doses (1 g, 2 g, 4 g and 8 g) were administered as 
+a constant rate infusion over 2 h and blood and urine were collected for 24 h 
+from the start of the infusion. PLC, ALC and LC in plasma and urine were 
+quantified by h.p. l.c.
+RESULTS: All 24 subjects successfully completed the study and the infusions were 
+well tolerated. In addition to the expected increase in PLC levels, the plasma 
+concentrations and urinary excretion of LC and ALC also increased above baseline 
+values following intravenous propionyl-L-carnitine hydrochloride administration. 
+At a dose of 1 g, PLC was found to have a mean (+/- s.d.) half-life of 1.09 +/- 
+0.15 h, a clearance of 11.6 +/- 0.24 l h-1 and a volume of distribution of 18.3 
++/- 2.4 l. None of these parameters changed with dose. In placebo-treated 
+subjects, endogenous PLC, LC and ALC underwent extensive renal tubular 
+reabsorption, as indicated by renal excretory clearance to GFR ratios of less 
+than 0.1. The renal-excretory clearance of PLC, which was 0.33 +/- 0.38 l h-1 
+under baseline condition, increased (P < 0. 001) from 1.98 +/- 0.59 l h-1 at a 
+dose of 1 g to 5.55 +/- 1.50 l h-1 at a dose of 8 g (95% confidence interval for 
+the difference was 2.18,4.97). As a consequence, the percent of the dose 
+excreted unchanged in urine increased (P < 0.001) from 18.1 +/- 5.5% (1 g) to 
+50.3 +/- 13.3% (8 g). The renal-excretory clearance of LC and ALC also increased 
+substantially after PLC administration and there was evidence for renal 
+metabolism of PLC to LC and ALC.
+CONCLUSIONS: Intravenous administration of propionyl-L-carnitine hydrochloride 
+caused significant increases in the renal excretory clearances of PLC, LC and 
+ALC, due to saturation of the renal tubular reabsorption process - as a 
+consequence there was a substantial increase with dose in the fraction excreted 
+unchanged in urine. Despite the marked increase in the renal clearance of PLC, 
+total clearance remained unchanged, suggesting a compensatory reduction in the 
+clearance of the compound by non excretory routes.
+
+DOI: 10.1046/j.1365-2125.2000.00280.x
+PMCID: PMC2014409
+PMID: 11069438 [Indexed for MEDLINE]

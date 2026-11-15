@@ -1,0 +1,357 @@
+# URL: https://pubmed.ncbi.nlm.nih.gov/40603925/
+# Fetched via web_extract on 2026-11-15
+
+Clipboard, Search History, and several other advanced features are temporarily unavailable.
+
+
+[Skip to main page content](https://pubmed.ncbi.nlm.nih.gov/40603925/#article-details)
+
+### NIH Websites Are Changing
+
+- [Get the Latest Updates and FAQs on the transition](https://www.nih.gov/web-modernization)
+- Per [Executive Order 14434](https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/), federal agencies are now using "Super Intelligence" (SI) in place of "Artificial Intelligence" (AI). You may see both terms across NIH content during this transition.
+
+![Dot gov](https://cdn.ncbi.nlm.nih.gov/coreutils/uswds/img/icon-dot-gov.svg)
+
+**The .gov means it’s official.**
+
+Federal government websites often end in .gov or .mil. Before
+sharing sensitive information, make sure you’re on a federal
+government site.
+
+
+![Https](https://cdn.ncbi.nlm.nih.gov/coreutils/uswds/img/icon-https.svg)
+
+**The site is secure.**
+
+The **https://** ensures that you are connecting to the
+official website and that any information you provide is encrypted
+and transmitted securely.
+
+
+[Access keys](https://www.ncbi.nlm.nih.gov/guide/browsers/#ncbi_accesskeys) [NCBI Homepage](https://www.ncbi.nlm.nih.gov/) [MyNCBI Homepage](https://pubmed.ncbi.nlm.nih.gov/myncbi/) [Main Content](https://pubmed.ncbi.nlm.nih.gov/40603925/#maincontent) [Main Navigation](https://pubmed.ncbi.nlm.nih.gov/40603925/#)
+
+[![pubmed logo](https://cdn.ncbi.nlm.nih.gov/pubmed/a447896c-976f-490b-b86b-2668b65114a8/core/images/pubmed-logo-blue.svg)](https://pubmed.ncbi.nlm.nih.gov/)[Show search bar](https://pubmed.ncbi.nlm.nih.gov/40603925/# "Show search bar")
+
+Search:
+
+
+```
+
+```
+
+[Clear search input](https://pubmed.ncbi.nlm.nih.gov/40603925/# "Clear search input") Search
+
+[Advanced](https://pubmed.ncbi.nlm.nih.gov/advanced/) [Clipboard](https://pubmed.ncbi.nlm.nih.gov/clipboard/)
+
+[User Guide](https://pubmed.ncbi.nlm.nih.gov/help/)
+
+Save
+
+Email
+
+
+Send to
+
+- [Clipboard](https://pubmed.ncbi.nlm.nih.gov/40603925/#)
+- [My Bibliography](https://account.ncbi.nlm.nih.gov/?back_url=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F40603925%2F%23open-bibliography-panel)
+- [Collections](https://account.ncbi.nlm.nih.gov/?back_url=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F40603925%2F%23open-collections-panel)
+- [Citation manager](https://pubmed.ncbi.nlm.nih.gov/40603925/#)
+
+Display options
+
+Display options
+
+
+Format
+AbstractPubMedPMID
+
+## Save citation to file
+
+Format:
+Summary (text)PubMedPMIDAbstract (text)CSV
+
+Create file
+
+Cancel
+
+
+## Email citation
+
+Email address has not been verified. Go to
+[My NCBI account settings](https://account.ncbi.nlm.nih.gov/settings/)
+to confirm your email and then refresh this page.
+
+
+To:
+
+
+Subject:
+
+
+Body:
+
+
+Format:
+SummarySummary (text)AbstractAbstract (text)
+
+MeSH and other data
+
+
+Send email
+
+Cancel
+
+
+### Add to Collections
+
+- Create a new collection
+- Add to an existing collection
+
+Name your collection:
+
+
+Name must be less than 100 characters
+
+
+Choose a collection:
+
+
+Unable to load your collection due to an error
+
+[Please try again](https://pubmed.ncbi.nlm.nih.gov/40603925/#)
+
+Add
+
+Cancel
+
+
+### Add to My Bibliography
+
+- My Bibliography
+
+Unable to load your delegates due to an error
+
+[Please try again](https://pubmed.ncbi.nlm.nih.gov/40603925/#)
+
+Add
+
+Cancel
+
+
+## Your saved search
+
+Name of saved search:
+
+
+Search terms:
+
+
+[Test search terms](https://pubmed.ncbi.nlm.nih.gov/40603925/#)
+
+Would you like email updates of new search results?
+Saved Search Alert Radio Buttons
+
+- Yes
+- No
+
+Email:
+( [change](https://www.ncbi.nlm.nih.gov/account/settings/))
+
+Frequency:
+MonthlyWeeklyDaily
+
+Which day?
+The first SundayThe first MondayThe first TuesdayThe first WednesdayThe first ThursdayThe first FridayThe first SaturdayThe first dayThe first weekday
+
+Which day?
+SundayMondayTuesdayWednesdayThursdayFridaySaturday
+
+Report format:
+SummarySummary (text)AbstractAbstract (text)PubMed
+
+Send at most:
+1 item5 items10 items20 items50 items100 items200 items
+
+Send even when there aren't any new results
+
+
+Optional text in email:
+
+
+Save
+
+Cancel
+
+
+## Create a file for external citation management software
+
+Create file
+
+Cancel
+
+
+## Your RSS Feed
+
+Name of RSS Feed:
+
+
+Number of items displayed:
+510152050100
+
+Create RSS
+
+Cancel
+
+
+RSS Link
+Copy
+
+
+Full text links
+Cite
+
+Display options
+
+Display options
+
+
+Format
+AbstractPubMedPMID
+
+Linked Discoveries
+
+## Abstract
+
+
+Trimethylamine-N-oxide (TMAO) is a gut microbiome-derived metabolite of choline, L-carnitine and lecithin, abundant in animal source foods. In experimental models, higher blood TMAO levels enhance atherosclerotic cardiovascular disease (ASCVD). However in humans, most prior studies have evaluated high risk or secondary prevention populations, and no studies have investigated relationships in a diverse, multi-ethnic population. We evaluated 6,767 US adults free of ASCVD at baseline in the community-based Multi-Ethnic Study of Atherosclerosis (MESA), including 38% identifying as White; 28%, as Black; 22%, as Hispanic; and 12%, as Chinese adults. Plasma TMAO was measured serially at baseline and 5-years, and its time-varying association with incident ASCVD determined using Cox proportional hazards. Multivariate analyses adjusted for time-varying demographics, lifestyle factors, medical history, lipid measures, antibiotic use and dietary habits. During median 11.3 years follow-up, 852 ASCVD events occurred. After multivariate adjustment, TMAO associated with higher risk of ASCVD in a dose-dependent fashion, with hazard ratios across quintiles of 1.02, 1.17, 1.23, and 1.33 (95% CI 1.02, 1.74), respectively, compared to the lowest quintile (P-trend = 0.01). Risk appeared possibly larger among Hispanic and Chinese adults; and among individuals with lower baseline renal function; although these interactions did not achieve statistical significance. Plasma concentrations of TMAO associated with higher risk of incident ASCVD in this multi-ethnic US cohort, supporting a need to test dietary and pharmacologic interventions targeting the diet-microbiome axis for potential cardiovascular risk prevention in diverse populations.
+
+
+**Keywords:**
+
+Cardiovascular disease (CVD); Major adverse cardiac events (MACE); Myocardial infarction; Nutrition; Trimethylamine N-oxide (TMAO).
+
+
+© 2025\. The Author(s).
+
+
+[PubMed Disclaimer](https://pubmed.ncbi.nlm.nih.gov/disclaimer/)
+
+## Conflict of interest statement
+
+Declarations. Competing interests: The authors declare no competing interests. Disclosures: Dr. WHW Tang is a consultant for Sequana Medical A.V., Cardiol Therapeutics Inc, Genomics plc, Zehna Therapeutics Inc, and has received honorarium from Springer Nature for authorship/editorship and American Board of Internal Medicine for exam writing committee. Drs Hazen and Wang report being named as co-inventors on pending and issued patents held by the Cleveland Clinic relating to cardiovascular diagnostics and therapeutics. Drs SL Hazen and Z Wang report having received royalty payments for inventions or discoveries related to cardiovascular diagnostics or therapeutics from Cleveland Heart Lab, a fully owned subsidiary of Quest Diagnostics, and Procter & Gamble. Dr. Hazen is a paid consultant for Zehna Therapeutics, and has received research funds from Zehna Therapeutics, Proctor & Gamble, Pfizer Inc., and Roche Diagnostics. Dr Psaty reported serving on the Steering Committee of the Yale Open Data Access Project funded by Johnson & Johnson. Dr Mozaffarian reported receiving personal fees from Acasti Pharma Inc and Barilla; serving on the scientific advisory board for Beren Therapeutics, Brightseed, Calibrate, Elysium Health, Filtricine Inc, Foodome, HumanCo, Instacart, January, Inc, Perfect Day Inc, and (ended) Day Two, Discern Dx, Season Health, and Tiny Organics; and receiving chapter royalties from UpToDate outside the submitted work. No other disclosures were reported.
+
+## Figures
+
+[![Fig. 1](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/18f2/12222875/848614ba179b/41598_2025_5903_Fig1_HTML.gif)](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/18f2/12222875/4655fef29bf4/41598_2025_5903_Fig1_HTML.jpg)
+
+**Fig. 1**
+
+STROBE diagram for patient characteristics.…
+
+**Fig. 1**
+
+STROBE diagram for patient characteristics. Abbreviations: MESA = Multiethnic Study of Atherosclerosis; TMAO…
+
+**Fig. 1**
+
+STROBE diagram for patient characteristics. Abbreviations: MESA = Multiethnic Study of Atherosclerosis; TMAO = trimethylamine _N_-oxide.
+
+[![Fig. 2](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/18f2/12222875/4d684778b93a/41598_2025_5903_Fig2_HTML.gif)](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/18f2/12222875/d1c41892df3f/41598_2025_5903_Fig2_HTML.jpg)
+
+**Fig. 2**
+
+Multivariate-adjusted relationships between plasma TMAO…
+
+**Fig. 2**
+
+Multivariate-adjusted relationships between plasma TMAO and ASCVD evaluated using restricted cubic splines. Knots…
+
+**Fig. 2**
+
+
+[... middle omitted — see footer ...]
+
+
+- United States / epidemiology
+
+
+
+
+Actions
+
+
+
+
+
+  - [Search in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22United+States%2Fepidemiology%22%5BMeSH%5D&sort=date&sort_order=desc)
+  - [Search in MeSH](https://www.ncbi.nlm.nih.gov/mesh?term=United+States)
+  - [Add to Search](https://pubmed.ncbi.nlm.nih.gov/40603925/#)
+
+## Substances
+
+- trimethyloxamine
+
+
+
+
+Actions
+
+
+
+
+
+  - [Search in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22trimethyloxamine%22%5Bnm%5D&sort=date&sort_order=desc)
+  - [Search in MeSH](https://www.ncbi.nlm.nih.gov/mesh?term=%22trimethyloxamine%22)
+  - [Add to Search](https://pubmed.ncbi.nlm.nih.gov/40603925/#)
+
+- Methylamines
+
+
+
+
+Actions
+
+
+
+
+
+  - [Search in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22Methylamines%22%5Bnm%5D&sort=date&sort_order=desc)
+  - [Search in MeSH](https://www.ncbi.nlm.nih.gov/mesh?term=%22Methylamines%22)
+  - [Add to Search](https://pubmed.ncbi.nlm.nih.gov/40603925/#)
+
+## Related information
+
+- [MedGen](https://www.ncbi.nlm.nih.gov/medgen?linkname=pubmed_medgen&from_uid=40603925 "Related information in MedGen")
+- [PubChem Compound (MeSH Keyword)](https://www.ncbi.nlm.nih.gov/pccompound?linkname=pubmed_pccompound_mesh&from_uid=40603925 "Related PubChem Compound via MeSH")
+
+## Grants and funding
+
+- [P01 HL147823/HL/NHLBI NIH HHS/United States](https://pubmed.ncbi.nlm.nih.gov/?term=P01+HL147823%2FHL%2FNHLBI+NIH+HHS%2FUnited+States%5BGrants+and+Funding%5D&sort=date&sort_order=desc "All articles for grant P01 HL147823/HL/NHLBI NIH HHS/United States")
+- [R01 HL103866/HL/NHLBI NIH HHS/United States](https://pubmed.ncbi.nlm.nih.gov/?term=R01+HL103866%2FHL%2FNHLBI+NIH+HHS%2FUnited+States%5BGrants+and+Funding%5D&sort=date&sort_order=desc "All articles for grant R01 HL103866/HL/NHLBI NIH HHS/United States")
+- [R01 HL135920/HL/NHLBI NIH HHS/United States](https://pubmed.ncbi.nlm.nih.gov/?term=R01+HL135920%2FHL%2FNHLBI+NIH+HHS%2FUnited+States%5BGrants+and+Funding%5D&sort=date&sort_order=desc "All articles for grant R01 HL135920/HL/NHLBI NIH HHS/United States")
+- [R01HL135920/NH/NIH HHS/United States](https://pubmed.ncbi.nlm.nih.gov/?term=R01HL135920%2FNH%2FNIH+HHS%2FUnited+States%5BGrants+and+Funding%5D&sort=date&sort_order=desc "All articles for grant R01HL135920/NH/NIH HHS/United States")
+
+## LinkOut - more resources
+
+- ### Full Text Sources
+
+
+  - [Nature Publishing Group](https://doi.org/10.1038/s41598-025-05903-3)
+  - [PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/pmid/40603925/)
+- ### Medical
+
+
+  - [MedlinePlus Health Information](https://medlineplus.gov/atherosclerosis.html)
+
+NCBI Literature Resources
+
+[MeSH](https://www.ncbi.nlm.nih.gov/mesh/) [PMC](https://www.ncbi.nlm.nih.gov/pmc/) [Bookshelf](https://www.ncbi.nlm.nih.gov/books) [Disclaimer](https://pubmed.ncbi.nlm.nih.gov/disclaimer/)
+
+The PubMed wordmark and PubMed logo are registered trademarks of the U.S. Department of Health and Human Services (HHS). Unauthorized use of these marks is strictly prohibited.
+
+──────── [TRUNCATED] ────────
+Showing 8,878 chars (head) + 2,967 chars (tail) of 24,126 total clean characters.
+Full text saved to: /home/walker/.hermes/cache/web/pubmed.ncbi.nlm.nih.gov-0a37856eae.md
+To read the omitted middle: read_file path="/home/walker/.hermes/cache/web/pubmed.ncbi.nlm.nih.gov-0a37856eae.md" offset=269 limit=200  (the file is the complete page; raise/lower offset to page through it).
+─────────────────────────────

@@ -1,0 +1,32 @@
+SOURCE: Effect of L-carnitine supplementation on muscle and blood carnitine content and lactate accumulation during high-intensity sprint cycling.
+URL: https://pubmed.ncbi.nlm.nih.gov/7987362/
+FETCHED: 2026-11-15 via NCBI efetch (pubmed abstract, retmode=text)
+PMID: 7987362
+DOI: 10.1123/ijsn.4.3.280
+------------------------------------------------------------------------
+14. Int J Sport Nutr. 1994 Sep;4(3):280-8. doi: 10.1123/ijsn.4.3.280.
+
+Effect of L-carnitine supplementation on muscle and blood carnitine content and 
+lactate accumulation during high-intensity sprint cycling.
+
+Barnett C(1), Costill DL, Vukovich MD, Cole KJ, Goodpaster BH, Trappe SW, Fink 
+WJ.
+
+Author information:
+(1)Human Performance Laboratory, Ball State University, Muncie, IN 47306.
+
+This study examined the effects of 14 days of L-carnitine supplementation on 
+muscle and blood carnitine fractions, and muscle and blood lactate 
+concentrations, during high-intensity sprint cycling exercise. Eight subjects 
+performed three experimental trials: control I (CON I, Day 0), control II (CON 
+II, Day 14), and L-carnitine (L-CN, Day 28). Each trial consisted of a 4-min 
+ride at 90% VO2max, followed by a rest period of 20 min, and then five repeated 
+1-min rides at 115% VO2max (2 min rest between each). Following CON II, all 
+subjects began dietary supplementation of L-carnitine for a period of 14 days (4 
+g/day). Plasma total acid soluble and free carnitine concentrations were 
+significantly higher (p < .05) at all time points following supplementation. 
+L-carnitine supplementation had no significant effect on muscle carnitine 
+content and thus could not alter lactate accumulation during exercise.
+
+DOI: 10.1123/ijsn.4.3.280
+PMID: 7987362 [Indexed for MEDLINE]

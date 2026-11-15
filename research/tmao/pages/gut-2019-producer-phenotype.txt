@@ -1,0 +1,405 @@
+# URL: https://pubmed.ncbi.nlm.nih.gov/30377191/
+# Fetched via web_extract on 2026-11-15
+
+Clipboard, Search History, and several other advanced features are temporarily unavailable.
+
+
+[Skip to main page content](https://pubmed.ncbi.nlm.nih.gov/30377191/#article-details)
+
+### NIH Websites Are Changing
+
+- [Get the Latest Updates and FAQs on the transition](https://www.nih.gov/web-modernization)
+- Per [Executive Order 14434](https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/), federal agencies are now using "Super Intelligence" (SI) in place of "Artificial Intelligence" (AI). You may see both terms across NIH content during this transition.
+
+![Dot gov](https://cdn.ncbi.nlm.nih.gov/coreutils/uswds/img/icon-dot-gov.svg)
+
+**The .gov means it’s official.**
+
+Federal government websites often end in .gov or .mil. Before
+sharing sensitive information, make sure you’re on a federal
+government site.
+
+
+![Https](https://cdn.ncbi.nlm.nih.gov/coreutils/uswds/img/icon-https.svg)
+
+**The site is secure.**
+
+The **https://** ensures that you are connecting to the
+official website and that any information you provide is encrypted
+and transmitted securely.
+
+
+[Access keys](https://www.ncbi.nlm.nih.gov/guide/browsers/#ncbi_accesskeys) [NCBI Homepage](https://www.ncbi.nlm.nih.gov/) [MyNCBI Homepage](https://pubmed.ncbi.nlm.nih.gov/myncbi/) [Main Content](https://pubmed.ncbi.nlm.nih.gov/30377191/#maincontent) [Main Navigation](https://pubmed.ncbi.nlm.nih.gov/30377191/#)
+
+[![pubmed logo](https://cdn.ncbi.nlm.nih.gov/pubmed/a447896c-976f-490b-b86b-2668b65114a8/core/images/pubmed-logo-blue.svg)](https://pubmed.ncbi.nlm.nih.gov/)[Show search bar](https://pubmed.ncbi.nlm.nih.gov/30377191/# "Show search bar")
+
+Search:
+
+
+```
+
+```
+
+[Clear search input](https://pubmed.ncbi.nlm.nih.gov/30377191/# "Clear search input") Search
+
+[Advanced](https://pubmed.ncbi.nlm.nih.gov/advanced/) [Clipboard](https://pubmed.ncbi.nlm.nih.gov/clipboard/)
+
+[User Guide](https://pubmed.ncbi.nlm.nih.gov/help/)
+
+Save
+
+Email
+
+
+Send to
+
+- [Clipboard](https://pubmed.ncbi.nlm.nih.gov/30377191/#)
+- [My Bibliography](https://account.ncbi.nlm.nih.gov/?back_url=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F30377191%2F%23open-bibliography-panel)
+- [Collections](https://account.ncbi.nlm.nih.gov/?back_url=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F30377191%2F%23open-collections-panel)
+- [Citation manager](https://pubmed.ncbi.nlm.nih.gov/30377191/#)
+
+Display options
+
+Display options
+
+
+Format
+AbstractPubMedPMID
+
+## Save citation to file
+
+Format:
+Summary (text)PubMedPMIDAbstract (text)CSV
+
+Create file
+
+Cancel
+
+
+## Email citation
+
+Email address has not been verified. Go to
+[My NCBI account settings](https://account.ncbi.nlm.nih.gov/settings/)
+to confirm your email and then refresh this page.
+
+
+To:
+
+
+Subject:
+
+
+Body:
+
+
+Format:
+SummarySummary (text)AbstractAbstract (text)
+
+MeSH and other data
+
+
+Send email
+
+Cancel
+
+
+### Add to Collections
+
+- Create a new collection
+- Add to an existing collection
+
+Name your collection:
+
+
+Name must be less than 100 characters
+
+
+Choose a collection:
+
+
+Unable to load your collection due to an error
+
+[Please try again](https://pubmed.ncbi.nlm.nih.gov/30377191/#)
+
+Add
+
+Cancel
+
+
+### Add to My Bibliography
+
+- My Bibliography
+
+Unable to load your delegates due to an error
+
+[Please try again](https://pubmed.ncbi.nlm.nih.gov/30377191/#)
+
+Add
+
+Cancel
+
+
+## Your saved search
+
+Name of saved search:
+
+
+Search terms:
+
+
+[Test search terms](https://pubmed.ncbi.nlm.nih.gov/30377191/#)
+
+Would you like email updates of new search results?
+Saved Search Alert Radio Buttons
+
+- Yes
+- No
+
+Email:
+( [change](https://www.ncbi.nlm.nih.gov/account/settings/))
+
+Frequency:
+MonthlyWeeklyDaily
+
+Which day?
+The first SundayThe first MondayThe first TuesdayThe first WednesdayThe first ThursdayThe first FridayThe first SaturdayThe first dayThe first weekday
+
+Which day?
+SundayMondayTuesdayWednesdayThursdayFridaySaturday
+
+Report format:
+SummarySummary (text)AbstractAbstract (text)PubMed
+
+Send at most:
+1 item5 items10 items20 items50 items100 items200 items
+
+Send even when there aren't any new results
+
+
+Optional text in email:
+
+
+Save
+
+Cancel
+
+
+## Create a file for external citation management software
+
+Create file
+
+Cancel
+
+
+## Your RSS Feed
+
+Name of RSS Feed:
+
+
+Number of items displayed:
+510152050100
+
+Create RSS
+
+Cancel
+
+
+RSS Link
+Copy
+
+
+Full text links
+Cite
+
+Display options
+
+Display options
+
+
+Format
+AbstractPubMedPMID
+
+Linked Discoveries
+
+## Abstract
+
+**Objective:**
+
+The gut microbiota-derived metabolite, trimethylamine N-oxide (TMAO) plays an important role in cardiovascular disease (CVD). The fasting plasma TMAO was shown as a prognostic indicator of CVD incident in patients and raised the interest of intervention targeting gut microbiota. Here we develop a clinically applicable method called oral carnitine challenge test (OCCT) for TMAO-related therapeutic drug efforts assessment and personalising dietary guidance.
+
+
+**Design:**
+
+A pharmacokinetic study was performed to verify the design of OCCT protocol. The OCCT was conducted in 23 vegetarians and 34 omnivores to validate gut microbiota TMAO production capacity. The OCCT survey was integrated with gut microbiome, host genotypes, dietary records and serum biochemistry. A humanised gnotobiotic mice study was performed for translational validation.
+
+
+**Results:**
+
+The OCCT showed better efficacy than fasting plasma TMAO to identify TMAO producer phenotype. The omnivores exhibited a 10-fold higher OR to be high TMAO producer than vegetarians. The TMAO-associated taxa found by OCCT in this study were consistent with previous animal studies. The TMAO producer phenotypes were also reproduced in humanised gnotobiotic mice model. Besides, we found the faecal _CntA_ gene was not associated with TMAO production; therefore, other key relevant microbial genes might be involved. Finally, we demonstrated the urine TMAO exhibited a strong positive correlation with plasma TMAO (r=0.92, p<0.0001) and improved the feasibility of OCCT.
+
+
+**Conclusion:**
+
+The OCCT can be used to identify TMAO-producer phenotype of gut microbiota and may serve as a personal guidance in CVD prevention and treatment.
+
+
+**Trial registration number:** [NCT02838732](http://clinicaltrials.gov/show/NCT02838732 "See in ClinicalTrials.gov"); Results.
+
+
+**Keywords:**
+
+cardiovascular disease; gut microbiota; oral carnitine challenge test; trimethylamine n-oxide.
+
+
+© Author(s) (or their employer(s)) 2019. Re-use permitted under CC BY-NC. No commercial re-use. See rights and permissions. Published by BMJ.
+
+
+[PubMed Disclaimer](https://pubmed.ncbi.nlm.nih.gov/disclaimer/)
+
+## Conflict of interest statement
+
+Competing interests: None declared.
+
+## Figures
+
+[![Figure 1](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/74a2/6691853/17ebbf179c45/gutjnl-2018-317155f01.gif)](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/74a2/6691853/1a902f9189b1/gutjnl-2018-317155f01.jpg)
+
+**Figure 1**
+
+The divergence of dietary patterns…
+
+**Figure 1**
+
+The divergence of dietary patterns between vegetarian and omnivore contributed no significant differences…
+
+**Figure 1**
+
+The divergence of dietary patterns between vegetarian and omnivore contributed no significant differences for gut microbiome composition and diversity. (A) Heatmap of dietary micronutrients in omnivores versus vegetarians (q value <0.1) with clustering nutrients colour labelled by six nutrient categories. Red=higher abundance, blue=lower abundance. (B) The carnitine and cholesterol consumption levels of vegetarians and omnivores exhibited highly significant differences. (C) The principle component analysis of FFQ nutrients data indicated significantly divergent patterns between omnivores and vegetarians (permutational multivariate analysis of variance (PERMANOVA): p<0.001). (D) Compositional profiling of gut microbiota in vegetarians and omnivores revealed no significant difference (PERMANOVA: p=0.3528) demonstrated by principle coordinate analysis calculated using Bray-Curtis distance. (E) Comparison of alpha diversity index in vegetarians versus omnivores. (F) The Firmicutes/Bacteroidetes ratio in omnivores versus vegetarians exhibited no significant difference. Data in all bar plots are expressed as mean±SEM. All statistics in bar plots and box plots were analysed by Student’s t-test. FFQ, food frequency questionnaire.
+
+[![Figure 2](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/74a2/6691853/80bc34de0733/gutjnl-2018-317155f02.gif)](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/74a2/6691853/6ff3c588695a/gutjnl-2018-317155f02.jpg)
+
+**Figure 2**
+
+Pharmacokinetic study of oral carnitine…
+
+**Figure 2**
+
+Pharmacokinetic study of oral carnitine challenge test (OCCT). (A) Thirteen volunteers were recruited…
+
+**Figure 2**
+
+
+[... middle omitted — see footer ...]
+
+  - [Add to Search](https://pubmed.ncbi.nlm.nih.gov/30377191/#)
+
+## Substances
+
+- Methylamines
+
+
+
+
+Actions
+
+
+
+
+
+  - [Search in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22Methylamines%22%5Bnm%5D&sort=date&sort_order=desc)
+  - [Search in MeSH](https://www.ncbi.nlm.nih.gov/mesh?term=%22Methylamines%22)
+  - [Add to Search](https://pubmed.ncbi.nlm.nih.gov/30377191/#)
+
+- Oxidants
+
+
+
+
+Actions
+
+
+
+
+
+  - [Search in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22Oxidants%22%5Bnm%5D&sort=date&sort_order=desc)
+  - [Search in MeSH](https://www.ncbi.nlm.nih.gov/mesh?term=%22Oxidants%22)
+  - [Add to Search](https://pubmed.ncbi.nlm.nih.gov/30377191/#)
+
+- trimethyloxamine
+
+
+
+
+Actions
+
+
+
+
+
+  - [Search in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22trimethyloxamine%22%5Bnm%5D&sort=date&sort_order=desc)
+  - [Search in MeSH](https://www.ncbi.nlm.nih.gov/mesh?term=%22trimethyloxamine%22)
+  - [Add to Search](https://pubmed.ncbi.nlm.nih.gov/30377191/#)
+
+- Carnitine
+
+
+
+
+Actions
+
+
+
+
+
+  - [Search in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22Carnitine%22%5Bnm%5D&sort=date&sort_order=desc)
+  - [Search in MeSH](https://www.ncbi.nlm.nih.gov/mesh?term=%22Carnitine%22)
+  - [Add to Search](https://pubmed.ncbi.nlm.nih.gov/30377191/#)
+
+## Associated data
+
+- ClinicalTrials.gov/NCT02838732
+
+
+
+
+Actions
+
+
+
+
+
+  - [Search in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=NCT02838732%5BSecondary+Source+ID%5D "Search in PubMed")
+  - [Search in ClinicalTrials.gov](http://clinicaltrials.gov/show/NCT02838732 "Search in ClinicalTrials.gov")
+
+## Related information
+
+- [MedGen](https://www.ncbi.nlm.nih.gov/medgen?linkname=pubmed_medgen&from_uid=30377191 "Related information in MedGen")
+- [PubChem Compound (MeSH Keyword)](https://www.ncbi.nlm.nih.gov/pccompound?linkname=pubmed_pccompound_mesh&from_uid=30377191 "Related PubChem Compound via MeSH")
+- [Related Project](https://www.ncbi.nlm.nih.gov/bioproject?linkname=pubmed_bioproject&from_uid=30377191 "Related Projects")
+- [SRA](https://www.ncbi.nlm.nih.gov/sra?linkname=pubmed_sra&from_uid=30377191 "Links to Short Read Archive Experiments")
+
+## LinkOut - more resources
+
+- ### Full Text Sources
+
+
+  - [Europe PMC](https://europepmc.org/abstract/MED/30377191)
+  - [HighWire](http://gut.bmj.com/lookup/pmidlookup?view=long&pmid=30377191)
+  - [Ovid Technologies, Inc.](https://www.ovid.com/30377191.pmid)
+  - [PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/pmid/30377191/)
+- ### Medical
+
+
+  - [ClinicalTrials.gov](https://clinicaltrials.gov/search?term=AREA%5BReferencePMID%5D30377191)
+
+NCBI Literature Resources
+
+[MeSH](https://www.ncbi.nlm.nih.gov/mesh/) [PMC](https://www.ncbi.nlm.nih.gov/pmc/) [Bookshelf](https://www.ncbi.nlm.nih.gov/books) [Disclaimer](https://pubmed.ncbi.nlm.nih.gov/disclaimer/)
+
+The PubMed wordmark and PubMed logo are registered trademarks of the U.S. Department of Health and Human Services (HHS). Unauthorized use of these marks is strictly prohibited.
+
+──────── [TRUNCATED] ────────
+Showing 8,663 chars (head) + 2,937 chars (tail) of 32,995 total clean characters.
+Full text saved to: /home/walker/.hermes/cache/web/pubmed.ncbi.nlm.nih.gov-8deee582a7.md
+To read the omitted middle: read_file path="/home/walker/.hermes/cache/web/pubmed.ncbi.nlm.nih.gov-8deee582a7.md" offset=288 limit=200  (the file is the complete page; raise/lower offset to page through it).
+─────────────────────────────

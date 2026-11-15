@@ -1,0 +1,27 @@
+SOURCE: Acetylcarnitine formation during intense muscular contraction in humans.
+URL: https://pubmed.ncbi.nlm.nih.gov/3624147/
+FETCHED: 2026-11-15 via NCBI efetch (pubmed abstract, retmode=text)
+PMID: 3624147
+DOI: 10.1152/jappl.1987.63.1.440
+------------------------------------------------------------------------
+2. J Appl Physiol (1985). 1987 Jul;63(1):440-2. doi: 10.1152/jappl.1987.63.1.440.
+
+Acetylcarnitine formation during intense muscular contraction in humans.
+
+Harris RC, Foster CV, Hultman E.
+
+To study the changes in carnitine during intense muscular effort subjects 
+underwent 4 min intermittent electrical stimulation of the quadriceps femoris 
+muscle and on a separate occasion performed 4 min exercise on a bicycle 
+ergometer. Biopsies of the vastus lateralis muscle were taken at rest and after 
+2 and 4 min of stimulation or exercise. Resting mean muscle total carnitine 
+content was 20.0 mmol/kg dry muscle. Approximately 77% was free carnitine and 
+19% acetylcarnitine. Four minutes of stimulation or intense exercise did not 
+effect total carnitine but did result in a marked fall in free carnitine and 
+almost equivalent rise in acetylcarnitine. The results indicate that 
+acetylcarnitine is a major metabolite formed during intense muscular effort and 
+that carnitine may function in the regulation of the acetyl-CoA/CoA ratio by 
+buffering excess production of acetyl units.
+
+DOI: 10.1152/jappl.1987.63.1.440
+PMID: 3624147 [Indexed for MEDLINE]

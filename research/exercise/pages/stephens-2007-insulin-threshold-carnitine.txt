@@ -1,0 +1,44 @@
+SOURCE: A threshold exists for the stimulatory effect of insulin on plasma L-carnitine clearance in humans.
+URL: https://pubmed.ncbi.nlm.nih.gov/17047160/
+FETCHED: 2026-11-15 via NCBI efetch (pubmed abstract, retmode=text)
+PMID: 17047160
+DOI: 10.1152/ajpendo.00508.2006
+------------------------------------------------------------------------
+12. Am J Physiol Endocrinol Metab. 2007 Feb;292(2):E637-41. doi: 
+10.1152/ajpendo.00508.2006. Epub 2006 Oct 17.
+
+A threshold exists for the stimulatory effect of insulin on plasma L-carnitine 
+clearance in humans.
+
+Stephens FB(1), Constantin-Teodosiu D, Laithwaite D, Simpson EJ, Greenhaff PL.
+
+Author information:
+(1)School of Biomedical Sciences, University of Nottingham Medical School, 
+Queen's Medical Centre, Nottingham, NG7 2UH, UK. 
+francis.stephens@nottingham.ac.uk
+
+Maintaining hyperinsulinemia ( approximately 160 mU/l) during steady-state 
+hypercarnitinemia ( approximately 550 mumol/l) increases skeletal muscle total 
+carnitine (TC) content by approximately 15% within 5 h. The aim of the present 
+study was to further examine the relationship between serum insulin 
+concentration and skeletal muscle carnitine accumulation by attempting to 
+identify the serum insulin concentration at which this stimulatory effect of 
+insulin on carnitine retention becomes apparent. On four randomized experimental 
+visits, eight healthy men (body mass index 23.8 +/- 0.9 kg/m(2)) underwent a 6-h 
+euglycemic insulin clamp of 5, 30, 55, or 105 mU x m(-2) x min(-1) accompanied 
+by a 5-h iv infusion of l-carnitine (15 mg/kg bolus followed by 10 mg x kg(-1) x 
+h(-1)). The clamps produced steady-state serum insulin concentrations of 10.1 
++/- 0.5, 48.8 +/- 1.0, 88.9 +/- 2.8, and 173.9 +/- 6.5 mU/l, respectively. 
+During l-carnitine infusion, plasma TC concentration remained above 450 mumol/l 
+during all four visits. However, there was a significant treatment effect of 
+insulin (P < 0.001), such that by the end of infusion the plasma TC 
+concentration in the 55- and 105-mU clamps was lower than that seen in the 5- (P 
+< 0.05 and P < 0.01, respectively) and 30-mU (P < 0.01) clamps. The findings 
+demonstrate that only high circulating serum insulin concentrations (> or =90 
+mU/l) are capable of stimulating skeletal muscle carnitine accumulation. This is 
+of relevance to athletes, and the treatment of obesity and type 2 diabetes, 
+where increasing skeletal muscle carnitine content may be used as tool to modify 
+skeletal muscle energy metabolism.
+
+DOI: 10.1152/ajpendo.00508.2006
+PMID: 17047160 [Indexed for MEDLINE]

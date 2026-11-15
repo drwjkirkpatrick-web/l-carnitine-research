@@ -1,0 +1,49 @@
+SOURCE: Skeletal muscle carnitine loading increases energy expenditure, modulates fuel metabolism gene networks and prevents body fat accumulation in humans.
+URL: https://pubmed.ncbi.nlm.nih.gov/23818692/
+FETCHED: 2026-11-15 via NCBI efetch (pubmed abstract, retmode=text)
+PMID: 23818692
+DOI: 10.1113/jphysiol.2013.255364
+------------------------------------------------------------------------
+8. J Physiol. 2013 Sep 15;591(18):4655-66. doi: 10.1113/jphysiol.2013.255364.
+Epub  2013 Jul 1.
+
+Skeletal muscle carnitine loading increases energy expenditure, modulates fuel 
+metabolism gene networks and prevents body fat accumulation in humans.
+
+Stephens FB(1), Wall BT, Marimuthu K, Shannon CE, Constantin-Teodosiu D, 
+Macdonald IA, Greenhaff PL.
+
+Author information:
+(1)Professor P. Greenhaff: MRC/Arthritis Research UK Centre for Musculoskeletal 
+Ageing Research, School of Biomedical Sciences, University of Nottingham Medical 
+School, Queen's Medical Centre, Nottingham NG7 2UH, UK. 
+paul.greenhaff@nottingham.ac.uk.
+
+  Twelve weeks of daily l-carnitine and carbohydrate feeding in humans increases 
+skeletal muscle total carnitine content, and prevents body mass accrual 
+associated with carbohydrate feeding alone. Here we determined the influence of 
+L-carnitine and carbohydrate feeding on energy metabolism, body fat mass and 
+muscle expression of fuel metabolism genes. Twelve males exercised at 50% 
+maximal oxygen consumption for 30 min once before and once after 12 weeks of 
+twice daily feeding of 80 g carbohydrate (Control, n=6) or 1.36 g L-carnitine + 
+80 g carbohydrate (Carnitine, n=6). Maximal carnitine palmitolytransferase 1 
+(CPT1) activity remained similar in both groups over 12 weeks. However, whereas 
+muscle total carnitine, long-chain acyl-CoA and whole-body energy expenditure 
+did not change over 12 weeks in Control, they increased in Carnitine by 20%, 
+200% and 6%, respectively (P<0.05). Moreover, body mass and whole-body fat mass 
+(dual-energy X-ray absorptiometry) increased over 12 weeks in Control by 1.9 and 
+1.8 kg, respectively (P<0.05), but did not change in Carnitine. Seventy-three of 
+187 genes relating to fuel metabolism were upregulated in Carnitine vs. Control 
+after 12 weeks, with 'insulin signalling', 'peroxisome proliferator-activated 
+receptor signalling' and 'fatty acid metabolism' as the three most enriched 
+pathways in gene functional analysis. In conclusion, increasing muscle total 
+carnitine in healthy humans can modulate muscle metabolism, energy expenditure 
+and body composition over a prolonged period, which is entirely consistent with 
+a carnitine-mediated increase in muscle long-chain acyl-group translocation via 
+CPT1. Implications to health warrant further investigation, particularly in 
+obese individuals who have a reduced reliance on muscle fat oxidation during 
+low-intensity exercise.
+
+DOI: 10.1113/jphysiol.2013.255364
+PMCID: PMC3784205
+PMID: 23818692 [Indexed for MEDLINE]

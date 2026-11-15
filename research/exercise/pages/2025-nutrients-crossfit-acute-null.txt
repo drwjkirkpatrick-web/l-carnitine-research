@@ -1,0 +1,60 @@
+SOURCE: Acute L-Carnitine Supplementation Does Not Improve CrossFit(®) Performance: A Randomized, Double-Blind, Placebo-Controlled Crossover Study.
+URL: https://pubmed.ncbi.nlm.nih.gov/40944177/
+FETCHED: 2026-11-15 via NCBI efetch (pubmed abstract, retmode=text)
+PMID: 40944177
+DOI: 10.3390/nu17172784
+------------------------------------------------------------------------
+20. Nutrients. 2025 Aug 27;17(17):2784. doi: 10.3390/nu17172784.
+
+Acute L-Carnitine Supplementation Does Not Improve CrossFit(®) Performance: A 
+Randomized, Double-Blind, Placebo-Controlled Crossover Study.
+
+Devrim-Lanpir A(1)(2), Velasco LS(3), Ramirez Lara FG(3), Ojeda Sanchez A(3), 
+Kimble R(4), Zare R(5), Gunes FE(2), Knechtle B(6)(7), Weiss K(7), Rosemann 
+T(7), Heinrich K(8)(9).
+
+Author information:
+(1)School of Health and Human Performance, Dublin City University, D09 V209 
+Dublin, Ireland.
+(2)Department of Nutrition and Dietetics, Faculty of Health Sciences, Istanbul 
+Medeniyet University, 34862 Istanbul, Turkey.
+(3)Faculty of Higher Studies Zaragoza, National Autonomous University of Mexico, 
+Mexico 09230, Mexico.
+(4)Division of Sport and Exercise Science, School of Health and Life Sciences, 
+University of the West of Scotland, Blantyre G72 0LH, UK.
+(5)SRH Campus Hamburg, Berlin University of Applied Sciences, 20095 Hamburg, 
+Germany.
+(6)Medbase St. Gallen Am Vadianplatz, Vadianstrasse 26, 9001 St. Gallen, 
+Switzerland.
+(7)Institute of Primary Care, University of Zurich, Pestalozzistrasse 24, 8091 
+Zurich, Switzerland.
+(8)Department of Kinesiology, Kansas State University, Manhattan, KS 66506, USA.
+(9)Department of Research and Evaluation, The Phoenix, Manhattan, KS 66502, USA.
+
+BACKGROUND: L-carnitine supplementation is thought to enhance exercise 
+performance, particularly in moderate and high-intensity activities, but 
+evidence supporting this is mixed. This study aimed to assess whether acute 
+L-carnitine tartrate supplementation could improve CrossFit® performance, 
+specifically during the "Cindy" workout, a high-intensity exercise protocol.
+METHODS: In a randomized, double-blind, placebo-controlled crossover design, 20 
+trained male recreational CrossFit® athletes completed the "Cindy" workout 
+within a 20 min period after ingesting either 3 g of L-carnitine tartrate or a 
+placebo 90 min before exercise. Performance was measured by total repetitions 
+completed. Secondary outcomes included ratings of perceived exertion (RPE), 
+gastrointestinal issues, and blood pressure (BP) measurements.
+RESULTS: The results showed that L-carnitine supplementation did not 
+significantly affect the number of repetitions performed (202.4 ± 69.9 vs. 204.5 
+± 78.8, p = 0.810) compared to the placebo. There were also no significant 
+differences in RPE (6.3 ± 1.5 vs. 6.9 ± 1.4, p = 0.180) or BP changes between 
+groups. However, 10% of participants reported difficulty sleeping after 
+L-carnitine supplementation.
+CONCLUSIONS: The findings suggest that 3 g of L-carnitine tartrate does not 
+enhance CrossFit® performance in recreational athletes. Further research is 
+needed to clarify its potential benefits, especially with larger samples and 
+consideration of factors like sex and carbohydrate co-ingestion.
+
+DOI: 10.3390/nu17172784
+PMCID: PMC12430207
+PMID: 40944177 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflicts of interest.

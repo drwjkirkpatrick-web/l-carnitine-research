@@ -1,0 +1,54 @@
+SOURCE: Clinical Effects of L-Carnitine Supplementation on Physical Performance in Healthy Subjects, the Key to Success in Rehabilitation: A Systematic Review and Meta-Analysis from the Rehabilitation Point of View.
+URL: https://pubmed.ncbi.nlm.nih.gov/34842765/
+FETCHED: 2026-11-15 via NCBI efetch (pubmed abstract, retmode=text)
+PMID: 34842765
+DOI: 10.3390/jfmk6040093
+------------------------------------------------------------------------
+19. J Funct Morphol Kinesiol. 2021 Nov 4;6(4):93. doi: 10.3390/jfmk6040093.
+
+Clinical Effects of L-Carnitine Supplementation on Physical Performance in 
+Healthy Subjects, the Key to Success in Rehabilitation: A Systematic Review and 
+Meta-Analysis from the Rehabilitation Point of View.
+
+Vecchio M(1)(2), Chiaramonte R(1), Testa G(3), Pavone V(3).
+
+Author information:
+(1)Department of Biomedical and Biotechnological Sciences, Section of 
+Pharmacology, University of Catania, 95123 Catania, Italy.
+(2)Rehabilitation Unit, "AOU Policlinico Vittorio Emanuele", 95123 Catania, 
+Italy.
+(3)Department of General Surgery and Medical Surgical Specialties, Section of 
+Orthopaedics and Traumatology, University Hospital Policlinico "Rodolico-San 
+Marco", University of Catania, 95123 Catania, Italy.
+
+L-carnitine supplementation improves body strength, sports endurance and 
+exercise capacity, as well as delaying the onset of fatigue. The aim of this 
+study was to identify the correct dosage of supplementation to obtain 
+improvements in physical performance and evaluate the changes related to 
+L-carnitine supplementation in specific metabolic parameters, such as serum 
+lactate, VO2, serum total and free carnitine at rest and after physical 
+activities, in healthy subjects. The search was conducted on PubMed, EMBASE, 
+Cochrane Library, Scopus and Web of Science and identified 6404 articles with 
+the keywords: "carnitine" AND "exercises" OR "rehabilitation" OR "physical 
+functional performance" OR "physical activity" OR "sports" OR "health" OR 
+"healthy". A total of 30 publications met the inclusion criteria and were 
+included in the systematic review. The meta-analysis did not show any 
+significant differences in serum lactate values at rest and after exercise in 
+healthy subjects who took L-carnitine supplementation (p > 0.05). On the 
+contrary, L-carnitine administration significantly changed maximal oxygen 
+consumption (VO2) at rest (p < 0.005), serum free and total carnitine at rest 
+and after exercise (p < 0.001). The dosage of supplementation that obtained a 
+significant change in serum total carnitine was 2 g/dL for 4 weeks at rest, 1 
+g/dL for 3 weeks after exercise, and in serum free carnitine was 2 g/dL for 3 
+weeks and 2 g/dL for 4 weeks at rest. Based on our study, serum total and free 
+carnitine at rest and after exercise, and VO2 at rest could be used to 
+clinically follow individuals during physical activity and rehabilitation 
+programs. Moreover, the supplementation should have a correct dosage to have 
+maximum effect. Other robust trials are needed to find the best dosage to obtain 
+positive results in metabolic parameters and in physical performance.
+
+DOI: 10.3390/jfmk6040093
+PMCID: PMC8628984
+PMID: 34842765
+
+Conflict of interest statement: The authors declare no conflict of interest.

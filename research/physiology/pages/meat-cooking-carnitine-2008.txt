@@ -1,0 +1,32 @@
+PMID: 22062286
+PubMed URL: https://pubmed.ncbi.nlm.nih.gov/22062286/
+Fetched via NCBI eutils efetch, accessed 2026-11-15
+
+1. Meat Sci. 2008 Mar;78(3):331-5. doi: 10.1016/j.meatsci.2007.06.011. Epub 2007 
+Jun 30.
+
+Changes in l-carnitine content of fish and meat during domestic cooking.
+
+Rigault C(1), Mazué F, Bernard A, Demarquoy J, Le Borgne F.
+
+Author information:
+(1)Inserm U866, Dijon F-21079, France; University of Dijon, Laboratoire de 
+Biochimie Métabolique et Nutritionnelle, 6 blvd Gabriel, 21000 Dijon, France.
+
+Human adults store around 20g of l-carnitine. In the human body, l-carnitine is 
+not metabolized but excreted through the kidney. Lost l-carnitine has to be 
+replenished either by a biosynthetic mechanism or by the consumption of foods 
+containing l-carnitine. Today, there is no "official" recommended daily 
+allowance for l-carnitine but the daily need for l-carnitine intake has been 
+estimated in the wide range of 2-12μmol/day/kg body weight for an adult human. 
+In this study we evaluated the effect of freezing and of different cooking 
+methods on the l-carnitine content of red meat and fish. l-carnitine was 
+abundantly present in all beef products analyzed. The amounts in the various 
+cuts were similar and our data showed that freezing or cooking did not modify 
+l-carnitine content. Salmon contained about 12 times less l-carnitine than beef 
+but except in smoked salmon, cooking or freezing did not alter l-carnitine 
+content. This study confirms the important role that meet products play for 
+providing adequate amount of l-carnitine to the human body.
+
+DOI: 10.1016/j.meatsci.2007.06.011
+PMID: 22062286

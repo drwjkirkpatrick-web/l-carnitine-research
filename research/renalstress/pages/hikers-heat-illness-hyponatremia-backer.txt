@@ -1,0 +1,12 @@
+PMID: 10530529
+URL: https://pubmed.ncbi.nlm.nih.gov/10530529/
+Title: Exertional heat illness and hyponatremia in hikers.
+Authors: Backer HD; Shopes E; Collins SL; Barkan H
+Journal: The American journal of emergency medicine
+Year: 1999
+Vol/Pages: 17(6):532-9
+DOI: 10.1016/s0735-6757(99)90191-2
+Accessed: 2026-11-15 (NCBI PubMed efetch abstract)
+
+ABSTRACT
+We compared clinical presentation and course of exercise-associated hyponatremia with heat exhaustion among summertime hikers in Grand Canyon National Park. Cases were selected from among hikers who requested medical help from the National Park Service Emergency Medical Service (EMS) or who presented to the medical clinic on the rim of the canyon with complaints related to exercise in the heat. Of 44 patients who had serum samples analyzed, 7 had hyponatremia with clinically significant symptoms and serum sodium levels <130 mmol/L: 3 had grand mal seizures, 2 had other major central nervous system disorders, and 2 had minor neurological symptoms. Seizures and change of mental status distinguished hyponatremia, (P = 0.0002). Indirect evidence suggests that hyponatremic patients were hyperhydrated. Other common symptoms included nausea, vomiting, headache, and dizziness, but these symptoms did not predict the level of serum sodium. When exercise in the heat is prolonged, hyponatremia is suggested either by altered mental status or by seizures without hyperpyrexia or hypoglycemia. No mortality or long-term morbidity occurred in any of these cases of hyponatremia.

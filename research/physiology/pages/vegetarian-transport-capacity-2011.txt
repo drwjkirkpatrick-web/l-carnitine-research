@@ -1,0 +1,47 @@
+PMID: 21753065
+PubMed URL: https://pubmed.ncbi.nlm.nih.gov/21753065/
+Fetched via NCBI eutils efetch, accessed 2026-11-15
+
+1. Am J Clin Nutr. 2011 Sep;94(3):938-44. doi: 10.3945/ajcn.111.012047. Epub 2011
+ Jul 13.
+
+Vegetarians have a reduced skeletal muscle carnitine transport capacity.
+
+Stephens FB(1), Marimuthu K, Cheng Y, Patel N, Constantin D, Simpson EJ, 
+Greenhaff PL.
+
+Author information:
+(1)Metabolic Physiology Research Group, School of Biomedical Sciences, 
+Nottingham University Medical School, Queens Medical Centre, United Kingdom. 
+francis.stephens@nottingham.ac.uk
+
+BACKGROUND: Ninety-five percent of the body carnitine pool resides in skeletal 
+muscle where it plays a vital role in fuel metabolism. However, vegetarians 
+obtain negligible amounts of carnitine from their diet.
+OBJECTIVE: We tested the hypothesis that muscle carnitine uptake is elevated in 
+vegetarians compared with that in nonvegetarians to maintain a normal tissue 
+carnitine content.
+DESIGN: Forty-one young (aged ≈22 y) vegetarian and nonvegetarian volunteers 
+participated in 2 studies. The first study consisted of a 5-h intravenous 
+infusion of l-carnitine while circulating insulin was maintained at a 
+physiologically high concentration (≈170 mU/L; to stimulate muscle carnitine 
+uptake) or at a fasting concentration (≈6 mU/L). The second study consisted of 
+oral ingestion of 3 g l-carnitine.
+RESULTS: Basal plasma total carnitine (TC) concentration, 24-h urinary TC 
+excretion, muscle TC content, and muscle carnitine transporter [organic cation 
+transporter 2 (OCTN2)] messenger RNA and protein expressions were 16% (P < 
+0.01), 58% (P < 0.01), 17% (P < 0.05), 33% (P < 0.05), and 37% (P = 0.09) lower, 
+respectively, in vegetarian volunteers. However, although nonvegetarians showed 
+a 15% increase (P < 0.05) in muscle TC during l-carnitine infusion with 
+hyperinsulinemia, l-carnitine infusion in the presence or absence of 
+hyperinsulinemia had no effect on muscle TC content in vegetarians. 
+Nevertheless, 24-h urinary TC excretion was 55% less in vegetarians after 
+l-carnitine ingestion.
+CONCLUSIONS: Vegetarians have a lower muscle TC and reduced capacity to 
+transport carnitine into muscle than do nonvegetarians, possibly because of 
+reduced muscle OCTN2 content. Thus, the greater whole-body carnitine retention 
+observed after a single dose of l-carnitine in vegetarians was not attributable 
+to increased muscle carnitine storage.
+
+DOI: 10.3945/ajcn.111.012047
+PMID: 21753065 [Indexed for MEDLINE]

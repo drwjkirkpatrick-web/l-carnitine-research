@@ -1,0 +1,31 @@
+PMID: 1962562
+PubMed URL: https://pubmed.ncbi.nlm.nih.gov/1962562/
+Fetched via NCBI eutils efetch, accessed 2026-11-15
+
+1. Am J Clin Nutr. 1991 Dec;54(6 Suppl):1147S-1152S. doi:
+10.1093/ajcn/54.6.1147s.
+
+Ascorbic acid and carnitine biosynthesis.
+
+Rebouche CJ(1).
+
+Author information:
+(1)Department of Pediatrics, University of Iowa College of Medicine, Iowa City 
+52242.
+
+It has been suggested that early features of scurvy (fatigue and weakness) may 
+be attributed to carnitine deficiency. Ascorbate is a cofactor for two 
+alpha-ketoglutarate-requiring dioxygenase reactions (epsilon-N-trimethyllysine 
+hydroxylase and gamma-butyrobetaine hydroxylase) in the pathway of carnitine 
+biosynthesis. Carnitine concentrations are variably low in some tissues of 
+scorbutic guinea pigs. Ascorbic acid deficiency in guinea pigs resulted in 
+decreased activity of hepatic gamma-butyrobetaine hydroxylase and renal but not 
+hepatic epsilon-N-trimethyllsine hydroxylase when exogenous substrates were 
+provided. It remains unclear whether vitamin C deficiency has a significant 
+impact on the overall rate of carnitine synthesis from endogenous substrates. 
+Nevertheless, results of studies of enzyme preparations and perfused liver in 
+vitro and of scorbutic guinea pigs in vivo provide compelling evidence for 
+participation of ascorbic acid in carnitine biosynthesis.
+
+DOI: 10.1093/ajcn/54.6.1147s
+PMID: 1962562 [Indexed for MEDLINE]

@@ -1,0 +1,53 @@
+7. Nutrients. 2025 Aug 20;17(16):2693. doi: 10.3390/nu17162693.
+
+Adding L-Carnitine and Selenium to Methimazole in Graves' Disease: A Prospective 
+Randomized Trial on Thyroid Markers and Quality of Life.
+
+Rossi M(1)(2), Meomartino L(1), Zavattaro M(3), Selvatico G(1), Rossetto 
+Giaccherino R(1), Pagano L(1).
+
+Author information:
+(1)Endocrinology, Diabetology and Metabolism, Department of Medical Sciences, 
+University of Turin, 10128 Turin, Italy.
+(2)Endocrinology, Diabetology and Metabolism, AO "Ordine Mauriziano di Torino", 
+10128 Turin, Italy.
+(3)Endocrinology, Department of Translational Medicine, University of Piemonte 
+Orientale, 13100 Novara, Italy.
+
+Background: The therapeutic response in Graves' Disease (GD) remains largely 
+unpredictable. Patients often experience persistent symptoms that are poorly 
+correlated with thyroid hormone levels, an undefined treatment duration, and the 
+need for long-term or definitive therapies. Based on the nuclear antagonistic 
+properties of L-carnitine (LCT) on thyroid hormone action and the 
+immunomodulatory role of selenium (Se), we aimed to assess the impact of adding 
+a combined LCT and Se supplement to standard methimazole (MMI) therapy on the 
+biochemical profile and quality of life (QoL) of patients with overt GD. 
+Methods: This multicenter prospective randomized trial enrolled 60 consecutive 
+patients with newly diagnosed overt GD. Participants were randomized to receive 
+either standard treatment with MMI alone (Control Group) or MMI plus the 
+combined LCT/Se supplement (Intervention Group). TSH, fT3, fT4, and TSH-receptor 
+antibodies (TRAb) levels were evaluated every two months for up to 24 months or 
+until spontaneous remission or definitive therapy. At each visit, patients 
+completed a symptom questionnaire addressing the frequency of typical thyrotoxic 
+symptoms. Results: No significant differences were observed between groups in 
+the trend or time-to-normalization of TSH, fT3, and fT4 levels. However, the 
+Intervention Group reached TRAb negativity significantly earlier (HR = 2.35 
+(1.14-4.81), p = 0.016), with a synergistic interaction with MMI therapy. MMI 
+requirements were consistently lower in the Intervention Group, both in average 
+dosage (p = 0.013) and cumulative dose (p = 0.020). The rate of spontaneous 
+remission was significantly higher (OR = 11.22 (3.35-46.11), p < 0.001). Overall 
+symptom burden did not differ significantly between groups; however, the 
+supplement exerted an independent effect in reducing the severity of tremor, 
+irritability, mood lability, heat intolerance, and exertional dyspnea. 
+Conclusions: Our findings suggest the clinical benefits of adding combined LCT 
+and Se supplementation to MMI in the treatment of overt GD, including shorter 
+disease duration, lower cumulative MMI exposure and earlier TRAb normality, that 
+could positively influence TRAb-related prognostic outcomes.
+
+DOI: 10.3390/nu17162693
+PMCID: PMC12389566
+PMID: 40871722 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflicts of interest, as 
+this research received no external funding. The supplement investigated in this 
+paper was supplied at no cost by the manufacturing company, Lo.Li. Pharma™.

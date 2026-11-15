@@ -1,0 +1,386 @@
+# URL: https://pubmed.ncbi.nlm.nih.gov/33213511/
+# Fetched via web_extract on 2026-11-15
+
+Clipboard, Search History, and several other advanced features are temporarily unavailable.
+
+
+[Skip to main page content](https://pubmed.ncbi.nlm.nih.gov/33213511/#article-details)
+
+### NIH Websites Are Changing
+
+- [Get the Latest Updates and FAQs on the transition](https://www.nih.gov/web-modernization)
+- Per [Executive Order 14434](https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/), federal agencies are now using "Super Intelligence" (SI) in place of "Artificial Intelligence" (AI). You may see both terms across NIH content during this transition.
+
+![Dot gov](https://cdn.ncbi.nlm.nih.gov/coreutils/uswds/img/icon-dot-gov.svg)
+
+**The .gov means it’s official.**
+
+Federal government websites often end in .gov or .mil. Before
+sharing sensitive information, make sure you’re on a federal
+government site.
+
+
+![Https](https://cdn.ncbi.nlm.nih.gov/coreutils/uswds/img/icon-https.svg)
+
+**The site is secure.**
+
+The **https://** ensures that you are connecting to the
+official website and that any information you provide is encrypted
+and transmitted securely.
+
+
+[Access keys](https://www.ncbi.nlm.nih.gov/guide/browsers/#ncbi_accesskeys) [NCBI Homepage](https://www.ncbi.nlm.nih.gov/) [MyNCBI Homepage](https://pubmed.ncbi.nlm.nih.gov/myncbi/) [Main Content](https://pubmed.ncbi.nlm.nih.gov/33213511/#maincontent) [Main Navigation](https://pubmed.ncbi.nlm.nih.gov/33213511/#)
+
+[![pubmed logo](https://cdn.ncbi.nlm.nih.gov/pubmed/a447896c-976f-490b-b86b-2668b65114a8/core/images/pubmed-logo-blue.svg)](https://pubmed.ncbi.nlm.nih.gov/)[Show search bar](https://pubmed.ncbi.nlm.nih.gov/33213511/# "Show search bar")
+
+Search:
+
+
+```
+
+```
+
+[Clear search input](https://pubmed.ncbi.nlm.nih.gov/33213511/# "Clear search input") Search
+
+[Advanced](https://pubmed.ncbi.nlm.nih.gov/advanced/) [Clipboard](https://pubmed.ncbi.nlm.nih.gov/clipboard/)
+
+[User Guide](https://pubmed.ncbi.nlm.nih.gov/help/)
+
+Save
+
+Email
+
+
+Send to
+
+- [Clipboard](https://pubmed.ncbi.nlm.nih.gov/33213511/#)
+- [My Bibliography](https://account.ncbi.nlm.nih.gov/?back_url=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F33213511%2F%23open-bibliography-panel)
+- [Collections](https://account.ncbi.nlm.nih.gov/?back_url=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F33213511%2F%23open-collections-panel)
+- [Citation manager](https://pubmed.ncbi.nlm.nih.gov/33213511/#)
+
+Display options
+
+Display options
+
+
+Format
+AbstractPubMedPMID
+
+## Save citation to file
+
+Format:
+Summary (text)PubMedPMIDAbstract (text)CSV
+
+Create file
+
+Cancel
+
+
+## Email citation
+
+Email address has not been verified. Go to
+[My NCBI account settings](https://account.ncbi.nlm.nih.gov/settings/)
+to confirm your email and then refresh this page.
+
+
+To:
+
+
+Subject:
+
+
+Body:
+
+
+Format:
+SummarySummary (text)AbstractAbstract (text)
+
+MeSH and other data
+
+
+Send email
+
+Cancel
+
+
+### Add to Collections
+
+- Create a new collection
+- Add to an existing collection
+
+Name your collection:
+
+
+Name must be less than 100 characters
+
+
+Choose a collection:
+
+
+Unable to load your collection due to an error
+
+[Please try again](https://pubmed.ncbi.nlm.nih.gov/33213511/#)
+
+Add
+
+Cancel
+
+
+### Add to My Bibliography
+
+- My Bibliography
+
+Unable to load your delegates due to an error
+
+[Please try again](https://pubmed.ncbi.nlm.nih.gov/33213511/#)
+
+Add
+
+Cancel
+
+
+## Your saved search
+
+Name of saved search:
+
+
+Search terms:
+
+
+[Test search terms](https://pubmed.ncbi.nlm.nih.gov/33213511/#)
+
+Would you like email updates of new search results?
+Saved Search Alert Radio Buttons
+
+- Yes
+- No
+
+Email:
+( [change](https://www.ncbi.nlm.nih.gov/account/settings/))
+
+Frequency:
+MonthlyWeeklyDaily
+
+Which day?
+The first SundayThe first MondayThe first TuesdayThe first WednesdayThe first ThursdayThe first FridayThe first SaturdayThe first dayThe first weekday
+
+Which day?
+SundayMondayTuesdayWednesdayThursdayFridaySaturday
+
+Report format:
+SummarySummary (text)AbstractAbstract (text)PubMed
+
+Send at most:
+1 item5 items10 items20 items50 items100 items200 items
+
+Send even when there aren't any new results
+
+
+Optional text in email:
+
+
+Save
+
+Cancel
+
+
+## Create a file for external citation management software
+
+Create file
+
+Cancel
+
+
+## Your RSS Feed
+
+Name of RSS Feed:
+
+
+Number of items displayed:
+510152050100
+
+Create RSS
+
+Cancel
+
+
+RSS Link
+Copy
+
+
+Full text links
+Cite
+
+Display options
+
+Display options
+
+
+Format
+AbstractPubMedPMID
+
+Linked Discoveries
+
+## Abstract
+
+
+The capability of gut microbiota in degrading foods and drugs administered orally can result in diversified efficacies and toxicity interpersonally and cause significant impact on human health. Production of atherogenic trimethylamine N-oxide (TMAO) from carnitine is a gut microbiota-directed pathway and varies widely among individuals. Here, we demonstrated a personalized TMAO formation and carnitine bioavailability from carnitine supplements by differentiating individual TMAO productivities with a recently developed oral carnitine challenge test (OCCT). By exploring gut microbiome in subjects characterized by TMAO producer phenotypes, we identified 39 operational taxonomy units that were highly correlated to TMAO productivity, including Emergencia timonensis, which has been recently discovered to convert γ-butyrobetaine to TMA in vitro. A microbiome-based random forest classifier was therefore constructed to predict the TMAO producer phenotype (AUROC = 0.81) which was then validated with an external cohort (AUROC = 0.80). A novel bacterium called Ihubacter massiliensis was also discovered to be a key microbe for TMA/TMAO production by using an OCCT-based humanized gnotobiotic mice model. Simply combining the presence of E. timonensis and I. massiliensis could account for 43% of high TMAO producers with 97% specificity. Collectively, this human gut microbiota phenotype-directed approach offers potential for developing precision medicine and provides insights into translational research. Video Abstract.
+
+
+**Keywords:**
+
+Cardiovascular disease; Emergencia timonensis; Gut microbiome; Ihubacter massiliensis; Machine learning; Oral carnitine challenge test; Personalized nutrition; Trimethylamine N-oxide.
+
+
+[PubMed Disclaimer](https://pubmed.ncbi.nlm.nih.gov/disclaimer/)
+
+## Conflict of interest statement
+
+The authors declare they have no competing interests.
+
+## Figures
+
+[![Fig. 1](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/d2a7/7678147/29a299a0b399/40168_2020_912_Fig1_HTML.gif)](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/d2a7/7678147/73f48027a73d/40168_2020_912_Fig1_HTML.jpg)
+
+**Fig. 1**
+
+The oral carnitine challenge test…
+
+**Fig. 1**
+
+The oral carnitine challenge test (OCCT) can be used to estimate potentially harmful…
+
+**Fig. 1**
+
+The oral carnitine challenge test (OCCT) can be used to estimate potentially harmful plasma TMAO levels from carnitine intake. **a** Schematic of the OCCT procedure and study protocol. **b** The OCCT curves for vegetarians and omnivores pre- and post-carnitine supplementation. **c** Fasting plasma TMAO levels in vegetarians and omnivores pre- and post-carnitine supplementation. **d** Classification of low- and high-TMAO producers based on a cut-off value of 10 μM for TMAOMAX in the OCCT. **e** Fasting plasma TMAO levels in low- and high-TMAO producers pre- and post-carnitine supplementation. Data shown here were analyzed by paired and unpaired nonparametric test accordingly; bars represent the mean ± S.E.M for the indicated groups
+
+[![Fig. 2](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/d2a7/7678147/70efa081a883/40168_2020_912_Fig2_HTML.gif)](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/d2a7/7678147/2386fa6cf284/40168_2020_912_Fig2_HTML.jpg)
+
+**Fig. 2**
+
+Orally ingested carnitine bioavailability is…
+
+**Fig. 2**
+
+Orally ingested carnitine bioavailability is associated with gut microbiota TMAO productivity. **a** The…
+
+**Fig. 2**
+
+Orally ingested carnitine bioavailability is associated with gut microbiota TMAO productivity. **a** The fasting urine carnitine was significantly increased in the vegetarian group after carnitine supplementation, but not in the omnivorous group. The fasting urine TMAO was significantly increased in the omnivorous group after carnitine supplementation, but not in the vegetarian group. **b** The fasting urine carnitine was significantly increased in the low-TMAO producer group after carnitine supplementation, but not in the high-TMAO producer group. The fasting urine TMAO level was significantly increased in the high-TMAO producer group after carnitine supplementation, but not in the low-TMAO producer group. For **a** and **b**, data were analyzed by paired nonparametric test. Bars represent the mean ± s.e.m for the indicated groups. **c** Schematic diagram showing carnitine bioavailability which might be influenced by the ability of gut microbiota in converting carnitine into TMA
+
+[![Fig. 3](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/d2a7/7678147/30192419ed91/40168_2020_912_Fig3_HTML.gif)](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/d2a7/7678147/c87bd0474e8b/40168_2020_912_Fig3_HTML.jpg)
+
+
+[... middle omitted — see footer ...]
+
+
+## Substances
+
+- Methylamines
+
+
+
+
+Actions
+
+
+
+
+
+  - [Search in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22Methylamines%22%5Bnm%5D&sort=date&sort_order=desc)
+  - [Search in MeSH](https://www.ncbi.nlm.nih.gov/mesh?term=%22Methylamines%22)
+  - [Add to Search](https://pubmed.ncbi.nlm.nih.gov/33213511/#)
+
+- trimethyloxamine
+
+
+
+
+Actions
+
+
+
+
+
+  - [Search in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22trimethyloxamine%22%5Bnm%5D&sort=date&sort_order=desc)
+  - [Search in MeSH](https://www.ncbi.nlm.nih.gov/mesh?term=%22trimethyloxamine%22)
+  - [Add to Search](https://pubmed.ncbi.nlm.nih.gov/33213511/#)
+
+- Carnitine
+
+
+
+
+Actions
+
+
+
+
+
+  - [Search in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22Carnitine%22%5Bnm%5D&sort=date&sort_order=desc)
+  - [Search in MeSH](https://www.ncbi.nlm.nih.gov/mesh?term=%22Carnitine%22)
+  - [Add to Search](https://pubmed.ncbi.nlm.nih.gov/33213511/#)
+
+## Supplementary concepts
+
+- Emergencia timonensis
+
+
+
+
+Actions
+
+
+
+
+
+  - [Search in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22Emergencia+timonensis%22%5Bnm%5D&sort=date&sort_order=desc)
+  - [Search in MeSH](https://www.ncbi.nlm.nih.gov/mesh?term=Emergencia+timonensis)
+  - [Add to Search](https://pubmed.ncbi.nlm.nih.gov/33213511/#)
+
+- Ihubacter massiliensis
+
+
+
+
+Actions
+
+
+
+
+
+  - [Search in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22Ihubacter+massiliensis%22%5Bnm%5D&sort=date&sort_order=desc)
+  - [Search in MeSH](https://www.ncbi.nlm.nih.gov/mesh?term=Ihubacter+massiliensis)
+  - [Add to Search](https://pubmed.ncbi.nlm.nih.gov/33213511/#)
+
+## Related information
+
+- [MedGen](https://www.ncbi.nlm.nih.gov/medgen?linkname=pubmed_medgen&from_uid=33213511 "Related information in MedGen")
+- [PubChem Compound (MeSH Keyword)](https://www.ncbi.nlm.nih.gov/pccompound?linkname=pubmed_pccompound_mesh&from_uid=33213511 "Related PubChem Compound via MeSH")
+- [Related Project](https://www.ncbi.nlm.nih.gov/bioproject?linkname=pubmed_bioproject&from_uid=33213511 "Related Projects")
+- [SRA](https://www.ncbi.nlm.nih.gov/sra?linkname=pubmed_sra&from_uid=33213511 "Links to Short Read Archive Experiments")
+
+## LinkOut - more resources
+
+- ### Full Text Sources
+
+
+  - [BioMed Central](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00912-y)
+  - [Europe PMC](https://europepmc.org/abstract/MED/33213511)
+  - [PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/pmid/33213511/)
+- ### Other Literature Sources
+
+
+  - [The Lens - Patent Citations Database](https://www.lens.org/lens/search/patent/list?q=reference_cited.npl.ids.pmid:33213511)
+
+NCBI Literature Resources
+
+[MeSH](https://www.ncbi.nlm.nih.gov/mesh/) [PMC](https://www.ncbi.nlm.nih.gov/pmc/) [Bookshelf](https://www.ncbi.nlm.nih.gov/books) [Disclaimer](https://pubmed.ncbi.nlm.nih.gov/disclaimer/)
+
+The PubMed wordmark and PubMed logo are registered trademarks of the U.S. Department of Health and Human Services (HHS). Unauthorized use of these marks is strictly prohibited.
+
+──────── [TRUNCATED] ────────
+Showing 8,993 chars (head) + 2,958 chars (tail) of 31,164 total clean characters.
+Full text saved to: /home/walker/.hermes/cache/web/pubmed.ncbi.nlm.nih.gov-bc39019d42.md
+To read the omitted middle: read_file path="/home/walker/.hermes/cache/web/pubmed.ncbi.nlm.nih.gov-bc39019d42.md" offset=270 limit=200  (the file is the complete page; raise/lower offset to page through it).
+─────────────────────────────

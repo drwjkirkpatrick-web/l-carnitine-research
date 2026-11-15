@@ -1,0 +1,405 @@
+# URL: https://pubmed.ncbi.nlm.nih.gov/26751065/
+# Fetched via web_extract on 2026-11-15
+
+Clipboard, Search History, and several other advanced features are temporarily unavailable.
+
+
+[Skip to main page content](https://pubmed.ncbi.nlm.nih.gov/26751065/#article-details)
+
+### NIH Websites Are Changing
+
+- [Get the Latest Updates and FAQs on the transition](https://www.nih.gov/web-modernization)
+- Per [Executive Order 14434](https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/), federal agencies are now using "Super Intelligence" (SI) in place of "Artificial Intelligence" (AI). You may see both terms across NIH content during this transition.
+
+![Dot gov](https://cdn.ncbi.nlm.nih.gov/coreutils/uswds/img/icon-dot-gov.svg)
+
+**The .gov means it’s official.**
+
+Federal government websites often end in .gov or .mil. Before
+sharing sensitive information, make sure you’re on a federal
+government site.
+
+
+![Https](https://cdn.ncbi.nlm.nih.gov/coreutils/uswds/img/icon-https.svg)
+
+**The site is secure.**
+
+The **https://** ensures that you are connecting to the
+official website and that any information you provide is encrypted
+and transmitted securely.
+
+
+[Access keys](https://www.ncbi.nlm.nih.gov/guide/browsers/#ncbi_accesskeys) [NCBI Homepage](https://www.ncbi.nlm.nih.gov/) [MyNCBI Homepage](https://pubmed.ncbi.nlm.nih.gov/myncbi/) [Main Content](https://pubmed.ncbi.nlm.nih.gov/26751065/#maincontent) [Main Navigation](https://pubmed.ncbi.nlm.nih.gov/26751065/#)
+
+[![pubmed logo](https://cdn.ncbi.nlm.nih.gov/pubmed/a447896c-976f-490b-b86b-2668b65114a8/core/images/pubmed-logo-blue.svg)](https://pubmed.ncbi.nlm.nih.gov/)[Show search bar](https://pubmed.ncbi.nlm.nih.gov/26751065/# "Show search bar")
+
+Search:
+
+
+```
+
+```
+
+[Clear search input](https://pubmed.ncbi.nlm.nih.gov/26751065/# "Clear search input") Search
+
+[Advanced](https://pubmed.ncbi.nlm.nih.gov/advanced/) [Clipboard](https://pubmed.ncbi.nlm.nih.gov/clipboard/)
+
+[User Guide](https://pubmed.ncbi.nlm.nih.gov/help/)
+
+Save
+
+Email
+
+
+Send to
+
+- [Clipboard](https://pubmed.ncbi.nlm.nih.gov/26751065/#)
+- [My Bibliography](https://account.ncbi.nlm.nih.gov/?back_url=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F26751065%2F%23open-bibliography-panel)
+- [Collections](https://account.ncbi.nlm.nih.gov/?back_url=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F26751065%2F%23open-collections-panel)
+- [Citation manager](https://pubmed.ncbi.nlm.nih.gov/26751065/#)
+
+Display options
+
+Display options
+
+
+Format
+AbstractPubMedPMID
+
+## Save citation to file
+
+Format:
+Summary (text)PubMedPMIDAbstract (text)CSV
+
+Create file
+
+Cancel
+
+
+## Email citation
+
+Email address has not been verified. Go to
+[My NCBI account settings](https://account.ncbi.nlm.nih.gov/settings/)
+to confirm your email and then refresh this page.
+
+
+To:
+
+
+Subject:
+
+
+Body:
+
+
+Format:
+SummarySummary (text)AbstractAbstract (text)
+
+MeSH and other data
+
+
+Send email
+
+Cancel
+
+
+### Add to Collections
+
+- Create a new collection
+- Add to an existing collection
+
+Name your collection:
+
+
+Name must be less than 100 characters
+
+
+Choose a collection:
+
+
+Unable to load your collection due to an error
+
+[Please try again](https://pubmed.ncbi.nlm.nih.gov/26751065/#)
+
+Add
+
+Cancel
+
+
+### Add to My Bibliography
+
+- My Bibliography
+
+Unable to load your delegates due to an error
+
+[Please try again](https://pubmed.ncbi.nlm.nih.gov/26751065/#)
+
+Add
+
+Cancel
+
+
+## Your saved search
+
+Name of saved search:
+
+
+Search terms:
+
+
+[Test search terms](https://pubmed.ncbi.nlm.nih.gov/26751065/#)
+
+Would you like email updates of new search results?
+Saved Search Alert Radio Buttons
+
+- Yes
+- No
+
+Email:
+( [change](https://www.ncbi.nlm.nih.gov/account/settings/))
+
+Frequency:
+MonthlyWeeklyDaily
+
+Which day?
+The first SundayThe first MondayThe first TuesdayThe first WednesdayThe first ThursdayThe first FridayThe first SaturdayThe first dayThe first weekday
+
+Which day?
+SundayMondayTuesdayWednesdayThursdayFridaySaturday
+
+Report format:
+SummarySummary (text)AbstractAbstract (text)PubMed
+
+Send at most:
+1 item5 items10 items20 items50 items100 items200 items
+
+Send even when there aren't any new results
+
+
+Optional text in email:
+
+
+Save
+
+Cancel
+
+
+## Create a file for external citation management software
+
+Create file
+
+Cancel
+
+
+## Your RSS Feed
+
+Name of RSS Feed:
+
+
+Number of items displayed:
+510152050100
+
+Create RSS
+
+Cancel
+
+
+RSS Link
+Copy
+
+
+Full text links
+Cite
+
+Display options
+
+Display options
+
+
+Format
+AbstractPubMedPMID
+
+Linked Discoveries
+
+## Abstract
+
+**Background:**
+
+The microbial metabolite Trimethylamine-N-oxide (TMAO) has been linked to adverse cardiovascular outcome and mortality in the general population.
+
+
+**Objective:**
+
+To assess the contribution of TMAO to inflammation and mortality in chronic kidney disease (CKD) patients ranging from mild-moderate to end-stage disease and 1) associations with glomerular filtration rate (GFR) 2) effect of dialysis and renal transplantation (Rtx) 3) association with inflammatory biomarkers and 4) its predictive value for all-cause mortality.
+
+
+**Methods:**
+
+Levels of metabolites were quantified by a novel liquid chromatography/tandem mass spectrometry-based method in fasting plasma samples from 80 controls and 179 CKD 3-5 patients. Comorbidities, nutritional status, biomarkers of inflammation and GFR were assessed.
+
+
+**Results:**
+
+GFR was the dominant variable affecting TMAO (β = -0.41; p<0.001), choline (β = -0.38; p<0.001), and betaine (β = 0.45; p<0.001) levels. A longitudinal study of 74 CKD 5 patients starting renal replacement therapy demonstrated that whereas dialysis treatment did not affect TMAO, Rtx reduced levels of TMAO to that of controls (p<0.001). Following Rtx choline and betaine levels continued to increase. In CKD 3-5, TMAO levels were associated with IL-6 (Rho = 0.42; p<0.0001), fibrinogen (Rho = 0.43; p<0.0001) and hsCRP (Rho = 0.17; p = 0.022). Higher TMAO levels were associated with an increased risk for all-cause mortality that remained significant after multivariate adjustment (HR 4.32, 95% CI 1.32-14.2; p = 0.016).
+
+
+**Conclusion:**
+
+Elevated TMAO levels are strongly associated with degree of renal function in CKD and normalize after renal transplantation. TMAO levels correlates with increased systemic inflammation and is an independent predictor of mortality in CKD 3-5 patients.
+
+
+[PubMed Disclaimer](https://pubmed.ncbi.nlm.nih.gov/disclaimer/)
+
+## Conflict of interest statement
+
+Competing Interests: The authors have declared that no competing interests exist.
+
+## Figures
+
+[![Fig 1](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/a621/4709190/5de6728c7a75/pone.0141738.g001.gif)](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/a621/4709190/3dad7bfc6f6c/pone.0141738.g001.jpg)
+
+**Fig 1. Increasing plasma levels of TMAO…**
+
+**Fig 1. Increasing plasma levels of TMAO in CKD patients stage 3 ( _n_ =…**
+
+**Fig 1. Increasing plasma levels of TMAO in CKD patients stage 3 ( _n_ = 30), stage 4 ( _n_ = 28) and stage 5 ( _n_ = 116) compared to healthy controls ( _n_ = 80).**
+
+Values are expressed as median (10th -90th percentile). P-values analyzed by Kruskal–Wallis’ one-way ANOVA, followed by Dunn’s multiple comparison test.
+
+[![Fig 2](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/a621/4709190/bec122d62e44/pone.0141738.g002.gif)](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/a621/4709190/46e8311d44a2/pone.0141738.g002.jpg)
+
+**Fig 2. Comparison of plasma levels of…**
+
+**Fig 2. Comparison of plasma levels of metabolites in a cohort of CKD 5 patients…**
+
+**Fig 2. Comparison of plasma levels of metabolites in a cohort of CKD 5 patients ( _n_ = 74) followed from baseline and reassessed 12 months after start of dialysis and/or 12 months and 24 months after renal transplantation (Rtx).**
+
+Choline and betaine levels increased with dialysis and Rtx whereas TMAO levels remained unchanged during dialysis and normalized after Rtx. Due to missing samples box-plots represents 34/74 patients at 12 months of dialysis, 47/74 patients at 12 months and 29/74 patients at 24 months follow-up after Rtx. Values are expressed as median (10th -90th percentile) P-values analyzed by Kruskal–Wallis’ one-way ANOVA, followed by Dunn’s multiple comparison test.
+
+[![Fig 3](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/a621/4709190/9cc663b40ff9/pone.0141738.g003.gif)](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/a621/4709190/8fa5698b0522/pone.0141738.g003.jpg)
+
+**Fig 3. Comparative analysis of metabolites in…**
+
+**Fig 3. Comparative analysis of metabolites in inflamed (hsCRP ≥10 mg/L) and non-inflamed (hsCRP <…**
+
+**Fig 3. Comparative analysis of metabolites in inflamed (hsCRP ≥10 mg/L) and non-inflamed (hsCRP < 10 mg/L) CKD 3–5 patients ( _n_ = 179).**
+
+Higher hsCRP levels associated with higher TMAO levels and decreased betaine levels. Values are expressed as median (10th -90th percentile). P-values analyzed by Kruskal–Wallis’ one-way ANOVA, followed by Dunn’s multiple comparison test.
+
+[![Fig 4](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/a621/4709190/f6e4013f20f6/pone.0141738.g004.gif)](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/a621/4709190/99f6ae1c864e/pone.0141738.g004.jpg)
+
+
+[... middle omitted — see footer ...]
+
+  - [Add to Search](https://pubmed.ncbi.nlm.nih.gov/26751065/#)
+
+- Betaine
+
+
+
+
+Actions
+
+
+
+
+
+  - [Search in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22Betaine%22%5Bnm%5D&sort=date&sort_order=desc)
+  - [Search in MeSH](https://www.ncbi.nlm.nih.gov/mesh?term=%22Betaine%22)
+  - [Add to Search](https://pubmed.ncbi.nlm.nih.gov/26751065/#)
+
+- Fibrinogen
+
+
+
+
+Actions
+
+
+
+
+
+  - [Search in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22Fibrinogen%22%5Bnm%5D&sort=date&sort_order=desc)
+  - [Search in MeSH](https://www.ncbi.nlm.nih.gov/mesh?term=%22Fibrinogen%22)
+  - [Add to Search](https://pubmed.ncbi.nlm.nih.gov/26751065/#)
+
+- C-Reactive Protein
+
+
+
+
+Actions
+
+
+
+
+
+  - [Search in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22C-Reactive+Protein%22%5Bnm%5D&sort=date&sort_order=desc)
+  - [Search in MeSH](https://www.ncbi.nlm.nih.gov/mesh?term=%22C-Reactive+Protein%22)
+  - [Add to Search](https://pubmed.ncbi.nlm.nih.gov/26751065/#)
+
+- trimethyloxamine
+
+
+
+
+Actions
+
+
+
+
+
+  - [Search in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22trimethyloxamine%22%5Bnm%5D&sort=date&sort_order=desc)
+  - [Search in MeSH](https://www.ncbi.nlm.nih.gov/mesh?term=%22trimethyloxamine%22)
+  - [Add to Search](https://pubmed.ncbi.nlm.nih.gov/26751065/#)
+
+- Choline
+
+
+
+
+Actions
+
+
+
+
+
+  - [Search in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22Choline%22%5Bnm%5D&sort=date&sort_order=desc)
+  - [Search in MeSH](https://www.ncbi.nlm.nih.gov/mesh?term=%22Choline%22)
+  - [Add to Search](https://pubmed.ncbi.nlm.nih.gov/26751065/#)
+
+## Related information
+
+- [Gene](https://www.ncbi.nlm.nih.gov/gene?linkname=pubmed_gene&from_uid=26751065 "Link to related Genes")
+- [Protein (RefSeq)](https://www.ncbi.nlm.nih.gov/protein?linkname=pubmed_protein_refseq&from_uid=26751065 "Link to Protein RefSeqs")
+- [PubChem Compound (MeSH Keyword)](https://www.ncbi.nlm.nih.gov/pccompound?linkname=pubmed_pccompound_mesh&from_uid=26751065 "Related PubChem Compound via MeSH")
+
+## LinkOut - more resources
+
+- ### Full Text Sources
+
+
+  - [Europe PMC](https://europepmc.org/abstract/MED/26751065)
+  - [PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/pmid/26751065/)
+  - [Public Library of Science](https://dx.plos.org/10.1371/journal.pone.0141738)
+- ### Other Literature Sources
+
+
+  - [The Lens - Patent Citations Database](https://www.lens.org/lens/search/patent/list?q=reference_cited.npl.ids.pmid:26751065)
+  - [scite Smart Citations](https://scite.ai/reports/26751065)
+- ### Medical
+
+
+  - [MedlinePlus Health Information](https://medlineplus.gov/chronickidneydisease.html)
+
+NCBI Literature Resources
+
+[MeSH](https://www.ncbi.nlm.nih.gov/mesh/) [PMC](https://www.ncbi.nlm.nih.gov/pmc/) [Bookshelf](https://www.ncbi.nlm.nih.gov/books) [Disclaimer](https://pubmed.ncbi.nlm.nih.gov/disclaimer/)
+
+The PubMed wordmark and PubMed logo are registered trademarks of the U.S. Department of Health and Human Services (HHS). Unauthorized use of these marks is strictly prohibited.
+
+──────── [TRUNCATED] ────────
+Showing 8,987 chars (head) + 2,946 chars (tail) of 29,821 total clean characters.
+Full text saved to: /home/walker/.hermes/cache/web/pubmed.ncbi.nlm.nih.gov-4381c27955.md
+To read the omitted middle: read_file path="/home/walker/.hermes/cache/web/pubmed.ncbi.nlm.nih.gov-4381c27955.md" offset=288 limit=200  (the file is the complete page; raise/lower offset to page through it).
+─────────────────────────────

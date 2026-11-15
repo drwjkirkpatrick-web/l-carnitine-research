@@ -1,0 +1,43 @@
+# Source: PubMed (NCBI E-utilities efetch)
+# URL: https://pubmed.ncbi.nlm.nih.gov/20093144/
+# Fetched: 2026-11-15
+# PMID: 20093144
+
+1. Regul Pept. 2010 Apr 9;161(1-3):58-66. doi: 10.1016/j.regpep.2009.12.024. Epub
+ 2010 Jan 20.
+
+L-carnitine attenuates oxidant injury in HK-2 cells via ROS-mitochondria 
+pathway.
+
+Ye J(1), Li J, Yu Y, Wei Q, Deng W, Yu L.
+
+Author information:
+(1)Department of Organ Transplantation, Nanfang Hospital, Southern Medical 
+University, Guangzhou 510515, China.
+
+Oxidative stress has been considered as the possible mechanism of renal 
+ischemia/reperfusion injury. L-carnitine is an endogenous mitochondrial membrane 
+compound and could effectively protect ischemia-reperfusion injury in the 
+kidney. To elucidate the nephroprotective effects of L-carnitine, here we 
+assessed the effect of L-carnitine on hydrogen peroxide (H(2)O(2))-mediated 
+oxidative stress in the human proximal tubule epithelial cell line, HK-2 cells. 
+The results showed that pretreatment with L-carnitine 12h inhibited 
+H(2)O(2)-induced cell viability loss, intracellular reactive oxygen species 
+generation and lipid peroxidation in a concentration-dependent manner. Also 
+L-carnitine promoted endogenous antioxidant defense components including total 
+antioxidative capacity, glutathione peroxidase, catalase and superoxide 
+dismutase. In parallel, cell apoptosis triggered by H(2)O(2) characterized with 
+the DNA fragment and caspase-3 activity were also inhibited by L-carnitine. 
+Furthermore, mitochondrial dysfunction associated with cell apoptosis including 
+membrane potential loss, down-regulation of Bcl-2 and up-regulation of Bax and 
+the release of cytochrome c were abrogated in the presence of L-carnitine. These 
+results suggested that L-carnitine could protect HK-2 cells from 
+H(2)O(2)-induced injury through the inhibition of oxidative damage, mitochondria 
+dysfunction and ultimately inhibition of cell apoptosis, which indicates that 
+L-carnitine may be a promising approach for the treatment of oxidative stress in 
+renal diseases.
+
+Copyright 2010 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.regpep.2009.12.024
+PMID: 20093144 [Indexed for MEDLINE]

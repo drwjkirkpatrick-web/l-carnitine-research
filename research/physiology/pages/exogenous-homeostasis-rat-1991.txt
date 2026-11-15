@@ -1,0 +1,50 @@
+PMID: 2015278
+PubMed URL: https://pubmed.ncbi.nlm.nih.gov/2015278/
+Fetched via NCBI eutils efetch, accessed 2026-11-15
+
+1. Biochim Biophys Acta. 1991 Apr 9;1073(3):543-9. doi: 
+10.1016/0304-4165(91)90228-9.
+
+Effect of exogenous carnitine on carnitine homeostasis in the rat.
+
+Ruff LJ(1), Miller LG, Brass EP.
+
+Author information:
+(1)Department of Medicine, Case Western Reserve University, Cleveland, OH 44106.
+
+The interaction of exogenous carnitine with whole body carnitine homeostasis was 
+characterized in the rat. Carnitine was administered in pharmacologic doses 
+(0-33.3 mumols/100 g body weight) by bolus, intravenous injection, and plasma, 
+urine, liver, skeletal muscle and heart content of carnitine and acylcarnitines 
+quantitated over a 48 h period. Pre-injection urinary carnitine excretion was 
+circadian as excretion rates were increased 2-fold during the lights-off cycle 
+as compared with the lights-on cycle. Following carnitine administration, there 
+was an increase in urinary total carnitine excretion which accounted for approx. 
+60% of the administered carnitine at doses above 8.3 mumols/100 g body weight. 
+Urinary acylcarnitine excretion was increased following carnitine administration 
+in a dose-dependent fashion. During the 24 h following administration of 16.7 
+mumols [14C]carnitine/100 g body weight, urinary carnitine specific activity 
+averaged only 72 +/- 4% of the injection solution specific activity. This 
+dilution of the [14C]carnitine specific activity suggests that endogenous 
+carnitine contributed to the increased net urinary carnitine excretion following 
+carnitine administration. 5 min after administration of 16.7 mumol carnitine/100 
+g body weight approx. 80% of the injected carnitine was in the extracellular 
+fluid compartment and 5% in the liver. Plasma, liver and soleus total carnitine 
+contents were increased 6 h after administration of 16.7 mumols carnitine/100 g 
+body weight. 6 h post-administration, 37% of the dose was recovered in the 
+urine, 12% remained in the extracellular compartment, 9% was in the liver and 
+22% was distributed in the skeletal muscle. In liver and plasma, short chain 
+acylcarnitine content was increased 5 min and 6 h post injection as compared 
+with controls. Plasma, liver, skeletal muscle and heart carnitine contents were 
+not different from control levels 48 h after carnitine administration. The 
+results demonstrate that single, bolus administration of carnitine is effective 
+in increasing urinary acylcarnitine elimination. While liver carnitine content 
+is doubled for at least 6 h following carnitine administration, skeletal muscle 
+and heart carnitine pools are only modestly perturbed following a single 
+intravenous carnitine dose. The dilution of [14C]carnitine specific activity in 
+the urine of treated animals suggests that tissue-blood carnitine or 
+acylcarnitine exchange systems contribute to overall carnitine homeostasis 
+following carnitine administration.
+
+DOI: 10.1016/0304-4165(91)90228-9
+PMID: 2015278 [Indexed for MEDLINE]

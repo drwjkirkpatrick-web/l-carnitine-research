@@ -1,0 +1,36 @@
+PMID: 7156861
+PubMed URL: https://pubmed.ncbi.nlm.nih.gov/7156861/
+Fetched via NCBI eutils efetch, accessed 2026-11-15
+
+1. Scand J Clin Lab Invest. 1982 Oct;42(6):477-85.
+
+Gamma-butyrobetaine hydroxylase in human kidney.
+
+Lindstedt G, Lindstedt S, Nordin I.
+
+The activity of gamma-butyrobetaine hydroxylase [4-trimethylaminobutyrate: 
+oxygen oxidoreductase (3-hydroxylating), EC 1.14.11.1] was determined in 
+different parts of a human kidney removed at surgery and in five perfused human 
+cadaver kidneys. The activity in the 100,000 g supernatant fraction of a 
+homogenate of whole kidneys was 48 nkat X g-1 protein (range 32-70 nkat X 
+g-1protein). The cortex and outer medulla had four to six times higher activity 
+than the inner medulla. A 60-fold purification from the soluble fraction of 
+kidney homogenates with a 40% recovery was achieved by ammonium sulphate 
+fractionation followed by DEAE-cellulose and hydroxylapatite chromatography. The 
+enzyme had a specific activity of 2.4 mukat X g-1 protein but was contaminated 
+to a minor degree by other proteins as judged by polyacrylamide gel 
+electrophoresis. The Km values for gamma-butyrobetaine, 2-oxoglutarate and 
+oxygen were 0.2 mmol/l, 0.3 mmol/l and 5.5% (by volume in the gas phase). There 
+was an absolute requirement for ferrous ion. Half-maximal activity was reached 
+with 10 mumol/l of Fe2+ in phosphate buffer (14 mmol/l) at pH 6.5. With a 
+reaction time of 30 min ascorbate and catalase stimulated the reaction seven- 
+and fivefold, respectively. Optimal pH value for the reaction was 6.2-6.5 in 
+phosphate buffer. Decarboxylation of 2-oxoglutarate in the presence of 
+4-trimethylaminocrotonate or 4-dimethylaminobutyrate was 40 and 20%, 
+respectively, of that with gamma-butyrobetaine as substrate. None of several 
+compounds chemically related to 2-oxoglutarate, including oxaloacetate, 
+stimulated gamma-butyrobetaine hydroxylation when tested in the absence of 
+2-oxoglutarate. We conclude that the requirements of the human kidney enzyme are 
+similar to those previously reported for this enzyme from other sources.
+
+PMID: 7156861 [Indexed for MEDLINE]

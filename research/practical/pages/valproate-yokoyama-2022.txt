@@ -1,0 +1,44 @@
+10. Clin Psychopharmacol Neurosci. 2022 Aug 31;20(3):536-547. doi: 
+10.9758/cpn.2022.20.3.536.
+
+Blood Levels of Ammonia and Carnitine in Patients Treated with Valproic Acid: A 
+Meta-analysis.
+
+Yokoyama S(1), Sugawara N(1), Maruo K(2), Yasui-Furukori N(1), Shimoda K(1).
+
+Author information:
+(1)Department of Psychiatry, Dokkyo Medical University School of Medicine, Mibu, 
+Japan.
+(2)Faculty of Medicine, University of Tsukuba, Tsukuba, Japan.
+
+OBJECTIVE: Long-term valproic acid (VPA) administration is associated with 
+adverse metabolic effects, including hyperammonemia and hypocarnitinemia. 
+However, the pathogeneses of these adverse events remain unclear, and not enough 
+reviews have been performed. The aim of this study was to conduct a 
+meta-analysis of studies examining blood levels of ammonia and carnitine in 
+patients treated with VPA.
+METHODS: We conducted database searches (PubMed, Web of Science) to identify 
+studies examining blood levels of ammonia and carnitine in patients treated with 
+VPA. A meta-analysis was performed to conduct pre- and post-VPA treatment 
+comparisons, cross-sectional comparisons between groups with and without VPA 
+use, and estimations of the standardized correlations between blood levels of 
+ammonia, carnitine, and VPA.
+RESULTS: According to the cross-sectional comparisons, the blood ammonia level 
+in the VPA group was significantly higher than that in the non-VPA group. 
+Compared to that in the non-VPA group, the blood carnitine level in the VPA 
+group was significantly lower. In the meta-analysis of correlation coefficients, 
+the blood VPA level was moderately correlated with blood ammonia and blood free 
+carnitine levels in the random effects model. Furthermore, the blood ammonia 
+level was moderately correlated with the blood free carnitine level.
+CONCLUSION: Although the correlation between ammonia and free carnitine levels 
+in blood was significant, the moderate strength of the correlation does not 
+allow clinicians to infer free carnitine levels from the results of ammonia 
+levels. Clinicians should measure both blood ammonia and free carnitine levels, 
+especially in patients receiving high dosages of VPA.
+
+DOI: 10.9758/cpn.2022.20.3.536
+PMCID: PMC9329117
+PMID: 35879038
+
+Conflict of interest statement: Conflicts of Interest No potential conflict of 
+interest relevant to this article was reported.

@@ -1,0 +1,61 @@
+3. Am J Nephrol. 2024;55(3):369-379. doi: 10.1159/000537827. Epub 2024 Feb 20.
+
+Musculoskeletal Health Worsened from Carnitine Supplementation and Not Impacted 
+by a Novel Individualized Treadmill Training Protocol.
+
+Troutman AD(1), Srinivasan S(2), Metzger CE(3), Fallen PB(3), Chen N(2), O'Neill 
+KD(2), Allen MR(3)(4), Biruete A(2)(5), Moe SM(2)(3), Avin KG(1)(2).
+
+Author information:
+(1)Department of Physical Therapy, School of Health and Human Sciences, Indiana 
+University, Indianapolis, Indiana, USA.
+(2)Division of Nephrology and Hypertension, Department of Medicine, Indiana 
+University School of Medicine, Indianapolis, Indiana, USA.
+(3)Department of Anatomy, Physiology and Cell Biology, Indiana University School 
+of Medicine, Indianapolis, Indiana, USA.
+(4)Roudebush Veterans Affairs Medical Center, Indianapolis, Indiana, USA.
+(5)Department of Nutrition Science, Purdue University, West Lafayette, Indiana, 
+USA.
+
+INTRODUCTION: Chronic kidney disease (CKD) negatively affects musculoskeletal 
+health, leading to reduced mobility, and quality of life. In healthy 
+populations, carnitine supplementation and aerobic exercise have been reported 
+to improve musculoskeletal health. However, there are inconclusive results 
+regarding their effectiveness and safety in CKD. We hypothesized that carnitine 
+supplementation and individualized treadmill exercise would improve 
+musculoskeletal health in CKD.
+METHODS: We used a spontaneously progressive CKD rat model (Cy/+ rat) (n = 
+11-12/gr): (1) Cy/+ (CKD-Ctrl), (2) CKD-carnitine (CKD-Carn), and (3) 
+CKD-treadmill (CKD-TM). Carnitine (250 mg/kg) was injected daily for 10 weeks. 
+Rats in the treadmill group ran 4 days/week on a 5° incline for 10 weeks 
+progressing from 30 min/day for week one to 40 min/day for week two to 50 
+min/day for the remaining 8 weeks. At 32 weeks of age, we assessed overall 
+cardiopulmonary fitness, muscle function, bone histology and architecture, and 
+kidney function. Data were analyzed by one-way ANOVA with Tukey's multiple 
+comparisons tests.
+RESULTS: Moderate to severe CKD was confirmed by biochemistries for blood urea 
+nitrogen (mean 43 ± 5 mg/dL CKD-Ctrl), phosphorus (mean 8 ± 1 mg/dL CKD-Ctrl), 
+parathyroid hormone (PTH; mean 625 ± 185 pg/mL CKD-Ctrl), and serum creatinine 
+(mean 1.1 ± 0.2 mg/mL CKD-Ctrl). Carnitine worsened phosphorous (mean 11 ± 3 
+mg/dL CKD-Carn; p &lt; 0.0001), PTH (mean 1,738 ± 1,233 pg/mL CKD-Carn; p &lt; 
+0.0001), creatinine (mean 1 ± 0.3 mg/dL CKD-Carn; p &lt; 0.0001), cortical bone 
+thickness (mean 0.5 ± 0.1 mm CKD-Ctrl, 0.4 ± 0.1 mm CKD-Carn; p &lt; 0.05). 
+Treadmill running significantly improves maximal aerobic capacity when compared 
+to CKD-Ctrl (mean 14 ± 2 min CKD-TM, 10 ± 2 min CKD-Ctrl; p &lt; 0.01).
+CONCLUSION: Carnitine supplementation worsened CKD progression, mineral 
+metabolism biochemistries, and cortical porosity and did not have an impact on 
+physical function. Individualized treadmill running improved maximal aerobic 
+capacity but did not have an impact on CKD progression or bone properties. 
+Future studies should seek to better understand carnitine doses in conditions of 
+compromised renal function to prevent toxicity which may result from elevated 
+carnitine levels and to optimize exercise prescriptions for musculoskeletal 
+health.
+
+© 2024 S. Karger AG, Basel.
+
+DOI: 10.1159/000537827
+PMCID: PMC11147712
+PMID: 38377965 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest Statement The authors have 
+no conflicts of interest to declare.

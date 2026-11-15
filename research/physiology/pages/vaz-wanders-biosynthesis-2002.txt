@@ -1,0 +1,29 @@
+PMID: 11802770
+PubMed URL: https://pubmed.ncbi.nlm.nih.gov/11802770/
+Fetched via NCBI eutils efetch, accessed 2026-11-15
+
+1. Biochem J. 2002 Feb 1;361(Pt 3):417-29. doi: 10.1042/0264-6021:3610417.
+
+Carnitine biosynthesis in mammals.
+
+Vaz FM(1), Wanders RJ.
+
+Author information:
+(1)Laboratory for Genetic Metabolic Diseases, Departments of Clinical Chemistry 
+and Paediatrics, Emma Children's Hospital, Academic Medical Centre, University 
+of Amsterdam, P.O. Box 22700, 1100 DE Amsterdam, The Netherlands. 
+f.m.vaz@amc.uva.nl
+
+Carnitine is indispensable for energy metabolism, since it enables activated 
+fatty acids to enter the mitochondria, where they are broken down via 
+beta-oxidation. Carnitine is probably present in all animal species, and in 
+numerous micro-organisms and plants. In mammals, carnitine homoeostasis is 
+maintained by endogenous synthesis, absorption from dietary sources and 
+efficient tubular reabsorption by the kidney. This review aims to cover the 
+current knowledge of the enzymological, molecular, metabolic and regulatory 
+aspects of mammalian carnitine biosynthesis, with an emphasis on the human and 
+rat.
+
+DOI: 10.1042/0264-6021:3610417
+PMCID: PMC1222323
+PMID: 11802770 [Indexed for MEDLINE]

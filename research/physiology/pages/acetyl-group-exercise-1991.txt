@@ -1,0 +1,40 @@
+PMID: 1815472
+PubMed URL: https://pubmed.ncbi.nlm.nih.gov/1815472/
+Fetched via NCBI eutils efetch, accessed 2026-11-15
+
+1. Acta Physiol Scand. 1991 Dec;143(4):367-72. doi: 
+10.1111/j.1748-1716.1991.tb09247.x.
+
+Acetyl group accumulation and pyruvate dehydrogenase activity in human muscle 
+during incremental exercise.
+
+Constantin-Teodosiu D(1), Carlin JI, Cederblad G, Harris RC, Hultman E.
+
+Author information:
+(1)Department of Clinical Chemistry I, Huddinge University Hospital, Karolinska 
+Institutet, Sweden.
+
+The changes in the muscle contents of CoASH and carnitine and their acetylated 
+forms, lactate and the active form of pyruvate dehydrogenase complex were 
+studied during incremental dynamic exercise. Eight subjects exercised for 3-4 
+minutes on a bicycle ergometer at work loads corresponding to 30, 60 and 90% of 
+their VO2max. Muscle samples were obtained by percutaneous needle biopsy 
+technique at rest, at the end of each work period and after 10 minutes of 
+recovery. During the incremental exercise test there was a continuous increase 
+in muscle lactate, from a basal value of 4.5 mmol kg-1 dry weight to 83 mmol 
+kg-1 at the end of the final period. The active form of pyruvate dehydrogenase 
+complex increased from 0.37 mmol acetyl-CoA formed per minute per kilogram wet 
+weight at rest to 0.80 at 30% VO2max, 1.28 and 1.25 at 60 and 90% VO2max, 
+respectively. Both acetyl-CoA and acetylcarnitine increased at the two highest 
+work loads. The increase of acetyl-CoA was from 12.5 mumol kg-1 dry weight at 
+rest to 27.3 after the highest work load and for acetylcarnitine from 6.0 mmol 
+kg-1 dry weight to 15.2. The CoASH and free carnitine contents fell 
+correspondingly. There was a close relationship between acetyl-CoA and 
+acetylcarnitine accumulation in muscle during exercise, with a binding of 
+approximately 500 mol acetyl groups to carnitine for each mole of acetyl-CoA 
+accumulated. The results imply that the carnitine store in muscle functions as a 
+buffer for excess formation of acetyl groups from pyruvate catalyzed by the 
+pyruvate dehydrogenase complex.
+
+DOI: 10.1111/j.1748-1716.1991.tb09247.x
+PMID: 1815472 [Indexed for MEDLINE]

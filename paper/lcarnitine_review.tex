@@ -1,0 +1,227 @@
+\documentclass[11pt]{article}
+
+% Core packages
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage[margin=25mm]{geometry}
+\usepackage{setspace}
+\usepackage{xcolor}
+\usepackage{textcomp}
+\usepackage[version=4]{mhchem}
+\usepackage{xurl}
+
+% Unicode guard: quoted source text is fatal if unhandled (latex-arxiv-tooling lesson)
+\usepackage{newunicodechar}
+\newunicodechar{’}{'}
+\newunicodechar{‘}{`}
+\newunicodechar{“}{{\tt``}}
+\newunicodechar{”}{{\tt''}}
+\newunicodechar{–}{--}
+\newunicodechar{—}{---}
+\newunicodechar{…}{\ldots}
+\newunicodechar{≈}{\ensuremath{\approx}}
+\newunicodechar{≤}{\ensuremath{\leq}}
+\newunicodechar{≥}{\ensuremath{\geq}}
+\newunicodechar{→}{\ensuremath{\rightarrow}}
+\newunicodechar{°}{\textdegree}
+\newunicodechar{×}{\ensuremath{\times}}
+\newunicodechar{²}{\textsuperscript{2}}
+\newunicodechar{³}{\textsuperscript{3}}
+\newunicodechar{µ}{\textmu}
+\newunicodechar{±}{\ensuremath{\pm}}
+\newunicodechar{−}{\ensuremath{-}}
+\newunicodechar{Δ}{\ensuremath{\Delta}}
+\newunicodechar{™}{\texttrademark}
+\newunicodechar{α}{\ensuremath{\alpha}}
+\newunicodechar{β}{\ensuremath{\beta}}
+\newunicodechar{γ}{\ensuremath{\gamma}}
+\newunicodechar{κ}{\ensuremath{\kappa}}
+\newunicodechar{μ}{\textmu}
+\newunicodechar{ζ}{\ensuremath{\zeta}}
+\newunicodechar{∞}{\ensuremath{\infty}}
+\newunicodechar{√}{\ensuremath{\surd}}
+\newunicodechar{′}{$'$}
+\newunicodechar{‐}{-}
+\newunicodechar{‑}{-}
+\newunicodechar{·}{\textperiodcentered}
+\newunicodechar{®}{\textregistered}
+\newunicodechar{ĸ}{k}
+
+% Math, tables, layout
+\usepackage{amsmath,amssymb}
+\usepackage{booktabs}
+\usepackage{longtable}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{graphicx}
+\usepackage{caption}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{parskip}
+
+% Hyperlinks and metadata
+\usepackage{hyperref}
+\hypersetup{
+    pdftitle={L-Carnitine as Renal Support during Desert Thru-Hiking and Sustained Exertion: A Grounded Review for the Trail Clinic},
+    pdfauthor={Walker J. Kirkpatrick, ND},
+    pdfkeywords={L-carnitine, levocarnitine, kidney, renal support, thru-hiking, endurance, dehydration, heat stress, OCTN2, rhabdomyolysis, TMAO, trimethylamine N-oxide, naturopathic medicine},
+    pdfsubject={Sports and nephrology evidence review for naturopathic practice},
+    colorlinks=true,
+    linkcolor=blue!60!black,
+    citecolor=blue!60!black,
+    urlcolor=blue!60!black
+}
+
+% Citation macro: every citation passes through \src{} so the cited-id set is
+% a single regex. ids come from the retrieval ledger, never from memory.
+% \allowbreak lets multi-citation clusters wrap instead of overflowing.
+\newcommand{\src}[1]{\allowbreak[#1]}
+\setlength{\emergencystretch}{3em}
+
+\titleformat{\section}{\large\bfseries}{\thesection}{1em}{}
+\titleformat{\subsection}{\normalsize\bfseries}{\thesubsection}{1em}{}
+\setstretch{1.18}
+
+\title{\Large \textbf{L-Carnitine as Renal Support during Desert Thru-Hiking and Sustained Exertion \\ A Grounded Review for the Trail Clinic}}
+\author{\normalsize Walker J. Kirkpatrick, ND}
+\date{\normalsize November 2026}
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+\noindent
+A desert thru-hike repeats, day after day for weeks, the triad the renal literature identifies as the kidney's highest-risk combination: prolonged exertion, heat, and dehydration --- frequently compounded by ibuprofen and, in a minority of hikers, by the opposite error of overhydration. This review asks whether L-carnitine supplementation is a defensible renal-support adjunct for that environment, and it builds the answer from a retrieval ledger of 279 sources fetched and registered during the project, weighted toward 2019--2026. The stressor side is quantified first: 82\% of Hartford Marathon finishers met creatinine-based acute kidney injury (AKI) criteria; across 250-km multistage desert ultramarathons, 18.8--32\% of runners met injury-grade AKI per stage with renal function resolving between stages --- the daily stress-and-resolution cycle a thru-hike repeats; a randomized trial at desert 50-mile races found AKI in 52\% of ibuprofen users versus 34\% of placebo (number needed to harm 5.5); and eliminating NSAID use and dehydration could reduce exertional-rhabdomyolysis AKI risk by an estimated 92.6\%. The carnitine side is an economy story, not an antioxidant story: free carnitine is freely filtered and 98--99\% reabsorbed in the proximal tubule by OCTN2, a saturable, insulin-regulated system whose failure produces cardiomyopathy and whose dialysis-circuit collapse (a single session strips 64--75\% of serum free carnitine; 86.7\% of dialysis patients are insufficient) is the one setting in which regulatory medicine formally prescribes carnitine for renal patients. Direct renal-protection evidence exists but stops short of the trail: ischemic AKI is mechanistically a carnitine-pathway failure (accumulated acylcarnitines and acyl-CoA inhibit tubular Na\textsuperscript{+}/K\textsuperscript{+}-ATPase), carnitine pretreatment protects rodent kidneys from ischemia--reperfusion and heat-stress AKI, small contrast-nephropathy trials blunt NGAL rises, and a peritoneal-dialysis trial preserved residual renal function --- but the sepsis megadose trial was null, Cochrane does not support routine dialysis supplementation, and no trial with a hard renal primary endpoint exists. The muscle file is the most practical: 2 g/day L-carnitine L-tartrate for three weeks reduces exercise-induced muscle damage (MRI-assessed tissue damage, creatine kinase, myoglobin, soreness across a 2020 meta-analysis), which matters to a kidney threatened by rhabdomyolysis --- while true muscle loading (+21\% after 24 weeks with carbohydrate co-ingestion) is a pre-season project, not a trail maneuver. The TMAO counterweight is mapped at full strength and honestly weighed: chronic supplementation raises fasting TMAO via the gut microbiome, TMAO associates with CKD incidence and mortality --- yet Mendelian randomization reads reverse causality, the hemodialysis cohort with the highest TMAO concentrations on record showed no mortality association, fish-eating produces larger excursions than supplements, and no source demonstrates renal harm from oral carnitine at supplement doses in healthy people. The paper closes with the trail-clinic protocol: LCLT powder 2 g/day split with meals ($\sim$\$0.13/day), the four cautions (coumarin anticoagulants, thyroid-hormone replacement, seizure disorders, CKD), the water question answered plainly --- carnitine does not spare water, and hydration strategy remains the renal intervention that actually has evidence.
+\end{abstract}
+
+\section{Introduction: The Question Behind the Question}
+
+A long desert hike is a renal event. Day after day the same kidney filters, concentrates, and reabsorbs against a background of heat, sweat losses, big-mile energy deficit, and --- for many hikers --- ibuprofen. Modern nephrology has begun to describe exercise for what it is here: the core-curriculum framing states that exercise's renal adaptations are protective in moderation but ``become maladaptive with dehydration, heat stress, or excessive fluid intake.''\src{175} Heat itself creates a renal supply--demand mismatch --- hyperthermia diverts blood to skin while tubular energetic demand rises --- and recurrent heat-stress kidney injury is now discussed as a contributor to occupational CKD epidemics affecting ``upwards of 45 million individuals in the global workforce.''\src{172}\src{169} The question this paper asks is narrow and practical: in that environment, is L-carnitine a defensible renal-support adjunct, and what exactly would it be supporting?
+
+The reason the question is not absurd is the kidney--carnitine relationship itself. Carnitine is not a casual supplement to a nephrologist: free carnitine is freely filtered at the glomerulus and 98--99\% of the filtered load is reclaimed in the proximal tubule by the sodium-coupled transporter OCTN2 --- the kidney is the body's carnitine-conservation organ.\src{91} When that conservation fails --- by mutation, by kidney disease, or by the dialysis circuit --- carnitine deficiency follows, and regulatory medicine's response is instructive: injectable levocarnitine carries an FDA-approved indication for the carnitine deficiency of dialysis patients.\src{66} A molecule whose deficit renal medicine treats is at least a molecule whose renal economy a trail clinician should understand before prescribing it to someone whose kidneys are working.
+
+The method is deliberately paranoid, and identical in discipline to this author's tulsi and scutellaria reviews. Every numbered claim resolves to one of 279 sources fetched and registered during this review, weighted toward work published between 2019 and 2026; most cited sources carry verbatim sentences captured from the fetched text, so a colleague can check any sentence against its number (see Sources). Six parallel research streams produced the evidence base --- carnitine physiology and renal economy, exercise and muscle evidence, the renal stress of desert exertion, direct carnitine-as-renal-support evidence, the TMAO counterpoint, and practical dosing and safety --- and each stream was instructed to flag, rather than round off, every lead it could not verify. Three streams died mid-run when the model provider throttled; their saved sources were salvaged and completed, and the failures are recorded here because the paper's claims survived a mechanical re-verification pass regardless. The flags that matter: no study of carnitine in human sweat exists; no study isolates water restriction's effect on carnitine economy; and no renal-function study of an actual multiweek thru-hike exists --- every kidney inference in this paper is by analogy, and says so.
+
+The thesis, previewed honestly: L-carnitine is a mechanistically credible, cheap, and well-tolerated adjunct whose direct evidence for protecting a stressed but working kidney is preclinical-plus-surrogate, whose muscle-damage evidence in exercising humans is the strongest practical lever, whose one demonstrated `renal medicine' role is replacement in failure states, and whose strongest counterweight --- TMAO --- is a real metabolic exposure whose harm in healthy people remains unproven and contested. What a clinician does with that asymmetry is the subject of section~\ref{sec:synth}.
+
+\section{The Stressor: What a Desert Thru-Hike Does to a Kidney}
+\label{sec:stressor}
+
+\subsection{Exercise-associated acute kidney injury: the daily cycle}
+
+The endurance-renal literature now describes a repeatable, largely reversible stress pattern, and its numbers set the stakes. In the Hartford Marathon cohort, 82\% of 22 finishers developed creatinine increases meeting AKIN stage 1--2 AKI criteria, 73\% showed urinary sediment diagnostic of tubular injury, and injury/repair biomarkers (IL-18, KIM-1, NGAL) peaked the day after the race.\src{163} A meta-analysis of marathon biomarker studies confirms large post-race rises in TIMP-2$\times$IGFBP7, copeptin, and L-FABP with heterogeneous recovery.\src{166} At the 161-km Western States Endurance Run, 36.2\% of 627 finishes met RIFLE risk or injury criteria, with repeat-race analysis finding no evidence that prior event AKI worsened subsequent renal function.\src{164}
+
+The closest analogue to a thru-hike is the multistage desert ultramarathon --- consecutive race days, self-sufficient carrying, hot venues. Across 250-km six-stage races in Jordan, the Atacama, and the Gobi, cumulative AKI incidence was 41.4\%, with 43.8--48.4\% of runners at risk and 18.8--32\% at injury grade across stages.\src{167} The BIERS cohort (Gobi, Sahara, Namibia) found 55--80\% of participants incurring AKI across stages yet no apparent cumulative effect, with renal function resolving to near baseline between stages.\src{168} That stress-and-resolution cycle --- acute tubular stress by day, recovery by night, repeated for weeks --- is the physiologic signature a desert thru-hike imposes, and it frames every adjunct question that follows. One hydrated, NSAID-free 120-km cohort showed AKI prevalence of only 0--12.5\% by GFR criteria, which both tempers the alarm and identifies the modifiable co-factors: hydration and medications.\src{165}
+
+\subsection{Heat, water limitation, and the hormonal signature}
+
+Heat amplifies the renal risk of exertion because the kidney ``is at increased risk of pathological events during heat stress'' --- a state compounded by dehydration and exercise.\src{169} Field physiology confirms the mechanism at thru-hike-adjacent workloads: in 189 sugarcane cutters on 34--42\,\textdegree C days, serum creatinine, uric acid, and urea nitrogen rose across shifts, urine concentrated, and 14\% of male workers arrived with pre-shift eGFR below 60 mL/min.\src{170} The heat-stress-nephropathy literature proposes recurrent exertion-heat dehydration with uric-acid crystalluria as a mechanism of chronic injury and names ``increased hydration with water and salt'' as the candidate prevention --- the same prescription a desert hiker should recognize as the foundation of any renal plan.\src{171} In controlled dehydration (3\% body-mass loss before treadmill walking at 35\,\textdegree C), renin, aldosterone, vasopressin, and catecholamines all rose while creatinine clearance and urine flow fell --- the hormonal signature of a kidney defending volume at metabolic cost.\src{174} Among young military service members hospitalized for exertional heat illness, AKI was the most common end-organ damage, at 73--86\%.\src{173}
+
+\subsection{Rhabdomyolysis: the eccentric downhill problem}
+
+The thru-hike-specific muscle problem is eccentric: prolonged downhill walking under load. Forty minutes of downhill walking at $-$28\% grade with a 10\% body-mass load produced $\sim$19\% quadriceps strength loss, CK elevation, and severe soreness --- attenuated 47--64\% by a prior bout of non-damaging downhill walking, a preconditioning lesson with a direct trail translation (start with modest mileages and gentle grades).\src{180} Systematically, 43.5\% of endurance-event participants met exertional-rhabdomyolysis criteria (CK $>$ 5{,}000 U/L) and 16.4\% had rhabdomyolysis with AKI, with biomarkers usually normalizing within about six days.\src{176} But CK magnitude is a poor predictor: in 200 hospitalized exertional-rhabdomyolysis patients only 8.5\% developed AKI with no association between CK level and AKI risk, while preadmission NSAID use (64.7\% of AKI cases versus 21.9\% without) and dehydration were the significant cofactors --- eliminating both could reduce AKI risk by an estimated 92.6\%.\src{177}
+
+\subsection{NSAID culture: the cleanest modifiable lever}
+
+NSAID use is documented, prevalent, and harmful in this setting. Among surveyed ultra-endurance runners, 53\% reported NSAID use (ibuprofen most common), persisting despite 77\% awareness of harms and entrenched pain-management norms.\src{182} On the Appalachian Trail, 72.5\% of surveyed long-distance hikers carried analgesics, the majority NSAIDs.\src{187} The decisive trial was run in the desert: across 50-mile ultramarathons, randomized ibuprofen (600 mg the night before and morning of, then 1{,}200 mg during) produced AKI in 52\% of users versus 34\% of placebo --- a number needed to harm of 5.5 --- with greater race weight loss raising AKI odds.\src{181} Honest counterweight: single 600-mg doses did not add renal stress to cycling or running in the heat in two controlled trials, so dose, duration, and hydration state are unresolved modifiers of a real signal.\src{183}\src{184} For a trail clinic, NSAID avoidance is the single cleanest modifiable lever this literature offers --- it removes one cofactor from the rhabdomyolysis analysis above and the desert trial's harm at once.\src{177}\src{181}
+
+\subsection{The opposite failure: exercise-associated hyponatremia}
+
+Water planning in the desert has two failure modes, and the second is counterintuitive: 13\% of 488 Boston Marathon finishers were hyponatremic, driven by postrace weight gain --- overdrinking, not underdrinking.\src{189} Wilderness guidance is explicit that exercise-associated hyponatremia overlaps clinically with heat exhaustion, making field misdiagnosis a recognized cause of worsened outcomes when fluids are given for what is actually dilution.\src{190} The desert-hiking record is vivid: among heat-ill Grand Canyon hikers, suspected hyponatremia comprised 19\% of clinical assessments in a 474-case series.\src{192} The published case every desert hiker should know: a 41-year-old developed hyponatremic encephalopathy (sodium 114 mmol/L), exertional rhabdomyolysis, compartment syndromes, and AKI after overconsuming water during a hot descent --- evacuated by helicopter mid-seizure.\src{179} The lesson for any renal-support plan: hydration advice must pair water with solutes, and no supplement can substitute for getting this right.\src{190}\src{179}
+
+\subsection{The baseline against which any adjunct is judged}
+
+The 2026 core curriculum names the standard of care plainly: ``individualized hydration plans, electrolyte replacement, and avoidance of nonsteroidal anti-inflammatory drugs.''\src{175} Heat acclimatization helps --- 23 days of progressive acclimatization reduced post-exercise creatinine and AKI incidence in standardized hot exercise --- but is not a complete shield: 10-day heat acclimation blunted core-temperature rise without reducing creatinine or NGAL increases.\src{195}\src{194} Downhill preconditioning reduces eccentric damage.\src{180} Table~\ref{tab:stress} consolidates the stressor file. Everything carnitine might add must be measured against these proven interventions, not instead of them.
+
+\begin{table}[!htbp]
+\caption{The renal-stress evidence in exertion-heat-dehydration settings. AKI definitions vary by criteria (AKIN/RIFLE/KDIGO); resolution between efforts is the recurring pattern.}
+\label{tab:stress}
+\footnotesize
+\setlength{\tabcolsep}{4pt}
+\begin{tabular}{>{\raggedright\arraybackslash}p{3.4cm} >{\raggedright\arraybackslash}p{4.6cm} >{\raggedright\arraybackslash}p{3.3cm} >{\raggedright\arraybackslash}p{3.6cm}}
+\toprule
+Population / setting & Renal finding & Modifier & Source \\
+\midrule
+Hartford Marathon (n = 22) & 82\% met AKIN 1--2; tubular sediment 73\%; biomarker peaks next day & --- & \src{163} \\
+Western States 161 km (n = 627 finishes) & 36.2\% RIFLE risk/injury; no cumulative worsening across repeat races & hydration culture & \src{164} \\
+Multistage desert 250 km ultras & 18.8--32\% injury grade per stage; 41.4\% cumulative; resolving between stages & heat, self-sufficiency & \src{167}\src{168} \\
+Hydrated, NSAID-free 120 km ultra & 0--12.5\% AKI by GFR criteria & the achievable baseline & \src{165} \\
+Desert 50-mile ibuprofen RCT & AKI 52\% (ibuprofen) vs 34\% (placebo); NNH 5.5 & NSAID + weight loss & \src{181} \\
+Hospitalized exertional rhabdomyolysis (n = 200) & AKI 8.5\%; no CK--AKI association; NSAID + dehydration cofactors (PAR 92.6\%) & & \src{177} \\
+Military exertional heat illness & AKI the most common end-organ damage (73--86\%) & heat & \src{173} \\
+Sugarcane cutters, 34--42\,\textdegree C shifts & cross-shift creatinine rises; 14\% pre-shift eGFR $<$ 60 & occupational repetition & \src{170} \\
+Grand Canyon hikers (474 heat-illness cases) & suspected hyponatremia 19\% of assessments & overdrinking & \src{192} \\
+Boston Marathon (n = 488) & hyponatremia 13\%, driven by weight gain & overdrinking & \src{189} \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\section{The Carnitine Economy: Why the Kidney Cares}
+\label{sec:economy}
+
+\subsection{What carnitine does, and where the body keeps it}
+
+Carnitine's two load-bearing jobs in sustained exertion are mitochondrial import of long-chain fatty acids for $\beta$-oxidation (the CPT--CACT--CPT II shuttle) and buffering of excess acetyl groups as acetylcarnitine, which keeps free CoA available when acetyl production outruns TCA consumption.\src{96}\src{88} Human muscle-biopsy work shows the buffer working in real time: during incremental exercise muscle acetylcarnitine rises from 6.0 to 15.2 mmol/kg dry weight while free carnitine and CoASH fall.\src{79} At intensities above roughly 75\% of maximal workload, fat oxidation falls as carnitine acetylation consumes the free pool and CPT I is throttled --- which is why all-day thru-hike intensities, well below that switch, are the fat-dominant domain carnitine serves.\src{131}\src{154}
+
+The economy is tight and muscle-dominated: skeletal and cardiac muscle hold $\sim$98\% of the body pool, about 100 mmol ($\sim$20 g) in a 70-kg adult, with plasma free carnitine held at 40--50 $\mu$mol/L.\src{128}\src{127} In omnivores roughly 75\% of carnitine is dietary, red meat dominant.\src{96} Endogenous biosynthesis runs from trimethyllysine, and the final hydroxylation is a distinctly renal story in our species: significant $\gamma$-butyrobetaine dioxygenase activity is found in human kidney --- administered trimethyllysine is converted to carnitine there --- so the human kidney is one of the organs that finishes making the molecule it will later have to conserve.\src{117}
+
+\subsection{OCTN2: the kidney as conservation organ}
+
+Free carnitine (161 Da, unbound) is freely filtered; more than 90\% --- 98--99\% at baseline --- of the filtered load is reabsorbed in the proximal tubule by OCTN2 (SLC22A5), a 557-amino-acid sodium-coupled transporter with high affinity (K$_m$ $\approx$ 4.3 $\mu$M) co-localized with the PDZK1 scaffold in brush-border membranes.\src{91}\src{121}\src{129} The system saturates exactly where a supplementing athlete lives: baseline excretory clearance-to-GFR ratios sit below 0.1, rising sharply as plasma carnitine climbs past the reabsorption threshold that sits at endogenous levels ($\sim$40--60 $\mu$mol/L), so surplus supplement is excreted rather than retained --- expensive urine, by design.\src{91}\src{112} Human pharmacokinetics quantify the same saturation: oral dose-escalation (0.5, 1, 2 g three times daily) raised plasma significantly at 0.5 g with no further increase at higher doses.\src{269}
+
+Genetics proves what physiology implies. SLC22A5 loss-of-function causes primary systemic carnitine deficiency --- hypoketotic hypoglycemia and cardiomyopathy in children, sudden death in all ages; across 621 published cases cardiac symptoms, predominantly cardiomyopathy, were the most prevalent manifestation at 23.8\%.\src{104}\src{109}\src{108} The phenotype is renal at its root: urinary losses rise, serum and tissue levels fall.\src{86} When the kidney is lost rather than the transporter, the same depletion arrives by a different route --- a single hemodialysis session strips 64--75\% of serum free carnitine, and among 150 maintenance-dialysis patients 25.3\% were frankly deficient (free $<$ 20 $\mu$mol/L) with 86.7\% insufficient by acyl/free ratio.\src{94} That is the population for which injectable levocarnitine carries its FDA indication, at 10--20 mg/kg dry weight into the venous return line after each session.\src{66}
+
+\subsection{Insulin, meals, and the muscle-loading gate}
+
+Skeletal muscle depends entirely on blood uptake, and that uptake is insulin-gated: five hours of intravenous L-carnitine raised muscle carnitine from 22.0 to 24.7 mmol/kg dry weight under hyperinsulinemia with a 2.3-fold rise in OCTN2 mRNA --- and did nothing at fasting insulin, with the stimulatory threshold estimated at serum insulin $\geq$ 90 mU/L.\src{98}\src{139} Carbohydrate co-ingestion augments retention; co-ingested protein acutely blunts uptake; caffeine accelerates plasma clearance.\src{138}\src{114}\src{85} Vegetarians --- 16\% lower plasma, 17\% lower muscle carnitine, reduced muscle OCTN2 --- nevertheless retain a larger fraction of an oral dose, demonstrating that the adaptive reserve of this economy sits in the kidney's reabsorption, not the muscle's uptake.\src{126} For trail logistics this section yields the paper's most practical mechanistic sentence: carnitine goes with carbohydrate-containing meals or it goes nowhere.\src{138}\src{98}
+
+\subsection{Deficiency states, and the regulation we do not know}
+
+Secondary deficiency arrives with valproate, pivalate antibiotics, organic acidemias, and dialysis; oral bioavailability is dose-dependent (dietary carnitine 54--87\% absorbed; 0.5--6 g supplements only 14--18\%), with unabsorbed fraction left for gut microbes --- the TMAO stream's entry point.\src{116}\src{123}\src{111}\src{107}\src{94} OCTN2 regulation is documented in preclinical models --- PPAR$\alpha$ (liver), PGC-1$\alpha$/MEF2 (muscle), cytokines (intestine), YAP (sarcopenia models) --- but the junction this paper cares about most is untested: no human study shows how renal OCTN2-mediated reabsorption behaves during the exertion-heat-dehydration-inflammation state of a long hot hike, and pro-inflammatory cytokines downregulate OCTN2 in vitro, a plausible bottleneck that remains hypothesis.\src{113}\src{110}\src{89}\src{102}\src{220} The honest flags from the research streams: carnitine has never been measured in human sweat, and no study isolates water restriction's effect on carnitine handling.\src{128} A trail-clinic claim that desert sweating depletes carnitine would be invented.
+
+\section{The Muscle File: Loading, Fat Oxidation, and Damage Reduction}
+\label{sec:muscle}
+
+\subsection{The loading story, told without romance}
+
+Total muscle carnitine resists change. Without the insulin gate, loading fails across every design: 4--6 g/day for up to two weeks, intravenous carnitine during exercise, three months of 2$\times$2 g/day, and even 24 weeks of 1 g/day LCLT with the insulin secretagogue leucine --- all raised plasma without moving muscle.\src{140}\src{160}\src{141}\src{162}\src{142} The one diet-compliant success is the Wall protocol: 2 g L-carnitine L-tartrate plus 80 g carbohydrate twice daily for 24 weeks raised muscle total carnitine 21\%, and the loaded muscle then did thru-hike-relevant things --- 55\% less glycogen use at 50\% VO$_2$max (the all-day hiking intensity domain), 31\% lower pyruvate-dehydrogenase activation, 44\% lower lactate at high intensity, a reduced perception of effort, and 11\% more work output in a validated performance test.\src{135}\src{14} The companion 12-week trial loaded muscle 20\%, raised energy expenditure 6\%, and prevented the fat-mass gain of the carbohydrate-only control.\src{136} The counterweight is honest: with muscle free carnitine verified 30--40\% higher, 24 weeks of high-intensity interval training added nothing to adaptations or performance --- loaded muscle is not automatically better muscle.\src{143}
+
+For the trail the loading story translates into one sentence of planning: verified muscle loading is a pre-season project (months, daily carbohydrate co-ingestion), not a mid-hike maneuver.\src{135}
+
+\subsection{Performance: mostly null, held honestly}
+
+Two decades of supplementation research produced no compelling acute ergogenic evidence in healthy subjects, and the ``fat-burning'' reputation is unsupported --- a 2026 systematic review of 18 trials found endurance improvements associated with chronic dosing but no change in exercise fat oxidation, and rated no included trial at low risk of bias.\src{148}\src{144}\src{145} Acute dosing is null even in specific modalities.\src{146} The practical claim carnitine can carry on trail is not performance.
+
+\subsection{Muscle damage and recovery: the practical lever}
+
+The most consistent positive evidence --- and the most renal-relevant, because muscle damage is the upstream variable in rhabdomyolysis --- is the 2 g/day LCLT recovery literature. Three weeks of 2 g/day reduced MRI-assessed exercise-induced muscle tissue damage in resistance-trained men; dose-finding showed both 1 and 2 g/day reduced post-exercise hypoxanthine, xanthine oxidase, myoglobin, and soreness; in middle-aged adults 2 g/day for $\sim$3 weeks attenuated malondialdehyde, myoglobin, creatine kinase, and soreness while leaving strength and power unaffected.\src{267}\src{151}\src{149} A 2020 meta-analysis of seven RCTs found soreness improved at all five time points through 96 hours and CK, myoglobin, and LDH reduced at 24 hours, with benefits concentrated in resistance-training and untrained populations.\src{18} The mechanism file includes androgen-receptor upregulation in recovery (21 days of 2 g/day), an industry-funded 5-week trial improving perceived recovery and CK (Lonza Consumer Health, employee co-authors --- disclosed, not hidden), and a 2023 scoping review concluding carnitine ``could help in postexercise recovery'' while mechanisms remain unresolved.\src{150}\src{152}\src{153} Boundaries stated: benefits are measured in resistance exercise and untrained contexts, blood-marker benefits concentrate at 24 hours, and no trial has administered carnitine to hikers on a loaded downhill walking model.\src{18}\src{153}
+
+\subsection{The thru-hike metabolic context, and the heat gap}
+
+Thru-hikers live in large energy deficit: a documented Pacific Crest Trail thru-hike averaged 5{,}702 kcal/day expenditure against 4{,}141 kcal/day intake over 128 days (energy availability 19.3 kcal/kg FFM/day, low; 9\% body-mass loss), and PCT case studies document reduced flow-mediated dilation and lumbar bone losses.\src{155}\src{156}\src{157} All-day submaximal work is the fat-dominant domain where carnitine's shuttle role is mechanistically at home --- which makes the absence of thru-hike carnitine trials the paper's recurring theme, and glycogen sparing at thru-hike intensity a plausibility rather than a field-proven benefit.\src{154}\src{135} The heat file is thin and honest: a mouse study in which L-carnitine pretreatment restored tubular mitochondrial ATP and prevented the proinflammatory macrophage shift of heat-stress AKI (carried in full in the renal-support section), livestock antioxidant data, and no human thermoregulation trial.\src{158}\src{159} No human data exist on carnitine and sweat, thirst, heat tolerance, or water economy; the paper does not invent them.\src{128}
+
+\begin{table}[!htbp]
+\caption{Human carnitine trials most relevant to sustained exertion. Loading is pre-season; recovery evidence is the trail-relevant tier.}
+\label{tab:trials}
+\footnotesize
+\setlength{\tabcolsep}{4pt}
+\begin{tabular}{>{\raggedright\arraybackslash}p{3.6cm} >{\raggedright\arraybackslash}p{3.1cm} >{\raggedright\arraybackslash}p{4.7cm} >{\raggedright\arraybackslash}p{3.4cm}}
+\toprule
+Trial & Dose, form, duration & Key result & Caveat \\
+\midrule
+Wall 2011 loading RCT (n = 14) & 2 g LCLT + 80 g carb, twice daily, 24 weeks & Muscle carnitine $+$21\%; glycogen use $-$55\% at 50\% VO$_2$max; lactate $-$44\%; work $+$11\% & Recreational athletes; unreplicated; pre-season only\src{135}\src{14} \\
+Stephens 2013 (n = 12) & same design, 12 weeks & Muscle carnitine $+$20\%; energy expenditure $+$6\%; prevented fat-mass gain & Small; carb calories \\
+Loading failures (4 studies) & 4--6 g/day oral; IV; 2$\times$2 g/day $\times$ 3 months; LCLT+leucine 24 weeks & No change in muscle carnitine & Insulin gate required\src{140}\src{160}\src{141}\src{142} \\
+Kraemer LCLT program (crossovers, 8--18 adults) & 2 g/day, 2--3 weeks & MRI damage reduction; CK, myoglobin, MDA, soreness down; androgen receptors up & Resistance exercise; industry ties in one trial\src{267}\src{149}\src{151}\src{150} \\
+2020 damage meta-analysis (7 RCTs) & 2--3 g/day & Soreness down at 0--96 h; CK/MB/LDH down at 24 h & Resistance/untrained; 24-h markers\src{18} \\
+HIIT counterpoint (n = 12) & verified $+$30--40\% muscle free carnitine, 24 weeks & No added adaptation or performance benefit & Trained subjects\src{143} \\
+2026 performance review (18 trials) & acute 2--15 g; chronic 2--3 g/day & Endurance improved (chronic); fat oxidation unchanged & No trial at low risk of bias\src{144} \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\input{body2}
+
+\end{document}

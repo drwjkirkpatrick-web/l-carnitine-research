@@ -1,0 +1,50 @@
+PMID: 36806708
+PubMed URL: https://pubmed.ncbi.nlm.nih.gov/36806708/
+Fetched via NCBI eutils efetch, accessed 2026-11-15
+
+1. Physiol Rep. 2023 Feb;11(4):e15615. doi: 10.14814/phy2.15615.
+
+Caffeine ingestion stimulates plasma carnitine clearance in humans.
+
+Wall BT(1), Machin D(1), Dunlop MV(1), Stephens FB(1).
+
+Author information:
+(1)Department of Public Health and Sport Sciences, University of Exeter, Exeter, 
+UK.
+
+Increasing skeletal muscle carnitine content can manipulate fuel metabolism and 
+improve exercise performance. Intravenous insulin infusion during 
+hypercarnitinemia increases plasma carnitine clearance and Na+ -dependent muscle 
+carnitine accretion, likely via stimulating Na+ /K+ ATPase pump activity. We 
+hypothesized that the ingestion of high-dose caffeine, also known to stimulate 
+Na+ /K+ ATPase activity, would stimulate plasma carnitine clearance during 
+hypercarnitinemia in humans. In a randomized placebo-controlled study, six 
+healthy young adults (aged 24 ± 5 years, height 175 ± 8 cm, and weight 
+70 ± 13 kg) underwent three 5-h laboratory visits involving the primed 
+continuous intravenous infusion of l-carnitine (CARN and CARN + CAFF) or saline 
+(CAFF) in parallel with ingestion of caffeine (CARN + CAFF and CAFF) or placebo 
+(CARN) at 0, 2, 3, and 4 h. Regular blood samples were collected to determine 
+concentrations of blood Na+ and K+ , and plasma carnitine and caffeine, 
+concentrations. Caffeine ingestion (i.e., CAFF and CARN + CAFF conditions) and 
+l-carnitine infusion (i.e., CARN and CARN + CAFF) elevated steady-state plasma 
+caffeine (to ~7 μg·mL-1 ) and carnitine (to ~400 μmol·L-1 ) concentrations, 
+respectively, throughout the 5 h infusions. Plasma carnitine concentration was 
+~15% lower in CARN + CAFF compared with CARN during the final 90 min of the 
+infusion (at 210 min, 356 ± 96 vs. 412 ± 94 μmol·L-1 ; p = 0.0080: at 240 min, 
+350 ± 91 vs. 406 ± 102 μmol·L-1 ; p = 0.0079: and at 300 min, 357 ± 91 vs. 
+413 ± 110 μmol·L-1 ; p = 0.0073, respectively). Blood Na+ concentrations were 
+greater in CAFF and CARN + CAFF compared with CARN. Ingestion of high-dose 
+caffeine stimulates plasma carnitine clearance during hypercarnitinemia, likely 
+via increased Na+ /K+ ATPase activity. Carnitine co-ingestion with caffeine may 
+represent a novel muscle carnitine loading strategy in humans, and therefore 
+manipulate skeletal muscle fuel metabolism and improve exercise performance.
+
+© 2023 The Authors. Physiological Reports published by Wiley Periodicals LLC on 
+behalf of The Physiological Society and the American Physiological Society.
+
+DOI: 10.14814/phy2.15615
+PMCID: PMC9938004
+PMID: 36806708 [Indexed for MEDLINE]
+
+Conflict of interest statement: None of the authors disclose any conflicts of 
+interest.

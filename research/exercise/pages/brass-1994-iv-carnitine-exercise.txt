@@ -1,0 +1,35 @@
+SOURCE: Effect of intravenous L-carnitine on carnitine homeostasis and fuel metabolism during exercise in humans.
+URL: https://pubmed.ncbi.nlm.nih.gov/8004884/
+FETCHED: 2026-11-15 via NCBI efetch (pubmed abstract, retmode=text)
+PMID: 8004884
+DOI: 10.1038/clpt.1994.85
+------------------------------------------------------------------------
+15. Clin Pharmacol Ther. 1994 Jun;55(6):681-92. doi: 10.1038/clpt.1994.85.
+
+Effect of intravenous L-carnitine on carnitine homeostasis and fuel metabolism 
+during exercise in humans.
+
+Brass EP(1), Hoppel CL, Hiatt WR.
+
+Author information:
+(1)Department of Medicine, Case Western Reserve University, Cleveland.
+
+This study was undertaken to challenge the hypothesis that short-term 
+administration of carnitine during exercise can modify skeletal muscle carnitine 
+homeostasis and fuel metabolism in normal humans. With a randomized, blinded, 
+crossover design, subjects received carnitine or placebo at the start of a 
+bicycle ergometer exercise session. During the 2 hours after intravenous 
+administration of 185 mumol/kg carnitine, carnitine kinetics could be described 
+with a central compartment volume of distribution of 200 ml/kg, a total 
+clearance from this compartment of 1.9 ml/min/kg, and a renal clearance of 1.3 
+ml/min/kg. Carnitine administration had no effect on muscle total carnitine 
+content or the workload-dependent accumulation of acylcarnitines in skeletal 
+muscle. Carnitine had no effect on the respiratory exchange ratio, muscle 
+lactate accumulation, plasma lactate concentration, muscle glycogen utilization, 
+or plasma beta-hydroxybutyrate concentration during exercise. Thus the skeletal 
+muscle carnitine pool is segregated from dramatic changes in the plasma 
+carnitine pool, and short-term administration of carnitine has no significant 
+effect on fuel metabolism during exercise in humans.
+
+DOI: 10.1038/clpt.1994.85
+PMID: 8004884 [Indexed for MEDLINE]

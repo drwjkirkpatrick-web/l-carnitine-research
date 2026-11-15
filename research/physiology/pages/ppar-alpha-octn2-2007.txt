@@ -1,0 +1,31 @@
+PMID: 17692817
+PubMed URL: https://pubmed.ncbi.nlm.nih.gov/17692817/
+Fetched via NCBI eutils efetch, accessed 2026-11-15
+
+1. Biochim Biophys Acta. 2007 Sep;1767(9):1134-42. doi: 
+10.1016/j.bbabio.2007.07.001. Epub 2007 Jul 13.
+
+PPAR alpha-activation results in enhanced carnitine biosynthesis and 
+OCTN2-mediated hepatic carnitine accumulation.
+
+van Vlies N(1), Ferdinandusse S, Turkenburg M, Wanders RJ, Vaz FM.
+
+Author information:
+(1)Department of Clinical Chemistry, Academic Medical Center, University of 
+Amsterdam, PO Box 22700, 1100 DE Amsterdam, The Netherlands.
+
+In fasted rodents hepatic carnitine concentration increases considerably which 
+is not observed in PPAR alpha-/- mice, indicating that PPAR alpha is involved in 
+carnitine homeostasis. To investigate the mechanisms underlying the PPAR 
+alpha-dependent hepatic carnitine accumulation we measured carnitine 
+biosynthesis enzyme activities, levels of carnitine biosynthesis intermediates, 
+acyl-carnitines and OCTN2 mRNA levels in tissues of untreated, fasted or 
+Wy-14643-treated wild type and PPAR alpha-/- mice. Here we show that both 
+enhancement of carnitine biosynthesis (due to increased gamma-butyrobetaine 
+dioxygenase activity), extra-hepatic gamma-butyrobetaine synthesis and increased 
+hepatic carnitine import (OCTN2 expression) contributes to the increased hepatic 
+carnitine levels after fasting and that these processes are PPAR 
+alpha-dependent.
+
+DOI: 10.1016/j.bbabio.2007.07.001
+PMID: 17692817 [Indexed for MEDLINE]

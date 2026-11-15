@@ -1,0 +1,34 @@
+PMID: 33322546
+PubMed URL: https://pubmed.ncbi.nlm.nih.gov/33322546/
+Fetched via NCBI eutils efetch, accessed 2026-11-15
+
+1. Int J Mol Sci. 2020 Dec 11;21(24):9451. doi: 10.3390/ijms21249451.
+
+Trimethyllysine: From Carnitine Biosynthesis to Epigenetics.
+
+Maas MN(1), Hintzen JCJ(1), Porzberg MRB(1), Mecinović J(1).
+
+Author information:
+(1)Department of Physics, Chemistry and Pharmacy, University of Southern 
+Denmark, Campusvej 55, 5230 Odense, Denmark.
+
+Trimethyllysine is an important post-translationally modified amino acid with 
+functions in the carnitine biosynthesis and regulation of key epigenetic 
+processes. Protein lysine methyltransferases and demethylases dynamically 
+control protein lysine methylation, with each state of methylation changing the 
+biophysical properties of lysine and the subsequent effect on protein function, 
+in particular histone proteins and their central role in epigenetics. Epigenetic 
+reader domain proteins can distinguish between different lysine methylation 
+states and initiate downstream cellular processes upon recognition. 
+Dysregulation of protein methylation is linked to various diseases, including 
+cancer, inflammation, and genetic disorders. In this review, we cover 
+biomolecular studies on the role of trimethyllysine in carnitine biosynthesis, 
+different enzymatic reactions involved in the synthesis and removal of 
+trimethyllysine, trimethyllysine recognition by reader proteins, and the role of 
+trimethyllysine on the nucleosome assembly.
+
+DOI: 10.3390/ijms21249451
+PMCID: PMC7764450
+PMID: 33322546 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.

@@ -1,0 +1,42 @@
+SOURCE: Long-term administration of L-carnitine to humans: effect on skeletal muscle carnitine content and physical performance.
+URL: https://pubmed.ncbi.nlm.nih.gov/11880112/
+FETCHED: 2026-11-15 via NCBI efetch (pubmed abstract, retmode=text)
+PMID: 11880112
+DOI: 10.1016/s0009-8981(01)00804-x
+------------------------------------------------------------------------
+3. Clin Chim Acta. 2002 Apr;318(1-2):51-61. doi: 10.1016/s0009-8981(01)00804-x.
+
+Long-term administration of L-carnitine to humans: effect on skeletal muscle 
+carnitine content and physical performance.
+
+Wächter S(1), Vogt M, Kreis R, Boesch C, Bigler P, Hoppeler H, Krähenbühl S.
+
+Author information:
+(1)Institute of Clinical Pharmacology, University of Berne, Switzerland.
+
+BACKGROUND: Long-term administration of high oral doses of L-carnitine on the 
+skeletal muscle composition and the physical performance has not been studied in 
+humans.
+METHODS: Eight healthy male adults were treated with 2 x 2 g of L-carnitine per 
+day for 3 months. Muscle biopsies and exercise tests were performed before, 
+immediately after, and 2 months after the treatment. Exercise tests were 
+performed using a bicycle ergometer for 10 min at 20%, 40%, and 60% of the 
+individual maximal workload (P(max)), respectively, until exhaustion.
+RESULTS: There were no significant differences between V(O(2)max), RER(max), and 
+P(max) between the three time points investigated. At submaximal intensities, 
+the only difference to the pretreatment values was a 5% increase in V(O(2)) at 
+20% and 40% of P(max) 2 months after the cessation of the treatment. The total 
+carnitine content in the skeletal muscle was 4.10 +/- 0.82 micromol/g before, 
+4.79 +/- 1.19 micromol/g immediately after, and 4.19 +/- 0.61 micromol/g wet 
+weight 2 months after the treatment (no significant difference). Activities of 
+the two mitochondrial enzymes citrate synthase and cytochrome oxidase, as well 
+as the skeletal muscle fiber composition also remained unaffected by the 
+administration of L-carnitine.
+CONCLUSIONS: Long-term oral treatment of healthy adults with L-carnitine is not 
+associated with a significant increase in the muscle carnitine content, 
+mitochondrial proliferation, or physical performance. Beneficial effects of the 
+long-term treatment with L-carnitine on the physical performance of healthy 
+adults cannot be explained by an increase in the carnitine muscle stores.
+
+DOI: 10.1016/s0009-8981(01)00804-x
+PMID: 11880112 [Indexed for MEDLINE]

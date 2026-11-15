@@ -1,0 +1,369 @@
+# URL: https://pubmed.ncbi.nlm.nih.gov/30530985/
+# Fetched via web_extract on 2026-11-15
+
+Clipboard, Search History, and several other advanced features are temporarily unavailable.
+
+
+[Skip to main page content](https://pubmed.ncbi.nlm.nih.gov/30530985/#article-details)
+
+![Dot gov](https://cdn.ncbi.nlm.nih.gov/coreutils/uswds/img/icon-dot-gov.svg)
+
+**The .gov means it’s official.**
+
+Federal government websites often end in .gov or .mil. Before
+sharing sensitive information, make sure you’re on a federal
+government site.
+
+
+![Https](https://cdn.ncbi.nlm.nih.gov/coreutils/uswds/img/icon-https.svg)
+
+**The site is secure.**
+
+The **https://** ensures that you are connecting to the
+official website and that any information you provide is encrypted
+and transmitted securely.
+
+
+[Access keys](https://www.ncbi.nlm.nih.gov/guide/browsers/#ncbi_accesskeys) [NCBI Homepage](https://www.ncbi.nlm.nih.gov/) [MyNCBI Homepage](https://pubmed.ncbi.nlm.nih.gov/myncbi/) [Main Content](https://pubmed.ncbi.nlm.nih.gov/30530985/#maincontent) [Main Navigation](https://pubmed.ncbi.nlm.nih.gov/30530985/#)
+
+[![pubmed logo](https://cdn.ncbi.nlm.nih.gov/pubmed/a447896c-976f-490b-b86b-2668b65114a8/core/images/pubmed-logo-blue.svg)](https://pubmed.ncbi.nlm.nih.gov/)[Show search bar](https://pubmed.ncbi.nlm.nih.gov/30530985/# "Show search bar")
+
+Search:
+[Clear search input](https://pubmed.ncbi.nlm.nih.gov/30530985/# "Clear search input") Search
+
+[Advanced](https://pubmed.ncbi.nlm.nih.gov/advanced/) [Clipboard](https://pubmed.ncbi.nlm.nih.gov/clipboard/)
+
+[User Guide](https://pubmed.ncbi.nlm.nih.gov/help/)
+
+Save
+
+Email
+
+
+Send to
+
+- [Clipboard](https://pubmed.ncbi.nlm.nih.gov/30530985/#)
+- [My Bibliography](https://account.ncbi.nlm.nih.gov/?back_url=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F30530985%2F%23open-bibliography-panel)
+- [Collections](https://account.ncbi.nlm.nih.gov/?back_url=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F30530985%2F%23open-collections-panel)
+- [Citation manager](https://pubmed.ncbi.nlm.nih.gov/30530985/#)
+
+Display options
+
+Display options
+
+
+Format
+AbstractPubMedPMID
+
+## Save citation to file
+
+Format:
+Summary (text)PubMedPMIDAbstract (text)CSV
+
+Create file
+
+Cancel
+
+
+## Email citation
+
+Email address has not been verified. Go to
+[My NCBI account settings](https://account.ncbi.nlm.nih.gov/settings/)
+to confirm your email and then refresh this page.
+
+
+To:
+
+
+Subject:
+
+
+Body:
+
+
+Format:
+SummarySummary (text)AbstractAbstract (text)
+
+MeSH and other data
+
+
+Send email
+
+Cancel
+
+
+### Add to Collections
+
+- Create a new collection
+- Add to an existing collection
+
+Name your collection:
+
+
+Name must be less than 100 characters
+
+
+Choose a collection:
+
+
+Unable to load your collection due to an error
+
+[Please try again](https://pubmed.ncbi.nlm.nih.gov/30530985/#)
+
+Add
+
+Cancel
+
+
+### Add to My Bibliography
+
+- My Bibliography
+
+Unable to load your delegates due to an error
+
+[Please try again](https://pubmed.ncbi.nlm.nih.gov/30530985/#)
+
+Add
+
+Cancel
+
+
+## Your saved search
+
+Name of saved search:
+
+
+Search terms:
+
+
+[Test search terms](https://pubmed.ncbi.nlm.nih.gov/30530985/#)
+
+Would you like email updates of new search results?
+Saved Search Alert Radio Buttons
+
+- Yes
+- No
+
+Email:
+( [change](https://www.ncbi.nlm.nih.gov/account/settings/))
+
+Frequency:
+MonthlyWeeklyDaily
+
+Which day?
+The first SundayThe first MondayThe first TuesdayThe first WednesdayThe first ThursdayThe first FridayThe first SaturdayThe first dayThe first weekday
+
+Which day?
+SundayMondayTuesdayWednesdayThursdayFridaySaturday
+
+Report format:
+SummarySummary (text)AbstractAbstract (text)PubMed
+
+Send at most:
+1 item5 items10 items20 items50 items100 items200 items
+
+Send even when there aren't any new results
+
+
+Optional text in email:
+
+
+Save
+
+Cancel
+
+
+## Create a file for external citation management software
+
+Create file
+
+Cancel
+
+
+## Your RSS Feed
+
+Name of RSS Feed:
+
+
+Number of items displayed:
+510152050100
+
+Create RSS
+
+Cancel
+
+
+RSS Link
+Copy
+
+
+Full text links
+Cite
+
+Display options
+
+Display options
+
+
+Format
+AbstractPubMedPMID
+
+Linked Discoveries
+
+## Abstract
+
+**Background:**
+
+l-Carnitine, an abundant nutrient in red meat, accelerates atherosclerosis in mice via gut microbiota-dependent formation of trimethylamine (TMA) and trimethylamine N-oxide (TMAO) via a multistep pathway involving an atherogenic intermediate, γ-butyrobetaine (γBB). The contribution of γBB in gut microbiota-dependent l-carnitine metabolism in humans is unknown.
+
+
+**Methods:**
+
+Omnivores and vegans/vegetarians ingested deuterium-labeled l-carnitine (d3-l-carnitine) or γBB (d9-γBB), and both plasma metabolites and fecal polymicrobial transformations were examined at baseline, following oral antibiotics, or following chronic (≥2 months) l-carnitine supplementation. Human fecal commensals capable of performing each step of the l-carnitine→γBB→TMA transformation were identified.
+
+
+**Results:**
+
+Studies with oral d3-l-carnitine or d9-γBB before versus after antibiotic exposure revealed gut microbiota contribution to the initial 2 steps in a metaorganismal l-carnitine→γBB→TMA→TMAO pathway in subjects. Moreover, a striking increase in d3-TMAO generation was observed in omnivores over vegans/vegetarians (>20-fold; P = 0.001) following oral d3-l-carnitine ingestion, whereas fasting endogenous plasma l-carnitine and γBB levels were similar in vegans/vegetarians (n = 32) versus omnivores (n = 40). Fecal metabolic transformation studies, and oral isotope tracer studies before versus after chronic l-carnitine supplementation, revealed that omnivores and vegans/vegetarians alike rapidly converted carnitine to γBB, whereas the second gut microbial transformation, γBB→TMA, was diet inducible (l-carnitine, omnivorous). Extensive anaerobic subculturing of human feces identified no single commensal capable of l-carnitine→TMA transformation, multiple community members that converted l-carnitine to γBB, and only 1 Clostridiales bacterium, Emergencia timonensis, that converted γBB to TMA. In coculture, E. timonensis promoted the complete l-carnitine→TMA transformation.
+
+
+**Conclusion:**
+
+In humans, dietary l-carnitine is converted into the atherosclerosis- and thrombosis-promoting metabolite TMAO via 2 sequential gut microbiota-dependent transformations: (a) initial rapid generation of the atherogenic intermediate γBB, followed by (b) transformation into TMA via low-abundance microbiota in omnivores, and to a markedly lower extent, in vegans/vegetarians. Gut microbiota γBB→TMA/TMAO transformation is induced by omnivorous dietary patterns and chronic l-carnitine exposure.
+
+
+**Trial registration:**
+
+ClinicalTrials.gov [NCT01731236](http://clinicaltrials.gov/show/NCT01731236 "See in ClinicalTrials.gov").
+
+
+**Funding:**
+
+NIH and Office of Dietary Supplements grants HL103866, HL126827, and DK106000, and the Leducq Foundation.
+
+
+**Keywords:**
+
+Atherosclerosis; Cardiology; Cardiovascular disease; Vascular Biology.
+
+
+[PubMed Disclaimer](https://pubmed.ncbi.nlm.nih.gov/disclaimer/)
+
+## Conflict of interest statement
+
+Conflict of interest: ZW, BSL, and SLH are named as co-inventors on pending and issued patents held by the Cleveland Clinic relating to cardiovascular diagnostics and therapeutics, and have the right to receive royalty payment for inventions or discoveries related to cardiovascular diagnostics or therapeutics from Cleveland HeartLab, Quest Diagnostics, and Procter & Gamble. SLH also reports having been paid as a consultant by Procter & Gamble, and having received research funds from Procter & Gamble and Roche. BRLG, MFC, DBC, HJD, and JCGG are employees of Procter & Gamble and are named as co-inventors on patents relevant to this work.
+
+## Figures
+
+[![Figure 1](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/4a5f/6307959/6c848d714f71/jci-129-94601-g267.gif)](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/4a5f/6307959/b258aee83f76/jci-129-94601-g267.jpg)
+
+**Figure 1. γBB and TMAO production from  …**
+
+**Figure 1. γBB and TMAO production from  l  -carnitine is a gut microbiota–dependent process in…**
+
+**Figure 1. γBB and TMAO production from l-carnitine is a gut microbiota–dependent process in humans.**
+
+Subjects ( _n_ = 5) ingested a capsule containing d3-l-carnitine (250 mg; _t_ 0), after which serial plasma aliquots were obtained at the times shown (Baseline, filled circles). After a week-long regimen of oral broad-spectrum antibiotics to suppress the intestinal microbiota, the oral l-carnitine challenge was repeated (+ Abx, open circles). Stable isotope dilution LC-MS/MS was used to quantify d3-TMAO ( **A**), d3-γBB ( **B**), and d3-l-carnitine ( **C**) in plasma collected from sequential venous blood draws at the noted times. Time points are represented as mean ± SEM plasma concentrations, and a zero-inflated linear mixed-effects model was used to compare subjects before and after antibiotic exposure.
+
+[![Figure 2](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/4a5f/6307959/8c06bffd5686/jci-129-94601-g269.gif)](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/4a5f/6307959/152d58c21b58/jci-129-94601-g269.jpg)
+
+**Figure 2. TMAO is a gut microbiota–dependent…**
+
+
+[... middle omitted — see footer ...]
+
+  - [Add to Search](https://pubmed.ncbi.nlm.nih.gov/30530985/#)
+
+- trimethyloxamine
+
+
+
+
+Actions
+
+
+
+
+
+  - [Search in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22trimethyloxamine%22%5Bnm%5D&sort=date&sort_order=desc)
+  - [Search in MeSH](https://www.ncbi.nlm.nih.gov/mesh?term=%22trimethyloxamine%22)
+  - [Add to Search](https://pubmed.ncbi.nlm.nih.gov/30530985/#)
+
+- trimethylamine
+
+
+
+
+Actions
+
+
+
+
+
+  - [Search in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22trimethylamine%22%5Bnm%5D&sort=date&sort_order=desc)
+  - [Search in MeSH](https://www.ncbi.nlm.nih.gov/mesh?term=%22trimethylamine%22)
+  - [Add to Search](https://pubmed.ncbi.nlm.nih.gov/30530985/#)
+
+- Carnitine
+
+
+
+
+Actions
+
+
+
+
+
+  - [Search in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22Carnitine%22%5Bnm%5D&sort=date&sort_order=desc)
+  - [Search in MeSH](https://www.ncbi.nlm.nih.gov/mesh?term=%22Carnitine%22)
+  - [Add to Search](https://pubmed.ncbi.nlm.nih.gov/30530985/#)
+
+## Associated data
+
+- ClinicalTrials.gov/NCT01731236
+
+
+
+
+Actions
+
+
+
+
+
+  - [Search in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=NCT01731236%5BSecondary+Source+ID%5D "Search in PubMed")
+  - [Search in ClinicalTrials.gov](http://clinicaltrials.gov/show/NCT01731236 "Search in ClinicalTrials.gov")
+
+## Grants and funding
+
+- [R01 DK106000/DK/NIDDK NIH HHS/United States](https://pubmed.ncbi.nlm.nih.gov/?term=R01+DK106000%2FDK%2FNIDDK+NIH+HHS%2FUnited+States%5BGrants+and+Funding%5D&sort=date&sort_order=desc "All articles for grant R01 DK106000/DK/NIDDK NIH HHS/United States")
+- [R01 HL103866/HL/NHLBI NIH HHS/United States](https://pubmed.ncbi.nlm.nih.gov/?term=R01+HL103866%2FHL%2FNHLBI+NIH+HHS%2FUnited+States%5BGrants+and+Funding%5D&sort=date&sort_order=desc "All articles for grant R01 HL103866/HL/NHLBI NIH HHS/United States")
+- [R01 HL126827/HL/NHLBI NIH HHS/United States](https://pubmed.ncbi.nlm.nih.gov/?term=R01+HL126827%2FHL%2FNHLBI+NIH+HHS%2FUnited+States%5BGrants+and+Funding%5D&sort=date&sort_order=desc "All articles for grant R01 HL126827/HL/NHLBI NIH HHS/United States")
+
+## LinkOut - more resources
+
+- ### Full Text Sources
+
+
+  - [American Society for Clinical Investigation](https://doi.org/10.1172/JCI94601)
+  - [Europe PMC](https://europepmc.org/abstract/MED/30530985)
+  - [Ovid Technologies, Inc.](https://www.ovid.com/30530985.pmid)
+  - [PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/pmid/30530985/)
+- ### Medical
+
+
+  - [ClinicalTrials.gov](https://clinicaltrials.gov/search?term=AREA%5BReferencePMID%5D30530985)
+  - [MedlinePlus Health Information](https://medlineplus.gov/atherosclerosis.html)
+
+NCBI Literature Resources
+
+[MeSH](https://www.ncbi.nlm.nih.gov/mesh/) [PMC](https://www.ncbi.nlm.nih.gov/pmc/) [Bookshelf](https://www.ncbi.nlm.nih.gov/books) [Disclaimer](https://pubmed.ncbi.nlm.nih.gov/disclaimer/)
+
+The PubMed wordmark and PubMed logo are registered trademarks of the U.S. Department of Health and Human Services (HHS). Unauthorized use of these marks is strictly prohibited.
+
+──────── [TRUNCATED] ────────
+Showing 8,979 chars (head) + 2,974 chars (tail) of 30,701 total clean characters.
+Full text saved to: /home/walker/.hermes/cache/web/pubmed.ncbi.nlm.nih.gov-98816c624f.md
+To read the omitted middle: read_file path="/home/walker/.hermes/cache/web/pubmed.ncbi.nlm.nih.gov-98816c624f.md" offset=269 limit=200  (the file is the complete page; raise/lower offset to page through it).
+─────────────────────────────

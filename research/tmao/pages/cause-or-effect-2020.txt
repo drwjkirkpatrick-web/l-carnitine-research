@@ -1,0 +1,404 @@
+# URL: https://pubmed.ncbi.nlm.nih.gov/32392758/
+# Fetched via web_extract on 2026-11-15
+
+Clipboard, Search History, and several other advanced features are temporarily unavailable.
+
+
+[Skip to main page content](https://pubmed.ncbi.nlm.nih.gov/32392758/#article-details)
+
+### NIH Websites Are Changing
+
+- [Get the Latest Updates and FAQs on the transition](https://www.nih.gov/web-modernization)
+- Per [Executive Order 14434](https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/), federal agencies are now using "Super Intelligence" (SI) in place of "Artificial Intelligence" (AI). You may see both terms across NIH content during this transition.
+
+![Dot gov](https://cdn.ncbi.nlm.nih.gov/coreutils/uswds/img/icon-dot-gov.svg)
+
+**The .gov means it’s official.**
+
+Federal government websites often end in .gov or .mil. Before
+sharing sensitive information, make sure you’re on a federal
+government site.
+
+
+![Https](https://cdn.ncbi.nlm.nih.gov/coreutils/uswds/img/icon-https.svg)
+
+**The site is secure.**
+
+The **https://** ensures that you are connecting to the
+official website and that any information you provide is encrypted
+and transmitted securely.
+
+
+[Access keys](https://www.ncbi.nlm.nih.gov/guide/browsers/#ncbi_accesskeys) [NCBI Homepage](https://www.ncbi.nlm.nih.gov/) [MyNCBI Homepage](https://pubmed.ncbi.nlm.nih.gov/myncbi/) [Main Content](https://pubmed.ncbi.nlm.nih.gov/32392758/#maincontent) [Main Navigation](https://pubmed.ncbi.nlm.nih.gov/32392758/#)
+
+[![pubmed logo](https://cdn.ncbi.nlm.nih.gov/pubmed/a447896c-976f-490b-b86b-2668b65114a8/core/images/pubmed-logo-blue.svg)](https://pubmed.ncbi.nlm.nih.gov/)[Show search bar](https://pubmed.ncbi.nlm.nih.gov/32392758/# "Show search bar")
+
+Search:
+
+
+```
+
+```
+
+[Clear search input](https://pubmed.ncbi.nlm.nih.gov/32392758/# "Clear search input") Search
+
+[Advanced](https://pubmed.ncbi.nlm.nih.gov/advanced/) [Clipboard](https://pubmed.ncbi.nlm.nih.gov/clipboard/)
+
+[User Guide](https://pubmed.ncbi.nlm.nih.gov/help/)
+
+Save
+
+Email
+
+
+Send to
+
+- [Clipboard](https://pubmed.ncbi.nlm.nih.gov/32392758/#)
+- [My Bibliography](https://account.ncbi.nlm.nih.gov/?back_url=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F32392758%2F%23open-bibliography-panel)
+- [Collections](https://account.ncbi.nlm.nih.gov/?back_url=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F32392758%2F%23open-collections-panel)
+- [Citation manager](https://pubmed.ncbi.nlm.nih.gov/32392758/#)
+
+Display options
+
+Display options
+
+
+Format
+AbstractPubMedPMID
+
+## Save citation to file
+
+Format:
+Summary (text)PubMedPMIDAbstract (text)CSV
+
+Create file
+
+Cancel
+
+
+## Email citation
+
+Email address has not been verified. Go to
+[My NCBI account settings](https://account.ncbi.nlm.nih.gov/settings/)
+to confirm your email and then refresh this page.
+
+
+To:
+
+
+Subject:
+
+
+Body:
+
+
+Format:
+SummarySummary (text)AbstractAbstract (text)
+
+MeSH and other data
+
+
+Send email
+
+Cancel
+
+
+### Add to Collections
+
+- Create a new collection
+- Add to an existing collection
+
+Name your collection:
+
+
+Name must be less than 100 characters
+
+
+Choose a collection:
+
+
+Unable to load your collection due to an error
+
+[Please try again](https://pubmed.ncbi.nlm.nih.gov/32392758/#)
+
+Add
+
+Cancel
+
+
+### Add to My Bibliography
+
+- My Bibliography
+
+Unable to load your delegates due to an error
+
+[Please try again](https://pubmed.ncbi.nlm.nih.gov/32392758/#)
+
+Add
+
+Cancel
+
+
+## Your saved search
+
+Name of saved search:
+
+
+Search terms:
+
+
+[Test search terms](https://pubmed.ncbi.nlm.nih.gov/32392758/#)
+
+Would you like email updates of new search results?
+Saved Search Alert Radio Buttons
+
+- Yes
+- No
+
+Email:
+( [change](https://www.ncbi.nlm.nih.gov/account/settings/))
+
+Frequency:
+MonthlyWeeklyDaily
+
+Which day?
+The first SundayThe first MondayThe first TuesdayThe first WednesdayThe first ThursdayThe first FridayThe first SaturdayThe first dayThe first weekday
+
+Which day?
+SundayMondayTuesdayWednesdayThursdayFridaySaturday
+
+Report format:
+SummarySummary (text)AbstractAbstract (text)PubMed
+
+Send at most:
+1 item5 items10 items20 items50 items100 items200 items
+
+Send even when there aren't any new results
+
+
+Optional text in email:
+
+
+Save
+
+Cancel
+
+
+## Create a file for external citation management software
+
+Create file
+
+Cancel
+
+
+## Your RSS Feed
+
+Name of RSS Feed:
+
+
+Number of items displayed:
+510152050100
+
+Create RSS
+
+Cancel
+
+
+RSS Link
+Copy
+
+
+Full text links
+Cite
+
+Display options
+
+Display options
+
+
+Format
+AbstractPubMedPMID
+
+Linked Discoveries
+
+## Abstract
+
+
+Trimethylamine-N-oxide (TMAO) is generated in a microbial-mammalian co-metabolic pathway mainly from the digestion of meat-containing food and dietary quaternary amines such as phosphatidylcholine, choline, betaine, or L-carnitine. Fish intake provides a direct significant source of TMAO. Human observational studies previously reported a positive relationship between plasma TMAO concentrations and cardiometabolic diseases. Discrepancies and inconsistencies of recent investigations and previous studies questioned the role of TMAO in these diseases. Several animal studies reported neutral or even beneficial effects of TMAO or its precursors in cardiovascular disease model systems, supporting the clinically proven beneficial effects of its precursor, L-carnitine, or a sea-food rich diet (naturally containing TMAO) on cardiometabolic health. In this review, we summarize recent preclinical and epidemiological evidence on the effects of TMAO, in order to shed some light on the role of TMAO in cardiometabolic diseases, particularly as related to the microbiome.
+
+
+**Keywords:**
+
+atherosclerosis; cardiometabolic health; cardiovascular disease; cause‒effect relationship; trimethylamine N-oxide (TMAO); type 2 diabetes.
+
+
+[PubMed Disclaimer](https://pubmed.ncbi.nlm.nih.gov/disclaimer/)
+
+## Conflict of interest statement
+
+C.P. has received an expense allowance from Lonza LLC for discussing the scope, writing, and editing the manuscript. M.M. is an independent consultant who received payment by the contract research organization analyze & realize GmbH, on behalf of Lonza LLC, for writing this manuscript. A.B. is an employee of Lonza LLC. This review has been funded by Lonza, a manufacturer of L-carnitine, one of the TMAO precursors.
+
+## Figures
+
+[![Figure 1](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/23df/7284902/96b5bb56a726/nutrients-12-01330-g001.gif)](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/23df/7284902/c9e52f73ffe2/nutrients-12-01330-g001.jpg)
+
+**Figure 1**
+
+Disease network around cardiovascular disease…
+
+**Figure 1**
+
+Disease network around cardiovascular disease and metabolic syndrome. Trimethylamine N-oxide (TMAO) can originate…
+
+**Figure 1**
+
+Disease network around cardiovascular disease and metabolic syndrome. Trimethylamine N-oxide (TMAO) can originate either directly from fish consumption or indirectly from intake of dietary precursors (e.g., L-carnitine, choline, or betaine). Dysbiosis has a major influence on cardiometabolic diseases or disease factors. During cardiovascular disease/type 2 diabetes, TMAO levels were found to increase to 4–12 µM in patients, possibly resulting from a disturbed microbiome and/or a decreased intestinal barrier. In the kidney, TMAO is rapidly excreted via the urine. Increased TMAO levels, as observed in studies with patients, may signal a decreased renal function. Unfavorable contribution of TMAO may take place at extremely high concentrations in patients with severely impaired renal function, e.g., hemodialysis patients (dotted arrow). Moderately increased TMAO levels may be a compensatory mechanism in diseased populations. Arrows pointing in two directions: both affect each other.
+
+[![Figure 2](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/23df/7284902/7c7a7a8310d2/nutrients-12-01330-g002.gif)](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/23df/7284902/07447a78816d/nutrients-12-01330-g002.jpg)
+
+**Figure 2**
+
+Main biochemical conversions leading to…
+
+**Figure 2**
+
+Main biochemical conversions leading to trimethylamine (TMA) and TMAO. Modified from \[37,38\]. The…
+
+**Figure 2**
+
+Main biochemical conversions leading to trimethylamine (TMA) and TMAO. Modified from \[37,38\]. The compounds with an asterisk can originate from the diet. The conversions within the grey box (gut microbiome) are induced by the microbiota (mainly Firmicutes, Proteobacteria), and the resulting TMA is absorbed within the colon and converted to TMAO by liver FMOs (flavin monooxygenases). The possibly partial microbial degradation of TMA and TMAO (by methylotrophs and other occasional bacteria (Pseudomonas/Bacillus)) can result in the formation of formaldehyde within the colon; also, methylamines (including TMA/TMAO) could be substrates for the formation of nitrosamines \[32,39\]. If TMA is absorbed from the colon, 95% of it is converted to TMAO, which is then excreted in the urine \[34\]. Arrows pointing in two directions: reactions go in both directions.
+
+
+[... middle omitted — see footer ...]
+
+
+
+
+
+Actions
+
+
+
+
+
+  - [Search in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22Methylamines%2Fmetabolism%22%5BMAJR%5D&sort=date&sort_order=desc)
+  - [Search in MeSH](https://www.ncbi.nlm.nih.gov/mesh?term=Methylamines)
+  - [Add to Search](https://pubmed.ncbi.nlm.nih.gov/32392758/#)
+
+- Mice
+
+
+
+
+Actions
+
+
+
+
+
+  - [Search in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22Mice%22%5BMeSH%5D&sort=date&sort_order=desc)
+  - [Search in MeSH](https://www.ncbi.nlm.nih.gov/mesh?term=Mice)
+  - [Add to Search](https://pubmed.ncbi.nlm.nih.gov/32392758/#)
+
+- Sex Characteristics
+
+
+
+
+Actions
+
+
+
+
+
+  - [Search in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22Sex+Characteristics%22%5BMeSH%5D&sort=date&sort_order=desc)
+  - [Search in MeSH](https://www.ncbi.nlm.nih.gov/mesh?term=Sex+Characteristics)
+  - [Add to Search](https://pubmed.ncbi.nlm.nih.gov/32392758/#)
+
+## Substances
+
+- Amines
+
+
+
+
+Actions
+
+
+
+
+
+  - [Search in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22Amines%22%5Bnm%5D&sort=date&sort_order=desc)
+  - [Search in MeSH](https://www.ncbi.nlm.nih.gov/mesh?term=%22Amines%22)
+  - [Add to Search](https://pubmed.ncbi.nlm.nih.gov/32392758/#)
+
+- Methylamines
+
+
+
+
+Actions
+
+
+
+
+
+  - [Search in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22Methylamines%22%5Bnm%5D&sort=date&sort_order=desc)
+  - [Search in MeSH](https://www.ncbi.nlm.nih.gov/mesh?term=%22Methylamines%22)
+  - [Add to Search](https://pubmed.ncbi.nlm.nih.gov/32392758/#)
+
+- trimethyloxamine
+
+
+
+
+Actions
+
+
+
+
+
+  - [Search in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22trimethyloxamine%22%5Bnm%5D&sort=date&sort_order=desc)
+  - [Search in MeSH](https://www.ncbi.nlm.nih.gov/mesh?term=%22trimethyloxamine%22)
+  - [Add to Search](https://pubmed.ncbi.nlm.nih.gov/32392758/#)
+
+- Carnitine
+
+
+
+
+Actions
+
+
+
+
+
+  - [Search in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22Carnitine%22%5Bnm%5D&sort=date&sort_order=desc)
+  - [Search in MeSH](https://www.ncbi.nlm.nih.gov/mesh?term=%22Carnitine%22)
+  - [Add to Search](https://pubmed.ncbi.nlm.nih.gov/32392758/#)
+
+## Related information
+
+- [MedGen](https://www.ncbi.nlm.nih.gov/medgen?linkname=pubmed_medgen&from_uid=32392758 "Related information in MedGen")
+- [PubChem Compound (MeSH Keyword)](https://www.ncbi.nlm.nih.gov/pccompound?linkname=pubmed_pccompound_mesh&from_uid=32392758 "Related PubChem Compound via MeSH")
+
+## LinkOut - more resources
+
+- ### Full Text Sources
+
+
+  - [Europe PMC](https://europepmc.org/abstract/MED/32392758)
+  - [MDPI](https://www.mdpi.com/resolver?pii=nu12051330)
+  - [PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/pmid/32392758/)
+
+NCBI Literature Resources
+
+[MeSH](https://www.ncbi.nlm.nih.gov/mesh/) [PMC](https://www.ncbi.nlm.nih.gov/pmc/) [Bookshelf](https://www.ncbi.nlm.nih.gov/books) [Disclaimer](https://pubmed.ncbi.nlm.nih.gov/disclaimer/)
+
+The PubMed wordmark and PubMed logo are registered trademarks of the U.S. Department of Health and Human Services (HHS). Unauthorized use of these marks is strictly prohibited.
+
+──────── [TRUNCATED] ────────
+Showing 8,818 chars (head) + 2,980 chars (tail) of 24,082 total clean characters.
+Full text saved to: /home/walker/.hermes/cache/web/pubmed.ncbi.nlm.nih.gov-e4f69a2036.md
+To read the omitted middle: read_file path="/home/walker/.hermes/cache/web/pubmed.ncbi.nlm.nih.gov-e4f69a2036.md" offset=268 limit=200  (the file is the complete page; raise/lower offset to page through it).
+─────────────────────────────

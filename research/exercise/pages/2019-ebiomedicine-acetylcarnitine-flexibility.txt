@@ -1,0 +1,76 @@
+SOURCE: Carnitine supplementation improves metabolic flexibility and skeletal muscle acetylcarnitine formation in volunteers with impaired glucose tolerance: A randomised controlled trial.
+URL: https://pubmed.ncbi.nlm.nih.gov/31676389/
+FETCHED: 2026-11-15 via NCBI efetch (pubmed abstract, retmode=text)
+PMID: 31676389
+DOI: 10.1016/j.ebiom.2019.10.017
+------------------------------------------------------------------------
+5. EBioMedicine. 2019 Nov;49:318-330. doi: 10.1016/j.ebiom.2019.10.017. Epub 2019
+ Oct 31.
+
+Carnitine supplementation improves metabolic flexibility and skeletal muscle 
+acetylcarnitine formation in volunteers with impaired glucose tolerance: A 
+randomised controlled trial.
+
+Bruls YM(1), de Ligt M(2), Lindeboom L(1), Phielix E(2), Havekes B(3), Schaart 
+G(2), Kornips E(2), Wildberger JE(4), Hesselink MK(2), Muoio D(5), Schrauwen 
+P(2), Schrauwen-Hinderling VB(6).
+
+Author information:
+(1)Department of Radiology and Nuclear Medicine, NUTRIM School for Nutrition and 
+Translational Research in Metabolism, Maastricht University Medical Center, 6200 
+MD Maastricht, the Netherlands; Department of Nutrition and Movement Sciences, 
+NUTRIM School for Nutrition and Translational Research in Metabolism, Maastricht 
+University Medical Center, 6200 MD Maastricht, the Netherlands.
+(2)Department of Nutrition and Movement Sciences, NUTRIM School for Nutrition 
+and Translational Research in Metabolism, Maastricht University Medical Center, 
+6200 MD Maastricht, the Netherlands.
+(3)Department of Internal Medicine, Division of Endocrinology, NUTRIM School for 
+Nutrition and Translational Research in Metabolism, Maastricht University 
+Medical Center, 6200 MD Maastricht, the Netherlands.
+(4)Department of Radiology and Nuclear Medicine, NUTRIM School for Nutrition and 
+Translational Research in Metabolism, Maastricht University Medical Center, 6200 
+MD Maastricht, the Netherlands.
+(5)Department of Medicine, Duke University Medical Center, Durham, NC NC22704, 
+United States of America.
+(6)Department of Radiology and Nuclear Medicine, NUTRIM School for Nutrition and 
+Translational Research in Metabolism, Maastricht University Medical Center, 6200 
+MD Maastricht, the Netherlands; Department of Nutrition and Movement Sciences, 
+NUTRIM School for Nutrition and Translational Research in Metabolism, Maastricht 
+University Medical Center, 6200 MD Maastricht, the Netherlands. Electronic 
+address: v.schrauwen@maastrichtuniversity.nl.
+
+BACKGROUND: Type 2 diabetes patients and individuals at risk of developing 
+diabetes are characterized by metabolic inflexibility and disturbed glucose 
+homeostasis. Low carnitine availability may contribute to metabolic 
+inflexibility and impaired glucose tolerance. Here, we investigated whether 
+carnitine supplementation improves metabolic flexibility and insulin sensitivity 
+in impaired glucose tolerant (IGT) volunteers.
+METHODS: Eleven IGT- volunteers followed a 36-day placebo- and L-carnitine 
+treatment (2 g/day) in a randomised, placebo-controlled, double blind crossover 
+design. A hyperinsulinemic-euglycemic clamp (40 mU/m2/min), combined with 
+indirect calorimetry (ventilated hood) was performed to determine insulin 
+sensitivity and metabolic flexibility. Furthermore, metabolic flexibility was 
+assessed in response to a high-energy meal. Skeletal muscle acetylcarnitine 
+concentrations were measured in vivo using long echo time proton magnetic 
+resonance spectroscopy (1H-MRS, TE=500 ms) in the resting state (7:00AM and 
+5:00PM) and after a 30-min cycling exercise. Twelve normal glucose tolerant 
+(NGT) volunteers were included without any intervention as control group.
+RESULTS: Metabolic flexibility of IGT-subjects completely restored towards NGT 
+control values upon carnitine supplementation, measured during a 
+hyperinsulinemic-euglycemic clamp and meal test. In muscle, carnitine 
+supplementation enhanced the increase in resting acetylcarnitine concentrations 
+over the day (delta 7:00 AM versus 5:00 PM) in IGT-subjects. Furthermore, 
+carnitine supplementation increased post-exercise acetylcarnitine concentrations 
+and reduced long-chain acylcarnitine species in IGT-subjects, suggesting the 
+stimulation of a more complete fat oxidation in muscle. Whole-body insulin 
+sensitivity was not affected.
+CONCLUSION: Carnitine supplementation improves acetylcarnitine formation and 
+rescues metabolic flexibility in IGT-subjects. Future research should 
+investigate the potential of carnitine in prevention/treatment of type 2 
+diabetes.
+
+Copyright © 2019 The Author(s). Published by Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.ebiom.2019.10.017
+PMCID: PMC6945245
+PMID: 31676389 [Indexed for MEDLINE]

@@ -1,0 +1,12 @@
+PMID: 39444363
+URL: https://pubmed.ncbi.nlm.nih.gov/39444363/
+Title: Exercise-Associated Hyponatremic Encephalopathy, Rhabdomyolysis, and Acute Kidney Injury While Hiking in the Grand Canyon.
+Authors: Myers TM; Bennett BL; Myers W
+Journal: Wilderness & environmental medicine
+Year: 2024
+Vol/Pages: 35(4):484-489
+DOI: 10.1177/10806032241286487
+Accessed: 2026-11-15 (NCBI PubMed efetch abstract)
+
+ABSTRACT
+We present an unusual case of concomitant exercise-associated hyponatremic encephalopathy (EAHE), exertional rhabdomyolysis (ER), and acute kidney injury (AKI) in a Grand Canyon hiker. Our case patient, an adult 41-year-old male, consumed an excessive amount of water during his descent into the Canyon during hot weather. The next day, he was unable to hike out due to severe leg pain and disorientation, and ultimately evacuated by helicopter, having a grand mal seizure in flight. Despite having no serum sodium level, medics administered an intravenous (IV) bolus of 3% hypertonic saline (HTS) before transporting him to the hospital. There, he was diagnosed with EAHE (serum sodium, 114 mmol⋅L-1), ER, bilateral compartment syndromes, and mild AKI. The life-threatening EAHE was immediately corrected with more IV HTS, the limb-threatening compartment syndromes by surgical fasciotomies, and eventually, the AKI by oral and IV fluids. This case demonstrates the seriousness of overconsumption of water, as well as the potential complications of muscle damage when a deconditioned person does prolonged, strenuous exercise. Furthermore, it also illustrates the importance of considering EAHE within the differential diagnosis for acute alterations in level of consciousness. Lastly, it shows the importance to prioritize patient treatments for conditions that are an immediate threat to life or limb.

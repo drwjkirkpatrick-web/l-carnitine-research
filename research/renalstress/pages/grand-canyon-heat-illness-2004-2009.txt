@@ -1,0 +1,15 @@
+PMID: 24119571
+URL: https://pubmed.ncbi.nlm.nih.gov/24119571/
+Title: Exertional heat-related illnesses at the Grand Canyon National Park, 2004-2009.
+Authors: Noe RS; Choudhary E; Cheng-Dobson J; Wolkin AF; Newman SB
+Journal: Wilderness & environmental medicine
+Year: 2013
+Vol/Pages: 24(4):422-8
+DOI: 10.1016/j.wem.2013.06.008
+Accessed: 2026-11-15 (NCBI PubMed efetch abstract)
+
+ABSTRACT
+BACKGROUND: The Grand Canyon National Park has approximately 4 million visitors between April and September each year. During this period, outdoor activity such as hiking is potentially hazardous owing to extreme heat, limited shade, and steep, long ascents. Given the high visitation and the public health interest in the effects of extreme heat, this study calculated morbidity rates and described heat-related illness (HRI) among visitors.
+METHODS: We conducted a retrospective cross-sectional study from April 1 through September 30, during 2004-2009. From a review of Ranger Emergency Medical Services (EMS) incident report files, we extracted information on those that met the case definition of greater than 1 hour of outdoor heat exposure with an HRI assessment or diagnosis, HRI self-report, or signs or symptoms of HRI without another etiology noted. Visitor and temperature data were obtained from respective official sources.
+RESULTS: Grand Canyon EMS responded to 474 nonfatal and 6 fatal HRI cases, with the majority (84%) being US residents, 29% from Western states. Of the nonfatal cases, 51% were women, the median age was 43 years (range, 11-83 years), and 18% reported a cardiovascular condition. Clinical HRI assessments included dehydration (25%), heat exhaustion (23%), and suspected hyponatremia (19%). Almost all (90%) were hiking; 40% required helicopter evacuation. The highest HRI rates were seen in May.
+CONCLUSIONS: HRI remains a public health concern at the Grand Canyon. High-risk evacuations and life-threatening conditions were found. Majority were hikers, middle-aged adults, and US residents. These findings support the park's hiker HRI prevention efforts and use of park EMS data to measure HRI.

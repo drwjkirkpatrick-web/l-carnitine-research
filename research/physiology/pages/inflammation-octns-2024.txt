@@ -1,0 +1,46 @@
+PMID: 38672410
+PubMed URL: https://pubmed.ncbi.nlm.nih.gov/38672410/
+Fetched via NCBI eutils efetch, accessed 2026-11-15
+
+1. Biomolecules. 2024 Mar 25;14(4):392. doi: 10.3390/biom14040392.
+
+Inflammation and Organic Cation Transporters Novel (OCTNs).
+
+Pochini L(1)(2), Galluccio M(1), Console L(1), Scalise M(1), Eberini I(3), 
+Indiveri C(1)(2).
+
+Author information:
+(1)Laboratory of Biochemistry, Molecular Biotechnology and Molecular Biology, 
+Department DiBEST (Biologia, Ecologia, Scienze della Terra), University of 
+Calabria, Via Bucci 4C, 6C, 87036 Arcavacata di Rende, Italy.
+(2)Institute of Biomembranes, Bioenergetics and Molecular Biotechnologies 
+(IBIOM), National Research Council (CNR), Via Amendola 122/O, 70126 Bari, Italy.
+(3)Department of Pharmacological and Biomolecular Sciences, Università degli 
+Studi di Milano, 20133 Milan, Italy.
+
+Inflammation is a physiological condition characterized by a complex interplay 
+between different cells handled by metabolites and specific inflammatory-related 
+molecules. In some pathological situations, inflammation persists underlying and 
+worsening the pathological state. Over the years, two membrane transporters 
+namely OCTN1 (SLC22A4) and OCTN2 (SLC22A5) have been shown to play specific 
+roles in inflammation. These transporters form the OCTN subfamily within the 
+larger SLC22 family. The link between these proteins and inflammation has been 
+proposed based on their link to some chronic inflammatory diseases such as 
+asthma, Crohn's disease (CD), and rheumatoid arthritis (RA). Moreover, the two 
+transporters show the ability to mediate the transport of several compounds 
+including carnitine, carnitine derivatives, acetylcholine, ergothioneine, and 
+gut microbiota by-products, which have been specifically associated with 
+inflammation for their anti- or proinflammatory action. Therefore, the 
+absorption and distribution of these molecules rely on the presence of OCTN1 and 
+OCTN2, whose expression is modulated by inflammatory cytokines and transcription 
+factors typically activated by inflammation. In the present review, we wish to 
+provide a state of the art on OCTN1 and OCTN2 transport function and regulation 
+in relationships with inflammation and inflammatory diseases focusing on the 
+metabolic signature collected in different body districts and gene polymorphisms 
+related to inflammatory diseases.
+
+DOI: 10.3390/biom14040392
+PMCID: PMC11048549
+PMID: 38672410 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflicts of interest.

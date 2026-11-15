@@ -1,0 +1,424 @@
+# URL: https://pubmed.ncbi.nlm.nih.gov/37915930/
+# Fetched via web_extract on 2026-11-15
+
+Clipboard, Search History, and several other advanced features are temporarily unavailable.
+
+
+[Skip to main page content](https://pubmed.ncbi.nlm.nih.gov/37915930/#article-details)
+
+### NIH Websites Are Changing
+
+- [Get the Latest Updates and FAQs on the transition](https://www.nih.gov/web-modernization)
+- Per [Executive Order 14434](https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/), federal agencies are now using "Super Intelligence" (SI) in place of "Artificial Intelligence" (AI). You may see both terms across NIH content during this transition.
+
+![Dot gov](https://cdn.ncbi.nlm.nih.gov/coreutils/uswds/img/icon-dot-gov.svg)
+
+**The .gov means it’s official.**
+
+Federal government websites often end in .gov or .mil. Before
+sharing sensitive information, make sure you’re on a federal
+government site.
+
+
+![Https](https://cdn.ncbi.nlm.nih.gov/coreutils/uswds/img/icon-https.svg)
+
+**The site is secure.**
+
+The **https://** ensures that you are connecting to the
+official website and that any information you provide is encrypted
+and transmitted securely.
+
+
+[Access keys](https://www.ncbi.nlm.nih.gov/guide/browsers/#ncbi_accesskeys) [NCBI Homepage](https://www.ncbi.nlm.nih.gov/) [MyNCBI Homepage](https://pubmed.ncbi.nlm.nih.gov/myncbi/) [Main Content](https://pubmed.ncbi.nlm.nih.gov/37915930/#maincontent) [Main Navigation](https://pubmed.ncbi.nlm.nih.gov/37915930/#)
+
+[![pubmed logo](https://cdn.ncbi.nlm.nih.gov/pubmed/a447896c-976f-490b-b86b-2668b65114a8/core/images/pubmed-logo-blue.svg)](https://pubmed.ncbi.nlm.nih.gov/)[Show search bar](https://pubmed.ncbi.nlm.nih.gov/37915930/# "Show search bar")
+
+Search:
+
+
+```
+
+```
+
+[Clear search input](https://pubmed.ncbi.nlm.nih.gov/37915930/# "Clear search input") Search
+
+[Advanced](https://pubmed.ncbi.nlm.nih.gov/advanced/) [Clipboard](https://pubmed.ncbi.nlm.nih.gov/clipboard/)
+
+[User Guide](https://pubmed.ncbi.nlm.nih.gov/help/)
+
+Save
+
+Email
+
+
+Send to
+
+- [Clipboard](https://pubmed.ncbi.nlm.nih.gov/37915930/#)
+- [My Bibliography](https://account.ncbi.nlm.nih.gov/?back_url=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F37915930%2F%23open-bibliography-panel)
+- [Collections](https://account.ncbi.nlm.nih.gov/?back_url=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F37915930%2F%23open-collections-panel)
+- [Citation manager](https://pubmed.ncbi.nlm.nih.gov/37915930/#)
+
+Display options
+
+Display options
+
+
+Format
+AbstractPubMedPMID
+
+## Save citation to file
+
+Format:
+Summary (text)PubMedPMIDAbstract (text)CSV
+
+Create file
+
+Cancel
+
+
+## Email citation
+
+Email address has not been verified. Go to
+[My NCBI account settings](https://account.ncbi.nlm.nih.gov/settings/)
+to confirm your email and then refresh this page.
+
+
+To:
+
+
+Subject:
+
+
+Body:
+
+
+Format:
+SummarySummary (text)AbstractAbstract (text)
+
+MeSH and other data
+
+
+Send email
+
+Cancel
+
+
+### Add to Collections
+
+- Create a new collection
+- Add to an existing collection
+
+Name your collection:
+
+
+Name must be less than 100 characters
+
+
+Choose a collection:
+
+
+Unable to load your collection due to an error
+
+[Please try again](https://pubmed.ncbi.nlm.nih.gov/37915930/#)
+
+Add
+
+Cancel
+
+
+### Add to My Bibliography
+
+- My Bibliography
+
+Unable to load your delegates due to an error
+
+[Please try again](https://pubmed.ncbi.nlm.nih.gov/37915930/#)
+
+Add
+
+Cancel
+
+
+## Your saved search
+
+Name of saved search:
+
+
+Search terms:
+
+
+[Test search terms](https://pubmed.ncbi.nlm.nih.gov/37915930/#)
+
+Would you like email updates of new search results?
+Saved Search Alert Radio Buttons
+
+- Yes
+- No
+
+Email:
+( [change](https://www.ncbi.nlm.nih.gov/account/settings/))
+
+Frequency:
+MonthlyWeeklyDaily
+
+Which day?
+The first SundayThe first MondayThe first TuesdayThe first WednesdayThe first ThursdayThe first FridayThe first SaturdayThe first dayThe first weekday
+
+Which day?
+SundayMondayTuesdayWednesdayThursdayFridaySaturday
+
+Report format:
+SummarySummary (text)AbstractAbstract (text)PubMed
+
+Send at most:
+1 item5 items10 items20 items50 items100 items200 items
+
+Send even when there aren't any new results
+
+
+Optional text in email:
+
+
+Save
+
+Cancel
+
+
+## Create a file for external citation management software
+
+Create file
+
+Cancel
+
+
+## Your RSS Feed
+
+Name of RSS Feed:
+
+
+Number of items displayed:
+510152050100
+
+Create RSS
+
+Cancel
+
+
+RSS Link
+Copy
+
+
+Full text links
+Cite
+
+Display options
+
+Display options
+
+
+Format
+AbstractPubMedPMID
+
+Linked Discoveries
+
+## Abstract
+
+
+The profile of gut microbiota can vary according to host genetic and dietary characteristics, and be influenced by disease state and environmental stressors. The uremic dysbiosis results in a loss of biodiversity and overgrowth of microorganisms that may cause elevation of metabolic solutes such as trimethylamine N-oxide (TMAO), inducing pathogenic effects on its host. In patients with chronic kidney disease (CKD), TMAO levels are elevated because of a decreased clearance and an increased production from the uremic gut dysbiosis with a disrupted intestinal barrier and elevated enzymatic hepatic activity. Dietary precursors of TMAO are abundant in animal-derived foods such as red meat, egg yolk and other full-fat dietary products. TMAO is also found naturally in fish and certain types of seafood, with the TMAO content highly variable according to the depth of the sea where the fish is caught, as well as processing and storage. Although evidence points towards TMAO as being an important link to vascular damage and adverse cardiovascular outcomes, the evidence in CKD patients has not been consistent. In this review we discuss the potential dietary sources of TMAO and its actions on the intestinal microbiome as an explanation for the divergent results. We further highlight the potential of a healthy diet as one feasible therapeutic opportunity to prevent gut dysbiosis and reduce uremic toxin levels in patients with CKD.
+
+
+**Keywords:**
+
+chronic kidney disease; diet; gut microbiome; trimethylamine-N-oxide; uremic toxin.
+
+
+© The Author(s) 2023. Published by Oxford University Press on behalf of the ERA.
+
+
+[PubMed Disclaimer](https://pubmed.ncbi.nlm.nih.gov/disclaimer/)
+
+## Conflict of interest statement
+
+None of the authors has any conflicts of interest to declare in relation to this manuscript.
+
+## Figures
+
+[![Figure 1:](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/5c54/10616480/40520a89a468/sfad095fig1.gif)](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/5c54/10616480/a3930f73f636/sfad095fig1.jpg)
+
+**Figure 1:**
+
+TMAO in patients with CKD.…
+
+**Figure 1:**
+
+TMAO in patients with CKD. Created with BioRender.com.
+
+**Figure 1:**
+
+TMAO in patients with CKD. Created with BioRender.com.
+
+[![Figure 2:](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/5c54/10616480/579b535daa59/sfad095fig2.gif)](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/5c54/10616480/47a8fa0634a0/sfad095fig2.jpg)
+
+**Figure 2:**
+
+Dietary measures to lower TMAO…
+
+**Figure 2:**
+
+Dietary measures to lower TMAO levels.
+
+**Figure 2:**
+
+Dietary measures to lower TMAO levels.
+
+[See this image and copyright information in PMC](https://pubmed.ncbi.nlm.nih.gov/37915930/#)
+
+## Similar articles
+
+- [Dietary factors, gut microbiota, and serum trimethylamine-N-oxide associated with cardiovascular disease in the Hispanic Community Health Study/Study of Latinos.](https://pubmed.ncbi.nlm.nih.gov/33709132/)
+
+Mei Z, Chen GC, Wang Z, Usyk M, Yu B, Baeza YV, Humphrey G, Benitez RS, Li J, Williams-Nguyen JS, Daviglus ML, Hou L, Cai J, Zheng Y, Knight R, Burk RD, Boerwinkle E, Kaplan RC, Qi Q.Mei Z, et al.Am J Clin Nutr. 2021 Jun 1;113(6):1503-1514. doi: 10.1093/ajcn/nqab001.Am J Clin Nutr. 2021.PMID: 33709132Free PMC article.
+
+- [The guanylate cyclase C agonist linaclotide ameliorates the gut-cardio-renal axis in an adenine-induced mouse model of chronic kidney disease.](https://pubmed.ncbi.nlm.nih.gov/31411705/)
+
+Nanto-Hara F, Kanemitsu Y, Fukuda S, Kikuchi K, Asaji K, Saigusa D, Iwasaki T, Ho HJ, Mishima E, Suzuki T, Suzuki C, Tsukimi T, Matsuhashi T, Oikawa Y, Akiyama Y, Kure S, Owada Y, Tomioka Y, Soga T, Ito S, Abe T.Nanto-Hara F, et al.Nephrol Dial Transplant. 2020 Feb 1;35(2):250-264. doi: 10.1093/ndt/gfz126.Nephrol Dial Transplant. 2020.PMID: 31411705
+
+- [Trimethylamine-N-oxide (TMAO) response to animal source foods varies among healthy young men and is influenced by their gut microbiota composition: A randomized controlled trial.](https://pubmed.ncbi.nlm.nih.gov/27377678/)
+
+Cho CE, Taesuwan S, Malysheva OV, Bender E, Tulchinsky NF, Yan J, Sutter JL, Caudill MA.Cho CE, et al.Mol Nutr Food Res. 2017 Jan;61(1). doi: 10.1002/mnfr.201600324. Epub 2016 Aug 3.Mol Nutr Food Res. 2017.PMID: 27377678Clinical Trial.
+
+- [Dysbiosis-Related Advanced Glycation Endproducts and Trimethylamine N-Oxide in Chronic Kidney Disease.](https://pubmed.ncbi.nlm.nih.gov/34069405/)
+
+Taguchi K, Fukami K, Elias BC, Brooks CR.Taguchi K, et al.Toxins (Basel). 2021 May 19;13(5):361. doi: 10.3390/toxins13050361.Toxins (Basel). 2021.PMID: 34069405Free PMC article.Review.
+
+
+[... middle omitted — see footer ...]
+
+
+
+[See all "Cited by" articles](https://pubmed.ncbi.nlm.nih.gov/?linkname=pubmed_pubmed_citedin&from_uid=37915930)
+
+## References
+
+1.
+    Agus A, Clément K, Sokol H. Gut microbiota-derived metabolites as central regulators in metabolic disorders. Gut 2021;70:1174–82. 10.1136/gutjnl-2020-323071
+
+
+
+    -
+    [DOI](https://doi.org/10.1136/gutjnl-2020-323071)
+
+
+
+
+
+    -
+    [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC8108286/)
+
+
+
+
+
+    -
+    [PubMed](https://pubmed.ncbi.nlm.nih.gov/33272977/)
+1.
+    Nicholson JK, Holmes E, Kinross Jet al. Host-gut microbiota metabolic interactions. Science 2012;336:1262–7. 10.1126/science.1223813
+
+
+
+    -
+    [DOI](https://doi.org/10.1126/science.1223813)
+
+
+
+
+
+    -
+    [PubMed](https://pubmed.ncbi.nlm.nih.gov/22674330/)
+1.
+    Chambers ES, Morrison DJ, Frost G. Control of appetite and energy intake by SCFA: what are the potential underlying mechanisms? Proc Nutr Soc 2015;74:328–36. 10.1017/S0029665114001657
+
+
+
+    -
+    [DOI](https://doi.org/10.1017/s0029665114001657)
+
+
+
+
+
+    -
+    [PubMed](https://pubmed.ncbi.nlm.nih.gov/25497601/)
+1.
+    Le Chatelier E, Nielsen T, Qin Jet al. Richness of human gut microbiome correlates with metabolic markers. Nature 2013;500:541–6. 10.1038/nature12506
+
+
+
+    -
+    [DOI](https://doi.org/10.1038/nature12506)
+
+
+
+
+
+    -
+    [PubMed](https://pubmed.ncbi.nlm.nih.gov/23985870/)
+1.
+    Sonnenburg JL, Sonnenburg ED. Vulnerability of the industrialized microbiota. Science 2019;366:eaaw9255. 10.1126/science.aaw9255
+
+
+
+    -
+    [DOI](https://doi.org/10.1126/science.aaw9255)
+
+
+
+
+
+    -
+    [PubMed](https://pubmed.ncbi.nlm.nih.gov/31649168/)
+
+Show all 85 references
+
+
+## Publication types
+
+- Review
+
+
+
+
+Actions
+
+
+
+
+
+  - [Search in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22Review%22%5Bpt%5D&sort=date&sort_order=desc)
+  - [Search in MeSH](https://www.ncbi.nlm.nih.gov/mesh?term=Review)
+  - [Add to Search](https://pubmed.ncbi.nlm.nih.gov/37915930/#)
+
+## Related information
+
+- [MedGen](https://www.ncbi.nlm.nih.gov/medgen?linkname=pubmed_medgen&from_uid=37915930 "Related information in MedGen")
+
+## LinkOut - more resources
+
+- ### Full Text Sources
+
+
+  - [Europe PMC](https://europepmc.org/abstract/MED/37915930)
+  - [PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/pmid/37915930/)
+  - [Silverchair Information Systems](https://academic.oup.com/ckj/article-lookup/doi/10.1093/ckj/sfad095)
+
+NCBI Literature Resources
+
+[MeSH](https://www.ncbi.nlm.nih.gov/mesh/) [PMC](https://www.ncbi.nlm.nih.gov/pmc/) [Bookshelf](https://www.ncbi.nlm.nih.gov/books) [Disclaimer](https://pubmed.ncbi.nlm.nih.gov/disclaimer/)
+
+The PubMed wordmark and PubMed logo are registered trademarks of the U.S. Department of Health and Human Services (HHS). Unauthorized use of these marks is strictly prohibited.
+
+──────── [TRUNCATED] ────────
+Showing 8,930 chars (head) + 2,783 chars (tail) of 14,399 total clean characters.
+Full text saved to: /home/walker/.hermes/cache/web/pubmed.ncbi.nlm.nih.gov-0234ba310f.md
+To read the omitted middle: read_file path="/home/walker/.hermes/cache/web/pubmed.ncbi.nlm.nih.gov-0234ba310f.md" offset=291 limit=200  (the file is the complete page; raise/lower offset to page through it).
+─────────────────────────────

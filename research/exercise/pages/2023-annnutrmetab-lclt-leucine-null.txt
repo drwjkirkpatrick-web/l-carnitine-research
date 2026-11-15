@@ -1,0 +1,50 @@
+SOURCE: Twenty-Four Weeks of L-Carnitine Combined with Leucine Supplementation Does Not Increase the Muscle Carnitine Content in Healthy Active Subjects.
+URL: https://pubmed.ncbi.nlm.nih.gov/36696886/
+FETCHED: 2026-11-15 via NCBI efetch (pubmed abstract, retmode=text)
+PMID: 36696886
+DOI: 10.1159/000529333
+------------------------------------------------------------------------
+16. Ann Nutr Metab. 2023;79(2):219-227. doi: 10.1159/000529333. Epub 2023 Jan 25.
+
+Twenty-Four Weeks of L-Carnitine Combined with Leucine Supplementation Does Not 
+Increase the Muscle Carnitine Content in Healthy Active Subjects.
+
+Samborowska E(1), Olek RA(2).
+
+Author information:
+(1)Mass Spectrometry Laboratory, Institute of Biochemistry and Biophysics, 
+Polish Academy of Sciences, Warsaw, Poland.
+(2)Department of Athletics, Strength, and Conditioning, Poznan University of 
+Physical Education, Poznan, Poland.
+
+Erratum in
+    Ann Nutr Metab. 2023;79(4):401. doi: 10.1159/000533239.
+
+INTRODUCTION: To increase the total carnitine (TC) content in muscles, 
+L-carnitine (LC) should be co-ingested with carbohydrates to induce an insulin 
+response. Leucine has an insulin secretagogue effect. Therefore, the primary aim 
+of this study was to examine the effects of 24 weeks of LC and leucine 
+supplementation on the skeletal muscle TC content, muscle mass, and strength in 
+active college-aged subjects. The secondary aim was to determine the activation 
+of the Akt/mTOR signaling pathway in skeletal muscles after supplementation.
+METHODS: Over the 24 weeks, the participants were supplemented with either 1 g 
+of LC-L-tartrate and 3 g of leucine per day (LC + L group; n = 7) or 4 g of 
+leucine per day (L group; n = 7) as a placebo. Before and 24 weeks after the 
+initiation of the study protocol, the free carnitine (FC) and TC content in 
+plasma and muscle samples, as well as body composition and muscle strength, were 
+measured. In addition, the phosphorylation of the Akt/mTOR pathway proteins in 
+muscles was evaluated.
+RESULTS: Plasma FC and TC content increased in LC + L group after 24 weeks of 
+supplementation (p = 0.003 and 0.010, respectively). However, the skeletal 
+muscle FC and TC contents were not affected by the supplementation protocol. No 
+changes were noted in the body mass and composition; serum insulin-like growth 
+factor-1 concentration; and phosphorylation of the signaling pathway proteins 
+Akt, mTOR, and p70S6K.
+CONCLUSION: LC supplementation may have the potential to exert beneficial 
+effects in muscle atrophy. Therefore, additional research is necessary to 
+investigate the effect of various LC supplementation protocols.
+
+© 2023 S. Karger AG, Basel.
+
+DOI: 10.1159/000529333
+PMID: 36696886 [Indexed for MEDLINE]

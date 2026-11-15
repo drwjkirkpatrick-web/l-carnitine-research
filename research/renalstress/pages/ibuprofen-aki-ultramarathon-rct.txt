@@ -1,0 +1,16 @@
+PMID: 28679502
+URL: https://pubmed.ncbi.nlm.nih.gov/28679502/
+Title: Ibuprofen versus placebo effect on acute kidney injury in ultramarathons: a randomised controlled trial.
+Authors: Lipman GS; Shea K; Christensen M; Phillips C; Burns P; Higbee R; Koskenoja V; Eifling K; Krabak BJ
+Journal: Emergency medicine journal : EMJ
+Year: 2017
+Vol/Pages: 34(10):637-642
+DOI: 10.1136/emermed-2016-206353
+Accessed: 2026-11-15 (NCBI PubMed efetch abstract)
+
+ABSTRACT
+BACKGROUND: Despite concerns that non-steroidal anti-inflammatory drugs (NSAIDs) contribute to acute kidney injury (AKI), up to 75% of ultramarathon runners ingest these during competition. The effect of NSAID on AKI incidence in ultramarathon runners is unclear.
+METHODS: Multisite randomised double-blind placebo-controlled trial in the Gobi, Atacama, Ecuador and Sri Lankan deserts to determine whether ibuprofen (400 mg every 4 hours) would be non-inferior to placebo during a 50-mile (80 km) foot race. The primary outcome was incidence of AKI defined as severity categories of 'risk' of injury of 1.5× baseline creatinine (Cr) or 'injury' as 2× Cr, combined to calculate total incidence at the finish line. Non-inferiority margin for difference in AKI rates was defined as 15%.
+RESULTS: Eighty-nine participants (47% ibuprofen and 53% placebo) were enrolled with similar demographics between groups. The overall incidence of AKI was 44%. Intent-to-treat analysis found 22 (52%) ibuprofen versus 16 (34%) placebo users developed AKI (18% difference, 95% CI -4% to 41%; OR 2.1, 95% CI 0.9 to 5.1) with a number needed to harm of 5.5. Greater severity of AKI was seen with ibuprofen compared with placebo (risk=38% vs 26%; 95% CI -9% to 34%; injury=14% vs 9%; 95% CI -10% to 21%). Slower finishers were less likely to encounter AKI (OR 0.67, 95% CI 0.47 to 0.98) and greater weight loss (-1.3%) increased AKI (OR 1.24, 95% CI 1.00 to 1.63).
+CONCLUSION: There were increased rates of AKI in those who took ibuprofen, and although not statistically inferior to placebo by a small margin, there was a number needed to harm of 5.5 people to cause 1 case of AKI. Consideration should therefore be taken before ingesting NSAID during endurance running as it could exacerbate renal injury.
+TRIAL REGISTRATION NUMBER: NCT02272725.

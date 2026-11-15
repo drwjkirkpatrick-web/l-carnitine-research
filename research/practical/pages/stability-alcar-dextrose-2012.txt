@@ -1,0 +1,38 @@
+1. Int J Pharm Compd. 2012 Mar-Apr;16(2):170-3.
+
+Stability of acetyl-1-carnitine in 5% dextrose using a high-performance liquid 
+chromatography-mass spectrometry times 2 method.
+
+Zhang Y(1), Jiang H, Hutson P.
+
+Author information:
+(1)University of Wisconsin-Madison, School of Pharmacy, Madison, WI 53705-2222, 
+USA.
+
+A stability-indicating high-performance liquid chromatography-mass spectrometry 
+times 2 method was developed to establish the stability of acetyl-l-carnitine 
+dissolved in 5% dextrose in water; quantitation of acetyl-l-carnitine and its 
+hydrolysis product I-carnitine was performed using this method. 
+Acetyl-l-carnitine dissolved in water was stress-degraded at a pH range of 3 to 
+12, and conversion to l-carnitine was quantified over 18 hours. The method was 
+further validated by stressing the acetyl-l-carnitine solution at 68 degrees C, 
+82 degrees C, and 90 degrees C for up to 10 days, yielding a 
+temperature-dependent hydrolysis rate constant. Acetyl-l-carnitine solutions 
+were stored at 25 degrees C and 4 degrees C to 8 degrees C for 33 days to 
+validate the kinetics prediction. The liquid chromatography-mass spectrometry 
+times 2 method was sensitive and specific, allowing rapid separation and 
+simultaneous quantitation of acetyl-l-carnitine and l-carnitine. 
+Acetyl-l-carnitine dissolved in aqueous solutions is stable at neutral to acidic 
+pH, but unstable at pH > 9. After 1 hour storage at room temperature, only 72.6% 
+of acetyl-l-carnitine was left at pH 11 and 4.2% left at pH 12. The kinetics 
+relationship between temperature and rate constant was In(k) = -8650.1 /T + 
+20.344 (r2 = 0.9851) at pH 5.2. The time required to degrade 15% of 
+acetyl-I-carnitine was estimated to be 38 days at 25 degrees C or 234 days at 8 
+degrees C, and was confirmed with actual storage stability testing. 
+Acetyl-l-carnitine dissolved in water (pH 5.2) at concentrations of 1 and 10 
+mg/mL was found stable at room temperature or refrigerated for at least 33 days 
+using the established stability-indicating method. Acetyl-l-carnitine solutions 
+are not stable at basic pH. When reconstituted in water, acetyl-l-carnitine is 
+stable for over 30 days at room temperature or under refrigeration.
+
+PMID: 23050330 [Indexed for MEDLINE]

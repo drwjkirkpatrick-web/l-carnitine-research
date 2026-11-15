@@ -1,0 +1,48 @@
+SOURCE: Acute and Chronic L-Carnitine Supplementation Enhances Endurance Performance Without Consistent Effects on Substrate Oxidation in Active Individuals: A Systematic Review.
+URL: https://pubmed.ncbi.nlm.nih.gov/42887880/
+FETCHED: 2026-11-15 via NCBI efetch (pubmed abstract, retmode=text)
+PMID: 42887880
+DOI: 10.1123/ijsnem.2026-0077
+------------------------------------------------------------------------
+18. Int J Sport Nutr Exerc Metab. 2026 Oct 15:1-13. doi:
+10.1123/ijsnem.2026-0077.  Online ahead of print.
+
+Acute and Chronic L-Carnitine Supplementation Enhances Endurance Performance 
+Without Consistent Effects on Substrate Oxidation in Active Individuals: A 
+Systematic Review.
+
+Eryiğit H(1), Güzel Y(1), Bulut S(1), Turnagöl HH(1), Atakan MM(1).
+
+Author information:
+(1)Division of Exercise Nutrition and Metabolism, Faculty of Sport Sciences, 
+Hacettepe University, Ankara, Türkiye.
+
+OBJECTIVES: This study aims to systematically evaluate the effects of acute and 
+chronic L-carnitine supplementation on endurance performance and substrate 
+oxidation during exercise among active individuals.
+METHODS: This systematic review followed the Preferred Reporting Items for 
+Systematic Reviews and Meta-Analyses 2020 guidelines. A total of 647 studies 
+were initially retrieved from PubMed/MEDLINE, Web of Science, Cochrane Library, 
+Scopus, Ovid MEDLINE, EBSCO Open Dissertations, EBSCO Academic Search Ultimate, 
+and SPORTDiscus databases, with searches conducted from database inception to 
+February 1, 2026. Randomized placebo-controlled crossover and parallel-group 
+trials were eligible for inclusion. Studies meeting the inclusion criteria were 
+assessed using the Cochrane Risk of Bias 2 (RoB 2) tool, with the 
+crossover-specific version applied to randomized crossover trials.
+RESULTS: A total of 18 studies met the inclusion criteria. Overall, 15 (83%) 
+studies were rated as having some concerns, three (17%) were classified as 
+having a high risk of bias, and none were judged to be at low risk of bias. Ten 
+studies investigated acute L-carnitine supplementation (2-15 g), seven studies 
+examined chronic supplementation (2-3 g/day for 2-24 weeks), and one study 
+evaluated both acute and chronic supplementation (3 g on a single day and over 
+2 weeks). Both acute and chronic L-carnitine supplementation were associated 
+with improvements in endurance performance following acute supplementation and 
+chronic supplementation. By contrast, no significant changes in fat oxidation 
+during exercise were reported after either acute (2-4 g ingested 120-180 min 
+before exercise) or chronic supplementation (2 g/day for 2-4 weeks).
+CONCLUSIONS: L-carnitine may enhance selected endurance performance outcomes 
+among active individuals; however, its reputation as a "fat-burning" ergogenic 
+aid is not supported by current evidence, following short-term supplementation.
+
+DOI: 10.1123/ijsnem.2026-0077
+PMID: 42887880

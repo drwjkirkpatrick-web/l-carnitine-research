@@ -1,0 +1,611 @@
+URL: https://www.drugs.com/drug-interactions/levocarnitine-with-warfarin-1454-0-2311-0.html?professional=1
+TITLE: Drug Interactions between levocarnitine and warfarin (Drugs.com)
+
+[Skip to main content](https://www.drugs.com/drug-interactions/levocarnitine-with-warfarin-1454-0-2311-0.html?professional=1#content)
+
+Close
+
+Print page
+
+# Interactions between Levocarnitine and Warfarin
+
+1 drug interaction and 37 additional warnings found for the following 2 drugs:
+
+- **levocarnitine**
+- **warfarin**
+
+[Add/remove drugs](https://www.drugs.com/interaction/list/?drug_list=1454-0,2311-0)
+
+## Drug interactions
+
+### Moderate drug interactions
+
+Collapse all
+
+Moderate:
+
+#### warfarin  levOCARNitine
+
+Applies to: warfarin and levocarnitine
+
+##### Monitor
+
+Limited data suggest that levocarnitine may potentiate the hypoprothrombinemic effects of warfarin and other coumarin anticoagulants. The mechanism of interaction has not been established. There have been isolated case reports of INR increase and/or bleeding in patients treated with warfarin or acenocoumarol following the addition of levocarnitine therapy. INR levels returned to normal after discontinuation of levocarnitine.
+
+##### Management
+
+Caution is advised when coumarin anticoagulants are used with levocarnitine. The INR should be checked frequently and anticoagulant dosage adjusted accordingly, particularly following initiation, discontinuation, or change of dosage of levocarnitine. Patients should be advised to promptly report any signs of bleeding to their doctor, including pain, swelling, headache, dizziness, weakness, prolonged bleeding from cuts, increased menstrual flow, vaginal bleeding, nosebleeds, bleeding of gums from brushing, unusual bleeding or bruising, red or brown urine, or red or black stools.
+
+References (2)
+
+1. (2001) "Product Information. Carnitor (levocarnitine)." _Sigma-Tau Pharmaceuticals_
+2. Bachmann HU, Hoffmann A (2004) "Interaction of food supplement L-carnitine with oral anticoagulant acenocoumarol." _Swiss Med Wkly_, 134(25-26), p. 385
+
+
+## Food/lifestyle interactions
+
+### Moderate food/lifestyle interactions
+
+Expand all
+
+Moderate:
+
+#### warfarin  Food/Lifestyle
+
+Applies to: warfarin
+
+##### Monitor
+
+Vitamin K antagonizes the anticoagulant effect of oral anticoagulants such as warfarin. Vitamin K is a cofactor in the hepatic synthesis of clotting factors II, VII, IX, and X, which warfarin inhibits. Consumption of vitamin K through supplements or diet can reduce the effectiveness of warfarin and potentially lower the INR, while a sudden reduction in vitamin K intake after stabilization can lead to elevation of the INR, increasing the risk of bleeding. Foods with high vitamin K content include liver, broccoli, Brussels sprouts, cabbage, collard greens, kale, lettuce, spinach, and other green leafy vegetables. Moderate vitamin K levels are found in foods such as mayonnaise, green tea, and various oils including canola, olive, and soybean oil. Certain foods and products may also antagonize warfarin's anticoagulant effects, resulting in subtherapeutic INR values. High intake of soy products, particularly soy milk, has been associated with reduced response to warfarin in rare case reports; although the mechanism remains unclear, as soy milk contains little vitamin K. Patients have experienced subtherapeutic INR values after starting regular soy milk ingestion, with return to therapeutic range upon discontinuation of soy milk. There have been case reports of inadequate anticoagulation with warfarin associated with the use of smokeless tobacco products, attributed to their high vitamin K content. Discontinuation of tobacco resulted in increased INR and return to adequate anticoagulation. Alcohol may have variable effects on oral anticoagulant therapy depending on consumption patterns. Acute alcohol ingestion may inhibit the hepatic metabolism of warfarin, potentially resulting in elevated INR and increased bleeding risk. Conversely, chronic alcohol consumption may reduce warfarin's effect by increasing its metabolism and lowering INR. Additionally, alcohol may independently increase the risk of gastrointestinal bleeding through direct irritation of the gastric mucosa. Patients with alcohol-related liver disease may also exhibit unpredictable responses to oral anticoagulant therapy due to impaired synthesis of clotting factors. Conversely, several foods may enhance warfarin effects through various mechanisms. Cranberry juice consumption has been linked to INR changes and bleeding complications, potentially through flavonoid-induced alterations in warfarin metabolism, with at least one fatality reported in the U.K. Grapefruit juice, a moderate to strong CYP450 3A4 inhibitor, may decrease clearance of R(+) warfarin, though clinical significance remains uncertain. In vitro data suggest that pomegranate juice may inhibit CYP450 2C9, affecting metabolism of the more active S(-) warfarin enantiomer. Black currant products may theoretically increase bleeding risk through antiplatelet effects of gamma-linolenic acid.
+
+##### Management
+
+Patients receiving warfarin therapy should be counseled to maintain a consistent dietary intake of vitamin K-containing foods, as sudden changes may destabilize anticoagulation control. Advise patients to avoid or limit consumption of cranberry juice, grapefruit juice and pomegranate juice due to potential enhancement of warfarin effects. Patients should also be informed that high intake of soy milk or use of smokeless tobacco products may reduce anticoagulant efficacy. Regarding alcohol, patients should be advised to avoid excessive or binge drinking and to maintain consistent, moderate consumption patterns if they choose to drink; those with alcohol-related liver disease require particularly close monitoring due to unpredictable anticoagulant responses. Some authorities consider alcoholism a contraindication for the use of warfarin. For patients receiving enteral nutrition, consider assessing the vitamin K content of feeding formulations, as formulations vary in content. Interrupting continuous enteral nutrition around warfarin administration may also be considered. The INR should be monitored more frequently following any significant dietary changes, initiation or discontinuation of implicated foods or substances, or changes in alcohol consumption patterns. Patients should be instructed to report signs or symptoms of bleeding (unusual bruising, prolonged bleeding from cuts, blood in urine or stool, nosebleeds) or thromboembolic events (swelling, pain, shortness of breath) promptly to their healthcare provider. Patients should inform their provider before making substantial changes to their diet or lifestyle habits.
+
+References (41)
+
+01. Andersen P, Godal HC (1975) "Predictable reduction in anticoagulant activity of warfarin by small amounts of vitamin K." _Acta Med Scand_, 198, p. 269-70
+
+02. Westfall LK (1981) "An unrecognized cause of warfarin resistance." _Drug Intell Clin Pharm_, 15, p. 131
+
+03. Lee M, Schwartz RN, Sharifi R (1981) "Warfarin resistance and vitamin K." _Ann Intern Med_, 94, p. 140-1
+
+04. Zallman JA, Lee DP, Jeffrey PL (1981) "Liquid nutrition as a cause of warfarin resistance." _Am J Hosp Pharm_, 38, p. 1174
+
+05. Griffith LD, Olvey SE, Triplett WC (1982) "Increasing prothrombin times in a warfarin-treated patient upon withdrawal of ensure plus." _Crit Care Med_, 10, p. 799-800
+
+06. Kempin SJ (1983) "Warfarin resistance caused by broccoli." _N Engl J Med_, 308, p. 1229-30
+
+07. Watson AJ, Pegg M, Green JR (1984) "Enteral feeds may antagonise warfarin." _Br Med J_, 288, p. 557
+
+08. Walker FB (1984) "Myocardial infarction after diet-induced warfarin resistance." _Arch Intern Med_, 144, p. 2089-90
+
+09. Howard PA, Hannaman KN (1985) "Warfarin resistance linked to enteral nutrition products." _J Am Diet Assoc_, 85, p. 713-5
+
+10. Karlson B, Leijd B, Hellstrom K (1986) "On the influence of vitamin K-rich vegetables and wine on the effectiveness of warfarin treatment." _Acta Med Scand_, 220, p. 347-50
+
+11. Pedersen FM, Hamberg O, Hess K, Ovesen L (1991) "The effect of dietary vitamin K on warfarin-induced anticoagulation." _J Intern Med_, 229, p. 517-20
+
+12. Parr MD, Record KE, Griffith GL, et al. (1982) "Effect of enteral nutrition on warfarin therapy." _Clin Pharm_, 1, p. 274-6
+
+13. Wells PS, Holbrook AM, Crowther NR, Hirsh J (1994) "Interactions of warfarin with drugs and food." _Ann Intern Med_, 121, p. 676-83
+
+14. O'Reilly RA, Rytand DA (1980) ""Resistance" to warfarin due to unrecognized vitamin K supplementation." _N Engl J Med_, 303, p. 160-1
+
+15. Kazmier FJ, Spittell JA Jr (1970) "Coumarin drug interactions." _Mayo Clin Proc_, 45, p. 249-55
+
+16. Chow WH, Chow TC, Tse TM, Tai YT, Lee WT (1990) "Anticoagulation instability with life-threatening complication after dietary modification." _Postgrad Med J_, 66, p. 855-7
+
+17. MacLeod SM, Sellers EM (1976) "Pharmacodynamic and pharmacokinetic drug interactions with coumarin anticoagulants." _Drugs_, 11, p. 461-70
+
+18. Sullivan DM, Ford MA, Boyden TW (1998) "Grapefruit juice and the response to warfarin." _Am J Health Syst Pharm_, 55, p. 1581-3
+
+19. Harrell CC, Kline SS (1999) "Vitamin K-supplemented snacks containing olestra: Implication for patients taking warfarin." _Jama J Am Med Assn_, 282, p. 1133-4
+
+20. Cambria-Kiely JA (2002) "Effect of soy milk on warfarin efficacy." _Ann Pharmacother_, 36, p. 1893-6
+
+21. MHRA. Mediciines and Healthcare products Regulatory Agency. Committee on Safety of Medicines (2003) Possible interaction between warfarin and cranberry juice. http://medicines.mhra.gov.uk/ourwork/monitorsafequalmed/currentproblems/currentproblems.htm
+
+22. Suvarna R, Pirmohamed M, Henderson L (2003) "Possible interaction between warfarin and cranberry juice." _BMJ_, 327, p. 1454
+
+23. Kuykendall JR, Houle MD, Rhodes RS (2004) "Possible warfarin failure due to interaction with smokeless tobacco." _Ann Pharmacother_, 38, p. 595-7
+
+24. Grant P (2004) "Warfarin and cranberry juice: an interaction?" _J Heart Valve Dis_, 13, p. 25-6
+
+25. Rindone JP, Murphy TW (2006) "Warfarin-cranberry juice interaction resulting in profound hypoprothrombinemia and bleeding." _Am J Ther_, 13, p. 283-4
+
+26. Brandin H, Myrberg O, Rundlof T, Arvidsson AK, Brenning G (2007) "Adverse effects by artificial grapefruit seed extract products in patients on warfarin therapy." _Eur J Clin Pharmacol_, 63, p. 565-70
+
+27. Griffiths AP, Beddall A, Pegler S (2008) "Fatal haemopericardium and gastrointestinal haemorrhage due to possible interaction of cranberry juice with warfarin." _J R Soc Health_, 128, p. 324-6
+
+28. Guo LQ, Yamazoe Y (2004) "Inhibition of cytochrome P450 by furanocoumarins in grapefruit juice and herbal medicines." _Acta Pharmacol Sin_, 25, p. 129-36
+
+29. Hamann GL, Campbell JD, George CM (2011) "Warfarin-cranberry juice interaction." _Ann Pharmacother_, 45, e17
+
+30. Jarvis S, Li C, Bogle RG (2010) "Possible interaction between pomegranate juice and warfarin." _Emerg Med J_, 27, p. 74-5
+
+31. Roberts D, Flanagan P (2011) "Case report: Cranberry juice and warfarin." _Home Healthc Nurse_, 29, p. 92-7
+
+32. Ge B, Zhang Z, Zuo Z (2014) "Updates on the clinical evidenced herb-warfarin interactions." _Evid Based Complement Alternat Med_, 2014, p. 957362
+
+33. Wohlt PD, Zheng L, Gunderson S, Balzar SA, Johnson BD, Fish JT (2009) "Recommendations for the use of medications with continuous enteral nutrition." _Am J Health Syst Pharm_, 66, p. 1438-67
+
+34. Bodiford AB, Kessler FO, Fermo JD, Ragucci KR (2013) "Elevated international normalized ratio with the consumption of grapefruit and use of warfarin." _SAGE Open Med Case Rep_, p. 1-3
+
+35. (2025) "Product Information. Jantoven (warfarin)." _Upsher-Smith Laboratories LLC_
+36. (2018) "Product Information. Taro-Warfarin (warfarin)." _Taro Pharmaceuticals Inc_
+37. (2025) "Product Information. Warfarin (warfarin)." _Strides Pharma UK Ltd_
+38. (2021) "Product Information. ALDOCUMAR (warfarina)." _ALDO-UNION, S.A._
+39. NHS Choices (2025) "Managing interactions between medicines and enteral feeds" _Spec Pharm Servi_, -, p. 1-2
+
+40. T L MacMath (1990) "Alcohol and gastrointestinal bleeding" _Emerg Med Clin North Am_, 8, p. 859-872
+
+41. Gish RG, Flamm SL (2021) "Anticoagulation in Patients With Chronic Liver Disease" _Gastroenterol Hepatol (N Y)_, 17, p. 10-15
+
+
+Moderate:
+
+#### warfarin  multivitamins with minerals
+
+Applies to: warfarin
+
+##### Monitor
+
+Multivitamin preparations containing vitamin K may antagonize the hypoprothrombinemic effect of oral anticoagulants in some patients. Vitamin K1 in its active, reduced form serves as a cofactor in the generation of functional clotting factors, during which it becomes oxidized. It is reactivated in a process that is inhibited by oral anticoagulants, thus intake of additional vitamin K through supplements or diet can reverse the action of oral anticoagulants. Although the amount of vitamin K in over-the-counter multivitamin preparations is generally well below the dose thought to affect anticoagulation, there have been isolated case reports of patients stabilized on warfarin whose INR decreased following initiation of a multivitamin supplement and returned to therapeutic levels upon cessation of the multivitamin. Increases in warfarin dosage were required in some cases when the multivitamin was continued. One patient whose warfarin dosage was increased developed a subcapsular hematoma in her right kidney two weeks after she discontinued the multivitamin without informing her physician. Her INR was 13.2 and she was treated with vitamin K and fresh frozen plasma. It is possible that patients with low vitamin K status may be particularly susceptible to the interaction. Investigators have shown that vitamin K deficiency can cause an oversensitivity to even small increases in vitamin K intake. In one study where warfarin-stabilized patients were given a multivitamin tablet containing 25 mcg of vitamin K1 daily for 4 weeks, subtherapeutic INRs occurred in 9 of 9 patients with low vitamin K1 levels (<1.5 mcg/L) and only 1 of 7 patients with normal vitamin K1 levels (>4.5 mcg/L). INR decreased by a median of 0.51 and warfarin dosage had to be increased by 5.3% in patients with low vitamin K1 levels, whereas INR and warfarin dosage did not change significantly in patients with normal vitamin K1 levels. The prevalence of vitamin K deficiency may be small, but significant in the anticoagulated population. In a survey of 179 consecutive ambulatory patients on stable warfarin therapy attending an anticoagulation clinic, 22 (12.3%) were found to have vitamin K1 deficiency (<0.1 ng/mL).
+
+##### Management
+
+The potential for multivitamin supplements containing even low levels of vitamin K to affect anticoagulation should be recognized. In particular, elderly and/or malnourished patients may require more frequent monitoring of INR following the initiation or discontinuation of a multivitamin supplement, and the anticoagulant dosage adjusted as necessary.
+
+References (3)
+
+1. Kurnik D, Loebstein R, Rabinovitz H, Austerweil N, Halkin H, Almog S (2004) "Over-the-counter vitamin K1-containing multivitamin supplements disrupt warfarin anticoagulation in vitamin K1-depleted patients. A prospective, controlled trial." _Thromb Haemost_, 92, p. 1018-24
+
+2. Kumik D, Lubetsky A, Loebstein R, Almog S, Halkin H (2003) "Multivitamin supplements may affect warfarin anticoagulation in susceptible patients." _Ann Pharmacother_, 37, p. 1603-6
+
+3. Ducharlet KN, Katz B, Leung S (2011) "Multivitamin supplement interaction with warfarin therapy." _Australas J Ageing_, 30, p. 41-2
+
+
+Moderate:
+
+#### warfarin  Nicotine
+
+Applies to: warfarin
+
+##### Monitor
+
+Smoking cessation may lead to elevated plasma concentrations and enhanced pharmacologic effects of drugs that are substrates of CYP450 1A2 (and possibly CYP450 1A1) and/or certain drugs with a narrow therapeutic index (e.g., flecainide, pentazocine). One proposed mechanism is related to the loss of CYP450 1A2 and 1A1 induction by polycyclic aromatic hydrocarbons in tobacco smoke; when smoking cessation agents are initiated and smoking stops, the metabolism of certain drugs may decrease leading to increased plasma concentrations. The mechanism by which smoking cessation affects narrow therapeutic index drugs that are not known substrates of CYP450 1A2 or 1A1 is unknown. The clinical significance of this interaction is unknown as clinical data are lacking.
+
+##### Management
+
+Until more information is available, caution is advisable if smoking cessation agents are used concomitantly with drugs that are substrates of CYP450 1A2 or 1A1 and/or those with a narrow therapeutic range. Patients receiving smoking cessation agents may require periodic dose adjustments and closer clinical and laboratory monitoring of medications that are substrates of CYP450 1A2 or 1A1.
+
+References (4)
+
+1. (2024) "Product Information. Cytisine (cytisinicline)." _Consilient Health Ltd_
+2. jeong sh, Newcombe D, sheridan j, Tingle M (2015) "Pharmacokinetics of cytisine, an a4 b2 nicotinic receptor partial agonist, in healthy smokers following a single dose." _Drug Test Anal_, 7, p. 475-82
+
+3. Vaughan DP, Beckett AH, Robbie DS (1976) "The influence of smoking on the intersubject variation in pentazocine elimination." _Br J Clin Pharmacol_, 3, p. 279-83
+
+4. Zevin S, Benowitz NL (1999) "Drug interactions with tobacco smoking: an update" _Clin Pharmacokinet_, 36, p. 425-38
+
+
+## Disease interactions
+
+Expand all
+
+**34 potential interactions** Applies to: 34 conditions, including High Blood Pressure, High Cholesterol, Underactive Thyroid, Heart Failure, and Diarrhea.
+
+### Aortic Aneurysm
+
+Major:
+
+#### warfarin
+
+**Warfarin** has a **major** potential interaction with **Aortic Aneurysm**.
+
+In general, the use of oral anticoagulants is contraindicated in patients with active bleeding or a hemorrhagic diathesis or other significant risks for bleeding, including hemostatic and/or coagulation defects associated with hemophilia, hypoprothrombinemia, thrombocytopenia, thrombocytopathy, severe hepatic impairment, and myeloproliferative disorders such as leukemia or polycythemia vera. Additionally, oral anticoagulants are usually contraindicated in the presence of any active ulceration of the gastrointestinal, respiratory, or genitourinary tracts; cerebrovascular hemorrhage; aneurysms (cerebral, dissecting aortic); pericarditis and pericardial effusions; bacterial endocarditis; and eclampsia, preeclampsia, or threatened abortion. These patients may be at increased risk for uncontrollable hemorrhage or bleeding complications during therapy with oral anticoagulants. Other potential contraindications include diverticulitis, vasculitis, malnutrition, and vitamin C or vitamin K deficiency. The decision to administer anticoagulants must be based upon clinical judgment in which the risks are weighed against the benefits in each patient.
+
+### Bleeding Disorder
+
+Major:
+
+#### warfarin
+
+**Warfarin** has a **major** potential interaction with **Bleeding Disorder**.
+
+In general, the use of oral anticoagulants is contraindicated in patients with active bleeding or a hemorrhagic diathesis or other significant risks for bleeding, including hemostatic and/or coagulation defects associated with hemophilia, hypoprothrombinemia, thrombocytopenia, thrombocytopathy, severe hepatic impairment, and myeloproliferative disorders such as leukemia or polycythemia vera. Additionally, oral anticoagulants are usually contraindicated in the presence of any active ulceration of the gastrointestinal, respiratory, or genitourinary tracts; cerebrovascular hemorrhage; aneurysms (cerebral, dissecting aortic); pericarditis and pericardial effusions; bacterial endocarditis; and eclampsia, preeclampsia, or threatened abortion. These patients may be at increased risk for uncontrollable hemorrhage or bleeding complications during therapy with oral anticoagulants. Other potential contraindications include diverticulitis, vasculitis, malnutrition, and vitamin C or vitamin K deficiency. The decision to administer anticoagulants must be based upon clinical judgment in which the risks are weighed against the benefits in each patient.
+
+### Cerebral Aneurysm
+
+Major:
+
+#### warfarin
+
+**Warfarin** has a **major** potential interaction with **Cerebral Aneurysm**.
+
+In general, the use of oral anticoagulants is contraindicated in patients with active bleeding or a hemorrhagic diathesis or other significant risks for bleeding, including hemostatic and/or coagulation defects associated with hemophilia, hypoprothrombinemia, thrombocytopenia, thrombocytopathy, severe hepatic impairment, and myeloproliferative disorders such as leukemia or polycythemia vera. Additionally, oral anticoagulants are usually contraindicated in the presence of any active ulceration of the gastrointestinal, respiratory, or genitourinary tracts; cerebrovascular hemorrhage; aneurysms (cerebral, dissecting aortic); pericarditis and pericardial effusions; bacterial endocarditis; and eclampsia, preeclampsia, or threatened abortion. These patients may be at increased risk for uncontrollable hemorrhage or bleeding complications during therapy with oral anticoagulants. Other potential contraindications include diverticulitis, vasculitis, malnutrition, and vitamin C or vitamin K deficiency. The decision to administer anticoagulants must be based upon clinical judgment in which the risks are weighed against the benefits in each patient.
+
+### Coagulation Defects and Disorders
+
+Major:
+
+#### warfarin
+
+**Warfarin** has a **major** potential interaction with **Coagulation Defects and Disorders**.
+
+In general, the use of oral anticoagulants is contraindicated in patients with active bleeding or a hemorrhagic diathesis or other significant risks for bleeding, including hemostatic and/or coagulation defects associated with hemophilia, hypoprothrombinemia, thrombocytopenia, thrombocytopathy, severe hepatic impairment, and myeloproliferative disorders such as leukemia or polycythemia vera. Additionally, oral anticoagulants are usually contraindicated in the presence of any active ulceration of the gastrointestinal, respiratory, or genitourinary tracts; cerebrovascular hemorrhage; aneurysms (cerebral, dissecting aortic); pericarditis and pericardial effusions; bacterial endocarditis; and eclampsia, preeclampsia, or threatened abortion. These patients may be at increased risk for uncontrollable hemorrhage or bleeding complications during therapy with oral anticoagulants. Other potential contraindications include diverticulitis, vasculitis, malnutrition, and vitamin C or vitamin K deficiency. The decision to administer anticoagulants must be based upon clinical judgment in which the risks are weighed against the benefits in each patient.
+
+### Collagen Vascular Disease
+
+Moderate:
+
+#### warfarin
+
+**Warfarin** has a **moderate** potential interaction with **Collagen Vascular Disease**.
+
+Patients with a collagen vascular disease (e.g., systemic lupus erythematosus, rheumatoid arthritis, scleroderma), congestive heart failure (especially decompensated disease), severe or prolonged diarrhea, fever, hyperthyroidism, malabsorption, or steatorrhea may exhibit greater than expected hypoprothrombinemic response to oral anticoagulants. Thus, more frequent laboratory (PT/INR) monitoring and dosage adjustment of anticoagulant may be required based on changes in the patient's condition. Patients should be advised to promptly report any signs of bleeding to their physician, including pain, swelling, headache, dizziness, weakness, prolonged bleeding from cuts, increased menstrual flow, vaginal bleeding, nosebleeds, bleeding of gums from brushing, unusual bleeding or bruising, red or brown urine, or red or black stools.
+
+### Colonic Ulceration
+
+Major:
+
+#### warfarin
+
+**Warfarin** has a **major** potential interaction with **Colonic Ulceration**.
+
+In general, the use of oral anticoagulants is contraindicated in patients with active bleeding or a hemorrhagic diathesis or other significant risks for bleeding, including hemostatic and/or coagulation defects associated with hemophilia, hypoprothrombinemia, thrombocytopenia, thrombocytopathy, severe hepatic impairment, and myeloproliferative disorders such as leukemia or polycythemia vera. Additionally, oral anticoagulants are usually contraindicated in the presence of any active ulceration of the gastrointestinal, respiratory, or genitourinary tracts; cerebrovascular hemorrhage; aneurysms (cerebral, dissecting aortic); pericarditis and pericardial effusions; bacterial endocarditis; and eclampsia, preeclampsia, or threatened abortion. These patients may be at increased risk for uncontrollable hemorrhage or bleeding complications during therapy with oral anticoagulants. Other potential contraindications include diverticulitis, vasculitis, malnutrition, and vitamin C or vitamin K deficiency. The decision to administer anticoagulants must be based upon clinical judgment in which the risks are weighed against the benefits in each patient.
+
+### Diabetes Mellitus
+
+Major:
+
+#### warfarin
+
+**Warfarin** has a **major** potential interaction with **Diabetes Mellitus**.
+
+Therapy with oral anticoagulants should be administered cautiously in patients with severe diabetes because they may be at increased risk for hemorrhage. The INR should be monitored closely, and patients should be advised to promptly report any signs of bleeding to their physician, including pain, swelling, headache, dizziness, weakness, prolonged bleeding from cuts, increased menstrual flow, vaginal bleeding, nosebleeds, bleeding of gums from brushing, unusual bleeding or bruising, red or brown urine, or red or black stools.
+
+### Diarrhea
+
+Moderate:
+
+#### warfarin
+
+**Warfarin** has a **moderate** potential interaction with **Diarrhea**.
+
+Patients with a collagen vascular disease (e.g., systemic lupus erythematosus, rheumatoid arthritis, scleroderma), congestive heart failure (especially decompensated disease), severe or prolonged diarrhea, fever, hyperthyroidism, malabsorption, or steatorrhea may exhibit greater than expected hypoprothrombinemic response to oral anticoagulants. Thus, more frequent laboratory (PT/INR) monitoring and dosage adjustment of anticoagulant may be required based on changes in the patient's condition. Patients should be advised to promptly report any signs of bleeding to their physician, including pain, swelling, headache, dizziness, weakness, prolonged bleeding from cuts, increased menstrual flow, vaginal bleeding, nosebleeds, bleeding of gums from brushing, unusual bleeding or bruising, red or brown urine, or red or black stools.
+
+### Diverticulitis
+
+Major:
+
+#### warfarin
+
+**Warfarin** has a **major** potential interaction with **Diverticulitis**.
+
+In general, the use of oral anticoagulants is contraindicated in patients with active bleeding or a hemorrhagic diathesis or other significant risks for bleeding, including hemostatic and/or coagulation defects associated with hemophilia, hypoprothrombinemia, thrombocytopenia, thrombocytopathy, severe hepatic impairment, and myeloproliferative disorders such as leukemia or polycythemia vera. Additionally, oral anticoagulants are usually contraindicated in the presence of any active ulceration of the gastrointestinal, respiratory, or genitourinary tracts; cerebrovascular hemorrhage; aneurysms (cerebral, dissecting aortic); pericarditis and pericardial effusions; bacterial endocarditis; and eclampsia, preeclampsia, or threatened abortion. These patients may be at increased risk for uncontrollable hemorrhage or bleeding complications during therapy with oral anticoagulants. Other potential contraindications include diverticulitis, vasculitis, malnutrition, and vitamin C or vitamin K deficiency. The decision to administer anticoagulants must be based upon clinical judgment in which the risks are weighed against the benefits in each patient.
+
+### Esophageal Ulceration
+
+Major:
+
+#### warfarin
+
+**Warfarin** has a **major** potential interaction with **Esophageal Ulceration**.
+
+In general, the use of oral anticoagulants is contraindicated in patients with active bleeding or a hemorrhagic diathesis or other significant risks for bleeding, including hemostatic and/or coagulation defects associated with hemophilia, hypoprothrombinemia, thrombocytopenia, thrombocytopathy, severe hepatic impairment, and myeloproliferative disorders such as leukemia or polycythemia vera. Additionally, oral anticoagulants are usually contraindicated in the presence of any active ulceration of the gastrointestinal, respiratory, or genitourinary tracts; cerebrovascular hemorrhage; aneurysms (cerebral, dissecting aortic); pericarditis and pericardial effusions; bacterial endocarditis; and eclampsia, preeclampsia, or threatened abortion. These patients may be at increased risk for uncontrollable hemorrhage or bleeding complications during therapy with oral anticoagulants. Other potential contraindications include diverticulitis, vasculitis, malnutrition, and vitamin C or vitamin K deficiency. The decision to administer anticoagulants must be based upon clinical judgment in which the risks are weighed against the benefits in each patient.
+
+### Fever
+
+Moderate:
+
+#### warfarin
+
+**Warfarin** has a **moderate** potential interaction with **Fever**.
+
+Patients with a collagen vascular disease (e.g., systemic lupus erythematosus, rheumatoid arthritis, scleroderma), congestive heart failure (especially decompensated disease), severe or prolonged diarrhea, fever, hyperthyroidism, malabsorption, or steatorrhea may exhibit greater than expected hypoprothrombinemic response to oral anticoagulants. Thus, more frequent laboratory (PT/INR) monitoring and dosage adjustment of anticoagulant may be required based on changes in the patient's condition. Patients should be advised to promptly report any signs of bleeding to their physician, including pain, swelling, headache, dizziness, weakness, prolonged bleeding from cuts, increased menstrual flow, vaginal bleeding, nosebleeds, bleeding of gums from brushing, unusual bleeding or bruising, red or brown urine, or red or black stools.
+
+### Fluid Retention
+
+Moderate:
+
+#### warfarin
+
+**Warfarin** has a **moderate** potential interaction with **Fluid Retention**.
+
+Patients with edema, hereditary coumarin resistance, hyperlipidemia, hypothyroidism, or nephrotic syndrome may exhibit lower than expected hypoprothrombinemic response to oral anticoagulants. Thus, more frequent laboratory (PT/INR) monitoring and dosage adjustment of anticoagulant may be required based on changes in the patient's condition.
+
+### Heart Failure
+
+Moderate:
+
+#### warfarin
+
+**Warfarin** has a **moderate** potential interaction with **Heart Failure**.
+
+Patients with a collagen vascular disease (e.g., systemic lupus erythematosus, rheumatoid arthritis, scleroderma), congestive heart failure (especially decompensated disease), severe or prolonged diarrhea, fever, hyperthyroidism, malabsorption, or steatorrhea may exhibit greater than expected hypoprothrombinemic response to oral anticoagulants. Thus, more frequent laboratory (PT/INR) monitoring and dosage adjustment of anticoagulant may be required based on changes in the patient's condition. Patients should be advised to promptly report any signs of bleeding to their physician, including pain, swelling, headache, dizziness, weakness, prolonged bleeding from cuts, increased menstrual flow, vaginal bleeding, nosebleeds, bleeding of gums from brushing, unusual bleeding or bruising, red or brown urine, or red or black stools.
+
+### High Blood Pressure
+
+Major:
+
+#### warfarin
+
+**Warfarin** has a **major** potential interaction with **High Blood Pressure**.
+
+In general, the use of oral anticoagulants is contraindicated in patients with malignant or severe, uncontrolled hypertension. These patients may be at increased risk for cerebral hemorrhage. Therapy with oral anticoagulants should be administered cautiously in patients with moderate hypertension.
+
+### High Cholesterol
+
+Moderate:
+
+#### warfarin
+
+**Warfarin** has a **moderate** potential interaction with **High Cholesterol**.
+
+Patients with edema, hereditary coumarin resistance, hyperlipidemia, hypothyroidism, or nephrotic syndrome may exhibit lower than expected hypoprothrombinemic response to oral anticoagulants. Thus, more frequent laboratory (PT/INR) monitoring and dosage adjustment of anticoagulant may be required based on changes in the patient's condition.
+
+### Hyperthyroidism
+
+Moderate:
+
+#### warfarin
+
+**Warfarin** has a **moderate** potential interaction with **Hyperthyroidism**.
+
+Patients with a collagen vascular disease (e.g., systemic lupus erythematosus, rheumatoid arthritis, scleroderma), congestive heart failure (especially decompensated disease), severe or prolonged diarrhea, fever, hyperthyroidism, malabsorption, or steatorrhea may exhibit greater than expected hypoprothrombinemic response to oral anticoagulants. Thus, more frequent laboratory (PT/INR) monitoring and dosage adjustment of anticoagulant may be required based on changes in the patient's condition. Patients should be advised to promptly report any signs of bleeding to their physician, including pain, swelling, headache, dizziness, weakness, prolonged bleeding from cuts, increased menstrual flow, vaginal bleeding, nosebleeds, bleeding of gums from brushing, unusual bleeding or bruising, red or brown urine, or red or black stools.
+
+### Infectious Endocarditis
+
+Major:
+
+#### warfarin
+
+**Warfarin** has a **major** potential interaction with **Infectious Endocarditis**.
+
+In general, the use of oral anticoagulants is contraindicated in patients with active bleeding or a hemorrhagic diathesis or other significant risks for bleeding, including hemostatic and/or coagulation defects associated with hemophilia, hypoprothrombinemia, thrombocytopenia, thrombocytopathy, severe hepatic impairment, and myeloproliferative disorders such as leukemia or polycythemia vera. Additionally, oral anticoagulants are usually contraindicated in the presence of any active ulceration of the gastrointestinal, respiratory, or genitourinary tracts; cerebrovascular hemorrhage; aneurysms (cerebral, dissecting aortic); pericarditis and pericardial effusions; bacterial endocarditis; and eclampsia, preeclampsia, or threatened abortion. These patients may be at increased risk for uncontrollable hemorrhage or bleeding complications during therapy with oral anticoagulants. Other potential contraindications include diverticulitis, vasculitis, malnutrition, and vitamin C or vitamin K deficiency. The decision to administer anticoagulants must be based upon clinical judgment in which the risks are weighed against the benefits in each patient.
+
+### Liver Disease
+
+Major:
+
+#### warfarin
+
+**Warfarin** has a **major** potential interaction with **Liver Disease**.
+
+Oral anticoagulants (coumarin and indandione derivatives) are primarily metabolized by the liver. Patients with hepatic impairment may have a heightened response to these agents due to decreased clearance of the drugs as well as defective hemostasis associated with impaired synthesis of clotting factors by the liver. Therapy with oral anticoagulants should be administered cautiously in patients with severe or moderate liver disease. The INR should be monitored closely, and patients should be advised to promptly report any signs of bleeding to their physician, including pain, swelling, headache, dizziness, weakness, prolonged bleeding from cuts, increased menstrual flow, vaginal bleeding, nosebleeds, bleeding of gums from brushing, unusual bleeding or bruising, red or brown urine, or red or black stools
+
+### Malabsorption Syndrome
+
+Moderate:
+
+#### warfarin
+
+**Warfarin** has a **moderate** potential interaction with **Malabsorption Syndrome**.
+
+Patients with a collagen vascular disease (e.g., systemic lupus erythematosus, rheumatoid arthritis, scleroderma), congestive heart failure (especially decompensated disease), severe or prolonged diarrhea, fever, hyperthyroidism, malabsorption, or steatorrhea may exhibit greater than expected hypoprothrombinemic response to oral anticoagulants. Thus, more frequent laboratory (PT/INR) monitoring and dosage adjustment of anticoagulant may be required based on changes in the patient's condition. Patients should be advised to promptly report any signs of bleeding to their physician, including pain, swelling, headache, dizziness, weakness, prolonged bleeding from cuts, increased menstrual flow, vaginal bleeding, nosebleeds, bleeding of gums from brushing, unusual bleeding or bruising, red or brown urine, or red or black stools.
+
+### Malnourishment
+
+Major:
+
+#### warfarin
+
+**Warfarin** has a **major** potential interaction with **Malnourishment**.
+
+In general, the use of oral anticoagulants is contraindicated in patients with active bleeding or a hemorrhagic diathesis or other significant risks for bleeding, including hemostatic and/or coagulation defects associated with hemophilia, hypoprothrombinemia, thrombocytopenia, thrombocytopathy, severe hepatic impairment, and myeloproliferative disorders such as leukemia or polycythemia vera. Additionally, oral anticoagulants are usually contraindicated in the presence of any active ulceration of the gastrointestinal, respiratory, or genitourinary tracts; cerebrovascular hemorrhage; aneurysms (cerebral, dissecting aortic); pericarditis and pericardial effusions; bacterial endocarditis; and eclampsia, preeclampsia, or threatened abortion. These patients may be at increased risk for uncontrollable hemorrhage or bleeding complications during therapy with oral anticoagulants. Other potential contraindications include diverticulitis, vasculitis, malnutrition, and vitamin C or vitamin K deficiency. The decision to administer anticoagulants must be based upon clinical judgment in which the risks are weighed against the benefits in each patient.
+
+### Myeloproliferative Disorders
+
+Major:
+
+#### warfarin
+
+**Warfarin** has a **major** potential interaction with **Myeloproliferative Disorders**.
+
+In general, the use of oral anticoagulants is contraindicated in patients with active bleeding or a hemorrhagic diathesis or other significant risks for bleeding, including hemostatic and/or coagulation defects associated with hemophilia, hypoprothrombinemia, thrombocytopenia, thrombocytopathy, severe hepatic impairment, and myeloproliferative disorders such as leukemia or polycythemia vera. Additionally, oral anticoagulants are usually contraindicated in the presence of any active ulceration of the gastrointestinal, respiratory, or genitourinary tracts; cerebrovascular hemorrhage; aneurysms (cerebral, dissecting aortic); pericarditis and pericardial effusions; bacterial endocarditis; and eclampsia, preeclampsia, or threatened abortion. These patients may be at increased risk for uncontrollable hemorrhage or bleeding complications during therapy with oral anticoagulants. Other potential contraindications include diverticulitis, vasculitis, malnutrition, and vitamin C or vitamin K deficiency. The decision to administer anticoagulants must be based upon clinical judgment in which the risks are weighed against the benefits in each patient.
+
+### Peptic Ulcer
+
+Major:
+
+#### warfarin
+
+**Warfarin** has a **major** potential interaction with **Peptic Ulcer**.
+
+In general, the use of oral anticoagulants is contraindicated in patients with active bleeding or a hemorrhagic diathesis or other significant risks for bleeding, including hemostatic and/or coagulation defects associated with hemophilia, hypoprothrombinemia, thrombocytopenia, thrombocytopathy, severe hepatic impairment, and myeloproliferative disorders such as leukemia or polycythemia vera. Additionally, oral anticoagulants are usually contraindicated in the presence of any active ulceration of the gastrointestinal, respiratory, or genitourinary tracts; cerebrovascular hemorrhage; aneurysms (cerebral, dissecting aortic); pericarditis and pericardial effusions; bacterial endocarditis; and eclampsia, preeclampsia, or threatened abortion. These patients may be at increased risk for uncontrollable hemorrhage or bleeding complications during therapy with oral anticoagulants. Other potential contraindications include diverticulitis, vasculitis, malnutrition, and vitamin C or vitamin K deficiency. The decision to administer anticoagulants must be based upon clinical judgment in which the risks are weighed against the benefits in each patient.
+
+### Pericarditis
+
+Major:
+
+#### warfarin
+
+**Warfarin** has a **major** potential interaction with **Pericarditis**.
+
+In general, the use of oral anticoagulants is contraindicated in patients with active bleeding or a hemorrhagic diathesis or other significant risks for bleeding, including hemostatic and/or coagulation defects associated with hemophilia, hypoprothrombinemia, thrombocytopenia, thrombocytopathy, severe hepatic impairment, and myeloproliferative disorders such as leukemia or polycythemia vera. Additionally, oral anticoagulants are usually contraindicated in the presence of any active ulceration of the gastrointestinal, respiratory, or genitourinary tracts; cerebrovascular hemorrhage; aneurysms (cerebral, dissecting aortic); pericarditis and pericardial effusions; bacterial endocarditis; and eclampsia, preeclampsia, or threatened abortion. These patients may be at increased risk for uncontrollable hemorrhage or bleeding complications during therapy with oral anticoagulants. Other potential contraindications include diverticulitis, vasculitis, malnutrition, and vitamin C or vitamin K deficiency. The decision to administer anticoagulants must be based upon clinical judgment in which the risks are weighed against the benefits in each patient.
+
+### Pheochromocytoma
+
+Major:
+
+#### warfarin
+
+**Warfarin** has a **major** potential interaction with **Pheochromocytoma**.
+
+In general, the use of oral anticoagulants is contraindicated in patients with malignant or severe, uncontrolled hypertension. These patients may be at increased risk for cerebral hemorrhage. Therapy with oral anticoagulants should be administered cautiously in patients with moderate hypertension.
+
+### Protein C Deficiency
+
+Major:
+
+#### warfarin
+
+**Warfarin** has a **major** potential interaction with **Protein C Deficiency**.
+
+Tissue necrosis is a rare complication that develops during the initiation of oral anticoagulant therapy due to thrombotic occlusion of venules in the dermis and subcutaneous tissues. Hereditary, familial, or clinical deficiencies of protein C or its cofactor, protein S, may be associated with a hypercoagulable state and an increased risk of the complication. Therapy with oral anticoagulants should be administered cautiously in patients with known or suspected deficiency in protein C-mediated anticoagulant response. Concomitant administration with heparin for the first 5 to 7 days of oral anticoagulant therapy may minimize the risk. If tissue necrosis develops, oral anticoagulant therapy should be discontinued promptly and vitamin K or frozen plasma administered at once. Heparin should then be considered for anticoagulation.
+
+### Renal Dysfunction
+
+Moderate:
+
+#### warfarin
+
+**Warfarin** has a **moderate** potential interaction with **Renal Dysfunction**.
+
+There is no evidence that hypoprothrombinemic response to oral anticoagulants (coumarin and indandione derivatives) is altered in renal impairment due to decreased plasma protein binding, thus dosage adjustments are generally not necessary. However, patients with renal impairment may demonstrate platelet defects and may be at increased risk for bleeding. Therapy with oral anticoagulants should be administered cautiously in patients with severe or moderate renal dysfunction. The INR should be monitored closely, and patients should be advised to promptly report any signs of bleeding to their physician, including pain, swelling, headache, dizziness, weakness, prolonged bleeding from cuts, increased menstrual flow, vaginal bleeding, nosebleeds, bleeding of gums from brushing, unusual bleeding or bruising, red or brown urine, or red or black stools.
+
+### Thrombocytopathy
+
+Major:
+
+#### warfarin
+
+**Warfarin** has a **major** potential interaction with **Thrombocytopathy**.
+
+In general, the use of oral anticoagulants is contraindicated in patients with active bleeding or a hemorrhagic diathesis or other significant risks for bleeding, including hemostatic and/or coagulation defects associated with hemophilia, hypoprothrombinemia, thrombocytopenia, thrombocytopathy, severe hepatic impairment, and myeloproliferative disorders such as leukemia or polycythemia vera. Additionally, oral anticoagulants are usually contraindicated in the presence of any active ulceration of the gastrointestinal, respiratory, or genitourinary tracts; cerebrovascular hemorrhage; aneurysms (cerebral, dissecting aortic); pericarditis and pericardial effusions; bacterial endocarditis; and eclampsia, preeclampsia, or threatened abortion. These patients may be at increased risk for uncontrollable hemorrhage or bleeding complications during therapy with oral anticoagulants. Other potential contraindications include diverticulitis, vasculitis, malnutrition, and vitamin C or vitamin K deficiency. The decision to administer anticoagulants must be based upon clinical judgment in which the risks are weighed against the benefits in each patient.
+
+### Thrombocytopenia
+
+Major:
+
+#### warfarin
+
+**Warfarin** has a **major** potential interaction with **Thrombocytopenia**.
+
+In general, the use of oral anticoagulants is contraindicated in patients with active bleeding or a hemorrhagic diathesis or other significant risks for bleeding, including hemostatic and/or coagulation defects associated with hemophilia, hypoprothrombinemia, thrombocytopenia, thrombocytopathy, severe hepatic impairment, and myeloproliferative disorders such as leukemia or polycythemia vera. Additionally, oral anticoagulants are usually contraindicated in the presence of any active ulceration of the gastrointestinal, respiratory, or genitourinary tracts; cerebrovascular hemorrhage; aneurysms (cerebral, dissecting aortic); pericarditis and pericardial effusions; bacterial endocarditis; and eclampsia, preeclampsia, or threatened abortion. These patients may be at increased risk for uncontrollable hemorrhage or bleeding complications during therapy with oral anticoagulants. Other potential contraindications include diverticulitis, vasculitis, malnutrition, and vitamin C or vitamin K deficiency. The decision to administer anticoagulants must be based upon clinical judgment in which the risks are weighed against the benefits in each patient.
+
+### Toxemia of pregnancy
+
+Major:
+
+#### warfarin
+
+**Warfarin** has a **major** potential interaction with **Toxemia of pregnancy**.
+
+In general, the use of oral anticoagulants is contraindicated in patients with active bleeding or a hemorrhagic diathesis or other significant risks for bleeding, including hemostatic and/or coagulation defects associated with hemophilia, hypoprothrombinemia, thrombocytopenia, thrombocytopathy, severe hepatic impairment, and myeloproliferative disorders such as leukemia or polycythemia vera. Additionally, oral anticoagulants are usually contraindicated in the presence of any active ulceration of the gastrointestinal, respiratory, or genitourinary tracts; cerebrovascular hemorrhage; aneurysms (cerebral, dissecting aortic); pericarditis and pericardial effusions; bacterial endocarditis; and eclampsia, preeclampsia, or threatened abortion. These patients may be at increased risk for uncontrollable hemorrhage or bleeding complications during therapy with oral anticoagulants. Other potential contraindications include diverticulitis, vasculitis, malnutrition, and vitamin C or vitamin K deficiency. The decision to administer anticoagulants must be based upon clinical judgment in which the risks are weighed against the benefits in each patient.
+
+### Ulcerative Colitis
+
+Major:
+
+#### warfarin
+
+**Warfarin** has a **major** potential interaction with **Ulcerative Colitis**.
+
+In general, the use of oral anticoagulants is contraindicated in patients with active bleeding or a hemorrhagic diathesis or other significant risks for bleeding, including hemostatic and/or coagulation defects associated with hemophilia, hypoprothrombinemia, thrombocytopenia, thrombocytopathy, severe hepatic impairment, and myeloproliferative disorders such as leukemia or polycythemia vera. Additionally, oral anticoagulants are usually contraindicated in the presence of any active ulceration of the gastrointestinal, respiratory, or genitourinary tracts; cerebrovascular hemorrhage; aneurysms (cerebral, dissecting aortic); pericarditis and pericardial effusions; bacterial endocarditis; and eclampsia, preeclampsia, or threatened abortion. These patients may be at increased risk for uncontrollable hemorrhage or bleeding complications during therapy with oral anticoagulants. Other potential contraindications include diverticulitis, vasculitis, malnutrition, and vitamin C or vitamin K deficiency. The decision to administer anticoagulants must be based upon clinical judgment in which the risks are weighed against the benefits in each patient.
+
+### Underactive Thyroid
+
+Moderate:
+
+#### warfarin
+
+**Warfarin** has a **moderate** potential interaction with **Underactive Thyroid**.
+
+Patients with edema, hereditary coumarin resistance, hyperlipidemia, hypothyroidism, or nephrotic syndrome may exhibit lower than expected hypoprothrombinemic response to oral anticoagulants. Thus, more frequent laboratory (PT/INR) monitoring and dosage adjustment of anticoagulant may be required based on changes in the patient's condition.
+
+### Vasculitis
+
+Major:
+
+#### warfarin
+
+**Warfarin** has a **major** potential interaction with **Vasculitis**.
+
+In general, the use of oral anticoagulants is contraindicated in patients with active bleeding or a hemorrhagic diathesis or other significant risks for bleeding, including hemostatic and/or coagulation defects associated with hemophilia, hypoprothrombinemia, thrombocytopenia, thrombocytopathy, severe hepatic impairment, and myeloproliferative disorders such as leukemia or polycythemia vera. Additionally, oral anticoagulants are usually contraindicated in the presence of any active ulceration of the gastrointestinal, respiratory, or genitourinary tracts; cerebrovascular hemorrhage; aneurysms (cerebral, dissecting aortic); pericarditis and pericardial effusions; bacterial endocarditis; and eclampsia, preeclampsia, or threatened abortion. These patients may be at increased risk for uncontrollable hemorrhage or bleeding complications during therapy with oral anticoagulants. Other potential contraindications include diverticulitis, vasculitis, malnutrition, and vitamin C or vitamin K deficiency. The decision to administer anticoagulants must be based upon clinical judgment in which the risks are weighed against the benefits in each patient.
+
+### Vitamin C Deficiency
+
+Major:
+
+#### warfarin
+
+**Warfarin** has a **major** potential interaction with **Vitamin C Deficiency**.
+
+In general, the use of oral anticoagulants is contraindicated in patients with active bleeding or a hemorrhagic diathesis or other significant risks for bleeding, including hemostatic and/or coagulation defects associated with hemophilia, hypoprothrombinemia, thrombocytopenia, thrombocytopathy, severe hepatic impairment, and myeloproliferative disorders such as leukemia or polycythemia vera. Additionally, oral anticoagulants are usually contraindicated in the presence of any active ulceration of the gastrointestinal, respiratory, or genitourinary tracts; cerebrovascular hemorrhage; aneurysms (cerebral, dissecting aortic); pericarditis and pericardial effusions; bacterial endocarditis; and eclampsia, preeclampsia, or threatened abortion. These patients may be at increased risk for uncontrollable hemorrhage or bleeding complications during therapy with oral anticoagulants. Other potential contraindications include diverticulitis, vasculitis, malnutrition, and vitamin C or vitamin K deficiency. The decision to administer anticoagulants must be based upon clinical judgment in which the risks are weighed against the benefits in each patient.
+
+### Vitamin K Deficiency
+
+Major:
+
+#### warfarin
+
+**Warfarin** has a **major** potential interaction with **Vitamin K Deficiency**.
+
+In general, the use of oral anticoagulants is contraindicated in patients with active bleeding or a hemorrhagic diathesis or other significant risks for bleeding, including hemostatic and/or coagulation defects associated with hemophilia, hypoprothrombinemia, thrombocytopenia, thrombocytopathy, severe hepatic impairment, and myeloproliferative disorders such as leukemia or polycythemia vera. Additionally, oral anticoagulants are usually contraindicated in the presence of any active ulceration of the gastrointestinal, respiratory, or genitourinary tracts; cerebrovascular hemorrhage; aneurysms (cerebral, dissecting aortic); pericarditis and pericardial effusions; bacterial endocarditis; and eclampsia, preeclampsia, or threatened abortion. These patients may be at increased risk for uncontrollable hemorrhage or bleeding complications during therapy with oral anticoagulants. Other potential contraindications include diverticulitis, vasculitis, malnutrition, and vitamin C or vitamin K deficiency. The decision to administer anticoagulants must be based upon clinical judgment in which the risks are weighed against the benefits in each patient.
+
+## Report options
+
+![](<Base64-Image-Removed>)Share by QR Code
+
+- [Add/remove drugs](https://www.drugs.com/interaction/list/?drug_list=1454-0,2311-0)
+- [Switch to consumer interaction data](https://www.drugs.com/drug-interactions/levocarnitine-with-warfarin-1454-0-2311-0.html)
+- [Save interactions report](https://www.drugs.com/interaction/list/?drug_list=1454-0,2311-0&save=1)
+- [Email this report to a friend, doctor, or patient](mailto:?subject=Drug%20Interaction%20Report%20-%20Drugs.com&body=https%3A%2F%2Fwww.drugs.com%2Fdrug-interactions%2Flevocarnitine-with-warfarin-1454-0-2311-0.html%3Fprofessional%3D1%26utm_source%3Ddrugs.com%26utm_medium%3Ddisplay%26utm_campaign%3Demail)
+- [Ask questions, find answers](https://www.drugs.com/answers/)
+
+QR code containing a link to this page
+
+## More resources
+
+### levocarnitine
+
+A total of
+**[2 drugs](https://www.drugs.com/drug-interactions/levocarnitine.html)**
+are known to interact with
+[levocarnitine](https://www.drugs.com/mtm/levocarnitine.html).
+
+
+- Levocarnitine is in the drug class
+[nutraceutical products](https://www.drugs.com/drug-class/nutraceutical-products.html).
+
+- Levocarnitine is used to treat the following conditions:
+  - [Carnitine Deficiency](https://www.drugs.com/condition/carnitine-deficiency.html)
+  - [Peripheral Neuropathy](https://www.drugs.com/condition/peripheral-neuropathy.html) (off-label)
+
+### warfarin
+
+A total of
+**[702 drugs](https://www.drugs.com/drug-interactions/warfarin.html)**
+are known to interact with
+[warfarin](https://www.drugs.com/warfarin.html).
+
+
+- Warfarin is in the drug class
+[coumarins and indandiones](https://www.drugs.com/drug-class/coumarins-and-indandiones.html).
+
+- Warfarin is used to treat the following conditions:
+  - [Antiphospholipid Syndrome](https://www.drugs.com/condition/antiphospholipid-syndrome.html)
+  - [Chronic Central Venous Catheterization](https://www.drugs.com/condition/chronic-central-venous-catheterization.html)
+  - [Deep Vein Thrombosis Prophylaxis after Hip Replacement Surgery](https://www.drugs.com/condition/deep-vein-thrombosis-prophylaxis-after-hip-replacement-surgery.html)
+  - [Deep Vein Thrombosis Prophylaxis after Knee Replacement Surgery](https://www.drugs.com/condition/deep-vein-thrombosis-prophylaxis-after-knee-replacement-surgery.html)
+  - [Deep Vein Thrombosis, First Event](https://www.drugs.com/condition/deep-vein-thrombosis-first-event.html)
+  - [Deep Vein Thrombosis, Recurrent Event](https://www.drugs.com/condition/deep-vein-thrombosis-recurrent-event.html)
+  - [Heart Attack](https://www.drugs.com/condition/myocardial-infarction.html)
+  - [Heart Failure](https://www.drugs.com/condition/congestive-heart-failure.html)
+  - [Prevention of Thromboembolism in Atrial Fibrillation](https://www.drugs.com/condition/prevention-of-thromboembolism-in-atrial-fibrillation.html)
+  - [Prosthetic Heart Valves - Thrombosis Prophylaxis](https://www.drugs.com/condition/prosthetic-heart-valves.html)
+  - [Prosthetic Heart Valves, Mechanical Valves - Thrombosis Prophylaxis](https://www.drugs.com/condition/prosthetic-heart-valves-mechanical-valves.html)
+  - [Prosthetic Heart Valves, Tissue Valves - Thrombosis Prophylaxis](https://www.drugs.com/condition/prosthetic-heart-valves-tissue-valves.html)
+  - [Protein S Deficiency](https://www.drugs.com/condition/protein-s-deficiency.html)
+  - [Pulmonary Embolism, First Event](https://www.drugs.com/condition/pulmonary-embolism-first-event.html)
+  - [Pulmonary Embolism, Recurrent Event](https://www.drugs.com/condition/pulmonary-embolism-recurrent-event.html)
+  - [Thromboembolic Stroke Prophylaxis](https://www.drugs.com/condition/thromboembolic-stroke-prophylaxis.html)
+  - [Thrombotic/Thromboembolic Disorder](https://www.drugs.com/condition/thrombotic-thromboembolic-disorder.html)
+
+#### Drug Interaction Classification
+
+| Major | Highly clinically significant. Avoid combinations; the risk of the interaction outweighs the benefit. |
+| Moderate | Moderately clinically significant. Usually avoid combinations; use it only under special circumstances. |
+| Minor | Minimally clinically significant. Minimize risk; assess risk and consider an alternative drug, take steps to circumvent the interaction risk and/or institute a monitoring plan. |
+| Unknown | No interaction information available. |
+
+These classifications are only a guideline. The relevance of a particular drug interaction to a specific individual is difficult to determine. Always consult your healthcare provider before starting or stopping any medication.
+
+## Further information
+
+Always consult your healthcare provider to ensure the information displayed on this page applies to your personal circumstances.
+
+[Medical Disclaimer](https://www.drugs.com/support/disclaimer.html)

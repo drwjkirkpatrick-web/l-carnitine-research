@@ -1,0 +1,67 @@
+PMID: 40958655
+PubMed URL: https://pubmed.ncbi.nlm.nih.gov/40958655/
+Fetched via NCBI eutils efetch, accessed 2026-11-15
+
+1. J Cachexia Sarcopenia Muscle. 2025 Oct;16(5):e70052. doi: 10.1002/jcsm.70052.
+
+Mechanical Stimulation Induces Yap Mediated OCTN2 Transcription to Enhance 
+Carnitine Metabolism in Sarcopenia.
+
+Lu Y(1), Bai Y(1), Li W(1), Zhou Z(1), Lai H(1), Hu X(1), Yang T(1)(2), Wang 
+C(1), Chen Y(1), Gan K(1), Li K(1), Ma H(1), Shen L(1), He D(1).
+
+Author information:
+(1)The Fifth Affiliated Hospital of Wenzhou Medical University, Lishui Municipal 
+Central Hospital, Lishui, Zhejiang Province, China.
+(2)Orthopedic Department, Taizhou Hospital Affiliated to Wenzhou Medical 
+University, Linhai, China; Enze Medical Research Centre, Taizhou Hospital 
+Affiliated to Wenzhou Medical University, Linhai, China.
+
+BACKGROUND: Sarcopenia is a systemic skeletal muscle disease that seriously 
+affects the health of the aged population. Exercise prevents sarcopenia, but the 
+underlying mechanobiological and metabolic mechanisms need to be further 
+investigated.
+METHODS: Carnitine and organic cation transporter 2 (OCTN2) levels were assessed 
+in humans and animals with sarcopenia. Skeletal muscle function and 
+histomorphology were assessed in an animal model. Mitochondrial structure and 
+function were assessed via MitoSox and JC-1 staining, seahorse assays and 
+electron microscopy. Molecular mechanisms were assessed by Western blot 
+analysis, qPCR, a luciferase reporter gene assay, chromatin immunoprecipitation 
+and immunofluorescence in C2C12 myotubular cells.
+RESULTS: A total of 66 patients were included in the study (Healthy group, % 
+females: 44.74%, mean age: 67.40 ± 8.2, mean BMI: 24.7 ± 3.80 kg/m2; Sarcopenia 
+group, % females: 39.29%, mean age: 71 ± 8.42, mean BMI: 23.1 ± 2.98 kg/m2). 
+Serum carnitine levels decreased in sarcopenia patients (10 868 ± 3466 ng/mL vs. 
+8469 ± 2360 ng/mL, p < 0.01). Carnitine is an independent protective factor for 
+sarcopenia (OR, 0.757; 95% CI 0.599-0.923, p = 0.0107). Carnitine and OCTN2 
+levels also decreased in the muscles of mice with dexamethasone-induced muscle 
+atrophy (carnitine: -16.5%, p < 0.05) and aged mice (carnitine: -32.03%, 
+p < 0.01). Suppressed expression of OCTN2 led to a decrease in muscle carnitine 
+(2983 ± 466.3 ng/mL vs. 2517 ± 355.3 ng/mL, p < 0.05), as well as muscle atrophy 
+in mice. Swimming exercise enhanced mice carnitine-dependent fatty acid 
+oxidation and increased OCTN2 expression (OCTN2: +8.4%, p < 0.05). Knockdown of 
+OCTN2 partially reduced this effect during swimming. Cellular experiments 
+revealed that mechanical stimulation upregulated OCTN2 expression. OCTN2 
+knockdown impaired myotube formation and led to the disruption of the cellular 
+mitochondrial structure. Further mechanistic studies showed that mechanical 
+forces enhanced OCTN2 transcription and regulated carnitine metabolic 
+homeostasis through the Yap/Tead4 pathway. Yap agonist XMU alleviated 
+dexamethasone-induced muscle atrophy (grip: +13%, p < 0.05; cross-sectional area 
+of the gastrocnemius muscle: +8%, p < 0.05). In a high-fat diet mouse model and 
+in cellular experiments, carnitine supplement improved mitochondrial structure 
+and alleviated mitochondrial dysfunction by reducing excessive lipid 
+accumulation and thus altered myocyte fate.
+CONCLUSION: Swimming and carnitine supplementation alleviated sarcopenia. The 
+mechanism was closely related to the enhancement of OCTN2 expression after Yap 
+activation and the enhancement of carnitine-mediated lipid metabolism. These 
+findings reveal exercise regulates skeletal muscle by coupling mechanics and 
+metabolism synergetically. We provide a new therapeutic strategy for sarcopenia.
+
+© 2025 The Author(s). Journal of Cachexia, Sarcopenia and Muscle published by 
+Wiley Periodicals LLC.
+
+DOI: 10.1002/jcsm.70052
+PMCID: PMC12441309
+PMID: 40958655 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflicts of interest.

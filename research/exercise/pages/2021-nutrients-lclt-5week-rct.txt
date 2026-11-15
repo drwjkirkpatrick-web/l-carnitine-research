@@ -1,0 +1,51 @@
+SOURCE: L-Carnitine Tartrate Supplementation for 5 Weeks Improves Exercise Recovery in Men and Women: A Randomized, Double-Blind, Placebo-Controlled Trial.
+URL: https://pubmed.ncbi.nlm.nih.gov/34684429/
+FETCHED: 2026-11-15 via NCBI efetch (pubmed abstract, retmode=text)
+PMID: 34684429
+DOI: 10.3390/nu13103432
+------------------------------------------------------------------------
+7. Nutrients. 2021 Sep 28;13(10):3432. doi: 10.3390/nu13103432.
+
+L-Carnitine Tartrate Supplementation for 5 Weeks Improves Exercise Recovery in 
+Men and Women: A Randomized, Double-Blind, Placebo-Controlled Trial.
+
+Stefan M(1), Sharp M(1), Gheith R(1), Lowery R(1), Ottinger C(1), Wilson J(1), 
+Durkee S(2), Bellamine A(2).
+
+Author information:
+(1)Applied Science & Performance Institute, Research Division, Tampa, FL 33607, 
+USA.
+(2)Lonza Consumer Health Inc., Morristown, NJ 07960, USA.
+
+L-carnitine tartrate has been shown to improve relatively short-term recovery 
+among athletes. However, there is a lack of research on the longer-term effects 
+in the general population.
+OBJECTIVE: The primary objectives of this randomized double-blind, 
+placebo-controlled trial were to evaluate the effects of daily L-carnitine 
+tartrate supplementation for 5 weeks on recovery and fatigue.
+METHOD: In this study, eighty participants, 21- to 65-years-old, were recruited. 
+Participants were split into two groups of forty participants each, a placebo, 
+and a L-carnitine Tartrate group. Seventy-three participants completed a 
+maintenance exercise training program that culminated in a high-volume exercise 
+challenge.
+RESULTS: Compared to placebo, L-carnitine tartrate supplementation was able to 
+improve perceived recovery and soreness (p = 0.021), and lower serum creatine 
+kinase (p = 0.016). In addition, L-carnitine tartrate supplementation was able 
+to blunt declines in strength and power compared to placebo following an 
+exercise challenge. Two sub-analyses indicated that these results were 
+independent of gender and age. Interestingly, serum superoxide dismutase levels 
+increased significantly among those supplementing with L-carnitine tartrate.
+CONCLUSIONS: These findings agree with previous observations among healthy adult 
+subjects and demonstrate that L-carnitine tartrate supplementation beyond 35 
+days is beneficial for improving recovery and reducing fatigue following 
+exercise across gender and age.
+
+DOI: 10.3390/nu13103432
+PMCID: PMC8541253
+PMID: 34684429 [Indexed for MEDLINE]
+
+Conflict of interest statement: S.D. and A.B. are employees of Lonza Consumer 
+Health Inc. Other authors have no other relevant affiliations or competing 
+financial involvement with the subject matter or materials in this manuscript. 
+All projects reported in this manuscript were funded by Lonza Consumer Health 
+Inc. (Morrison, NJ, USA).

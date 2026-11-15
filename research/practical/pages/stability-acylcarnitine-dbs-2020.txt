@@ -1,0 +1,46 @@
+2. Int J Neonatal Screen. 2020 Nov 2;6(4):83. doi: 10.3390/ijns6040083.
+
+Instability of Acylcarnitines in Stored Dried Blood Spots: The Impact on 
+Retrospective Analysis of Biomarkers for Inborn Errors of Metabolism.
+
+van Rijt WJ(1), Schielen PCJI(2), Özer Y(3), Bijsterveld K(3), van der Sluijs 
+FH(3), Derks TGJ(1), Heiner-Fokkema MR(3).
+
+Author information:
+(1)Section of Metabolic Diseases, Beatrix Children's Hospital, University 
+Medical Center Groningen, University of Groningen, 9700 RB Groningen, The 
+Netherlands.
+(2)Reference Laboratory for Neonatal Screening, Centre for Health Protection, 
+National Institute for Public Health and the Environment, 3721 BA Bilthoven, The 
+Netherlands.
+(3)Laboratory of Metabolic Diseases, Department of Laboratory Medicine, 
+University Medical Center Groningen, University of Groningen, 9700 RB Groningen, 
+The Netherlands.
+
+Stored dried blood spots (DBS) can provide valuable samples for the 
+retrospective diagnosis of inborn errors of metabolism, and for validation 
+studies for newborn blood spot screening programs. Acylcarnitine species are 
+subject to degradation upon long-term storage at room temperature, but limited 
+data are available on the stability in original samples and the impact on 
+acylcarnitine ratios. We analysed complete acylcarnitine profiles by 
+flow-injection tandem mass spectrometry in 598 anonymous DBS stored from 2013 to 
+2017, at +4 °C during the first year and thereafter at room temperature. The 
+concentrations of C2-, C3-, C4-, C5-, C6-, C8-, C10:1-, C10-, C12:1-, C12-, 
+C14:1-, C14-, C16:1-, C16-, C18:2-, C18:1-, C18-, C5OH+C4DC-, C18:1OH-, and 
+C16DC-carnitine decreased significantly, whereas a positive trend was found for 
+free carnitine. Only the C4/C8-, C8/C10-, C14:1/C10- and C14:1/C16-carnitine 
+ratios appeared robust for the metabolite instability. The metabolite 
+instability may provoke the wrong interpretation of test results in the case of 
+retrospective studies and risk the inaccurate estimation of cut-off targets in 
+validation studies when only stored control DBS are used. We recommend including 
+control DBS in diagnostic, retrospective cohort studies, and, for validation 
+studies, we recommend using fresh samples and repeatedly re-evaluating cut-off 
+targets.
+
+DOI: 10.3390/ijns6040083
+PMCID: PMC7712882
+PMID: 33147805
+
+Conflict of interest statement: The authors declare no conflict of interest. The 
+sources of funding had no role in the design, execution, interpretation, or 
+writing of the study.

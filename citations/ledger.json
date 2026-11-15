@@ -1,0 +1,3599 @@
+{
+  "version": 1,
+  "sources": [
+    {
+      "id": 1,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11644639",
+      "title": "Revisiting the Role of Carnitine in Heart Disease Through the Lens ...",
+      "accessed": "2026-11-15"
+    },
+    {
+      "id": 2,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10841498",
+      "title": "Kidney Function as a Key Driver of the Pharmacokinetic ... - PMC",
+      "accessed": "2026-11-15"
+    },
+    {
+      "id": 3,
+      "url": "https://link.springer.com/content/pdf/10.1186/s12967-026-08131-z.pdf?error=cookies_not_supported&code=bddaefcc-1941-49f8-be5c-499b92564188",
+      "title": "REVIEW",
+      "accessed": "2026-11-15"
+    },
+    {
+      "id": 4,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11644639/pdf/nutrients-16-04244.pdf",
+      "title": "Revisiting the Role of Carnitine in Heart Disease Through the Lens of the Gut Microbiota",
+      "accessed": "2026-11-15"
+    },
+    {
+      "id": 5,
+      "url": "https://link.springer.com/article/10.1038/s41467-025-66867-6",
+      "title": "Structural basis of sodium ion-dependent carnitine transport by OCTN2 - Nature Communications",
+      "accessed": "2026-11-15"
+    },
+    {
+      "id": 6,
+      "url": "https://ods.od.nih.gov/factsheets/carnitine-HealthProfessional",
+      "title": "Carnitine - Health Professional Fact Sheet - Office of Dietary",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "Healthy children and adults do not need to consume carnitine from food or supplements because the liver and kidneys synthesize sufficient amounts to meet daily needs",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "Dietary carnitine has a bioavailability of about 63% to 75%",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "Absorption of supplemental L-carnitine is about 14% to 18%, much less than that of dietary L-carnitine",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "Carnitine does not have an established tolerable upper intake level. However, doses of approximately 3 g/day of carnitine supplements can cause nausea, vomiting, abdominal cramps, diarrhea, and a fishy body odor",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "The clinical trials assessed the effectiveness of 1 to 3 g/day acetyl-L-carnitine supplementation or placebo over 12 to 52 weeks in participants with mild to moderate dementia or cognitive decline.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "It can also cause muscle weakness in people with uremia and seizures in those with seizure disorders.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "Treatment with the anticonvulsants valproic acid, phenobarbital, phenytoin, and carbamazepine reduces blood levels of carnitine",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "Intravenous L-carnitine administration might help treat valproic acid toxicity in children and adults, although the optimal regimen has not been identified",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8704793",
+      "title": "Effect of Acute and Chronic Oral l-Carnitine Supplementation ...",
+      "accessed": "2026-11-15"
+    },
+    {
+      "id": 8,
+      "url": "https://www.link.springer.com/article/10.1186/s12970-020-00377-2",
+      "title": "The bright and the dark sides of L-carnitine supplementation: a systematic review - Journal of the International Society",
+      "accessed": "2026-11-15"
+    },
+    {
+      "id": 9,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6982879",
+      "title": "Carnitine in Human Muscle Bioenergetics - PMC - NIH",
+      "accessed": "2026-11-15"
+    },
+    {
+      "id": 10,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6343764",
+      "title": "Effects of nine weeks L-Carnitine supplementation on exercise ...",
+      "accessed": "2026-11-15"
+    },
+    {
+      "id": 11,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3784205",
+      "title": "Skeletal muscle carnitine loading increases energy ...",
+      "accessed": "2026-11-15"
+    },
+    {
+      "id": 12,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7884033",
+      "title": "Increasing skeletal muscle carnitine content in older ... - PMC",
+      "accessed": "2026-11-15"
+    },
+    {
+      "id": 13,
+      "url": "https://doi.org/10.1186/s12970-020-00377-2",
+      "title": "The bright and the dark sides of L-carnitine supplementation: a systematic review",
+      "accessed": "2026-11-15"
+    },
+    {
+      "id": 14,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3060373",
+      "title": "Chronic oral ingestion of l-carnitine and carbohydrate increases muscle ...",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "After 30 years of endeavour, this is the first study to show that muscle carnitine content can be increased in humans by dietary means",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "after 24 weeks of supplementation perceived exertion was lower in the Carnitine group when compared to baseline (14.0 _vs._ 15.0, respectively; _P_ < 0.05) and Control at 24 weeks (14.0 _vs._ 16.2, respectively; _P_ < 0.05).",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "Collectively, these metabolic effects resulted in a reduced perception of effort and increased work output during a validated exercise performance test.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "containing 2.0 g of l-carnitine tartrate (1.36 g of l-carnitine; Carnipure™, Lonza Group Ltd, Basel, Switzerland)",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "url": "https://journals.physiology.org/doi/full/10.1152/japplphysiol.01011.2006",
+      "title": "Carbohydrate ingestion augments l-carnitine retention in humans | Journal of Applied Physiology | American Physiological",
+      "accessed": "2026-11-15"
+    },
+    {
+      "id": 16,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5872767",
+      "title": "l-Carnitine Supplementation in Recovery after Exercise - PMC",
+      "accessed": "2026-11-15"
+    },
+    {
+      "id": 17,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10255885",
+      "title": "Effects of L-Carnitine Intake on Exercise-Induced Muscle Damage and ...",
+      "accessed": "2026-11-15"
+    },
+    {
+      "id": 18,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32154768",
+      "title": "The Effect of L-Carnitine Supplementation on Exercise ...",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "Pooled data from seven studies showed that L-Carnitine resulted in significant improvements in muscle soreness (MS) at the five follow-up time points (0, 24, 48, 72 and 96 hours (h)) compared to placebo. Also, pooled data indicated that L-Carnitine significantly reduced creatine kinase (CK), myoglobin (Mb), and lactate dehydrogenase (LDH) levels at one follow-up period (24 h). However, no effects have been observed beyond this period.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "Overall, L-carnitine supplementation ameliorated muscle damage only in resistance training groups and untrained population.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4163371",
+      "title": "Creatine, L-Carnitine, and ω3 Polyunsaturated Fatty Acid ...",
+      "accessed": "2026-11-15"
+    },
+    {
+      "id": 20,
+      "url": "https://journals.physiology.org/doi/pdf/10.1152/ajpendo.00277.2001",
+      "title": "l-Carnitine l-tartrate supplementation favorably affects markers of recovery from exercise stress",
+      "accessed": "2026-11-15"
+    },
+    {
+      "id": 21,
+      "url": "https://karger.com/nef/article/150/9/583/948355/Rhabdomyolysis-and-Acute-Kidney-Injury-after-the",
+      "title": "Rhabdomyolysis and Acute Kidney Injury after the New ...",
+      "accessed": "2026-11-15"
+    },
+    {
+      "id": 22,
+      "url": "https://bmjopensem.bmj.com/content/bmjosem/3/1/e000093.full.pdf",
+      "title": "Acute kidney injury associated with endurance events-is it a cause for concern? A systematic review",
+      "accessed": "2026-11-15"
+    },
+    {
+      "id": 23,
+      "url": "https://karger.com/anm/article/76/Suppl.%201/53/52193/Effects-of-Exercise-on-Acute-Kidney-Injury",
+      "title": "Effects of Exercise on Acute Kidney Injury Biomarkers and ...",
+      "accessed": "2026-11-15"
+    },
+    {
+      "id": 24,
+      "url": "https://journals.sagepub.com/doi/10.1016/j.wem.2022.12.004",
+      "title": "Four Cases of Acute Kidney Injury Requiring Dialysis in Ultramarathoners - Andrew V. Pasternak, Cristin Newkirk-Thompson",
+      "accessed": "2026-11-15"
+    },
+    {
+      "id": 25,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12704824",
+      "title": "Exercise and Kidney Health: Core Curriculum 2026 - PMC",
+      "accessed": "2026-11-15"
+    },
+    {
+      "id": 26,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13255214",
+      "title": "Exertional heat stroke-related acute kidney injury - PMC - NIH",
+      "accessed": "2026-11-15"
+    },
+    {
+      "id": 27,
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK537135",
+      "title": "Heat Stroke - StatPearls - NCBI Bookshelf - NIH",
+      "accessed": "2026-11-15"
+    },
+    {
+      "id": 28,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6580786",
+      "title": "How to do it: investigate exertional rhabdomyolysis (or not) - PMC",
+      "accessed": "2026-11-15"
+    },
+    {
+      "id": 29,
+      "url": "https://www.usfa.fema.gov/downloads/pdf/publications/exertional-rhabdomyolysis.pdf",
+      "title": "Exertional Rhabdomyolysis: An Underappreciated Concern in the ...",
+      "accessed": "2026-11-15"
+    },
+    {
+      "id": 30,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12734593",
+      "title": "Rising Global Temperatures and Kidney Health - PMC",
+      "accessed": "2026-11-15"
+    },
+    {
+      "id": 31,
+      "url": "https://journals.physiology.org/doi/full/10.1152/ajprenal.00350.2023",
+      "title": "Strategies to mitigate acute kidney injury risk during physical work in the heat | American Journal of Physiology-Renal",
+      "accessed": "2026-11-15"
+    },
+    {
+      "id": 32,
+      "url": "https://scholarworks.uark.edu/cgi/viewcontent.cgi?article=4401&context=etd",
+      "title": "Dehydration, Muscle Damage, and Exercise in the Heat: Impacts on Renal Stress, Thermoregulation, and Muscular Damage Rec",
+      "accessed": "2026-11-15"
+    },
+    {
+      "id": 33,
+      "url": "https://www.cdc.gov/nceh/hsb/extreme/Heat_Illness/Full%20article%20exercising%20in%20the%20heat%20and%20sunDigest-June2007.pdf",
+      "title": "Exercising in the Heat and Sun",
+      "accessed": "2026-11-15"
+    },
+    {
+      "id": 34,
+      "url": "https://link.springer.com/article/10.1007/s00421-020-04493-4?fromPaywallRec=true",
+      "title": "Hyperthermia and dehydration: their independent and combined influences on physiological function during rest and exerci",
+      "accessed": "2026-11-15"
+    },
+    {
+      "id": 35,
+      "url": "https://med.stanford.edu/news/all-news/2017/07/pain-reliever-linked-to-kidney-injury-in-endurance-runners.html",
+      "title": "Pain reliever linked to kidney injury in endurance runners",
+      "accessed": "2026-11-15"
+    },
+    {
+      "id": 36,
+      "url": "https://www.runnersworld.com/health-injuries/a20839913/a-guide-to-over-the-counter-pain-meds",
+      "title": "Pain Medicine for Runners | Best Pain Reliever for Runners",
+      "accessed": "2026-11-15"
+    },
+    {
+      "id": 37,
+      "url": "https://stanfordhealthcare.org/publications/503/503317.html",
+      "title": "Ibuprofen versus placebo effect on acute kidney injury in ultramarathons: a randomised controlled trial",
+      "accessed": "2026-11-15"
+    },
+    {
+      "id": 38,
+      "url": "https://academic.oup.com/ijpp/article/28/6/561/6133302",
+      "title": "Oral non-steroidal anti-inflammatory drug use in recreational runners ...",
+      "accessed": "2026-11-15"
+    },
+    {
+      "id": 39,
+      "url": "https://sportrxiv.org/index.php/server/preprint/download/916/1945/1856",
+      "title": "The Convergent Renal Insult: Why Endurance Athletes' Self- ...",
+      "accessed": "2026-11-15"
+    },
+    {
+      "id": 40,
+      "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2685d8da-010e-40d7-914f-80546634888d",
+      "title": "DailyMed - LEVOCARNITINE injection, solution",
+      "accessed": "2026-11-15"
+    },
+    {
+      "id": 41,
+      "url": "https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=cf801cc4-775e-433d-9d32-e5d9a98981d3",
+      "title": "CARNITOR ® (levocarnitine) Injection 1 g per 5 mL vial For ...",
+      "accessed": "2026-11-15"
+    },
+    {
+      "id": 42,
+      "url": "https://www.cms.gov/medicare-coverage-database/view/ncd.aspx?ncdid=159",
+      "title": "Levocarnitine for use in the Treatment of Carnitine Deficiency in ESRD Patients",
+      "accessed": "2026-11-15"
+    },
+    {
+      "id": 43,
+      "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1f38ab0d-ef89-4e92-990f-9da190057e17",
+      "title": "DailyMed - LEVOCARNITINE injection, solution",
+      "accessed": "2026-11-15"
+    },
+    {
+      "id": 44,
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0271307",
+      "title": "The effect of levocarnitine supplementation on dialysis ...",
+      "accessed": "2026-11-15"
+    },
+    {
+      "id": 45,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11278892",
+      "title": "The Effect of L-Carnitine on Critical Illnesses Such as Traumatic ...",
+      "accessed": "2026-11-15"
+    },
+    {
+      "id": 46,
+      "url": "https://www.nature.com/subjects/renal-ischemia-reperfusion-injury-mechanisms-and-therapeutic-interventions?error=cookies_not_supported&code=682393a2-8c19-45b5-bdc9-946aa2c3205f",
+      "title": "Renal Ischemia-Reperfusion Injury Mechanisms and Therapeutic ...",
+      "accessed": "2026-11-15"
+    },
+    {
+      "id": 47,
+      "url": "https://iasj.rdd.edu.iq/journals/uploads/2025/07/11/d5a80f4ce8346c797ab21983fae930cc.pdf",
+      "title": "The Possible Protective Effect of L-Carnitine against ...",
+      "accessed": "2026-11-15"
+    },
+    {
+      "id": 48,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4121315",
+      "title": "L-Carnitine Protects against Carboplatin-Mediated Renal Injury: AMPK- and PPARα-Dependent Inactivation of NFAT3",
+      "accessed": "2026-11-15"
+    },
+    {
+      "id": 49,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7921136",
+      "title": "L-Carnitine protects against tacrolimus-induced renal injury ...",
+      "accessed": "2026-11-15"
+    },
+    {
+      "id": 50,
+      "url": "https://www.nature.com/articles/nm.3145.?error=cookies_not_supported&code=ffce45db-b42a-4943-90f3-2d4ff82f2bbc",
+      "title": "Intestinal microbiota metabolism of l-carnitine, a nutrient in red meat, promotes atherosclerosis - Nature Medicine",
+      "accessed": "2026-11-15"
+    },
+    {
+      "id": 51,
+      "url": "https://link.springer.com/content/pdf/10.1007/s00421-026-06297-4.pdf",
+      "title": "Trimethylamine N-oxide in exercise physiology: a gut microbiota",
+      "accessed": "2026-11-15"
+    },
+    {
+      "id": 52,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5127123",
+      "title": "Trimethylamine N-Oxide: The Good, the Bad and the Unknown - PMC",
+      "accessed": "2026-11-15"
+    },
+    {
+      "id": 53,
+      "url": "https://www.nature.com/articles/nm.3145?error=cookies_not_supported&code=3d058a1d-161d-4acc-8a99-70c64e54d3a7",
+      "title": "Intestinal microbiota metabolism of l-carnitine, a nutrient in...",
+      "accessed": "2026-11-15"
+    },
+    {
+      "id": 54,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5164964",
+      "title": "Microbiome, Trimethylamine N-Oxide (TMAO), and ... - PMC",
+      "accessed": "2026-11-15"
+    },
+    {
+      "id": 55,
+      "url": "https://academic.oup.com/ndt/article/40/Supplement_3/gfaf116.0527/8295317",
+      "title": "#1498 The role of trimethylamine N-oxide in chronic kidney disease ...",
+      "accessed": "2026-11-15"
+    },
+    {
+      "id": 56,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10962421",
+      "title": "Trimethylamine N-oxide and kidney diseases - PMC - NIH",
+      "accessed": "2026-11-15"
+    },
+    {
+      "id": 57,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11933022",
+      "title": "The microbial metabolite trimethylamine N-oxide and the kidney ...",
+      "accessed": "2026-11-15"
+    },
+    {
+      "id": 58,
+      "url": "https://www.nature.com/articles/s41418-025-01554-z?error=cookies_not_supported&code=0fbb94c2-2305-403e-925a-2cfda6d9c04b",
+      "title": "Intestinal metabolite TMAO promotes CKD progression by ...",
+      "accessed": "2026-11-15"
+    },
+    {
+      "id": 59,
+      "url": "https://link.springer.com/article/10.1186/s12882-025-04625-y?error=cookies_not_supported&code=474c0a2b-5d8b-4d6b-82fe-40f190285cec",
+      "title": "Utility of trimethylamine N-oxide (TMAO) as a biomarker for ...",
+      "accessed": "2026-11-15"
+    },
+    {
+      "id": 60,
+      "url": "https://ods.od.nih.gov/factsheets/WeightLoss-HealthProfessional",
+      "title": "Dietary Supplements for Weight Loss",
+      "accessed": "2026-11-15"
+    },
+    {
+      "id": 61,
+      "url": "https://ods.od.nih.gov/factsheets/carnitine-healthprofessional",
+      "title": "Carnitine - Health Professional Fact Sheet",
+      "accessed": "2026-11-15"
+    },
+    {
+      "id": 62,
+      "url": "https://ods.od.nih.gov/factsheets/Carnitine-Consumer",
+      "title": "Carnitine - Consumer - Office of Dietary Supplements (ODS)",
+      "accessed": "2026-11-15"
+    },
+    {
+      "id": 63,
+      "url": "https://www.drugs.com/npp/l-carnitine.html",
+      "title": "L-carnitine Uses, Benefits & Dosage",
+      "accessed": "2026-11-15"
+    },
+    {
+      "id": 64,
+      "url": "https://ods.od.nih.gov/factsheets/WeightLoss-HealthProfessional/?uid=53ee6fd430b5s16",
+      "title": "Dietary Supplements for Weight Loss - Health Professional ...",
+      "accessed": "2026-11-15"
+    },
+    {
+      "id": 65,
+      "url": "https://www.drugs.com/drug-interactions/levocarnitine-with-warfarin-1454-0-2311-0.html?professional=1",
+      "title": "Drug Interactions between levocarnitine and warfarin",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "Limited data suggest that levocarnitine may potentiate the hypoprothrombinemic effects of warfarin and other coumarin anticoagulants.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "There have been isolated case reports of INR increase and/or bleeding in patients treated with warfarin or acenocoumarol following the addition of levocarnitine therapy.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "INR levels returned to normal after discontinuation of levocarnitine.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "The INR should be checked frequently and anticoagulant dosage adjusted accordingly, particularly following initiation, discontinuation, or change of dosage of levocarnitine.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "url": "https://www.dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=2685d8da-010e-40d7-914f-80546634888d",
+      "title": "Label: LEVOCARNITINE injection, solution",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "For the prevention and treatment of carnitine deficiency in patients with end stage renal disease who are undergoing dialysis.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "The recommended starting dose is 10 to 20 mg/kg dry body weight as a slow 2 to 3 minute bolus injection into the venous return line after each dialysis session.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "End Stage Renal Disease (ESRD) patients on maintenance hemodialysis may have low plasma carnitine concentrations and an increased ratio of acylcarnitine/carnitine because of reduced intake of meat and dairy products, reduced renal synthesis and dialytic losses.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "url": "https://www.drugs.com/drug-interactions/l-carnitine-with-warfarin-1454-13156-2311-0.html",
+      "title": "L-Carnitine + Warfarin: Can You Take Them Together?",
+      "accessed": "2026-11-15"
+    },
+    {
+      "id": 68,
+      "url": "https://www.drugs.com/drug-interactions/l-carnitine-with-warfarin-1454-13156-2311-0.html?professional=1",
+      "title": "L-Carnitine and warfarin Interactions - Drugs.com",
+      "accessed": "2026-11-15"
+    },
+    {
+      "id": 69,
+      "url": "https://www.dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0f749812-8f02-4eeb-91d9-5dd6fc9fa159",
+      "title": "Label: LEVOCARNITINE tablet",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "Various mild gastrointestinal complaints have been reported during the long-term administration of oral L- or D,L-carnitine; these include transient nausea and vomiting, abdominal cramps, and diarrhea.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "Decreasing the dosage often diminishes or eliminates drug-related patient body odor or gastrointestinal symptoms when present.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "Tolerance should be monitored very closely during the first week of administration, and after any dosage increases.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "Seizures have been reported to occur in patients with or without pre-existing seizure activity receiving either oral or intravenous levocarnitine.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "In patients with pre-existing seizure activity, an increase in seizure frequency and/or severity has been reported.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "Mild myasthenia has been described only in uremic patients receiving D,L-carnitine.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "Reports of INR increase with the use of warfarin have been observed. It is recommended that INR levels be monitored in patients on warfarin therapy after the initiation of treatment with levocarnitine or after dose adjustments.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "The safety and efficacy of oral levocarnitine has not been evaluated in patients with renal insufficiency.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "may result in accumulation of the potentially toxic metabolites, trimethylamine (TMA) and trimethylamine-N-oxide (TMAO), since these metabolites are normally excreted in the urine.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "The recommended oral dosage for adults is 990 mg two or three times a day using the 330 mg tablets, depending on clinical response.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "The recommended oral dosage for infants and children is between 50 and 100 mg/kg/day in divided doses, with a maximum of 3 g/day.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "There are, however, no adequate and well controlled studies in pregnant women.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "this drug should be used during pregnancy only if clearly needed.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "Levocarnitine supplementation in nursing mothers has not been specifically studied.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "There have been no reports of toxicity from levocarnitine overdosage.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "Large doses of levocarnitine may cause diarrhea.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "url": "https://ods.od.nih.gov/docs/dietphys.pdf",
+      "title": "Workshop on the Role of Dietary Supplements for",
+      "accessed": "2026-11-15"
+    },
+    {
+      "id": 71,
+      "url": "https://resources.education.nsw.gov.au/api/v1/blob-store/ZXF1X2VkdWNhdGlvbmFsc3VwcG9ydF8xMTNhMmI3OC1kOTNiLTQxYWUtYmE2OS0yMWQ0MjNkZTQ4MzM==/bGFwdG9wLXdyYXAtZnVuY3Rpb25hbC1mb29kcy56aXA==/ZG9jdW1lbnRz=/c3BlY2lhbF9iZW5lZml0cw===/HTM_pop9.htm",
+      "title": "Enhancing athletic performance",
+      "accessed": "2026-11-15"
+    },
+    {
+      "id": 72,
+      "url": "https://ods.od.nih.gov/pubs/dietphys.pdf",
+      "title": "[PDF] Workshop on the Role of Dietary Supplements for Physically Active ...",
+      "accessed": "2026-11-15"
+    },
+    {
+      "id": 73,
+      "url": "https://nutritionj.biomedcentral.com/articles/10.1186/1475-2891-5-15",
+      "title": "Exercise and functional foods - Nutrition Journal",
+      "accessed": "2026-11-15"
+    },
+    {
+      "id": 74,
+      "url": "https://pdfs.semanticscholar.org/3bcc/44e952ed3b6f37498d502210ae0db0144066.pdf",
+      "title": "[PDF] Research on Effect of Sports Nutrition Supplements on Athletic ...",
+      "accessed": "2026-11-15"
+    },
+    {
+      "id": 75,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10893042",
+      "title": "Trimethylamine N-Oxide Improves Exercise Performance ...",
+      "accessed": "2026-11-15"
+    },
+    {
+      "id": 76,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8371342",
+      "title": "Fasting and postprandial trimethylamine N‐oxide in ...",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "Neither the HFC nor the HFD evoked a detectable change in plasma TMAO ( _p_ > 0.05) in either group.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "There were no significant differences in fasting ( _p_ > 0.05) or postprandial TMAO ( _p_ > 0.05) between sedentary and endurance‐trained individuals before or following the high‐fat diet, despite the endurance‐trained group consuming more dietary precursors.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11292090",
+      "title": "Meldonium Supplementation in Professional Athletes - PMC",
+      "accessed": "2026-11-15"
+    },
+    {
+      "id": 78,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10893042/pdf/molecules-29-00759.pdf",
+      "title": "Trimethylamine N-Oxide Improves Exercise Performance by Reducing Oxidative Stress through Activation of the Nrf2 Signali",
+      "accessed": "2026-11-15"
+    },
+    {
+      "id": 79,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/1815472",
+      "title": "Acetyl group accumulation and pyruvate dehydrogenase activity in human muscle during incremental exercise.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "The increase of acetyl-CoA was from 12.5 mumol kg-1 dry weight at rest to 27.3 after the highest work load and for acetylcarnitine from 6.0 mmol kg-1 dry weight to 15.2",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34436463",
+      "title": "N-acetyltaurine and Acetylcarnitine Production for the Mitochondrial Acetyl-CoA Regulation in Skeletal Muscles during Endurance Exercises.",
+      "accessed": "2026-11-15"
+    },
+    {
+      "id": 81,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2340852",
+      "title": "Pharmacokinetics of oral acetyl-L-carnitine in renal impairment.",
+      "accessed": "2026-11-15"
+    },
+    {
+      "id": 82,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28298333",
+      "title": "Multiple AMPK activators inhibit l-carnitine uptake in C2C12 skeletal muscle myotubes.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "All compounds tested significantly inhibited l-carnitine uptake",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/1962562",
+      "title": "Ascorbic acid and carnitine biosynthesis.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "Ascorbate is a cofactor for two alpha-ketoglutarate-requiring dioxygenase reactions (epsilon-N-trimethyllysine hydroxylase and gamma-butyrobetaine hydroxylase) in the pathway of carnitine biosynthesis",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7156861",
+      "title": "Gamma-butyrobetaine hydroxylase in human kidney.",
+      "accessed": "2026-11-15"
+    },
+    {
+      "id": 85,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36806708",
+      "title": "Caffeine ingestion stimulates plasma carnitine clearance in humans.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "Ingestion of high-dose caffeine stimulates plasma carnitine clearance during hypercarnitinemia, likely via increased Na+ /K+ ATPase activity",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26828774",
+      "title": "Carnitine transport and fatty acid oxidation.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "Defects in the OCTN2 carnitine transporter results in autosomal recessive primary carnitine deficiency characterized by decreased intracellular carnitine accumulation, increased losses of carnitine in the urine, and low serum carnitine levels",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40647189",
+      "title": "Carnitine Deficiency in Chronic Kidney Disease: Pathophysiology, Clinical Implications, and Therapeutic Perspectives.",
+      "accessed": "2026-11-15"
+    },
+    {
+      "id": 88,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26154055",
+      "title": "Carnitine Acetyltransferase Mitigates Metabolic Inertia and Muscle Fatigue during Exercise.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "acetylcarnitine serves as a critical acetyl buffer for working muscles",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20722056",
+      "title": "Cytokine regulation of OCTN2 expression and activity in small and large intestine.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "Treatment with IFN-γ and TNF-α increased intestinal OCTN2 expression, particularly in the colon",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11014405",
+      "title": "Pharmacokinetics of L-carnitine in patients with end-stage renal disease undergoing long-term hemodialysis.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "the mean +/- SD predialysis plasma concentration of L-carnitine was 19.5 +/- 5.6 micromol/L, decreasing to 5.6 +/- 1.9 micromol/L at the end of the dialysis session",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12908852",
+      "title": "Pharmacokinetics of L-carnitine.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "The threshold concentration for tubular reabsorption (above which the fractional reabsorption begins to decline) is about 40-60 micromol/L, which is similar to the endogenous plasma L-carnitine level",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "Under baseline conditions, the renal clearance of L-carnitine (1-3 mL/min) is substantially less than glomerular filtration rate (GFR), indicating extensive (98-99%) tubular reabsorption.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2015278",
+      "title": "Effect of exogenous carnitine on carnitine homeostasis in the rat.",
+      "accessed": "2026-11-15"
+    },
+    {
+      "id": 93,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18053183",
+      "title": "Glycine propionyl-L-carnitine increases plasma nitrate/nitrite in resistance trained men.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "oral intake of glycine propionyl-L-carnitine (GPLC) increases plasma nitrate/nitrite (NOx), a surrogate measure of nitric oxide production",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30943487",
+      "title": "Prevalence of Carnitine Deficiency and Decreased Carnitine Levels in Patients on Hemodialysis.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "The prevalence of carnitine deficiency and that of carnitine insufficiency was 25.3 and 86.7%, respectively",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "The prevalence of carnitine deficiency and that of carnitine insufficiency was 25.3 and 86.7%, respectively.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 95,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28653367",
+      "title": "Significance of l-carnitine for human health.",
+      "accessed": "2026-11-15"
+    },
+    {
+      "id": 96,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31500110",
+      "title": "Carnitine Inborn Errors of Metabolism.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "In non-vegetarians, most of carnitine sources (~75%) are obtained from diet whereas endogenous synthesis accounts for around 25%",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "One of the major functions of carnitine is shuttling long-chain fatty acids across the mitochondrial membrane from the cytosol into the mitochondrial matrix for β-oxidation. This transport is achieved by mitochondrial carnitine-acylcarnitine cycle, which consists of three enzymes: carnitine palmitoyltransferase I (CPT I), carnitine-acylcarnitine translocase (CACT), and carnitine palmitoyltransferase II (CPT II).",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "The biosynthetic pathway involves four enzymes: 6-N-trimethyllysine dioxygenase (TMLD), 3-hydroxy-6-N-trimethyllysine aldolase (HTMLA), 4-N-trimethylaminobutyraldehyde dehydrogenase (TMABADH), and γ-butyrobetaine dioxygenase (BBD). OCTN2 (organic cation/carnitine transporter novel type 2) transports carnitine into the cells",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 97,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38672410",
+      "title": "Inflammation and Organic Cation Transporters Novel (OCTNs).",
+      "accessed": "2026-11-15"
+    },
+    {
+      "id": 98,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16368715",
+      "title": "Insulin stimulates L-carnitine accumulation in human skeletal muscle.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "Hypercarnitinemia in the presence of a fasting insulin concentration had no effect on either of these parameters",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "The combination of hypercarnitinemia (approximately 500 micromol*l(-1)) and hyperinsulinemia increased muscle total carnitine (TC) content from 22.0 +/- 0.9 to 24.7 +/- 1.4 mmol*(kg dm)(-1) (P<0.05) and was associated with a 2.3 +/- 0.3-fold increase in carnitine transporter protein (OCTN2) mRNA expression (P<0.05)",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "The combination of hypercarnitinemia (approximately 500 micromol*l(-1)) and hyperinsulinemia increased muscle total carnitine (TC) content from 22.0 +/- 0.9 to 24.7 +/- 1.4 mmol*(kg dm)(-1) (P<0.05)",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 99,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36632072",
+      "title": "l-carnitine: Nutrition, pathology, and health benefits.",
+      "accessed": "2026-11-15"
+    },
+    {
+      "id": 100,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20381822",
+      "title": "LPS-induced inflammation downregulates mammary gland glucose, fatty acid, and L-carnitine transporter expression at different lactation stages.",
+      "accessed": "2026-11-15"
+    },
+    {
+      "id": 101,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22062286",
+      "title": "Changes in l-carnitine content of fish and meat during domestic cooking.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "Human adults store around 20g of l-carnitine",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "Salmon contained about 12 times less l-carnitine than beef",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40958655",
+      "title": "Mechanical Stimulation Induces Yap Mediated OCTN2 Transcription to Enhance Carnitine Metabolism in Sarcopenia.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "mechanical forces enhanced OCTN2 transcription and regulated carnitine metabolic homeostasis through the Yap/Tead4 pathway",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31906370",
+      "title": "Carnitine in Human Muscle Bioenergetics: Can Carnitine Supplementation Improve Physical Exercise?",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "Circulating carnitine is mainly supplied by animal-based food products and to a lesser extent by endogenous biosynthesis in the liver and kidney. Human muscle contains high amounts of carnitine but it depends on the uptake of this compound from the bloodstream, due to muscle inability to synthesize carnitine.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 104,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9916797",
+      "title": "Primary systemic carnitine deficiency is caused by mutations in a gene encoding sodium ion-dependent carnitine transporter.",
+      "accessed": "2026-11-15"
+    },
+    {
+      "id": 105,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36343260",
+      "title": "Functional genomics of OCTN2 variants informs protein-specific variant effect predictor for Carnitine Transporter Deficiency.",
+      "accessed": "2026-11-15"
+    },
+    {
+      "id": 106,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31852803",
+      "title": "Organic Cation Transporters in Health and Disease.",
+      "accessed": "2026-11-15"
+    },
+    {
+      "id": 107,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29335813",
+      "title": "Organic acidurias in adults: late complications and management.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "Biochemically, OADs are characterized by accumulation of mono-, di- and/or tricarboxylic acids (\"organic acids\") and corresponding coenzyme A, carnitine and/or glycine esters, some of which are considered toxic at high concentrations.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "Dietary treatment with low protein intake or reduced intake of the precursor amino acid(s), carnitine supplementation, cofactor treatment (in responsive patients) and nonadsorbable antibiotics is commonly used for maintenance treatment.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 108,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34997761",
+      "title": "Clinical characteristics of primary carnitine deficiency: A structured review using a case-by-case approach.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "In these 621 cases, cardiac symptoms (predominantly cardiomyopathy) were the most prevalent (23.8%)",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 109,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28841266",
+      "title": "Functional and molecular studies in primary carnitine deficiency.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "Primary carnitine deficiency is caused by a defect in the OCTN2 carnitine transporter encoded by the SLC22A5 gene. It can cause hypoketotic hypoglycemia or cardiomyopathy in children, and sudden death in children and adults.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 110,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36293168",
+      "title": "PGC-1α and MEF2 Regulate the Transcription of the Carnitine Transporter OCTN2 Gene in C2C12 Cells and in Mouse Skeletal Muscle.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "PGC-1α overexpression in C2C12 myoblasts increases OCTN2 mRNA expression",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 111,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33714931",
+      "title": "Carnitine supplementation prevents carnitine deficiency caused by pivalate-conjugated antibiotics in patients with epilepsy prescribed valproate.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "Carnitine deficiency due to PCA use was prevented by carnitine supplementation in patients with epilepsy who were taking VPA",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 112,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11069438",
+      "title": "Pharmacokinetics of propionyl-L-carnitine in humans: evidence for saturable tubular reabsorption.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "At a dose of 1 g, PLC was found to have a mean (+/- s.d.) half-life of 1.09 +/- 0.15 h",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "endogenous PLC, LC and ALC underwent extensive renal tubular reabsorption, as indicated by renal excretory clearance to GFR ratios of less than 0.1",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 113,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17692817",
+      "title": "PPAR alpha-activation results in enhanced carnitine biosynthesis and OCTN2-mediated hepatic carnitine accumulation.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "both enhancement of carnitine biosynthesis (due to increased gamma-butyrobetaine dioxygenase activity), extra-hepatic gamma-butyrobetaine synthesis and increased hepatic carnitine import (OCTN2 expression) contributes to the increased hepatic carnitine levels after fasting",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 114,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26675771",
+      "title": "Protein ingestion acutely inhibits insulin-stimulated muscle carnitine uptake in healthy young men.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "Protein ingestion acutely inhibits insulin-stimulated muscle carnitine uptake in healthy young men",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 115,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9703262",
+      "title": "Fractional absorption of L-carnitine after oral administration in rats: evaluation of absorption site and dose dependency.",
+      "accessed": "2026-11-15"
+    },
+    {
+      "id": 116,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15591001",
+      "title": "Kinetics, pharmacokinetics, and regulation of L-carnitine and acetyl-L-carnitine metabolism.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "At normal circulating l-carnitine concentrations, renal l-carnitine reabsorption is highly efficient (90-99% of filtered load; clearance, 1-3 mL/min), but displays saturation kinetics.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "At normal dietary L-carnitine intake, whole-body turnover time in humans is 38-119 h",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "Bioavailability of dietary L-carnitine is 54-87% and is dependent on the amount of L-carnitine in the meal. Absorption of L-carnitine dietary supplements (0.5-6 g) is primarily passive; bioavailability is 14-18% of dose.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 117,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/6773946",
+      "title": "Significance of renal gamma-butyrobetaine hydroxylase for carnitine biosynthesis in man.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "Significant gamma-butyrobetaine, 2-oxoglutarate dioxygenase (EC 1.14.11.1) activity was found in human kidney but this activity was absent in rat kidney",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 118,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39367436",
+      "title": "The supplementation of L-carnitine in critically ill patients with sepsis: a systematic review and meta-analysis of randomized controlled trials.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "The use of L-carnitine was not found to be significantly correlated with 28-day or 12-month mortality in patients with sepsis",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 119,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38586373",
+      "title": "Targeting SLC22A5 fosters mitophagy inhibition-mediated macrophage immunity against septic acute kidney injury upon CD47-SIRPα axis blockade.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "proposes that SLC22A5 might be a promising immunotherapeutic target for septic AKI",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 120,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31861504",
+      "title": "SLC22A5 (OCTN2) Carnitine Transporter-Indispensable for Cell Metabolism, a Jekyll and Hyde of Human Cancer.",
+      "accessed": "2026-11-15"
+    },
+    {
+      "id": 121,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9685390",
+      "title": "Molecular and functional identification of sodium ion-dependent, high affinity human carnitine transporter OCTN2.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "OCTN2 is strongly expressed in kidney, skeletal muscle, heart, and placenta in adult humans",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "When OCTN2 was expressed in HEK293 cells, uptake of L-[3H]carnitine was strongly enhanced in a sodium-dependent manner with Km value of 4.34 microM",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 122,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33322546",
+      "title": "Trimethyllysine: From Carnitine Biosynthesis to Epigenetics.",
+      "accessed": "2026-11-15"
+    },
+    {
+      "id": 123,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39261302",
+      "title": "L-carnitine for valproic acid-induced toxicity.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "There is evidence supporting the use of L-carnitine in treating hyperammonaemia and hepatotoxicity following chronic therapeutic use and after acute overdose of valproic acid",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 124,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11802770",
+      "title": "Carnitine biosynthesis in mammals.",
+      "accessed": "2026-11-15"
+    },
+    {
+      "id": 125,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2756917",
+      "title": "Carnitine status of lactoovovegetarians and strict vegetarian adults and children.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "In adults plasma carnitine concentration and urinary carnitine excretion of strict vegetarians and lactoovovegetarians were significantly lower than those in the mixed-diet group",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 126,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21753065",
+      "title": "Vegetarians have a reduced skeletal muscle carnitine transport capacity.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "Ninety-five percent of the body carnitine pool resides in skeletal muscle where it plays a vital role in fuel metabolism",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "[organic cation transporter 2 (OCTN2)] messenger RNA and protein expressions were 16% (P < 0.01), 58% (P < 0.01), 17% (P < 0.05), 33% (P < 0.05), and 37% (P = 0.09) lower, respectively, in vegetarian volunteers",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 127,
+      "url": "https://lpi.oregonstate.edu/mic/dietary-factors/L-carnitine",
+      "title": "L-Carnitine — Linus Pauling Institute Micronutrient Information Center",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "a 70 kg (154 1b) person would synthesize between 11 and 34 mg of carnitine per day",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "concentrations of free carnitine around 40 to 50 micromoles (µmol)/L, while plasma concentrations of acetyl-L-carnitine (ALCAR; the most abundant carnitine ester) are around 3 to 6 µmol/L",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "This enzyme is, however, highly expressed in human liver, testes, and kidney",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 128,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12251438",
+      "title": "Carnitine Deficiency in Chronic Kidney Disease: Pathophysiology, Clinical Implications, and Therapeutic Perspectives.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "Approximately 70–100 mg of carnitine is shown to be removed during an HD session",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "Carnitine is predominantly distributed in skeletal muscle and cardiac muscle, which together account for approximately 98% of the total body storage. The estimated total carnitine pool is around 100 mmol in a 70 kg adult male",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "A large amount of carnitine is filtered through the glomerulus and excreted in the urine, but more than 90% is reabsorbed in kidney tubular cells.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "γ-butyrobetaine dioxygenase, responsible for catalyzing the final conversion to carnitine, plays a rate-limiting role in the liver, kidney, and brain.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 129,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6982704",
+      "title": "SLC22A5 (OCTN2) Carnitine Transporter-Indispensable for Cell Metabolism, a Jekyll and Hyde of Human Cancer.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "co-localization of OCTN2 with PDZK1 (Na+/H+ exchange regulatory cofactor NHE-RF3)",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 130,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17331998",
+      "title": "New insights concerning the role of carnitine in the regulation of fuel metabolism in skeletal muscle.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "In skeletal muscle, carnitine plays an essential role in the translocation of long-chain fatty-acids into the mitochondrial matrix for subsequent beta-oxidation, and in the regulation of the mitochondrial acetyl-CoA/CoASH ratio.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "It has been established that muscle free carnitine availability may be limiting to fat oxidation during high intensity submaximal exercise.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 131,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11579177",
+      "title": "The effects of increasing exercise intensity on muscle fuel utilisation in humans.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "We conclude that the most likely mechanism for the reduction in fat oxidation during high-intensity exercise is a downregulation of carnitine palmitoyltransferase I, either by this marked decline in free carnitine availability or by a decrease in intracellular pH.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "This decline involved a decrease in the oxidation rate of both plasma FFA and triacylglycerol fat sources (sum of intramuscular plus lipoprotein-derived triacylglycerol), and was accompanied by increases in muscle pyruvate dehydrogenase complex activation and acetylation of the carnitine pool, resulting in a decline in muscle free carnitine concentration.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 132,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29221849",
+      "title": "Molecular Regulation of Fatty Acid Oxidation in Skeletal Muscle during Aerobic Exercise.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "This is executed at the step of mitochondrial fatty acyl import, as the extent of acetyl group sequestration by carnitine determines the availability of carnitine for the carnitine palmitoyltransferase 1 (CPT1) reaction.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 133,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31676389",
+      "title": "Carnitine supplementation improves metabolic flexibility and skeletal muscle acetylcarnitine formation in volunteers with impaired glucose tolerance: A randomised controlled trial.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "Furthermore, carnitine supplementation increased post-exercise acetylcarnitine concentrations and reduced long-chain acylcarnitine species in IGT-subjects, suggesting the stimulation of a more complete fat oxidation in muscle.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 134,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40019115",
+      "title": "Carnitine supplementation improves insulin sensitivity and skeletal muscle acetylcarnitine formation in patients with type 2 diabetes.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "Resting (1.18 ± 0.13 vs. 1.54 ± 0.17 mmol/kgww, p = 0.008) and post-exercise (3.70 ± 0.22 vs. 4.53 ± 0.30 mmol/kgww, p < 0.001) skeletal muscle acetylcarnitine concentrations were both elevated after carnitine supplementation.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "Insulin-induced suppression of endogenous glucose production (31.9 ± 2.9 vs. 39.9 ± 3.2%, p = 0.020) and peripheral insulin sensitivity (Δ rate of glucose disappearance (ΔRd): 10.53 ± 1.85 vs. 13.83 ± 2.02 μmol/kg/min, p = 0.005) improved after supplementation.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 135,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21224234",
+      "title": "Chronic oral ingestion of L-carnitine and carbohydrate increases muscle carnitine content and alters muscle fuel metabolism during exercise in humans.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "volunteers ingested either 80 g of CHO (Control) or 2 g of l-carnitine-l-tartrate and 80 g of CHO (Carnitine) twice daily for 24 weeks in a randomised, double blind manner.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "Muscle TC increased from basal by 21% in Carnitine (P < 0.05), and was unchanged in Control.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "At 50% , the Carnitine group utilised 55% less muscle glycogen compared to Control (P < 0.05) and 31% less pyruvate dehydrogenase complex (PDC) activation compared to before supplementation (P < 0.05).",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "Conversely, at 80% , muscle PDC activation was 38% higher (P < 0.05), acetylcarnitine content showed a trend to be 16% greater (P < 0.10), muscle lactate content was 44% lower (P < 0.05) and the muscle PCr/ATP ratio was better maintained (P < 0.05) in Carnitine compared to Control.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "The Carnitine group increased work output 11% from baseline in the performance trial, while Control showed no change.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "All significant effects reported occurred after 24 weeks.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 136,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23818692",
+      "title": "Skeletal muscle carnitine loading increases energy expenditure, modulates fuel metabolism gene networks and prevents body fat accumulation in humans.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "whereas muscle total carnitine, long-chain acyl-CoA and whole-body energy expenditure did not change over 12 weeks in Control, they increased in Carnitine by 20%, 200% and 6%, respectively (P<0.05).",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "body mass and whole-body fat mass (dual-energy X-ray absorptiometry) increased over 12 weeks in Control by 1.9 and 1.8 kg, respectively (P<0.05), but did not change in Carnitine.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 137,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16984983",
+      "title": "An acute increase in skeletal muscle carnitine content alters fuel metabolism in resting human skeletal muscle.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "The combination of hypercarnitinemia (600 micromol/liter) and hyperinsulinemia (160 mU/liter) increased muscle TC content by 15% (P < 0.01) and was associated with decreased pyruvate dehydrogenase complex activity (P < 0.05) and muscle lactate content (P < 0.05) by 30 and 40%, respectively, and an overnight increase in muscle glycogen (P < 0.01) and long-chain acyl-coenzyme A content (P < 0.05) by 30 and 40%, respectively, compared with control.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 138,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17138832",
+      "title": "Carbohydrate ingestion augments L-carnitine retention in humans.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "Twenty-four-hour urinary TC excretion in the CHO visit was lower than in the Con visit in study A (155.0 +/- 10.7 vs. 212.1 +/- 17.2 mg; P < 0.05).",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "The difference in plasma TC concentration in study A and 24-h urinary TC excretion in both studies suggests that insulin augmented the retention of carnitine in the CHO trials.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 139,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17047160",
+      "title": "A threshold exists for the stimulatory effect of insulin on plasma L-carnitine clearance in humans.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "The findings demonstrate that only high circulating serum insulin concentrations (> or =90 mU/l) are capable of stimulating skeletal muscle carnitine accumulation.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 140,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7987362",
+      "title": "Effect of L-carnitine supplementation on muscle and blood carnitine content and lactate accumulation during high-intensity sprint cycling.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "Plasma total acid soluble and free carnitine concentrations were significantly higher (p < .05) at all time points following supplementation. L-carnitine supplementation had no significant effect on muscle carnitine content and thus could not alter lactate accumulation during exercise.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "Following CON II, all subjects began dietary supplementation of L-carnitine for a period of 14 days (4 g/day).",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 141,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8004884",
+      "title": "Effect of intravenous L-carnitine on carnitine homeostasis and fuel metabolism during exercise in humans.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "Thus the skeletal muscle carnitine pool is segregated from dramatic changes in the plasma carnitine pool, and short-term administration of carnitine has no significant effect on fuel metabolism during exercise in humans.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 142,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36696886",
+      "title": "Twenty-Four Weeks of L-Carnitine Combined with Leucine Supplementation Does Not Increase the Muscle Carnitine Content in Healthy Active Subjects.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "Plasma FC and TC content increased in LC + L group after 24 weeks of supplementation (p = 0.003 and 0.010, respectively). However, the skeletal muscle FC and TC contents were not affected by the supplementation protocol.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 143,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28345160",
+      "title": "Increasing skeletal muscle carnitine availability does not alter the adaptations to high-intensity interval training.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "Augmenting muscle carnitine during 24 weeks of HIIT did not alter this, nor did it enhance muscle metabolic adaptations or performance gains beyond those with HIIT alone.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "Following HIIT, muscle free carnitine was 30% greater in CARN vs CON at rest and remained 40% elevated prior to the start of bout 2 (P<.05).",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 144,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42887880",
+      "title": "Acute and Chronic L-Carnitine Supplementation Enhances Endurance Performance Without Consistent Effects on Substrate Oxidation in Active Individuals: A Systematic Review.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "Both acute and chronic L-carnitine supplementation were associated with improvements in endurance performance following acute supplementation and chronic supplementation. By contrast, no significant changes in fat oxidation during exercise were reported after either acute (2-4 g ingested 120-180 min before exercise) or chronic supplementation (2 g/day for 2-4 weeks).",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "15 (83%) studies were rated as having some concerns, three (17%) were classified as having a high risk of bias, and none were judged to be at low risk of bias.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 145,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34842765",
+      "title": "Clinical Effects of L-Carnitine Supplementation on Physical Performance in Healthy Subjects, the Key to Success in Rehabilitation: A Systematic Review and Meta-Analysis from the Rehabilitation Point of View.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "The meta-analysis did not show any significant differences in serum lactate values at rest and after exercise in healthy subjects who took L-carnitine supplementation (p > 0.05).",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 146,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40944177",
+      "title": "Acute L-Carnitine Supplementation Does Not Improve CrossFit(®) Performance: A Randomized, Double-Blind, Placebo-Controlled Crossover Study.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "The results showed that L-carnitine supplementation did not significantly affect the number of repetitions performed (202.4 ± 69.9 vs. 204.5 ± 78.8, p = 0.810) compared to the placebo.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "However, 10% of participants reported difficulty sleeping after L-carnitine supplementation.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 147,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32958033",
+      "title": "The bright and the dark sides of L-carnitine supplementation: a systematic review.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "LC supplementation, in combination with carbohydrates (CHO) effectively elevated total carnitine content in skeletal muscle.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "LC supplementation was also noted to induce an increase of fasting plasma trimethylamine-N-oxide (TMAO) levels, which was not associated with modification of determined inflammatory nor oxidative stress markers.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 148,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15591004",
+      "title": "Carnitine and sports medicine: use or abuse?",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "Despite this strong foundation and 20 years of research, no compelling evidence exists that carnitine supplementation can improve physical performance in healthy subjects.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "Muscle carnitine content is not easily increased with carnitine supplementation.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 149,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20045157",
+      "title": "l-Carnitine l-tartrate supplementation favorably affects biochemical markers of recovery from physical exertion in middle-aged men and women.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "Two grams of l-carnitine supplementation had positive effects and significantly (P < or = .05) attenuated biochemical markers of purine metabolism (ie, hypoxanthine, xanthine oxidase), free radical formation (malondialdehyde), muscle tissue disruption (myoglobin, creatine kinase), and muscle soreness after physical exertion. However, markers of physical performance (ie, strength, power, get up and go) were not affected by supplementation.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "Two grams of l-carnitine supplementation had positive effects and significantly (P < or = .05) attenuated biochemical markers of purine metabolism (ie, hypoxanthine, xanthine oxidase), free radical formation (malondialdehyde), muscle tissue disruption (myoglobin, creatine kinase), and muscle soreness after physical exertion.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 150,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16826026",
+      "title": "Androgenic responses to resistance exercise: effects of feeding and L-carnitine.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "these data demonstrated that: 1) feeding after RE increased AR content, which may result in increased testosterone uptake, and thus enhanced luteinizing hormone secretion via feedback mechanisms; and 2) LCLT supplementation upregulated AR content, which may promote recovery from RE.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "LCLT supplementation upregulated (P<0.05) preexercise AR content compared with PL (12.9+/-5.9 vs 11.2+/-4.0 au, respectively).",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 151,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17313301",
+      "title": "Responses of criterion variables to different supplemental doses of L-carnitine L-tartrate.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "The 1- and 2-g doses reduced postexercise serum hypoxanthine, serum xanthine oxidase, serum myoglobin, and perceived muscle soreness.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 152,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34684429",
+      "title": "L-Carnitine Tartrate Supplementation for 5 Weeks Improves Exercise Recovery in Men and Women: A Randomized, Double-Blind, Placebo-Controlled Trial.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "Compared to placebo, L-carnitine tartrate supplementation was able to improve perceived recovery and soreness (p = 0.021), and lower serum creatine kinase (p = 0.016).",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "Interestingly, serum superoxide dismutase levels increased significantly among those supplementing with L-carnitine tartrate.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 153,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37299549",
+      "title": "Effects of L-Carnitine Intake on Exercise-Induced Muscle Damage and Oxidative Stress: A Narrative Scoping Review.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "In view of the studies analyzed and considering the role of L-carnitine in muscle bioenergetics and its antioxidant potential, this supplement could help in postexercise recovery. However, further studies are needed to conclusively clarify the mechanisms underlying these protective effects.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 154,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8214047",
+      "title": "Regulation of endogenous fat and carbohydrate metabolism in relation to exercise intensity and duration.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "In contrast, peripheral lipolysis was stimulated maximally at the lowest exercise intensity, and fatty acid release into plasma decreased with increasing exercise intensity.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "During 2 h of exercise at 65% VO2max plasma-derived substrate oxidation progressively increased over time, whereas muscle glycogen and triglyceride oxidation decreased.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 155,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37586947",
+      "title": "Low Energy Availability and Increased Risk of Relative Energy Deficiency in Sport (RED-S) During a 3767-km Thru-Hike on the Pacific Crest Trail: A Case Study.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "Exercise energy expenditure above rest (heart rate vs indirect calorimetry regression method) was 2834±1518 kcal/d, total energy expenditure was 5702±1323 kcal/d, and energy intake was 4141 kcal/d. Body mass decreased by 9%, and fat mass (dual-energy X-ray absorptiometry) decreased by 46%. Energy availability (energy intake minus exercise energy expenditure) was 19.3 kcal/d/kg fat-free mass, indicating low energy availability (defined as <30 kcal/d/kg).",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 156,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33661563",
+      "title": "Case studies in physiology: Impact of a long-distance hike on the Pacific Crest Trail on arterial function and body composition in a highly fit young male.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "Individuals who hike the entire length of the trail in one season (4-6 months) perform long daily exercise durations while exposed to extreme environmental temperatures, high altitudes, intense solar radiation, and the consumption of calorie-rich, nutrient-poor diets.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 157,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42572415",
+      "title": "Case study: Body composition and bone changes following a thru-hike of the Pacific Crest Trail by a young female adult.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "Her body fat percentage dropped from 33.2% to 24.9%, and there was a 52% decrease in visceral adipose tissue mass and area.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "A decrease in lumbar BMD despite engaging in load-bearing activity was also observed in two recent case study reports of male thru-hikers, suggesting a maladaptive response that warrants further investigation.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 158,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38095023",
+      "title": "l-Carnitine pretreatment ameliorates heat stress-induced acute kidney injury by restoring mitochondrial function of tubular cells.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "We observed an elevation in serum acylcarnitine levels, indicating carnitine insufficiency in patients with severe heat-related illness and/or AKI.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "l-Carnitine pretreatment ameliorated ATP production in murine tubular cell mitochondria and prevented a change in the kidney macrophage population dynamics observed in AKI: a decrease in tissue-resident macrophages, influx of bone marrow-derived macrophages, and change toward proinflammatory M1 polarization.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "To date, there has been little attention given to the role of carnitine in heat-related illness and AKI.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 159,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35464382",
+      "title": "Exogenous L-carnitine Administration Ameliorates the Adverse Effects of Heat Stress on Testicular Hemodynamics, Echotexture, and Total Antioxidant Capacity in Rams.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "exogenous LC administration ameliorates testicular hemodynamic disruptions, as measured by spectral Doppler ultrasonography, via augmentation of the rams' total antioxidant capacity under HS conditions.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 160,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7808246",
+      "title": "Carnitine supplementation: effect on muscle carnitine and glycogen content during exercise.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "Increased availability of serum carnitine does not result in an increase in muscle carnitine content nor does it alter lipid oxidation.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 161,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/3624147",
+      "title": "Acetylcarnitine formation during intense muscular contraction in humans.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "The results indicate that acetylcarnitine is a major metabolite formed during intense muscular effort and that carnitine may function in the regulation of the acetyl-CoA/CoA ratio by buffering excess production of acetyl units.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "Resting mean muscle total carnitine content was 20.0 mmol/kg dry muscle. Approximately 77% was free carnitine and 19% acetylcarnitine.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 162,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11880112",
+      "title": "Long-term administration of L-carnitine to humans: effect on skeletal muscle carnitine content and physical performance.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "The total carnitine content in the skeletal muscle was 4.10 +/- 0.82 micromol/g before, 4.79 +/- 1.19 micromol/g immediately after, and 4.19 +/- 0.61 micromol/g wet weight 2 months after the treatment (no significant difference).",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "Beneficial effects of the long-term treatment with L-carnitine on the physical performance of healthy adults cannot be explained by an increase in the carnitine muscle stores.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 163,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28363731",
+      "title": "Kidney Injury and Repair Biomarkers in Marathon Runners.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "82% of runners developed an increase in creatinine level equivalent to AKIN-defined AKI stages 1 and 2. 73% had microscopy diagnoses of tubular injury.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "An increase in injury and repair biomarker levels suggests structural damage to renal tubules occurring after marathon.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "73% had microscopy diagnoses of tubular injury.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "Serum creatine kinase levels continued to significantly increase from day 0 to day 2.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 164,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26657822",
+      "title": "Does Acute Kidney Injury From an Ultramarathon Increase the Risk for Greater Subsequent Injury?",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "Among 627 finishes in which serum creatinine values were known, 36.2% met \"risk\" or \"injury\" criterion with this group characterized by having faster finish times, greater body weight loss during the race, and higher postrace serum creatine kinase and urea nitrogen concentrations when compared with those not meeting the criteria.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "Mild AKI is common in 161-km ultramarathons, but there was no evidence that previous AKI caused greater renal dysfunction from a subsequent exercise stimulus of similar magnitude.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "For most (56.2%) of the 16 runners meeting the criteria at the first race, the subsequent race caused less increase in serum creatinine concentration and decrement in estimated glomerular filtration rate than the first race.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 165,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33344994",
+      "title": "Ultramarathon and Renal Function: Does Exercise-Induced Acute Kidney Injury Really Exist in Common Conditions?",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "Depending the methodology used to calculate GFR, the prevalence of AKI was observed from 0 to 12.5%.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "Our study showed a very low prevalence of AKI and no evidence that ultra-endurance running can cause important kidney damage in properly hydrated subjects with no use of NSAIDs.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "Whether the increase in urinary biomarkers of kidney damage following the race reflects structural kidney injury or a simple metabolic adaptation to strenuous exercise needs to be clarified.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 166,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41155766",
+      "title": "Acute Kidney Injury Biomarkers in Marathon Runners: Systematic Review and Meta-Analysis.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "Marathon running causes significant increases in kidney injury biomarkers, with different patterns of evolution.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "The largest increases were observed in Tissue Inhibitor of Metalloproteinases-2* Insulin-like Growth Factor Binding Protein-7 (TIMP-2*IGFBP), copeptin, urinary Liver-type Fatty Acid Binding Protein (L-FABP), urinary Monocyte Chemoattractant Protein-1 (MCP-1), IGFBP-7, urinary Chitinase 3-like Prote",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 167,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26513390",
+      "title": "Incidence and Prevalence of Acute Kidney Injury During Multistage Ultramarathons.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "Stage 1 had 56 (43.8%) with risk of AKI and 24 (18.8%) with injury; in stage 3, 61 (47.7%) were at risk, 41 (32%) had injury; in stage 5, 62 (48.4%) runners were at risk and 36 (28.1%) had injury.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "Cumulative incidence of AKI was 41.4%.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "Female sex, lower pack weight, and greater weight loss were associated with renal impairment.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 168,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24650338",
+      "title": "A prospective cohort study of acute kidney injury in multi-stage ultramarathon runners: the Biochemistry in Endurance Runner Study (BIERS).",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "no apparent cumulative effect was observed, with resolution of renal function to near baseline levels between stages.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "the majority of participants (55-80%) incurring AKI.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 169,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33997113",
+      "title": "Kidney physiology and pathophysiology during heat stress and the modification by exercise, dehydration, heat acclimation and aging.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "Recent evidence suggests the kidneys are at increased risk of pathological events during heat stress, namely acute kidney injury (AKI), and that this risk is compounded by dehydration and exercise.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "This heat stress related AKI is believed to contribute to the epidemic of chronic kidney disease (CKD) occurring in occupational settings.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 170,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26209462",
+      "title": "Heat stress, dehydration, and kidney function in sugarcane cutters in El Salvador--A cross-shift study of workers at risk of Mesoamerican nephropathy.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "Serum creatinine, uric acid and urea nitrogen increased, while chloride and potassium decreased.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "Mean workday temperature was 34-36 °C before noon, and 39-42 °C at noon.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "The high prevalence of reduced eGFR, and the cross-shift changes are consistent with recurrent dehydration from strenuous work in a hot and humid environment as an important causal factor.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 171,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26455995",
+      "title": "Heat Stress Nephropathy From Exercise-Induced Uric Acid Crystalluria: A Perspective on Mesoamerican Nephropathy.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "Increased hydration with water and salt, urinary alkalinization, reduction in sugary beverage intake, and inhibitors of uric acid synthesis should be tested for disease prevention.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "Individuals at risk for developing the disease are primarily male workers exposed to heat stress and physical exertion that predisposes to recurrent water and volume depletion, often accompanied by urinary concentration and acidification.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "Uric acid is generated during heat stress, in part consequent to nucleotide release from muscles.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 172,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39688252",
+      "title": "The kidney under heat stress: a vulnerable state.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "As body temperature increases, blood flow is directed toward the skin to aid in cooling, diverting it away from internal organs like the kidneys to support blood pressure regulation.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "Collectively, this can create a localized supply-demand mismatch, resulting in tissue hypoxia that can damage kidney tissues.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 173,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42694931",
+      "title": "Acute kidney injury and liver damage are the most common forms of end organ damage in exertional heat illness in otherwise healthy young adults.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "Acute kidney injury was the most common form of end organ damage observed (73-86%) followed closely by liver damage (59-73%).",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "EHS cases had higher peak damage levels for Cr, CK, AST, and ALT compared to either HI or HE.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 174,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9349646",
+      "title": "Effects of hydration state on hormonal and renal responses during moderate exercise in the heat.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "During exercise in the Dh compared to C state, plasma renin, aldosterone, arginine vasopressin (AVP), noradrenaline and adrenaline concentrations were increased (P < 0.05).",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "A reduction in creatinine clearance and urine flow was also observed (P < 0.05) together with a decrease in",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "Rehydration, by reducing this activation, could partially restore the renal concentrating ability despite the lowered plasma AVP.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 175,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41389078",
+      "title": "Exercise and Kidney Health: Core Curriculum 2026.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "Prevention strategies include individualized hydration plans, electrolyte replacement, and avoidance of nonsteroidal anti-inflammatory drugs.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "Adaptations in kidney physiology during exercise include reduced plasma flow, altered glomerular filtration, and hormone-mediated fluid retention.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "These changes are protective but may become maladaptive with dehydration, heat stress, or excessive fluid intake.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 176,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32202487",
+      "title": "Exertional rhabdomyolysis and acute kidney injury in endurance sports: A systematic review.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "345 (43.5%) individuals were diagnosed with ER (creatinine kinase > 5000 UI/L) and 130 (16.39%) with ER + AKI (creatinine ≥ 1.88 mg/dL).",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "Out of the total cases of ER + AKI, 96.92% were in ultra-endurance runners.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "Increased levels of muscle and kidney injury immediately after endurance events were reported, but after 5.86 days these levels usually returned to baseline.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 177,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39136944",
+      "title": "Acute Kidney Injury in Hospitalized Patients With Exertional Rhabdomyolysis.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "the risk of AKI was significantly higher in patients with ERM who used nonsteroidal anti-inflammatory drugs (NSAIDs) before admission (11 of 17 with AKI [64.7%] vs 40 of 183 without AKI [21.9%], P < .001) or experienced dehydration (9 of 183 without AKI [52.9%] vs 9 of 17 with AKI [4.9%], P < .001).",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "Seventeen patients (8.5%) developed AKI, none developed CKD, 1 (0.5%) developed compartment syndrome, and there were no fatalities.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "There was no association between serum CK levels and the risk of AKI.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "eliminating preadmission NSAID use and dehydration could reduce the risk of potential AKI in patients with ERM by 92.6% (95% CI, 85.7%-96.1%) in this population.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 178,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22334169",
+      "title": "Serum creatine kinase after exercise: drawing the line between physiological response and exertional rhabdomyolysis.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "CK elevations and muscle pain are common during basic training.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "suggesting that CK levels >50 times the upper limit of normal are more specific.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 179,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39444363",
+      "title": "Exercise-Associated Hyponatremic Encephalopathy, Rhabdomyolysis, and Acute Kidney Injury While Hiking in the Grand Canyon.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "We present an unusual case of concomitant exercise-associated hyponatremic encephalopathy (EAHE), exertional rhabdomyolysis (ER), and acute kidney injury (AKI) in a Grand Canyon hiker.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "consumed an excessive amount of water during his descent into the Canyon during hot weather.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "This case demonstrates the seriousness of overconsumption of water, as well as the potential complications of muscle damage when a deconditioned person does prolonged, strenuous exercise.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 180,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28288187",
+      "title": "Prevention of downhill walking-induced muscle damage by non-damaging downhill walking.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "These changes were significantly (P<0.05) attenuated (47-64%) for the PRE-DW group (-9.9 ± 9.6%, 339.3 ± 148.4 U/L, 27.8 ± 16.8 mm).",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "Prolonged DW induces damage to leg muscles, reducing force generating ability and muscle coordination.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "40-min DW (-28%, 5 km/h, 10% load).",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 181,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28679502",
+      "title": "Ibuprofen versus placebo effect on acute kidney injury in ultramarathons: a randomised controlled trial.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "Intent-to-treat analysis found 22 (52%) ibuprofen versus 16 (34%) placebo users developed AKI (18% difference, 95% CI -4% to 41%; OR 2.1, 95% CI 0.9 to 5.1) with a number needed to harm of 5.5.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "up to 75% of ultramarathon runners ingest these during competition",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "The overall incidence of AKI was 44%.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "Consideration should therefore be taken before ingesting NSAID during endurance running as it could exacerbate renal injury.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 182,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40947642",
+      "title": "The prevalence and perceptions of non-steroidal anti-inflammatory drug use among ultra-endurance runners.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "Over half (53%) reported NSAID use, with ibuprofen most common.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "This mixed-methods, cross-sectional survey included 167 ultra-endurance runners across five self-reported performance tiers.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "Despite 77% being aware of potential harms, most often renal and gastrointestinal (GI), usage remained high due to perceived benefits.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "Information sources were largely informal, reflecting entrenched norms around pain management.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 183,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29784554",
+      "title": "Renal stress and kidney injury biomarkers in response to endurance cycling in the heat with and without ibuprofen.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "Changes in renal biomarkers suggest mild acute kidney injury and reduced kidney function during a single bout of endurance cycling in the heat, without influence from moderate ibuprofen ingestion.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "Serum creatinine significantly increased from pre- (0.52±0.14mg/dL) to post-event (0.88±0.21mg/dL; p<0.001).",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 184,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39876077",
+      "title": "Effect of Ibuprofen on Markers of Acute Kidney Injury, Intestinal Injury, and Endotoxemia after Running in the Heat.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "These findings indicate that ibuprofen ingestion does not worsen intestinal or renal injury experienced during 1 h of exercise in the heat, but increases pro-inflammatory IL-8.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 185,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16679974",
+      "title": "NSAID use increases the risk of developing hyponatremia during an Ironman triathlon.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "The incidence of NSAID use was 30%, whereas the overall incidence of hyponatremia was 1.8%.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "The NSAID group had lower plasma Na (P = 0.02) and higher plasma K (P = 0.002), urea (P = 0.05), and creatinine (P = 0.01).",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 186,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29308843",
+      "title": "Associations between recreational runners' anti-inflammatory drug use, coping strategies, and time loss due to injury and illness during preparations for a marathon event.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "42% reported NSAID use.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 187,
+      "url": "https://cdn.mdedge.com/files/s3fs-public/jfp-archived-issues/1993-volume_36-37/JFP_1993-05_v36_i5_health-care-needs-of-appalachian-trail-h.pdf",
+      "title": "Health Care Needs of Appalachian Trail Hikers",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "Analgesics and nonsteroidal anti-inflammatory agents were frequently carried and used.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "The majority of the analgesic medications were nonsteroidal, anti-inflammatory agents.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "Injuries and illnesses were reported by 82% of the respondents, incurring an average loss of 4.7 days of hiking.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 188,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29804621",
+      "title": "The Epidemiology and Medical Morbidity of Long-Distance Backpackers on the John Muir Trail in the Sierra Nevada.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "Backpackers lost 3.5±2.6 (+3.6 to -18.2) kg (7.7±5.8 [+8 to -40] lbs).",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "Over half (57%) of respondents reported illness or injury, with blisters (57%), sleep problems (57%), and pack strap pain (46%) most prevalent.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 189,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15829535",
+      "title": "Hyponatremia among runners in the Boston Marathon.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "On multivariate analysis, hyponatremia was associated with weight gain (odds ratio, 4.2; 95 percent confidence interval, 2.2 to 8.2), a racing time of >4:00 hours (odds ratio for the comparison with a time of <3:30 hours, 7.4; 95 percent confidence interval, 2.9 to 23.1), and body-mass-index extremes.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "Thirteen percent had hyponatremia (a serum sodium concentration of 135 mmol per liter or less); 0.6 percent had critical hyponatremia (120 mmol per liter or less).",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 190,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32044213",
+      "title": "Wilderness Medical Society Clinical Practice Guidelines for the Management of Exercise-Associated Hyponatremia: 2019 Update.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "Exercise-associated hyponatremia (EAH) is defined by a serum or plasma sodium concentration below the normal reference range of 135 mmol·L-1 that occurs during or up to 24 h after prolonged physical activity.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "EAH most commonly has overlapping signs and symptoms with heat exhaustion and exertional heat stroke.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 191,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10530529",
+      "title": "Exertional heat illness and hyponatremia in hikers.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "Of 44 patients who had serum samples analyzed, 7 had hyponatremia with clinically significant symptoms and serum sodium levels <130 mmol/L: 3 had grand mal seizures, 2 had other major central nervous system disorders, and 2 had minor neurological symptoms.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "Indirect evidence suggests that hyponatremic patients were hyperhydrated.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "When exercise in the heat is prolonged, hyponatremia is suggested either by altered mental status or by seizures without hyperpyrexia or hypoglycemia.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 192,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24119571",
+      "title": "Exertional heat-related illnesses at the Grand Canyon National Park, 2004-2009.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "Clinical HRI assessments included dehydration (25%), heat exhaustion (23%), and suspected hyponatremia (19%).",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "Grand Canyon EMS responded to 474 nonfatal and 6 fatal HRI cases, with the majority",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "Almost all (90%) were hiking; 40% required helicopter evacuation.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 193,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38425235",
+      "title": "Wilderness Medical Society Clinical Practice Guidelines for the Prevention and Treatment of Heat Illness: 2024 Update.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "updated review of the classifications, pathophysiology, evidence-based guidelines for planning and preventive measures, and recommendations for field- and hospital-based therapeutic management of heat illness.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 194,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41247794",
+      "title": "Heat acclimation alters the relation between hyperthermia and biomarkers of kidney function during exercise heat stress.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "Heat acclimation did not alter the increase in ΔCr and ΔNGAL to exercise heat stress (P ≥ 0.325).",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "the kidneys may exhibit increased sensitivity to hyperthermia in heat-acclimated individuals.NEW & NOTEWORTHY He",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 195,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31085130",
+      "title": "Variation in renal responses to exercise in the heat with progressive acclimatisation.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "Heat acclimatization is associated with reduced markers of renal stress and AKI incidence, perhaps due to improved regional perfusion.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "Acute Kidney Injury was common (26/100 exposures) and occurred most frequently in the unacclimatised state.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "Acclimatisation and monitoring Ratings of Perceived Exertion are practical, non-invasive measures that could help to reduce renal injury from exercise in the heat.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 196,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36472884",
+      "title": "Carnitine supplements for people with chronic kidney disease requiring dialysis.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "The available evidence does not currently support the use of carnitine supplementation in the treatment of dialysis-related carnitine deficiency.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "Although carnitine supplementation may slightly improve anaemia-related markers, carnitine supplementation makes little or no difference to adverse events.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 197,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24368434",
+      "title": "L-Carnitine supplementation for adults with end-stage kidney disease requiring maintenance hemodialysis: a systematic review and meta-analysis.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "This meta-analysis failed to confirm the previous findings regarding the effects of l-carnitine on hemoglobin and the erythropoietin dose but showed that l-carnitine significantly decreased serum LDL and CRP.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 198,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26508680",
+      "title": "Levocarnitine Improves Cardiac Function in Hemodialysis Patients With Left Ventricular Hypertrophy: A Randomized Controlled Trial.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "Levocarnitine therapy is useful for hemodialysis patients with carnitine deficiency; these patients may benefit from such therapy, with amelioration of cardiac function and reduction of left ventricular mass index.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 199,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41644022",
+      "title": "Effectiveness of L-Carnitine for the Treatment of Erythropoietin-Resistant Renal Anemia: A Randomized, Double-Blind, Placebo-Controlled Pilot Trial.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "L-carnitine supplementation was associated with a 25% reduction in ERI, significantly greater than that seen in placebo-treated patients (3% reduction).",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 200,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12751050",
+      "title": "Dialysis-related carnitine disorder and levocarnitine pharmacology.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "Among the homeostatic processes controlling the endogenous L-carnitine pool in humans, the kidney has a vital role through extensive and adaptive tubular reabsorption.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "Exogenous L-carnitine, administered intravenously, is approved for the treatment of secondary carnitine deficiency caused by long-term hemodialysis.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 201,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17506778",
+      "title": "A pharmacokinetic model for L-carnitine in patients receiving haemodialysis.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "Haemodialysis causes rapid reductions in plasma L-carnitine concentrations with each dialysis session.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "the ongoing dialytic loss of L-carnitine may lead to a slow depletion of the compound, contributing to a possible secondary deficiency.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 202,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15386530",
+      "title": "Protective effect of L-carnitine on renal ischaemia-reperfusion injury in the rat.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "It is shown that carnitine protects kidney tissue against ischaemia-reperfusion injury.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "received L-carnitine hydrochloride (100 mg kg(-1)) intraperitoneally.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 203,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20093144",
+      "title": "L-carnitine attenuates oxidant injury in HK-2 cells via ROS-mitochondria pathway.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "These results suggested that L-carnitine could protect HK-2 cells from H(2)O(2)-induced injury through the inhibition of oxidative damage, mitochondria dysfunction and ultimately inhibition of cell apoptosis",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 204,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22698429",
+      "title": "Stimulation of carnitine palmitoyltransferase 1 improves renal function and attenuates tissue damage after ischemia/reperfusion.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "Fatty acid β-oxidation is the major metabolic pathway for generating adenosine triphosphate (ATP) in the kidneys, which is governed by carnitine palmitoyltransferase 1 (CPT1).",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "Stimulation of CPT1 activity by C75 recovered ATP depletion, improved renal function, attenuated tissue injury, and inhibited proinflammatory cytokine production and neutrophil infiltration after renal I/R injury.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 205,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21529274",
+      "title": "The role of carnitine in preventing renal damage developed as a result of infrarenal aortic ischemia-reperfusion.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "In this study, we showed carnitine can partially prevent renal damage in infrarenal AIR models of rats.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 206,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41261345",
+      "title": "L-carnitine mitigates urographin-induced nephrotoxicity via modulation of inflammatory, oxidative, and apoptotic pathways in rat kidney.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "LC exerts potent nephroprotective effects against URO-induced renal injury by attenuating oxidative stress, suppressing pro-inflammatory and apoptotic signaling, and promoting anti-apoptotic gene expression.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 207,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31797710",
+      "title": "Impact of pretreatment with carnitine and tadalafil on contrast-induced nephropathy in CKD patients.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "In contrast, pretreatment with carnitine prevented the increase in urinary NGAL and reduced SCr below basal levels.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 208,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28828020",
+      "title": "Nephroprotective Effects of L-Carnitine against Contrast-Induced Nephropathy in Patients Undergoing Percutaneous Coronary Intervention: A Randomized Open-Labeled Clinical Trial.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "Our results showed that oral L-carnitine was able to prevent an increase in NGAL following contrast medium administration in patients undergoing PCI.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 209,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30646314",
+      "title": "Effect of Levocarnitine vs Placebo as an Adjunctive Treatment for Septic Shock: The Rapid Administration of Carnitine in Sepsis (RACE) Randomized Clinical Trial.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "In this dose-finding, phase 2 adaptive randomized trial, the most efficacious dose of levocarnitine (18 g) did not meaningfully reduce cumulative organ failure at 48 hours.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 210,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23851424",
+      "title": "Preliminary safety and efficacy of L-carnitine infusion for the treatment of vasopressor-dependent septic shock: a randomized control trial.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "Mortality was significantly lower at 28 days in the L-carnitine group (4/16 vs 9/15, P = .048), with a nonsignificant improved survival at 1 year (P = .06).",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 211,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36327640",
+      "title": "The supplementation of L-carnitine in septic shock patients: Systematic review and meta-analysis.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "There is low-quality evidence that the use of L-carnitine has no significant effect on reducing 28-day mortality in septic shock patients.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 212,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41692009",
+      "title": "L-Carnitine and Acetyl-L-Carnitine in Drug Poisonings: A Systematic Review of Clinical and Experimental Evidence.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "Clinical studies, mechanistic models, and animal experiments involving LC/ALC in valproic acid, aluminum phosphide, organophosphates, paracetamol (acetaminophen), methanol and other toxic alcohols, and anthracycline cardiotoxicity were found by searching PubMed, Scopus, and Web of Science between February and July 2025.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "LC may be taken into consideration in cases of severe valproate toxicity with hyperammonemia or hepatotoxicity, as well as an adjuvant in certain organophosphate and aluminum phosphide poisonings within thorough resuscitation protocols.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 213,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28065453",
+      "title": "Protective Effects of L-Carnitine Against Delayed Graft Function in Kidney Transplant Recipients: A Pilot, Randomized, Double-Blinded, Placebo-Controlled Clinical Trial.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "This study showed no protective effects of oral L-carnitine supplementation against DGF occurrence recipients; however, 3-month graft loss was lower in the L-carnitine supplemented group.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 214,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34065078",
+      "title": "Sugar or Fat? Renal Tubular Metabolism Reviewed in Health and Disease.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "Thus, proximal tubules use fatty acid oxidation, which generates more adenosine triphosphate (ATP) than glucose metabolism, as its preferred metabolic pathway.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 215,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10491743",
+      "title": "Role of fatty acid beta-oxidation and calcium-independent phospholipase A2 in ischemic acute renal failure.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "Altogether, lysophospholipids, long-chain acyl carnitines, and long-chain acyl coenzyme A inhibit proximal tubule Na+K(+)-ATPase.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 216,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39986590",
+      "title": "Acute kidney injury and energy metabolism.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "Special emphasis is placed on the role of fatty acid and carnitine metabolism in AKI, with the goal of providing a theoretical foundation for future investigations into AKI mechanisms and the identification of early diagnostic biomarkers.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 217,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40402578",
+      "title": "Involvement of impaired carnitine-induced fatty acid oxidation in experimental and human diabetic kidney disease.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "In our single-center randomized control trial with patients undergoing peritoneal dialysis, l-carnitine supplementation preserved residual renal function and increased urine volume, the latter of which was correlated with improvement of tubular injury.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 218,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29384504",
+      "title": "Septic Shock Nonsurvivors Have Persistently Elevated Acylcarnitines Following Carnitine Supplementation.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "L-Carnitine treatment increased levels of all measured acylcarnitines; an effect that was sustained for at least 36 h following completion of the infusion and was more prominent among nonsurvivors.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 219,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37775945",
+      "title": "Kidney function as a key driver of the pharmacokinetic response to high-dose L-carnitine in septic shock.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "Kidney function estimates that leverage cystatin C provided superior model fit.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 220,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32579962",
+      "title": "Downregulation of OCTN2 by cytokines plays an important role in the progression of inflammatory bowel disease.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "Mixed proinflammatory cytokines TNF-α, IL-1β and IFNγ downregulated the expression of OCTN2 and subsequently reduced the l-Car content through PPARγ/RXRα pathways in FHC cells.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 221,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/956930",
+      "title": "Effects of carnitine administration, fasting, and exercise on urinary carnitine excretion in man.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "Urinary carnitine excretion was significantly increased during five-day fasting; a maximum level of 2.17 +/- 0.24 (mean and SD) mmoles/day was 4.6 times higher than the usual level of 0.47 +/- 0.10 mmoles/day (p less than 0.001).",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "The urinary excretion of carnitine increased slightly with heavy running exercise.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 222,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/1922166",
+      "title": "Carnitine in muscle, serum, and urine of nonprofessional athletes: effects of physical exercise, training, and L-carnitine administration.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "These changes were likely related with the significantly increased urinary excretion of esterified and total carnitine which occurred after physical exercise.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 223,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34383825",
+      "title": "Acylcarnitine profile in Alaskan sled dogs during submaximal multiday exercise points out metabolic flexibility and liver role in energy metabolism.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "Our results show chain-specific modification of AC profiles during the exercise challenge: LCACs maintained a steady increase throughout exercise, some SCACs increased during the last phase of exercise and acetylcarnitine (C2) initially increased before decreasing during the later phase of exercise.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 224,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3086762",
+      "title": "Gut flora metabolism of phosphatidylcholine promotes cardiovascular disease",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "Dietary supplementation of mice with choline, TMAO or betaine promoted up-regulation of multiple macrophage scavenger receptors linked to atherosclerosis, and supplementation with choline or TMAO promoted atherosclerosis.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "Suppression of intestinal microflora in atherosclerosis-prone mice inhibited dietary choline-enhanced atherosclerosis.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 225,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3650111",
+      "title": "Intestinal microbiota metabolism of L-carnitine, a nutrient in red meat, promotes atherosclerosis",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "Omnivorous subjects are shown to produce significantly more TMAO than vegans/vegetarians following ingestion of L-carnitine through a microbiota-dependent mechanism.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "After a 12 hour overnight fast, subjects received a capsule of d3-carnitine (250 mg) alone, or in some cases (as in data for subject shown) also an 8 ounce steak (estimated 180 mg L-carnitine), whereupon serial plasma and 24h urine collection was obtained for TMA and TMAO analyses.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "Chronic dietary L-carnitine supplementation in mice significantly altered cecal microbial composition, markedly enhanced synthesis of TMA/TMAO, and increased atherosclerosis, but not following suppression of intestinal microbiota.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "Aortic root atherosclerotic plaque quantification revealed approximately a doubling in disease burden compared to normal chow fed animals",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "Plasma L-carnitine levels in subjects undergoing cardiac evaluation ( _n_ = 2,595) predict increased risks for both prevalent cardiovascular disease (CVD) and incident major adverse cardiac events (MI, stroke or death), but only among subjects with concurrently high TMAO levels.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 226,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27190056",
+      "title": "Trimethylamine and Trimethylamine N-Oxide, a Flavin-Containing Monooxygenase 3 (FMO3)-Mediated Host-Microbiome Metabolic Axis Implicated in Health and Disease",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "FMO3 converts the odorous TMA to nonodorous TMA N-oxide (TMAO), which is excreted in urine.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 227,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6307959",
+      "title": "l-Carnitine in omnivorous diets induces an atherogenic gut microbial pathway in humans",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "Moreover, a striking increase in d3-TMAO generation was observed in omnivores over vegans/vegetarians (>20-fold; _P_ = 0.001) following oral d3-l-carnitine ingestion, whereas fasting endogenous plasma l-carnitine and γBB levels were similar in vegans/vegetarians ( _n_ = 32) versus omnivores ( _n_ = 40).",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "Continuation of daily l-carnitine supplementation for at least an additional month resulted in no further increase in d3-l-carnitine→d3-TMAO transformation in omnivores, but continued to increase d3-TMAO generation in vegans/vegetarians following oral d3-l-carnitine challenge ( [Figure 4A](https://pmc.ncbi.nlm.nih.gov/articles/PMC6307959/#F4)).",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "Gut microbiota γBB→TMA/TMAO transformation is induced by omnivorous dietary patterns and chronic l-carnitine exposure.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 228,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6691853",
+      "title": "Identification of TMAO-producer phenotype and host-diet-gut dysbiosis by carnitine challenge test in human and germ-free mice",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "The omnivores exhibited a 10-fold higher OR to be high TMAO producer than vegetarians.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 229,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7676756",
+      "title": "Characterization of TMAO productivity from carnitine challenge facilitates personalized nutrition and microbiome signatures discovery",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "Production of atherogenic trimethylamine N-oxide (TMAO) from carnitine is a gut microbiota-directed pathway and varies widely among individuals.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "A microbiome-based random forest classifier was therefore constructed to predict the TMAO producer phenotype (AUROC = 0.81) which was then validated with an external cohort (AUROC = 0.80).",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 230,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26751065",
+      "title": "Serum Trimethylamine-N-Oxide Is Strongly Related to Renal Function and Predicts Outcome in Chronic Kidney Disease",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "GFR was the dominant variable affecting TMAO (β = -0.41; p<0.001), choline (β = -0.38; p<0.001), and betaine (β = 0.45; p<0.001) levels.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "Elevated TMAO levels are strongly associated with degree of renal function in CKD and normalize after renal transplantation.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "A longitudinal study of 74 CKD 5 patients starting renal replacement therapy demonstrated that whereas dialysis treatment did not affect TMAO, Rtx reduced levels of TMAO to that of controls (p<0.001).",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 231,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26229137",
+      "title": "Serum Trimethylamine-N-Oxide is Elevated in CKD and Correlates with Coronary Atherosclerosis Burden",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "TMAO concentrations were markedly higher in patients receiving dialysis (median \\[interquartile range\\], 94.4 μM \\[54.8-133.0 μM\\] for dialysis-dependent patients versus 3.3 μM \\[3.1-6.0 μM\\] for healthy controls; P<0.001); whereas renal transplantation resulted in substantial reductions in TMAO concentrations (median \\[min-max\\] 71.2 μM \\[29.2-189.7 μM\\] pretransplant versus 11.4 μM \\[8.9-20.2 μM\\] post-transplant; P=0.03).",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 232,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4312512",
+      "title": "Gut microbiota-dependent trimethylamine N-oxide (TMAO) pathway contributes to both development of renal insufficiency and mortality risk in chronic kidney disease",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "Within CKD subjects, higher (4th vs. 1st quartile) plasma TMAO level was associated with a 2.8-fold increased mortality risk. Following adjustments for traditional risk factors, hsCRP and eGFR, elevated TMAO levels remained predictive of 5-year mortality risk (HR 1.93 \\[95%CI 1.13–3.29\\], p<0.05).",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "In animal models, elevated dietary choline or TMAO directly led to progressive renal tubulointerstitial fibrosis and dysfunction.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 233,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38593157",
+      "title": "The Gut Microbial Metabolite Trimethylamine N -oxide, Incident CKD, and Kidney Function Decline",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "Higher TMAO levels were associated with higher risk of incident CKD (second to fifth versus first quintile hazard ratio \\[95% confidence interval\\]=1.65 \\[1.22 to 2.23\\], 1.68 \\[1.26 to 2.25\\], 2.28 \\[1.72 to 3.02\\], and 2.24 \\[1.68 to 2.98\\], respectively) and greater annualized eGFR decline (second to fifth versus first quintile annualized eGFR change=−0.21 \\[−0.32 to −0.09\\], −0.17 \\[−0.29 to −0.05\\], −0.35 \\[−0.47 to −0.22\\], and −0.43 \\[−0.56 to −0.30\\] ml/min per 1.73 m2, respectively) with monotonic dose–response relationships.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 234,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30665924",
+      "title": "Trimethylamine N-Oxide and Cardiovascular Outcomes in Patients with ESKD Receiving Maintenance Hemodialysis",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "We observed a wide distribution of serum TMAO in our cohort, with approximately 80% of participants exhibiting TMAO concentrations ≥56 _µ_ M and a maximum TMAO concentration of 1103.1 _µ_ M.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "We found no evidence linking TMAO to adverse clinical outcomes in patients receiving maintenance hemodialysis with moderate to severe secondary hyperparathyroidism.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 235,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34769294",
+      "title": "The Fibrotic Effects of TMAO on Human Renal Fibroblasts Is Mediated by NLRP3, Caspase-1 and the PERK/Akt/mTOR Pathway",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "We found that TMAO promoted renal fibroblast activation and fibroblast proliferation via the PERK/Akt/mTOR pathway, NLRP3, and caspase-1 signaling.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "A high TMAO-containing diet has been found to cause tubulointerstitial renal fibrosis in mice.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 236,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28807612",
+      "title": "The role of trimethylamine N-oxide as a mediator of cardiovascular complications in chronic kidney disease",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "Plasma TMAO is cleared by the kidney, and TMAO levels are elevated in CKD.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 237,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37915930",
+      "title": "The dietary source of trimethylamine N-oxide and clinical outcomes: an unexpected liaison",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "TMAO is also found naturally in fish and certain types of seafood, with the TMAO content highly variable according to the depth of the sea where the fish is caught, as well as processing and storage.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "Although evidence points towards TMAO as being an important link to vascular damage and adverse cardiovascular outcomes, the evidence in CKD patients has not been consistent.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 238,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23614584",
+      "title": "Intestinal microbial metabolism of phosphatidylcholine and cardiovascular risk",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "Increased plasma levels of TMAO were associated with an increased risk of a major adverse cardiovascular event (hazard ratio for highest vs. lowest TMAO quartile, 2.54; 95% confidence interval, 1.96 to 3.28; P<0.001).",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "Plasma levels of TMAO were markedly suppressed after the administration of antibiotics and then reappeared after withdrawal of antibiotics.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 239,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29020409",
+      "title": "Gut microbe-generated metabolite trimethylamine-N-oxide as cardiovascular risk biomarker: a systematic review and dose-response meta-analysis",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "High TMAO plasma levels were associated with increased incidence of all-cause mortality \\[14 studies for 16 cohorts enrolling 15 662 subjects, hazard ratio (HR): 1.91; 95% confidence interval (CI): 1.40-2.61, P < 0.0001, I2 = 94%\\] and MACCE (5 studies for 6 cohorts enrolling 13 944 subjects, HR: 1.67, 95% CI: 1.33-2.11, P < 0.00001, I2 = 46%,). Dose-response meta-analysis revealed that the relative risk (RR) for all-cause mortality increased by 7.6% per each 10 μmol/L increment of TMAO \\[summary RR: 1.07, 95% CI (1.04-1.11), P < 0.0001; based on seven studies\\].",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 240,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40603925",
+      "title": "Trimethylamine-N-oxide (TMAO) and risk of incident cardiovascular events in the multi ethnic study of Atherosclerosis",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "After multivariate adjustment, TMAO associated with higher risk of ASCVD in a dose-dependent fashion, with hazard ratios across quintiles of 1.02, 1.17, 1.23, and 1.33 (95% CI 1.02, 1.74), respectively, compared to the lowest quintile (P-trend = 0.01).",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "Risk appeared possibly larger among Hispanic and Chinese adults; and among individuals with lower baseline renal function; although these interactions did not achieve statistical significance.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 241,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31167879",
+      "title": "Assessment of Causal Direction Between Gut Microbiota-Dependent Metabolites and Cardiometabolic Health: A Bidirectional Mendelian Randomization Analysis",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "Genetically predicted higher TMAO and carnitine were not associated with higher odds of T2DM, AF, CAD, MI, stroke, and CKD after Bonferroni correction ( _P_ ≤ 0.0005).",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "We further found that T2DM (0.130 ± 0.036, _P_ < 0.0001) and CKD (0.483 ± 0.168, _P_ = 0.004) were causally associated with higher TMAO levels.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "Our Mendelian randomization findings support that T2DM and kidney disease increase TMAO levels and that observational evidence for cardiovascular diseases may be due to confounding or reverse causality.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 242,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26584136",
+      "title": "L-Carnitine intake and high trimethylamine N-oxide plasma levels correlate with low aortic lesions in ApoE(-/-) transgenic mice expressing CETP",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "Surprisingly, and independently from treatment group, TMAO levels inversely correlated with aortic lesion size in both aortic root and thoracic aorta. High TMAO levels were found to significantly correlate with smaller aortic lesion area. Plasma lipid and lipoprotein levels did not change with treatment nor with TMAO levels, suggesting that the observed effects on lesion area were independent from lipid changes. **Conclusion:** These findings suggest that TMAO slows aortic lesion formation in this mouse model and may have a protective effect against atherosclerosis development in humans.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 243,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35366920",
+      "title": "Progression of atherosclerosis with carnitine supplementation: a randomized controlled trial in the metabolic syndrome",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "In 157 participants (L-C N = 76, placebo N = 81), no difference in TPV change between arms was found. The L-C group had a greater increase in carotid atherosclerotic stenosis of 9.3% (p = 0.02) than the placebo group.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 244,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9283263",
+      "title": "Circulating trimethylamine N-oxide levels following fish or seafood consumption",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "Consumption of fish sticks, cod, and to lesser extent, salmon, lead to significant increases in circulating TMAO levels. Within one day, circulating TMAO concentrations in all participants returned to baseline levels.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "The likelihood of having an elevated (>6.4 μM) TMAO level the morning after eating either fish or red meat was 45% or 20%, respectively. Among participants that ate neither fish nor red meat the previous night, the likelihood of elevated TMAO level at blood draw was 7.4%.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "We conclude that some fish and seafood contain high levels of TMAO, and may induce a transient elevation in TMAO levels in some individuals.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "Here, we determined the effects of fish or seafood consumption on circulating TMAO levels in participants with normal renal function.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 245,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34091663",
+      "title": "Plasma TMAO increase after healthy diets: results from 2 randomized controlled trials with dietary fish, polyphenols, and whole-grain cereals",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "Diets rich in LCn3 of marine origin or WGCs significantly increased plasma TMAO concentration. These changes mirrored the direct associations between TMAO concentrations and intakes of fish and WGCs, suggesting that TMAO reflects intakes of these healthy foods and, therefore, it is not a universally valid biomarker of cardiometabolic risk independent of the background diet.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "Among food groups, TMAO directly correlated with the intake of fish, vegetables, and whole-grain products, but not meat, processed meat, and dairy products.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 246,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30341034",
+      "title": "The Renal Safety of L-Carnitine, L-Arginine, and Glutamine in Athletes and Bodybuilders",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "The risks and benefits of L-carnitine on the athletes' and bodybuilders' kidney have not been evaluated yet. However, L-carnitine up to 6000 mg/day is generally considered to be a safe supplement at least in healthy adults.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 247,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42287393",
+      "title": "Trimethylamine N-oxide in exercise physiology: a gut microbiota-derived signal linking metabolic stress, redox balance and cardiometabolic health",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "Across human studies, TMAO levels do not consistently correlate with aerobic fitness, habitual physical activity, or training status. Exercise-only interventions rarely produce significant changes in circulating TMAO concentrations, whereas dietary manipulation and precursor supplementation exert substantially stronger effects.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 248,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16901595",
+      "title": "Risk assessment for carnitine",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "The OSL risk assessment method indicates that the evidence of safety is strong at intakes up to 2000mg/day l-carnitine equivalents for chronic supplementation, and this level is identified as the OSL.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "Although much higher levels have been tested without adverse effects and may be safe, the data for intakes above 2000mg/day are not sufficient for a confident conclusion of long-term safety.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 249,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32392758",
+      "title": "Trimethylamine N-Oxide in Relation to Cardiometabolic Health-Cause or Effect?",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "Several animal studies reported neutral or even beneficial effects of TMAO or its precursors in cardiovascular disease model systems, supporting the clinically proven beneficial effects of its precursor, L-carnitine, or a sea-food rich diet (naturally containing TMAO) on cardiometabolic health.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "Fish intake provides a direct significant source of TMAO.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 250,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29581220",
+      "title": "Effect of Vegan Fecal Microbiota Transplantation on Carnitine- and Choline-Derived Trimethylamine-N-Oxide Production and Vascular Inflammation in Patients With Metabolic Syndrome",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "With vegan-donor fecal microbiota transplantation, intestinal microbiota composition in metabolic syndrome patients, as monitored by global fecal microbial community structure, changed toward a vegan profile in some of the patients; however, no functional effects from vegan-donor fecal microbiota transplantation were seen on TMAO production, abdominal aortic 18F-fluorodeoxyglucose uptake, or ex vivo cytokine production from peripheral blood mononuclear cells.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 251,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26502377",
+      "title": "Fish protein increases circulating levels of trimethylamine-N-oxide and accelerates aortic lesion formation in apoE null mice",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "Fish protein intake was accompanied by increased serum concentrations of trimethylamine-N-oxide (7.03 ± 2.83 μmol/L), as compared with casein (0.92 ± 0.46 μmol/L) and soy protein (1.32 ± 0.54 μmol/L) intake.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "Morphometric analysis of the aorta revealed that the atherosclerotic plaque area of fish protein fed mice was twofold larger than that in casein- or soy protein-fed mice.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 252,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39683637",
+      "title": "Revisiting the Role of Carnitine in Heart Disease Through the Lens of the Gut Microbiota",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "Dietary interventions, such as increasing fiber, polyphenols, and probiotics, can modulate the gut microbiota to reduce TMAO production.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 253,
+      "url": "https://smw.ch/index.php/smw/article/download/389/386/766",
+      "title": "Interaction of food supplement L-carnitine with oral anticoagulant acenocoumarol",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "An unexpected rise of INR to 4.65 which was observed again despite a dose correction was the reason for a detailed questioning on food intake.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "The patient had been taking 1000 mg/d of carnitine for a period of ten weeks.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "after the product was omitted the INR values returned to a stable range (2.4–2.8) for over 4 months.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "There is one earlier report of potentiation of acenocoumarol by carnitine in the literature [6], thus confirmed by our observation 10 years later.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "The mechanism of interaction is still unknown.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 254,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15340883",
+      "title": "Interaction of food supplement L-carnitine with oral anticoagulant acenocoumarol.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "Interaction of food supplement L-carnitine with oral anticoagulant acenocoumarol.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 255,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8429297",
+      "title": "Potentiation of acenocoumarol action by L-carnitine.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "Potentiation of acenocoumarol action by L-carnitine.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 256,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29076953",
+      "title": "Acetyl-L-Carnitine Supplementation and the Treatment of Depressive Symptoms: A Systematic Review and Meta-Analysis.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "ALC supplementation significantly decreases depressive symptoms compared with placebo/no intervention, while offering a comparable effect with that of established antidepressant agents with fewer adverse effects.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "Twelve RCTs (11 of which were ALC monotherapy) with a total of 791 participants",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "the incidence of adverse effects was significantly lower in the ALC group than in the antidepressant group.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 257,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/86768",
+      "title": "Myasthenia-like syndrome associated with carnitine in patients on long-term haemodialysis.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "Myasthenia-like syndrome associated with carnitine in patients on long-term haemodialysis.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 258,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11502782",
+      "title": "Usefulness of L-carnitine, a naturally occurring peripheral antagonist of thyroid hormone action, in iatrogenic hyperthyroidism: a randomized, double-blind, placebo-controlled clinical trial.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "In conclusion, L-carnitine is effective in both reversing and preventing symptoms of hyperthyroidism and has a beneficial effect on bone mineralization.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "we assessed whether 2 or 4 g/d oral L-carnitine were able to both reverse and prevent/minimize nine hyperthyroidism- related symptoms",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "Because hyperthyroidism depletes the body deposits of carnitine and since carnitine has no toxicity, teratogenicity, contraindications and interactions with drugs, carnitine can be of clinical use.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 259,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15591013",
+      "title": "Effects of carnitine on thyroid hormone action.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "In particular, L-carnitine inhibits both triiodothyronine (T3) and thyroxine (T4) entry into the cell nuclei.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "we showed that 2 and 4 grams per day of oral L-carnitine are capable of reversing hyperthyroid symptoms (and biochemical changes in the hyperthyroid direction) as well as preventing (or minimizing) the appearance of hyperthyroid symptoms",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 260,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38377965",
+      "title": "Musculoskeletal Health Worsened from Carnitine Supplementation and Not Impacted by a Novel Individualized Treadmill Training Protocol.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "Carnitine supplementation worsened CKD progression, mineral metabolism biochemistries, and cortical porosity and did not have an impact on physical function.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "Future studies should seek to better understand carnitine doses in conditions of compromised renal function to prevent toxicity which may result from elevated carnitine levels",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 261,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/6232557",
+      "title": "[Myasthenic syndrome induced by D,L-carnitine in a chronic hemodialysis patient].",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "[Myasthenic syndrome induced by D,L-carnitine in a chronic hemodialysis patient].",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 262,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7381520",
+      "title": "Myasthenia due to carnitine treatment.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "Severe weakness of lower cranial and girdle muscles has been found in 4 subjects among 20 dialysis patients treated with carnitine in order to correct their high plasma triglyceride level.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "These findings suggest a hemicholinium activity of carnitine at synaptic level.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 263,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19178874",
+      "title": "Comparison of pharmacokinetics of L-carnitine, acetyl-L-carnitine and propionyl-L-carnitine after single oral administration of L-carnitine in healthy volunteers.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "Liquid L-carnitine (2.0 g) was administered orally as a single dose in 12 healthy subjects.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "L-carnitine has a greater maximum plasma concentration than ALC and PLC.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "These data may have important implications in the designing of dosing regimens for L-carnitine or its analogues, such as ALC or PLC.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 264,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19341458",
+      "title": "Glycine propionyl-L-carnitine produces enhanced anaerobic work capacity with reduced lactate accumulation in resistance trained males.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "Testing was performed 90 minutes following oral ingestion of either 4.5 grams GPLC or 4.5 grams cellulose (PL), in randomized order.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "These findings indicate that short-term oral supplementation of GPLC can enhance peak power production in resistance trained males with significantly less LAC accumulation.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 265,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36597167",
+      "title": "The effects of adjunctive treatment with L-carnitine on monitoring laboratory variables in ICU patients: a double-blinded randomized controlled clinical trial.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "Alanine transaminase (ALT) (0.022), lactate (<0.001), creatinine (Cr) (0.005), and international normalized ratio (INR) (0.049) decreased meaningfully in the intervention vs. control group.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "Participants were 54 patients, aged > 18 years, with multiple conditions, randomly assigned to receive 3 g L-carnitine per day or placebo, along with enteral feeding, for 1 week.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 266,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41243468",
+      "title": "Low Bioavailability and High TMAO Production: Novel Insights Into Acetylcarnitine and Carnitine Metabolism.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "Healthy volunteers received either carnitine or an acetylcarnitine supplement (0.5 or 1.5 g).",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "Acetylcarnitine has significantly lower bioavailability than carnitine.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "Approximately 90% of both supplements were metabolized to TMAO, reaching 50 µM in plasma-levels previously found to be associated with adverse health outcomes.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "The intake of both supplements resulted in substantial TMAO production, raising potential health concerns.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 267,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12930169",
+      "title": "The effects of L-carnitine L-tartrate supplementation on hormonal responses to resistance exercise and recovery.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "after 3 weeks of supplementation (2 g LCLT per day), fasting morning blood samples were obtained on six consecutive days",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "Over the recovery period, LCLT reduced the amount of exercise-induced muscle tissue damage, which was assessed via magnetic resonance imaging scans of the thigh.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 268,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28537653",
+      "title": "A novel treatment for subclinical hyperthyroidism: a pilot study on the beneficial effects of l-carnitine and selenium.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "Subjects received orally one tablet containing 500 mg of l-carnitine and 83 mcg of selenium (L-Carn + Se), daily for 1 month.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "After 1-month treatment, the subjective symptomatology significantly dropped from 25.61 ± 1.19 to 12.11 ± 1.15 (p < 0.05).",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "it is noteworthy that the extension of treatment seems necessary to prevent symptoms reappearance.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 269,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16988205",
+      "title": "Disposition and metabolite kinetics of oral L-carnitine in humans.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "The pharmacokinetics of L-carnitine and its metabolites were investigated in 7 healthy subjects following the oral administration of 0, 0.5, 1, and 2 g 3 times a day for 7 days.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "Mean plasma concentrations of L-carnitine across an 8-hour dose interval increased significantly (P < .05) from a baseline of 54.2 +/- 9.3 microM to 80.5 +/- 12.5 microM following the 0.5-g dose; there was no further increase at higher doses.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "In conclusion, the pharmacokinetics of oral L-carnitine display nonlinearity above a dose of 0.5 g 3 times a day.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 270,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22804748",
+      "title": "Carnitine and acylcarnitines: pharmacokinetic, pharmacological and clinical aspects.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "The homeostasis of carnitine is multifaceted with concentrations achieved and maintained by a combination of oral absorption, de novo biosynthesis, carrier-mediated distribution into tissues and extensive, but saturable, renal tubular reabsorption.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 271,
+      "url": "https://www.bulksupplements.com/products/l-carnitine-l-tartrate-powder",
+      "title": "L-Carnitine L-Tartrate Powder (LCLT) | Amino Acid Supplement Powder (BulkSupplements)",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "1 Kilogram (2.2 lbs)",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "One-time purchase $65.97 USD",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "25 Kilograms (55 lbs)360 Capsules",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 272,
+      "url": "https://www.target.com/p/bulksupplements-l-carnitine-l-tartrate-powder-1-kilogram-2-2-lbs/-/A-1004332178",
+      "title": "BulkSupplements L-Carnitine L-Tartrate Powder 1 Kilogram - Target",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "BulkSupplements L-Carnitine L-Tartrate Powder 1 Kilogram 0 out of 5 stars be the first! $65.97",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 273,
+      "url": "https://nutricost.com/products/nutricost-l-carnitine-tartrate-500mg-240-capsules",
+      "title": "Nutricost L-Carnitine Tartrate Capsules",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "120/240 Capsules, Each With 500mg of L-Carnitine Tartrate",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "1000mg Per Serving & 60/120 Servings Per Bottle",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 274,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40871722",
+      "title": "Adding L-Carnitine and Selenium to Methimazole in Graves' Disease: A Prospective Randomized Trial on Thyroid Markers and Quality of Life.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "the Intervention Group reached TRAb negativity significantly earlier (HR = 2.35 (1.14-4.81), p = 0.016)",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "MMI requirements were consistently lower in the Intervention Group, both in average dosage (p = 0.013) and cumulative dose (p = 0.020).",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "the supplement exerted an independent effect in reducing the severity of tremor, irritability, mood lability, heat intolerance, and exertional dyspnea.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 275,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33147805",
+      "title": "Instability of Acylcarnitines in Stored Dried Blood Spots: The Impact on Retrospective Analysis of Biomarkers for Inborn Errors of Metabolism.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "Acylcarnitine species are subject to degradation upon long-term storage at room temperature, but limited data are available on the stability in original samples and the impact on acylcarnitine ratios.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 276,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23050330",
+      "title": "Stability of acetyl-1-carnitine in 5% dextrose using a high-performance liquid chromatography-mass spectrometry times 2 method.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "Acetyl-l-carnitine dissolved in aqueous solutions is stable at neutral to acidic pH, but unstable at pH > 9.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "Acetyl-l-carnitine dissolved in water (pH 5.2) at concentrations of 1 and 10 mg/mL was found stable at room temperature or refrigerated for at least 33 days using the established stability-indicating method.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 277,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27126549",
+      "title": "The complex metabolism of trimethylamine in humans: endogenous and exogenous sources.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "Trimethylamine (TMA) is a tertiary amine with a characteristic fishy odour.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "Trimethylaminuria (TMAU) is a disease typified by its association with the characteristic fishy odour because of decreased TMA metabolism and excessive TMA excretion.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 278,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19280426",
+      "title": "Carnitine in the treatment of valproic acid-induced toxicity.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "As it does not appear to be harmful, l-carnitine is commonly recommended in severe VPA poisoning, especially in children, although the clinical benefit in terms of liver protection or hastening of recovery from unconsciousness has not been established clearly.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "Prophylactic carnitine supplementation is also advocated during VPA therapy in high-risk pediatric patients.",
+          "added": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "id": 279,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35879038",
+      "title": "Blood Levels of Ammonia and Carnitine in Patients Treated with Valproic Acid: A Meta-analysis.",
+      "accessed": "2026-11-15",
+      "quotes": [
+        {
+          "text": "the blood ammonia level in the VPA group was significantly higher than that in the non-VPA group.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "Compared to that in the non-VPA group, the blood carnitine level in the VPA group was significantly lower.",
+          "added": "2026-11-15"
+        },
+        {
+          "text": "Clinicians should measure both blood ammonia and free carnitine levels, especially in patients receiving high dosages of VPA.",
+          "added": "2026-11-15"
+        }
+      ]
+    }
+  ]
+}

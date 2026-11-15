@@ -1,0 +1,12 @@
+PMID: 26455995
+URL: https://pubmed.ncbi.nlm.nih.gov/26455995/
+Title: Heat Stress Nephropathy From Exercise-Induced Uric Acid Crystalluria: A Perspective on Mesoamerican Nephropathy.
+Authors: Roncal-Jimenez C; García-Trabanino R; Barregard L; Lanaspa MA; Wesseling C; Harra T; Aragón A; Grases F; Jarquin ER; González MA; Weiss I; Glaser J; Sánchez-Lozada LG; Johnson RJ
+Journal: American journal of kidney diseases : the official journal of the National Kidney Foundation
+Year: 2016
+Vol/Pages: 67(1):20-30
+DOI: 10.1053/j.ajkd.2015.08.021
+Accessed: 2026-11-15 (NCBI PubMed efetch abstract)
+
+ABSTRACT
+Mesoamerican nephropathy (MeN), an epidemic in Central America, is a chronic kidney disease of unknown cause. In this article, we argue that MeN may be a uric acid disorder. Individuals at risk for developing the disease are primarily male workers exposed to heat stress and physical exertion that predisposes to recurrent water and volume depletion, often accompanied by urinary concentration and acidification. Uric acid is generated during heat stress, in part consequent to nucleotide release from muscles. We hypothesize that working in the sugarcane fields may result in cyclic uricosuria in which uric acid concentrations exceed solubility, leading to the formation of dihydrate urate crystals and local injury. Consistent with this hypothesis, we present pilot data documenting the common presence of urate crystals in the urine of sugarcane workers from El Salvador. High end-of-workday urinary uric acid concentrations were common in a pilot study, particularly if urine pH was corrected to 7. Hyperuricemia may induce glomerular hypertension, whereas the increased urinary uric acid may directly injure renal tubules. Thus, MeN may result from exercise and heat stress associated with dehydration-induced hyperuricemia and uricosuria. Increased hydration with water and salt, urinary alkalinization, reduction in sugary beverage intake, and inhibitors of uric acid synthesis should be tested for disease prevention.

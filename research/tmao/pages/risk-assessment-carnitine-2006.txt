@@ -1,0 +1,392 @@
+# URL: https://pubmed.ncbi.nlm.nih.gov/16901595/
+# Fetched via web_extract on 2026-11-15
+
+Clipboard, Search History, and several other advanced features are temporarily unavailable.
+
+
+[Skip to main page content](https://pubmed.ncbi.nlm.nih.gov/16901595/#article-details)
+
+### NIH Websites Are Changing
+
+- [Get the Latest Updates and FAQs on the transition](https://www.nih.gov/web-modernization)
+- Per [Executive Order 14434](https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/), federal agencies are now using "Super Intelligence" (SI) in place of "Artificial Intelligence" (AI). You may see both terms across NIH content during this transition.
+
+![Dot gov](https://cdn.ncbi.nlm.nih.gov/coreutils/uswds/img/icon-dot-gov.svg)
+
+**The .gov means it’s official.**
+
+Federal government websites often end in .gov or .mil. Before
+sharing sensitive information, make sure you’re on a federal
+government site.
+
+
+![Https](https://cdn.ncbi.nlm.nih.gov/coreutils/uswds/img/icon-https.svg)
+
+**The site is secure.**
+
+The **https://** ensures that you are connecting to the
+official website and that any information you provide is encrypted
+and transmitted securely.
+
+
+[Access keys](https://www.ncbi.nlm.nih.gov/guide/browsers/#ncbi_accesskeys) [NCBI Homepage](https://www.ncbi.nlm.nih.gov/) [MyNCBI Homepage](https://pubmed.ncbi.nlm.nih.gov/myncbi/) [Main Content](https://pubmed.ncbi.nlm.nih.gov/16901595/#maincontent) [Main Navigation](https://pubmed.ncbi.nlm.nih.gov/16901595/#)
+
+[![pubmed logo](https://cdn.ncbi.nlm.nih.gov/pubmed/a447896c-976f-490b-b86b-2668b65114a8/core/images/pubmed-logo-blue.svg)](https://pubmed.ncbi.nlm.nih.gov/)[Show search bar](https://pubmed.ncbi.nlm.nih.gov/16901595/# "Show search bar")
+
+Search:
+
+
+```
+
+```
+
+[Clear search input](https://pubmed.ncbi.nlm.nih.gov/16901595/# "Clear search input") Search
+
+[Advanced](https://pubmed.ncbi.nlm.nih.gov/advanced/) [Clipboard](https://pubmed.ncbi.nlm.nih.gov/clipboard/)
+
+[User Guide](https://pubmed.ncbi.nlm.nih.gov/help/)
+
+Save
+
+Email
+
+
+Send to
+
+- [Clipboard](https://pubmed.ncbi.nlm.nih.gov/16901595/#)
+- [My Bibliography](https://account.ncbi.nlm.nih.gov/?back_url=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F16901595%2F%23open-bibliography-panel)
+- [Collections](https://account.ncbi.nlm.nih.gov/?back_url=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F16901595%2F%23open-collections-panel)
+- [Citation manager](https://pubmed.ncbi.nlm.nih.gov/16901595/#)
+
+Display options
+
+Display options
+
+
+Format
+AbstractPubMedPMID
+
+## Save citation to file
+
+Format:
+Summary (text)PubMedPMIDAbstract (text)CSV
+
+Create file
+
+Cancel
+
+
+## Email citation
+
+Email address has not been verified. Go to
+[My NCBI account settings](https://account.ncbi.nlm.nih.gov/settings/)
+to confirm your email and then refresh this page.
+
+
+To:
+
+
+Subject:
+
+
+Body:
+
+
+Format:
+SummarySummary (text)AbstractAbstract (text)
+
+MeSH and other data
+
+
+Send email
+
+Cancel
+
+
+### Add to Collections
+
+- Create a new collection
+- Add to an existing collection
+
+Name your collection:
+
+
+Name must be less than 100 characters
+
+
+Choose a collection:
+
+
+Unable to load your collection due to an error
+
+[Please try again](https://pubmed.ncbi.nlm.nih.gov/16901595/#)
+
+Add
+
+Cancel
+
+
+### Add to My Bibliography
+
+- My Bibliography
+
+Unable to load your delegates due to an error
+
+[Please try again](https://pubmed.ncbi.nlm.nih.gov/16901595/#)
+
+Add
+
+Cancel
+
+
+## Your saved search
+
+Name of saved search:
+
+
+Search terms:
+
+
+[Test search terms](https://pubmed.ncbi.nlm.nih.gov/16901595/#)
+
+Would you like email updates of new search results?
+Saved Search Alert Radio Buttons
+
+- Yes
+- No
+
+Email:
+( [change](https://www.ncbi.nlm.nih.gov/account/settings/))
+
+Frequency:
+MonthlyWeeklyDaily
+
+Which day?
+The first SundayThe first MondayThe first TuesdayThe first WednesdayThe first ThursdayThe first FridayThe first SaturdayThe first dayThe first weekday
+
+Which day?
+SundayMondayTuesdayWednesdayThursdayFridaySaturday
+
+Report format:
+SummarySummary (text)AbstractAbstract (text)PubMed
+
+Send at most:
+1 item5 items10 items20 items50 items100 items200 items
+
+Send even when there aren't any new results
+
+
+Optional text in email:
+
+
+Save
+
+Cancel
+
+
+## Create a file for external citation management software
+
+Create file
+
+Cancel
+
+
+## Your RSS Feed
+
+Name of RSS Feed:
+
+
+Number of items displayed:
+510152050100
+
+Create RSS
+
+Cancel
+
+
+RSS Link
+Copy
+
+
+Full text links
+Cite
+
+Display options
+
+Display options
+
+
+Format
+AbstractPubMedPMID
+
+Linked Discoveries
+
+## Abstract
+
+
+Carnitine is a conditionally essential amino acid-like compound involved in the transport of long-chain fatty acids into the mitochondria during the beta-oxidation process. Carnitine has become an increasingly popular ingredient in dietary supplements, especially weight loss and some sports nutrition products. A number of clinical trials have been conducted examining the effect of carnitine supplementation on weight loss and energy balance. Regarding safety, systematic evaluation of the research designs and data do not provide a basis for risk assessment and the usual safe upper level of intake (UL) derived from it unless the newer methods described as the observed safe level (OSL) or highest observed intake (HOI) are utilized. The OSL risk assessment method indicates that the evidence of safety is strong at intakes up to 2000mg/day l-carnitine equivalents for chronic supplementation, and this level is identified as the OSL. Although much higher levels have been tested without adverse effects and may be safe, the data for intakes above 2000mg/day are not sufficient for a confident conclusion of long-term safety.
+
+
+[PubMed Disclaimer](https://pubmed.ncbi.nlm.nih.gov/disclaimer/)
+
+## Similar articles
+
+- [Risk assessment for creatine monohydrate.](https://pubmed.ncbi.nlm.nih.gov/16814437/)
+
+Shao A, Hathcock JN.Shao A, et al.Regul Toxicol Pharmacol. 2006 Aug;45(3):242-51. doi: 10.1016/j.yrtph.2006.05.005. Epub 2006 Jun 30.Regul Toxicol Pharmacol. 2006.PMID: 16814437Review.
+
+- [Risk assessment for coenzyme Q10 (Ubiquinone).](https://pubmed.ncbi.nlm.nih.gov/16814438/)
+
+Hathcock JN, Shao A.Hathcock JN, et al.Regul Toxicol Pharmacol. 2006 Aug;45(3):282-8. doi: 10.1016/j.yrtph.2006.05.006. Epub 2006 Jun 30.Regul Toxicol Pharmacol. 2006.PMID: 16814438Review.
+
+- [Risk assessment for the carotenoids lutein and lycopene.](https://pubmed.ncbi.nlm.nih.gov/16814439/)
+
+Shao A, Hathcock JN.Shao A, et al.Regul Toxicol Pharmacol. 2006 Aug;45(3):289-98. doi: 10.1016/j.yrtph.2006.05.007. Epub 2006 Jun 30.Regul Toxicol Pharmacol. 2006.PMID: 16814439Review.
+
+- [Risk assessment for the amino acids taurine, L-glutamine and L-arginine.](https://pubmed.ncbi.nlm.nih.gov/18325648/)
+
+Shao A, Hathcock JN.Shao A, et al.Regul Toxicol Pharmacol. 2008 Apr;50(3):376-99. doi: 10.1016/j.yrtph.2008.01.004. Epub 2008 Jan 26.Regul Toxicol Pharmacol. 2008.PMID: 18325648Review.
+
+- [Risk assessment for glucosamine and chondroitin sulfate.](https://pubmed.ncbi.nlm.nih.gov/16942821/)
+
+Hathcock JN, Shao A.Hathcock JN, et al.Regul Toxicol Pharmacol. 2007 Feb;47(1):78-83. doi: 10.1016/j.yrtph.2006.07.004. Epub 2006 Aug 30.Regul Toxicol Pharmacol. 2007.PMID: 16942821Review.
+
+
+[See all similar articles](https://pubmed.ncbi.nlm.nih.gov/?linkname=pubmed_pubmed&from_uid=16901595)
+
+## Cited by
+
+- [The bright and the dark sides of L-carnitine supplementation: a systematic review.](https://pubmed.ncbi.nlm.nih.gov/32958033/)
+
+Sawicka AK, Renzi G, Olek RA.Sawicka AK, et al.J Int Soc Sports Nutr. 2020 Sep 21;17(1):49. doi: 10.1186/s12970-020-00377-2.J Int Soc Sports Nutr. 2020.PMID: 32958033Free PMC article.
+
+- [Effects of Carnitine and Coenzyme Q10 on Sperm Quality and Pregnancy Rates in Men with Unexplained Infertility: A Systematic Review and Network Meta-Analysis.](https://pubmed.ncbi.nlm.nih.gov/40813743/)
+
+Niu C, Lu X, Xie Y, Yu Y, Gao Y, Shen N, Zheng Y.Niu C, et al.Reprod Sci. 2025 Sep;32(9):2864-2876. doi: 10.1007/s43032-025-01958-9. Epub 2025 Aug 14.Reprod Sci. 2025.PMID: 40813743
+
+- [Effect of exogenous l-carnitine on aortic stiffness in dyslipidemic adolescents: Design of a quadruple-blind, randomized, controlled interventional trial.](https://pubmed.ncbi.nlm.nih.gov/37448910/)
+
+Zachariah JP, Pena S, Lupo PJ, Putluri N, Penny DJ, Richard MA.Zachariah JP, et al.Contemp Clin Trials Commun. 2023 Jun 30;34:101174. doi: 10.1016/j.conctc.2023.101174. eCollection 2023 Aug.Contemp Clin Trials Commun. 2023.PMID: 37448910Free PMC article.
+
+- [L-Carnitine Supplementation in Overweight Dogs: An Uncontrolled Pilot Study on Nutrient Digestibility, Metabolic Health, and Body Condition.](https://pubmed.ncbi.nlm.nih.gov/42944142/)
+
+Kahraman O, Inanc ZS, Parlak TM, Celik M, Damar S, Dik B.Kahraman O, et al.Vet Sci. 2026 Oct 6;13(10):1046. doi: 10.3390/vetsci13101046.Vet Sci. 2026.PMID: 42944142Free PMC article.
+
+
+[... middle omitted — see footer ...]
+
+
+
+
+
+
+  - [Search in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22Dietary+Supplements%2Fadverse+effects%22%5BMAJR%5D&sort=date&sort_order=desc)
+  - [Search in MeSH](https://www.ncbi.nlm.nih.gov/mesh?term=Dietary+Supplements)
+  - [Add to Search](https://pubmed.ncbi.nlm.nih.gov/16901595/#)
+
+- Dose-Response Relationship, Drug
+
+
+
+
+Actions
+
+
+
+
+
+  - [Search in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22Dose-Response+Relationship%2C+Drug%22%5BMeSH%5D&sort=date&sort_order=desc)
+  - [Search in MeSH](https://www.ncbi.nlm.nih.gov/mesh?term=Dose-Response+Relationship%2C+Drug)
+  - [Add to Search](https://pubmed.ncbi.nlm.nih.gov/16901595/#)
+
+- Humans
+
+
+
+
+Actions
+
+
+
+
+
+  - [Search in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22Humans%22%5BMeSH%5D&sort=date&sort_order=desc)
+  - [Search in MeSH](https://www.ncbi.nlm.nih.gov/mesh?term=Humans)
+  - [Add to Search](https://pubmed.ncbi.nlm.nih.gov/16901595/#)
+
+- Risk Assessment
+
+
+
+
+Actions
+
+
+
+
+
+  - [Search in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22Risk+Assessment%22%5BMeSH%5D&sort=date&sort_order=desc)
+  - [Search in MeSH](https://www.ncbi.nlm.nih.gov/mesh?term=Risk+Assessment)
+  - [Add to Search](https://pubmed.ncbi.nlm.nih.gov/16901595/#)
+
+- Toxicity Tests / methods
+
+
+
+
+Actions
+
+
+
+
+
+  - [Search in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22Toxicity+Tests%2Fmethods%22%5BMeSH%5D&sort=date&sort_order=desc)
+  - [Search in MeSH](https://www.ncbi.nlm.nih.gov/mesh?term=Toxicity+Tests)
+  - [Add to Search](https://pubmed.ncbi.nlm.nih.gov/16901595/#)
+
+## Substances
+
+- Carnitine
+
+
+
+
+Actions
+
+
+
+
+
+  - [Search in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22Carnitine%22%5Bnm%5D&sort=date&sort_order=desc)
+  - [Search in MeSH](https://www.ncbi.nlm.nih.gov/mesh?term=%22Carnitine%22)
+  - [Add to Search](https://pubmed.ncbi.nlm.nih.gov/16901595/#)
+
+## Related information
+
+- [PubChem Compound](https://www.ncbi.nlm.nih.gov/pccompound?linkname=pubmed_pccompound&from_uid=16901595 "Related PubChem Compound")
+- [PubChem Compound (MeSH Keyword)](https://www.ncbi.nlm.nih.gov/pccompound?linkname=pubmed_pccompound_mesh&from_uid=16901595 "Related PubChem Compound via MeSH")
+- [PubChem Substance](https://www.ncbi.nlm.nih.gov/pcsubstance?linkname=pubmed_pcsubstance&from_uid=16901595 "Related PubChem Substance")
+
+## LinkOut - more resources
+
+- ### Full Text Sources
+
+
+  - [Elsevier Science](https://linkinghub.elsevier.com/retrieve/pii/S0273-2300(06)00111-5)
+  - [Ovid Technologies, Inc.](https://www.ovid.com/16901595.pmid)
+- ### Medical
+
+
+  - [MedlinePlus Health Information](https://medlineplus.gov/dietarysupplements.html)
+
+NCBI Literature Resources
+
+[MeSH](https://www.ncbi.nlm.nih.gov/mesh/) [PMC](https://www.ncbi.nlm.nih.gov/pmc/) [Bookshelf](https://www.ncbi.nlm.nih.gov/books) [Disclaimer](https://pubmed.ncbi.nlm.nih.gov/disclaimer/)
+
+The PubMed wordmark and PubMed logo are registered trademarks of the U.S. Department of Health and Human Services (HHS). Unauthorized use of these marks is strictly prohibited.
+
+──────── [TRUNCATED] ────────
+Showing 8,724 chars (head) + 2,993 chars (tail) of 13,298 total clean characters.
+Full text saved to: /home/walker/.hermes/cache/web/pubmed.ncbi.nlm.nih.gov-cac71b8b2f.md
+To read the omitted middle: read_file path="/home/walker/.hermes/cache/web/pubmed.ncbi.nlm.nih.gov-cac71b8b2f.md" offset=272 limit=200  (the file is the complete page; raise/lower offset to page through it).
+─────────────────────────────

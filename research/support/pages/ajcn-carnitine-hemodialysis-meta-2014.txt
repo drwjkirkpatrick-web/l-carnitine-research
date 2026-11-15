@@ -1,0 +1,54 @@
+# Source: PubMed (NCBI E-utilities efetch)
+# URL: https://pubmed.ncbi.nlm.nih.gov/24368434/
+# Fetched: 2026-11-15
+# PMID: 24368434
+
+1. Am J Clin Nutr. 2014 Feb;99(2):408-22. doi: 10.3945/ajcn.113.062802. Epub 2013
+ Dec 24.
+
+L-Carnitine supplementation for adults with end-stage kidney disease requiring 
+maintenance hemodialysis: a systematic review and meta-analysis.
+
+Chen Y(1), Abbate M, Tang L, Cai G, Gong Z, Wei R, Zhou J, Chen X.
+
+Author information:
+(1)Division of Nephrology, State Key Discipline of Internal Medicine 
+(Nephrology), State Key Laboratory of Kidney Disease (2011DAV00088), and 
+National Clinical Medical Research Center for Kidney Disease, Chinese People's 
+Liberation Army (PLA) General Hospital (301 Hospital), Chinese PLA Medical 
+Academy, Beijing, China (YC, GC, RW, JZ, LT, and XC); the Department of Renal 
+Medicine, IRCCS-Istituto di Ricerche Farmacologiche Mario Negri, Clinical 
+Research Center for Rare Diseases, Aldo e Cele Dacco, Bergamo, Italy (MA); and 
+the Division of Infectious Diseases, Chinese PLA 532 Hospital, Huangshan, China 
+(ZG).
+
+Erratum in
+    Am J Clin Nutr. 2014 May;99(5):1143.
+
+BACKGROUND: A previous meta-analysis indicated that l-carnitine significantly 
+increased hemoglobin and decreased the required erythropoietin dose in 
+maintenance hemodialysis patients.
+OBJECTIVE: An updated systematic review and meta-analysis of randomized 
+controlled trials (RCTs) was performed to reevaluate effects of l-carnitine.
+DESIGN: The Cochrane Library, PubMed, and EMBASE databases (31 December 2012) 
+were searched to identify RCTs that investigated effects of l-carnitine in 
+adults with end-stage kidney disease that required maintenance hemodialysis.
+RESULTS: Forty-nine RCTs (1734 participants) were included. l-Carnitine 
+significantly decreased serum low-density lipoprotein (LDL) (mean difference: 
+-5.82 mg/dL; 95% CI: -11.61, -0.04 mg/dL) and C-reactive protein (CRP) (-3.65 
+mg/L; -6.19, -1.12 mg/L). There were no significant differences in triglycerides 
+(-0.89 mg/dL; -29.32, 27.53 mg/dL), cholesterol (0.14 mg/dL; -6.15, 6.42 mg/dL), 
+high-density lipoprotein (1.13 mg/dL; -2.44, 4.70 mg/dL), hemoglobin (0.68 g/dL; 
+0.14, 1.50 g/dL), hematocrit (2.04%; -1.39, 5.48%), albumin (1.65 g/L; -0.22, 
+3.51 g/L), or the required erythropoietin dose (-0.76 KU/wk; -1.75, 0.23 KU/wk). 
+No adverse effects were reported.
+CONCLUSIONS: This meta-analysis failed to confirm the previous findings 
+regarding the effects of l-carnitine on hemoglobin and the erythropoietin dose 
+but showed that l-carnitine significantly decreased serum LDL and CRP. The 
+extent of the decrease in LDL was not clinically relevant, whereas the 
+significant decrease in CRP was both statistically and clinically relevant. 
+However, the relevance of decrease in CRP with hard endpoints such as all-cause 
+mortality and cardiovascular complications still remains to be clarified.
+
+DOI: 10.3945/ajcn.113.062802
+PMID: 24368434 [Indexed for MEDLINE]

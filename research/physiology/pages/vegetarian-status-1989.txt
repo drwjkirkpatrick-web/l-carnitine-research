@@ -1,0 +1,32 @@
+PMID: 2756917
+PubMed URL: https://pubmed.ncbi.nlm.nih.gov/2756917/
+Fetched via NCBI eutils efetch, accessed 2026-11-15
+
+1. Am J Clin Nutr. 1989 Aug;50(2):301-6. doi: 10.1093/ajcn/50.2.301.
+
+Carnitine status of lactoovovegetarians and strict vegetarian adults and 
+children.
+
+Lombard KA(1), Olson AL, Nelson SE, Rebouche CJ.
+
+Author information:
+(1)Department of Pediatrics, University of Iowa College of Medicine, Iowa City 
+52242.
+
+Because carnitine is contained primarily in meats and dairy products, vegetarian 
+diets provide a model for assessing the impact of prolonged low carnitine intake 
+on carnitine status. Plasma carnitine concentrations and urinary carnitine 
+excretion were measured in adults and children consuming a strict vegetarian, 
+lactoovovegetarian, or mixed diet. In adults plasma carnitine concentration and 
+urinary carnitine excretion of strict vegetarians and lactoovovegetarians were 
+significantly lower than those in the mixed-diet group but were not different 
+from each other. In children significant differences were found between all 
+three diet groups for both plasma carnitine concentration and urinary carnitine 
+excretion. The differences in plasma carnitine concentrations were greater in 
+children than in adults, possibly reflecting the effects of growth and tissue 
+deposition. Small differences between diet groups in adults do not suggest a 
+nutritionally significant difference in carnitine status. Whether vegetarian 
+children are at greater risk for overt deficiency is not answered.
+
+DOI: 10.1093/ajcn/50.2.301
+PMID: 2756917 [Indexed for MEDLINE]

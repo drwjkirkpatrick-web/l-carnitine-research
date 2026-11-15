@@ -1,0 +1,12 @@
+PMID: 33344994
+URL: https://pubmed.ncbi.nlm.nih.gov/33344994/
+Title: Ultramarathon and Renal Function: Does Exercise-Induced Acute Kidney Injury Really Exist in Common Conditions?
+Authors: Poussel M; Touzé C; Allado E; Frimat L; Hily O; Thilly N; Rousseau H; Vauthier JC; Chenuel B
+Journal: Frontiers in sports and active living
+Year: 2019
+Vol/Pages: 1:71
+DOI: 10.3389/fspor.2019.00071
+Accessed: 2026-11-15 (NCBI PubMed efetch abstract)
+
+ABSTRACT
+Background: Increasing ultramarathons participation, investigation into strenuous exercise and kidney function has to be clarified. Study Design: Prospective observational study. Methods and Protocol: The study used data collected among ultra-marathon runners completing the 2017 edition of the 120 km "Infernal trail" race. Samples were collected within 2 h pre-race (start) and immediately post-race (finish). Measurements of serum creatinine (sCr), cystatin C (Cys), creatine kinase, and urine albumin were completed. Acute Kidney Injury (AKI) as defined by the RIFLE criteria. "Risk" of injury was defined as increased serum Creatinine (sCr) × 1.5 or Glomerular Filtration Rate (GFR) decrease >25%. Injury was defined as 2 × sCr or GFR decrease >50%. These two categories of AKI were combined to calculate total incidence at the finish line. GFR was estimated by two methods, using measure of sCr and using measure of cystatin C. Urinary biomarkers [neutrophil gelatinase-associated lipocalin (NGAL)] were also used to define AKI. Outcome results before and after the race were compared by using McNemar test for qualitative data and Wilcoxon signed-rank test for quantitative data, in modified intent-to-treat and per-protocol analyses. Results: A sample of 24 included finishers, with no use of non-steroidal anti-inflammatory drugs (NSAIDs) was studied. Depending the methodology used to calculate GFR, the prevalence of AKI was observed from 0 to 12.5%. Urinary biomarkers of kidney damage were increased following the race but with no significant decrease in GFR. Discussion/Conclusion: Our study showed a very low prevalence of AKI and no evidence that ultra-endurance running can cause important kidney damage in properly hydrated subjects with no use of NSAIDs. Whether the increase in urinary biomarkers of kidney damage following the race reflects structural kidney injury or a simple metabolic adaptation to strenuous exercise needs to be clarified.

@@ -1,0 +1,12 @@
+PMID: 38425235
+URL: https://pubmed.ncbi.nlm.nih.gov/38425235/
+Title: Wilderness Medical Society Clinical Practice Guidelines for the Prevention and Treatment of Heat Illness: 2024 Update.
+Authors: Eifling KP; Gaudio FG; Dumke C; Lipman GS; Otten EM; Martin AD; Grissom CK
+Journal: Wilderness & environmental medicine
+Year: 2024
+Vol/Pages: 35(1_suppl):112S-127S
+DOI: 10.1177/10806032241227924
+Accessed: 2026-11-15 (NCBI PubMed efetch abstract)
+
+ABSTRACT
+The Wilderness Medical Society (WMS) convened an expert panel in 2011 to develop a set of evidence-based guidelines for the recognition, prevention, and treatment of heat illness. The current panel retained 5 original members and welcomed 2 new members, all of whom collaborated remotely to provide an updated review of the classifications, pathophysiology, evidence-based guidelines for planning and preventive measures, and recommendations for field- and hospital-based therapeutic management of heat illness. These recommendations are graded based on the quality of supporting evidence and the balance between the benefits and risks or burdens for each modality. This is an updated version of the WMS clinical practice guidelines for the prevention and treatment of heat illness published in Wilderness & Environmental Medicine. 2019;30(4):S33-S46.

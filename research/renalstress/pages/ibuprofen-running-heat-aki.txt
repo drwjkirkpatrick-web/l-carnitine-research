@@ -1,0 +1,15 @@
+PMID: 39876077
+URL: https://pubmed.ncbi.nlm.nih.gov/39876077/
+Title: Effect of Ibuprofen on Markers of Acute Kidney Injury, Intestinal Injury, and Endotoxemia after Running in the Heat.
+Authors: Specht JW; Bailly AR; Garcia S; Klepacz S; Andrade DE Oliveira S; Lucero D; McKenna ZJ; Schlader ZJ; Amorim FT
+Journal: Medicine and science in sports and exercise
+Year: 2025
+Vol/Pages: 57(6):1092-1102
+DOI: 10.1249/MSS.0000000000003659
+Accessed: 2026-11-15 (NCBI PubMed efetch abstract)
+
+ABSTRACT
+PURPOSE: To test the hypothesis that ibuprofen ingestion exacerbates markers of acute kidney injury (AKI), gastrointestinal (GI) injury, and endotoxemia after running in the heat.
+METHODS: Using a randomized double-blind crossover design, 11 physically active individuals (six women) ingested 600 mg of ibuprofen or placebo 12- and 1-h before running 1 h in a heated chamber (35°C, 20%-60% R.H.) at an intensity of 60% V̇O 2peak . Blood and urine samples were collected preexercise, postexercise, and 1-h postexercise to assess cytokines and markers of AKI, GI injury, and endotoxemia.
+RESULTS: One hour of running in the heat increased markers of AKI (urinary product of IGFBP7•TIMP2 [Placebo: ∆ 1.8 ± 0.8 log 10 (ng·mL 2 )/1000, Ibuprofen: ∆ 1.8 ± 0.9 log 10 (ng·mL 2 )/1000], urinary NGAL, and serum cystatin C), GI damage (I-FABP [Placebo: ∆ 631 ± 446 pg·mL -1 , Ibuprofen: ∆ 576 ± 455 pg·mL -1 ]), and inflammatory cytokines (TNFα [Placebo: ∆ 5.2 ± 3.5 pg·mL -1 , Ibuprofen: ∆ 6.2 ± 4.9 pg·mL -1 ], IL-6, IL-10, and MCP-1), but these changes were not exacerbated by ibuprofen ingestion. There were effects of time ( P < 0.001) and condition ( P = 0.03) for serum IL-8, with greater concentrations in the ibuprofen (pre: 11.4 ± 5.1 pg·mL -1 , post: 15.5 ± 7.3 pg·mL -1 ) trials than placebo (pre: 9.7 ± 4.2 pg·mL -1 , post: 11.7 ± 5.4 pg·mL -1 ). There were no effects of time or condition on markers of endotoxemia (LBP [Placebo: ∆ -1.2 ± 3.2 μg·mL -1 , Ibuprofen: ∆ 1.0 ± 1.6 μg·mL -1 ], sCD14).
+CONCLUSIONS: These findings indicate that ibuprofen ingestion does not worsen intestinal or renal injury experienced during 1 h of exercise in the heat, but increases pro-inflammatory IL-8.

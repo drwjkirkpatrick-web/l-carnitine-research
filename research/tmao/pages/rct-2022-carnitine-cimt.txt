@@ -1,0 +1,404 @@
+# URL: https://pubmed.ncbi.nlm.nih.gov/35366920/
+# Fetched via web_extract on 2026-11-15
+
+Clipboard, Search History, and several other advanced features are temporarily unavailable.
+
+
+[Skip to main page content](https://pubmed.ncbi.nlm.nih.gov/35366920/#article-details)
+
+### NIH Websites Are Changing
+
+- [Get the Latest Updates and FAQs on the transition](https://www.nih.gov/web-modernization)
+- Per [Executive Order 14434](https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/), federal agencies are now using "Super Intelligence" (SI) in place of "Artificial Intelligence" (AI). You may see both terms across NIH content during this transition.
+
+![Dot gov](https://cdn.ncbi.nlm.nih.gov/coreutils/uswds/img/icon-dot-gov.svg)
+
+**The .gov means it’s official.**
+
+Federal government websites often end in .gov or .mil. Before
+sharing sensitive information, make sure you’re on a federal
+government site.
+
+
+![Https](https://cdn.ncbi.nlm.nih.gov/coreutils/uswds/img/icon-https.svg)
+
+**The site is secure.**
+
+The **https://** ensures that you are connecting to the
+official website and that any information you provide is encrypted
+and transmitted securely.
+
+
+[Access keys](https://www.ncbi.nlm.nih.gov/guide/browsers/#ncbi_accesskeys) [NCBI Homepage](https://www.ncbi.nlm.nih.gov/) [MyNCBI Homepage](https://pubmed.ncbi.nlm.nih.gov/myncbi/) [Main Content](https://pubmed.ncbi.nlm.nih.gov/35366920/#maincontent) [Main Navigation](https://pubmed.ncbi.nlm.nih.gov/35366920/#)
+
+[![pubmed logo](https://cdn.ncbi.nlm.nih.gov/pubmed/a447896c-976f-490b-b86b-2668b65114a8/core/images/pubmed-logo-blue.svg)](https://pubmed.ncbi.nlm.nih.gov/)[Show search bar](https://pubmed.ncbi.nlm.nih.gov/35366920/# "Show search bar")
+
+Search:
+
+
+```
+
+```
+
+[Clear search input](https://pubmed.ncbi.nlm.nih.gov/35366920/# "Clear search input") Search
+
+[Advanced](https://pubmed.ncbi.nlm.nih.gov/advanced/) [Clipboard](https://pubmed.ncbi.nlm.nih.gov/clipboard/)
+
+[User Guide](https://pubmed.ncbi.nlm.nih.gov/help/)
+
+Save
+
+Email
+
+
+Send to
+
+- [Clipboard](https://pubmed.ncbi.nlm.nih.gov/35366920/#)
+- [My Bibliography](https://account.ncbi.nlm.nih.gov/?back_url=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F35366920%2F%23open-bibliography-panel)
+- [Collections](https://account.ncbi.nlm.nih.gov/?back_url=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F35366920%2F%23open-collections-panel)
+- [Citation manager](https://pubmed.ncbi.nlm.nih.gov/35366920/#)
+
+Display options
+
+Display options
+
+
+Format
+AbstractPubMedPMID
+
+## Save citation to file
+
+Format:
+Summary (text)PubMedPMIDAbstract (text)CSV
+
+Create file
+
+Cancel
+
+
+## Email citation
+
+Email address has not been verified. Go to
+[My NCBI account settings](https://account.ncbi.nlm.nih.gov/settings/)
+to confirm your email and then refresh this page.
+
+
+To:
+
+
+Subject:
+
+
+Body:
+
+
+Format:
+SummarySummary (text)AbstractAbstract (text)
+
+MeSH and other data
+
+
+Send email
+
+Cancel
+
+
+### Add to Collections
+
+- Create a new collection
+- Add to an existing collection
+
+Name your collection:
+
+
+Name must be less than 100 characters
+
+
+Choose a collection:
+
+
+Unable to load your collection due to an error
+
+[Please try again](https://pubmed.ncbi.nlm.nih.gov/35366920/#)
+
+Add
+
+Cancel
+
+
+### Add to My Bibliography
+
+- My Bibliography
+
+Unable to load your delegates due to an error
+
+[Please try again](https://pubmed.ncbi.nlm.nih.gov/35366920/#)
+
+Add
+
+Cancel
+
+
+## Your saved search
+
+Name of saved search:
+
+
+Search terms:
+
+
+[Test search terms](https://pubmed.ncbi.nlm.nih.gov/35366920/#)
+
+Would you like email updates of new search results?
+Saved Search Alert Radio Buttons
+
+- Yes
+- No
+
+Email:
+( [change](https://www.ncbi.nlm.nih.gov/account/settings/))
+
+Frequency:
+MonthlyWeeklyDaily
+
+Which day?
+The first SundayThe first MondayThe first TuesdayThe first WednesdayThe first ThursdayThe first FridayThe first SaturdayThe first dayThe first weekday
+
+Which day?
+SundayMondayTuesdayWednesdayThursdayFridaySaturday
+
+Report format:
+SummarySummary (text)AbstractAbstract (text)PubMed
+
+Send at most:
+1 item5 items10 items20 items50 items100 items200 items
+
+Send even when there aren't any new results
+
+
+Optional text in email:
+
+
+Save
+
+Cancel
+
+
+## Create a file for external citation management software
+
+Create file
+
+Cancel
+
+
+## Your RSS Feed
+
+Name of RSS Feed:
+
+
+Number of items displayed:
+510152050100
+
+Create RSS
+
+Cancel
+
+
+RSS Link
+Copy
+
+
+Full text links
+Cite
+
+Display options
+
+Display options
+
+
+Format
+AbstractPubMedPMID
+
+Linked Discoveries
+
+## Abstract
+
+**Background:**
+
+L-carnitine (L-C), a ubiquitous nutritional supplement, has been investigated as a potential therapy for cardiovascular disease, but its effects on human atherosclerosis are unknown. Clinical studies suggest improvement of some cardiovascular risk factors, whereas others show increased plasma levels of pro-atherogenic trimethylamine N-oxide. The primary aim was to determine whether L-C therapy led to progression or regression of carotid total plaque volume (TPV) in participants with metabolic syndrome (MetS).
+
+
+**Methods:**
+
+This was a phase 2, prospective, double blinded, randomized, placebo-controlled, two-center trial. MetS was defined as ≥ 3/5 cardiac risk factors: elevated waist circumference; elevated triglycerides; reduced HDL-cholesterol; elevated blood pressure; elevated glucose or HbA1c; or on treatment. Participants with a baseline TPV ≥ 50 mm3 were randomized to placebo or 2 g L-C daily for 6 months.
+
+
+**Results:**
+
+The primary outcome was the percent change in TPV over 6 months. In 157 participants (L-C N = 76, placebo N = 81), no difference in TPV change between arms was found. The L-C group had a greater increase in carotid atherosclerotic stenosis of 9.3% (p = 0.02) than the placebo group. There was a greater increase in total cholesterol and LDL-C levels in the L-C arm.
+
+
+**Conclusions:**
+
+Though total carotid plaque volume did not change in MetS participants taking L-C over 6-months, there was a concerning progression of carotid plaque stenosis. The potential harm of L-C in MetS and its association with pro-atherogenic metabolites raises concerns for its further use as a potential therapy and its widespread availability as a nutritional supplement.
+
+
+**Trial registration:**
+
+ClinicalTrials.gov, [NCT02117661](http://clinicaltrials.gov/show/NCT02117661 "See in ClinicalTrials.gov"), Registered April 21, 2014, https://clinicaltrials.gov/ct2/show/NCT02117661 .
+
+
+**Keywords:**
+
+Cardiovascular; Carotid; L-carnitine; Plaque; Ultrasound.
+
+
+© 2022\. The Author(s).
+
+
+[PubMed Disclaimer](https://pubmed.ncbi.nlm.nih.gov/disclaimer/)
+
+## Conflict of interest statement
+
+The authors declare that they have no competing interests.
+
+## Figures
+
+[![Fig. 1](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/5aaa/8976995/edfe9444f727/12986_2022_661_Fig1_HTML.gif)](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/5aaa/8976995/70cdad24aef3/12986_2022_661_Fig1_HTML.jpg)
+
+**Fig. 1**
+
+CONSORT participant flow diagram
+
+**Fig. 1**
+
+CONSORT participant flow diagram
+
+**Fig. 1**
+
+CONSORT participant flow diagram
+
+[![Fig. 2](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/5aaa/8976995/2cf87d4dfec7/12986_2022_661_Fig2_HTML.gif)](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/5aaa/8976995/1b071fad457c/12986_2022_661_Fig2_HTML.jpg)
+
+**Fig. 2**
+
+Quantification of carotid arterial plaque…
+
+**Fig. 2**
+
+Quantification of carotid arterial plaque acquired by three-dimensional ultrasound. Philips VPQ software was…
+
+**Fig. 2**
+
+Quantification of carotid arterial plaque acquired by three-dimensional ultrasound. Philips VPQ software was used to assess plaque in 3D. A cross section of the vessel demonstrates a percent lumen reduction (stenosis) of 36% at baseline compared to 47% at month 6
+
+[![Fig. 3](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/5aaa/8976995/4e5e638531a2/12986_2022_661_Fig3_HTML.gif)](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/5aaa/8976995/e521f0c0e2d1/12986_2022_661_Fig3_HTML.jpg)
+
+**Fig. 3**
+
+Forest plot of stratified sub-analysis…
+
+**Fig. 3**
+
+Forest plot of stratified sub-analysis of percent change in stenosis. Although we found…
+
+**Fig. 3**
+
+Forest plot of stratified sub-analysis of percent change in stenosis. Although we found significant differences in percent increase of carotid stenosis within sub-groups, no tests for treatment arm by sub-group interactions reached _p_ < 0.05. LC, L-carnitine. N = 157
+
+[See this image and copyright information in PMC](https://pubmed.ncbi.nlm.nih.gov/35366920/#)
+
+## Similar articles
+
+- [Lipid Screening in Childhood and Adolescence for Detection of Familial Hypercholesterolemia: A Systematic Evidence Review for the U.S. Preventive Services Task Force \[Internet\].](https://pubmed.ncbi.nlm.nih.gov/27559556/)
+
+Lozano P, Henrikson NB, Dunn J, Morrison CC, Nguyen M, Blasi PR, Anderson ML, Whitlock E.Lozano P, et al.Rockville (MD): Agency for Healthcare Research and Quality (US); 2016 Aug. Report No.: 14-05204-EF-2.Rockville (MD): Agency for Healthcare Research and Quality (US); 2016 Aug. Report No.: 14-05204-EF-2.PMID: 27559556Free Books & Documents.Review.
+
+
+[... middle omitted — see footer ...]
+
+
+
+
+    -
+    [DOI](https://doi.org/10.1146/annurev.nu.06.070186.000353)
+
+
+
+
+
+    -
+    [PubMed](https://pubmed.ncbi.nlm.nih.gov/3524622/)
+1.
+    Mingorance C, Rodriguez-Rodriguez R, Justo ML, Herrera MD, de Sotomayor MA. Pharmacological effects and clinical applications of propionyl-L-carnitine. Nutr Rev. 2011;69:279–290. doi: 10.1111/j.1753-4887.2011.00387.x.
+
+
+
+    -
+    [DOI](https://doi.org/10.1111/j.1753-4887.2011.00387.x)
+
+
+
+
+
+    -
+    [PubMed](https://pubmed.ncbi.nlm.nih.gov/21521230/)
+
+Show all 35 references
+
+
+## Associated data
+
+- ClinicalTrials.gov/NCT02117661
+
+
+
+
+Actions
+
+
+
+
+
+  - [Search in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=NCT02117661%5BSecondary+Source+ID%5D "Search in PubMed")
+  - [Search in ClinicalTrials.gov](http://clinicaltrials.gov/show/NCT02117661 "Search in ClinicalTrials.gov")
+
+## Related information
+
+- [MedGen](https://www.ncbi.nlm.nih.gov/medgen?linkname=pubmed_medgen&from_uid=35366920 "Related information in MedGen")
+
+## Grants and funding
+
+- [G-14-0005706/Heart and Stroke Foundation of Canada](https://pubmed.ncbi.nlm.nih.gov/?term=G-14-0005706%2FHeart+and+Stroke+Foundation+of+Canada%5BGrants+and+Funding%5D&sort=date&sort_order=desc "All articles for grant G-14-0005706/Heart and Stroke Foundation of Canada")
+- [Phase I Career #7500/Heart and Stroke Foundation of Canada](https://pubmed.ncbi.nlm.nih.gov/?term=Phase+I+Career+%237500%2FHeart+and+Stroke+Foundation+of+Canada%5BGrants+and+Funding%5D&sort=date&sort_order=desc "All articles for grant Phase I Career #7500/Heart and Stroke Foundation of Canada")
+- [Clinician Award/Southeastern Ontario Academic Medical Organization](https://pubmed.ncbi.nlm.nih.gov/?term=Clinician+Award%2FSoutheastern+Ontario+Academic+Medical+Organization%5BGrants+and+Funding%5D&sort=date&sort_order=desc "All articles for grant Clinician Award/Southeastern Ontario Academic Medical Organization")
+- [DOM/Queen's University](https://pubmed.ncbi.nlm.nih.gov/?term=DOM%2FQueen%27s+University%5BGrants+and+Funding%5D&sort=date&sort_order=desc "All articles for grant DOM/Queen's University")
+
+## LinkOut - more resources
+
+- ### Full Text Sources
+
+
+  - [BioMed Central](https://nutritionandmetabolism.biomedcentral.com/articles/10.1186/s12986-022-00661-9)
+  - [Europe PMC](https://europepmc.org/abstract/MED/35366920)
+  - [PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/pmid/35366920/)
+- ### Medical
+
+
+  - [ClinicalTrials.gov](https://clinicaltrials.gov/search?term=AREA%5BReferencePMID%5D35366920)
+- ### Miscellaneous
+
+
+  - [NCI CPTAC Assay Portal](https://assays.cancer.gov/CPTAC-1595)
+
+NCBI Literature Resources
+
+[MeSH](https://www.ncbi.nlm.nih.gov/mesh/) [PMC](https://www.ncbi.nlm.nih.gov/pmc/) [Bookshelf](https://www.ncbi.nlm.nih.gov/books) [Disclaimer](https://pubmed.ncbi.nlm.nih.gov/disclaimer/)
+
+The PubMed wordmark and PubMed logo are registered trademarks of the U.S. Department of Health and Human Services (HHS). Unauthorized use of these marks is strictly prohibited.
+
+──────── [TRUNCATED] ────────
+Showing 8,932 chars (head) + 2,974 chars (tail) of 17,756 total clean characters.
+Full text saved to: /home/walker/.hermes/cache/web/pubmed.ncbi.nlm.nih.gov-8d310271a2.md
+To read the omitted middle: read_file path="/home/walker/.hermes/cache/web/pubmed.ncbi.nlm.nih.gov-8d310271a2.md" offset=314 limit=200  (the file is the complete page; raise/lower offset to page through it).
+─────────────────────────────

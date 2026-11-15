@@ -1,0 +1,63 @@
+# Source: PubMed (NCBI E-utilities efetch)
+# URL: https://pubmed.ncbi.nlm.nih.gov/28065453/
+# Fetched: 2026-11-15
+# PMID: 28065453
+
+1. J Ren Nutr. 2017 Mar;27(2):113-126. doi: 10.1053/j.jrn.2016.11.002. Epub 2017 
+Jan 4.
+
+Protective Effects of L-Carnitine Against Delayed Graft Function in Kidney 
+Transplant Recipients: A Pilot, Randomized, Double-Blinded, Placebo-Controlled 
+Clinical Trial.
+
+Jafari A(1), Khatami MR(2), Dashti-Khavidaki S(3), Lessan-Pezeshki M(2), 
+Abdollahi A(4), Moghaddas A(5).
+
+Author information:
+(1)Department of Clinical Pharmacy, School of Pharmacy, Guilan University of 
+Medical Sciences, Rasht, Iran.
+(2)Nephrology Research Center, Tehran University of Medical Sciences, Tehran, 
+Iran.
+(3)Department of Clinical Pharmacy, Faculty of Pharmacy, Tehran University of 
+Medical Sciences, Tehran, Iran; Faculty of Pharmacy, Tehran University of 
+Medical Sciences, Tehran, Iran. Electronic address: dashtis@sina.tums.ac.ir.
+(4)Department of Pathology, Valie-Asr Hospital, Tehran University of Medical 
+Sciences, Tehran, Iran.
+(5)Department of Clinical Pharmacy and Pharmacy Practice, Isfahan University of 
+Medical Sciences, Isfahan, Iran.
+
+OBJECTIVE: Delayed graft function (DGF) is an early complication after deceased 
+donor kidney transplantation with significant adverse effects on graft outcomes. 
+Ischemia-reperfusion injury during transplantation is a major cause of DGF. 
+Tissue concentrations of carnitine, an antioxidant and regulator of cellular 
+energy supply, decrease in the kidney following ischemia-reperfusion insult. 
+Based on promising animal data, this study evaluated the possible protective 
+effect of L-carnitine against DGF.
+DESIGN: This study is a pilot, randomized, double-blind, placebo-controlled 
+clinical trial that was conducted on kidney transplantation patients in kidney 
+transplant ward of Imam Khomeini hospital complex affiliated to Tehran 
+University of Medical Sciences, Tehran, Iran.
+SUBJECTS: Patients older than 14 years old undergoing their first kidney 
+transplantation from a deceased donor were evaluated for eligibility to take 
+part in this study. Fifty-six patients were randomly assigned to L-carnitine or 
+placebo groups.
+INTERVENTION: During this trial, 3 g of oral L-carnitine or placebo was 
+administered in 3 divided doses each day for 4 consecutive days starting the day 
+before kidney transplantation (i.e., days -1, 0, 1, and 2).
+MAIN OUTCOME MEASURE: The need for dialysis within the first week after 
+transplantation, serum creatinine and urine output were assessed daily. After 
+hospital discharge, patients were followed for 3 months regarding organ 
+function.
+RESULTS: DGF incidence did not differ between the L-carnitine and placebo groups 
+(18.51% vs. 23.8%, respectively; P = .68). Total allograft failure within 
+3 months after kidney transplantation happened in 6 patients in the placebo and 
+1 patient in the L-carnitine group (P = .05).
+CONCLUSION: This study showed no protective effects of oral L-carnitine 
+supplementation against DGF occurrence recipients; however, 3-month graft loss 
+was lower in the L-carnitine supplemented group.
+
+Copyright © 2016 National Kidney Foundation, Inc. Published by Elsevier Inc. All 
+rights reserved.
+
+DOI: 10.1053/j.jrn.2016.11.002
+PMID: 28065453 [Indexed for MEDLINE]

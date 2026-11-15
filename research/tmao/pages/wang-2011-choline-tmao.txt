@@ -1,0 +1,314 @@
+# URL: https://pubmed.ncbi.nlm.nih.gov/21475195/
+# Fetched via web_extract on 2026-11-15
+
+Clipboard, Search History, and several other advanced features are temporarily unavailable.
+
+
+[Skip to main page content](https://pubmed.ncbi.nlm.nih.gov/21475195/#article-details)
+
+### NIH Websites Are Changing
+
+- [Get the Latest Updates and FAQs on the transition](https://www.nih.gov/web-modernization)
+- Per [Executive Order 14434](https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/), federal agencies are now using "Super Intelligence" (SI) in place of "Artificial Intelligence" (AI). You may see both terms across NIH content during this transition.
+
+![Dot gov](https://cdn.ncbi.nlm.nih.gov/coreutils/uswds/img/icon-dot-gov.svg)
+
+**The .gov means it’s official.**
+
+Federal government websites often end in .gov or .mil. Before
+sharing sensitive information, make sure you’re on a federal
+government site.
+
+
+![Https](https://cdn.ncbi.nlm.nih.gov/coreutils/uswds/img/icon-https.svg)
+
+**The site is secure.**
+
+The **https://** ensures that you are connecting to the
+official website and that any information you provide is encrypted
+and transmitted securely.
+
+
+[Access keys](https://www.ncbi.nlm.nih.gov/guide/browsers/#ncbi_accesskeys) [NCBI Homepage](https://www.ncbi.nlm.nih.gov/) [MyNCBI Homepage](https://pubmed.ncbi.nlm.nih.gov/myncbi/) [Main Content](https://pubmed.ncbi.nlm.nih.gov/21475195/#maincontent) [Main Navigation](https://pubmed.ncbi.nlm.nih.gov/21475195/#)
+
+[![pubmed logo](https://cdn.ncbi.nlm.nih.gov/pubmed/a447896c-976f-490b-b86b-2668b65114a8/core/images/pubmed-logo-blue.svg)](https://pubmed.ncbi.nlm.nih.gov/)[Show search bar](https://pubmed.ncbi.nlm.nih.gov/21475195/# "Show search bar")
+
+Search:
+
+
+```
+
+```
+
+[Clear search input](https://pubmed.ncbi.nlm.nih.gov/21475195/# "Clear search input") Search
+
+[Advanced](https://pubmed.ncbi.nlm.nih.gov/advanced/) [Clipboard](https://pubmed.ncbi.nlm.nih.gov/clipboard/)
+
+[User Guide](https://pubmed.ncbi.nlm.nih.gov/help/)
+
+Save
+
+Email
+
+
+Send to
+
+- [Clipboard](https://pubmed.ncbi.nlm.nih.gov/21475195/#)
+- [My Bibliography](https://account.ncbi.nlm.nih.gov/?back_url=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F21475195%2F%23open-bibliography-panel)
+- [Collections](https://account.ncbi.nlm.nih.gov/?back_url=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F21475195%2F%23open-collections-panel)
+- [Citation manager](https://pubmed.ncbi.nlm.nih.gov/21475195/#)
+
+Display options
+
+Display options
+
+
+Format
+AbstractPubMedPMID
+
+## Save citation to file
+
+Format:
+Summary (text)PubMedPMIDAbstract (text)CSV
+
+Create file
+
+Cancel
+
+
+## Email citation
+
+Email address has not been verified. Go to
+[My NCBI account settings](https://account.ncbi.nlm.nih.gov/settings/)
+to confirm your email and then refresh this page.
+
+
+To:
+
+
+Subject:
+
+
+Body:
+
+
+Format:
+SummarySummary (text)AbstractAbstract (text)
+
+MeSH and other data
+
+
+Send email
+
+Cancel
+
+
+### Add to Collections
+
+- Create a new collection
+- Add to an existing collection
+
+Name your collection:
+
+
+Name must be less than 100 characters
+
+
+Choose a collection:
+
+
+Unable to load your collection due to an error
+
+[Please try again](https://pubmed.ncbi.nlm.nih.gov/21475195/#)
+
+Add
+
+Cancel
+
+
+### Add to My Bibliography
+
+- My Bibliography
+
+Unable to load your delegates due to an error
+
+[Please try again](https://pubmed.ncbi.nlm.nih.gov/21475195/#)
+
+Add
+
+Cancel
+
+
+## Your saved search
+
+Name of saved search:
+
+
+Search terms:
+
+
+[Test search terms](https://pubmed.ncbi.nlm.nih.gov/21475195/#)
+
+Would you like email updates of new search results?
+Saved Search Alert Radio Buttons
+
+- Yes
+- No
+
+Email:
+( [change](https://www.ncbi.nlm.nih.gov/account/settings/))
+
+Frequency:
+MonthlyWeeklyDaily
+
+Which day?
+The first SundayThe first MondayThe first TuesdayThe first WednesdayThe first ThursdayThe first FridayThe first SaturdayThe first dayThe first weekday
+
+Which day?
+SundayMondayTuesdayWednesdayThursdayFridaySaturday
+
+Report format:
+SummarySummary (text)AbstractAbstract (text)PubMed
+
+Send at most:
+1 item5 items10 items20 items50 items100 items200 items
+
+Send even when there aren't any new results
+
+
+Optional text in email:
+
+
+Save
+
+Cancel
+
+
+## Create a file for external citation management software
+
+Create file
+
+Cancel
+
+
+## Your RSS Feed
+
+Name of RSS Feed:
+
+
+Number of items displayed:
+510152050100
+
+Create RSS
+
+Cancel
+
+
+RSS Link
+Copy
+
+
+Full text links
+Cite
+
+Display options
+
+Display options
+
+
+Format
+AbstractPubMedPMID
+
+Linked Discoveries
+
+## Abstract
+
+
+Metabolomics studies hold promise for the discovery of pathways linked to disease processes. Cardiovascular disease (CVD) represents the leading cause of death and morbidity worldwide. Here we used a metabolomics approach to generate unbiased small-molecule metabolic profiles in plasma that predict risk for CVD. Three metabolites of the dietary lipid phosphatidylcholine--choline, trimethylamine N-oxide (TMAO) and betaine--were identified and then shown to predict risk for CVD in an independent large clinical cohort. Dietary supplementation of mice with choline, TMAO or betaine promoted upregulation of multiple macrophage scavenger receptors linked to atherosclerosis, and supplementation with choline or TMAO promoted atherosclerosis. Studies using germ-free mice confirmed a critical role for dietary choline and gut flora in TMAO production, augmented macrophage cholesterol accumulation and foam cell formation. Suppression of intestinal microflora in atherosclerosis-prone mice inhibited dietary-choline-enhanced atherosclerosis. Genetic variations controlling expression of flavin monooxygenases, an enzymatic source of TMAO, segregated with atherosclerosis in hyperlipidaemic mice. Discovery of a relationship between gut-flora-dependent metabolism of dietary phosphatidylcholine and CVD pathogenesis provides opportunities for the development of new diagnostic tests and therapeutic approaches for atherosclerotic heart disease.
+
+
+©2011 Macmillan Publishers Limited. All rights reserved
+
+
+[PubMed Disclaimer](https://pubmed.ncbi.nlm.nih.gov/disclaimer/)
+
+## Figures
+
+[![Figure 1](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/90b0/3086762/f2e3431ef600/nihms-271797-f0001.gif)](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/90b0/3086762/f941e98974b8/nihms-271797-f0001.jpg)
+
+**Figure 1. Strategy for metabolomics studies to…**
+
+**Figure 1. Strategy for metabolomics studies to identify plasma analytes associated with cardiovascular risk**
+
+**a,** …
+
+**Figure 1. Strategy for metabolomics studies to identify plasma analytes associated with cardiovascular risk**
+
+**a,** Overall schematic to identify plasma analytes associated with cardiac risk. **b,** Odds ratio (OR) and 95% confidential intervals (CI) of prospective (3 year) risk for myocardial infarction (MI), stroke (CVA) or death of the 18 plasma analytes that met all selection criteria in the Learning and Validation Cohorts, OR and CI shown are for the highest vs. lowest quartile for each analyte. Filled circles represent the analytes (m/z=76, 104, 118) focused on in this study. m/z, mass to charge ratio of an analyte monitored in positive MS1 mode.
+
+[![Figure 2](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/90b0/3086762/9f554f338a53/nihms-271797-f0002.gif)](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/90b0/3086762/60375ec9a1f6/nihms-271797-f0002.jpg)
+
+**Figure 2. Identification of metabolites of dietary…**
+
+**Figure 2. Identification of metabolites of dietary PC and an obligatory role for gut flora…**
+
+**Figure 2. Identification of metabolites of dietary PC and an obligatory role for gut flora in generation of plasma analytes associated with CVD risks**
+
+**a,** Summary schematic indicating structure of metabolites and routes (oral or intraperitoneal, i.p.) of formation observed in choline challenge studies in mice using the indicated isotope labeled choline. The m/z in plasma observed for the isotopmers of the choline metabolites are shown. **b,** Plasma levels of d9-metabolites following i.p. challenge with d9(trimethyl)-dipalmitoylphosphatidylcholine (d9-DPPC). **c,** d9-TMAO production following oral d9-DPPC in mice, following suppression of gut flora with antibiotics (3 weeks), and then following placement (4 weeks) into conventional cages with non-sterile mice (i.e. – “conventionalized”). Data are presented as mean ± SE from 4 independent replicates.
+
+[![Figure 3](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/90b0/3086762/0dedc6e1b524/nihms-271797-f0003.gif)](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/90b0/3086762/def9fffc6fb7/nihms-271797-f0003.jpg)
+
+**Figure 3. Choline, TMAO and betaine are…**
+
+**Figure 3. Choline, TMAO and betaine are associated with atherosclerosis risks in humans and promote…**
+
+**Figure 3. Choline, TMAO and betaine are associated with atherosclerosis risks in humans and promote atherosclerosis in mice**
+
+
+[... middle omitted — see footer ...]
+
+- [P01 HL076491/HL/NHLBI NIH HHS/United States](https://pubmed.ncbi.nlm.nih.gov/?term=P01+HL076491%2FHL%2FNHLBI+NIH+HHS%2FUnited+States%5BGrants+and+Funding%5D&sort=date&sort_order=desc "All articles for grant P01 HL076491/HL/NHLBI NIH HHS/United States")
+- [R01 HL098193/HL/NHLBI NIH HHS/United States](https://pubmed.ncbi.nlm.nih.gov/?term=R01+HL098193%2FHL%2FNHLBI+NIH+HHS%2FUnited+States%5BGrants+and+Funding%5D&sort=date&sort_order=desc "All articles for grant R01 HL098193/HL/NHLBI NIH HHS/United States")
+- [P01 HL030568/HL/NHLBI NIH HHS/United States](https://pubmed.ncbi.nlm.nih.gov/?term=P01+HL030568%2FHL%2FNHLBI+NIH+HHS%2FUnited+States%5BGrants+and+Funding%5D&sort=date&sort_order=desc "All articles for grant P01 HL030568/HL/NHLBI NIH HHS/United States")
+- [P20 AA017837/AA/NIAAA NIH HHS/United States](https://pubmed.ncbi.nlm.nih.gov/?term=P20+AA017837%2FAA%2FNIAAA+NIH+HHS%2FUnited+States%5BGrants+and+Funding%5D&sort=date&sort_order=desc "All articles for grant P20 AA017837/AA/NIAAA NIH HHS/United States")
+- [T32 GM007250/GM/NIGMS NIH HHS/United States](https://pubmed.ncbi.nlm.nih.gov/?term=T32+GM007250%2FGM%2FNIGMS+NIH+HHS%2FUnited+States%5BGrants+and+Funding%5D&sort=date&sort_order=desc "All articles for grant T32 GM007250/GM/NIGMS NIH HHS/United States")
+- [K99 HL102223/HL/NHLBI NIH HHS/United States](https://pubmed.ncbi.nlm.nih.gov/?term=K99+HL102223%2FHL%2FNHLBI+NIH+HHS%2FUnited+States%5BGrants+and+Funding%5D&sort=date&sort_order=desc "All articles for grant K99 HL102223/HL/NHLBI NIH HHS/United States")
+
+Show all 18 grants
+
+
+## LinkOut - more resources
+
+- ### Full Text Sources
+
+
+  - [Europe PMC](https://europepmc.org/abstract/MED/21475195)
+  - [Nature Publishing Group](https://doi.org/10.1038/nature09922)
+  - [Ovid Technologies, Inc.](https://www.ovid.com/21475195.pmid)
+  - [PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/pmid/21475195/)
+- ### Other Literature Sources
+
+
+  - [H1 Connect - Access expert opinions and insights on biomedical research.](https://facultyopinions.com/pubmed/21475195)
+  - [The Lens - Patent Citations Database](https://www.lens.org/lens/search/patent/list?q=reference_cited.npl.ids.pmid:21475195)
+- ### Medical
+
+
+  - [ClinicalTrials.gov](https://clinicaltrials.gov/search?term=AREA%5BReferencePMID%5D21475195)
+- ### Molecular Biology Databases
+
+
+  - [Mouse Genome Informatics (MGI)](https://www.informatics.jax.org/reference/21475195)
+  - [NIAID Data Ecosystem - Find datasets on Infectious and Immune-mediated Diseases](https://data.niaid.nih.gov/resources?id=s-epmc3086762)
+
+NCBI Literature Resources
+
+[MeSH](https://www.ncbi.nlm.nih.gov/mesh/) [PMC](https://www.ncbi.nlm.nih.gov/pmc/) [Bookshelf](https://www.ncbi.nlm.nih.gov/books) [Disclaimer](https://pubmed.ncbi.nlm.nih.gov/disclaimer/)
+
+The PubMed wordmark and PubMed logo are registered trademarks of the U.S. Department of Health and Human Services (HHS). Unauthorized use of these marks is strictly prohibited.
+
+──────── [TRUNCATED] ────────
+Showing 8,706 chars (head) + 2,943 chars (tail) of 44,067 total clean characters.
+Full text saved to: /home/walker/.hermes/cache/web/pubmed.ncbi.nlm.nih.gov-fc4e914a0e.md
+To read the omitted middle: read_file path="/home/walker/.hermes/cache/web/pubmed.ncbi.nlm.nih.gov-fc4e914a0e.md" offset=264 limit=200  (the file is the complete page; raise/lower offset to page through it).
+─────────────────────────────

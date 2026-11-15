@@ -1,0 +1,15 @@
+PMID: 16679974
+URL: https://pubmed.ncbi.nlm.nih.gov/16679974/
+Title: NSAID use increases the risk of developing hyponatremia during an Ironman triathlon.
+Authors: Wharam PC; Speedy DB; Noakes TD; Thompson JM; Reid SA; Holtzhausen LM
+Journal: Medicine and science in sports and exercise
+Year: 2006
+Vol/Pages: 38(4):618-22
+DOI: 10.1249/01.mss.0000210209.40694.09
+Accessed: 2026-11-15 (NCBI PubMed efetch abstract)
+
+ABSTRACT
+PURPOSE: Exertional hyponatremia ((Na) < 135 mmol x L(-1)) is a potentially serious condition associated with endurance sports. It has been postulated that nonsteroidal antiinflammatory drug (NSAID) use may be a risk factor. This observational cohort study aimed to determine whether NSAID use is a risk factor for exertional hyponatremia and altered renal function during endurance exercise.
+METHODS: A total of 330 athletes in the 2004 New Zealand Ironman triathlon (3.8-km swim, 180-km cycle, and 42.2-km run) were weighed before and after the race. A blood sample was drawn for measurement of plasma sodium (Na), potassium (K), urea (urea), and creatinine (creatinine) concentrations postrace.
+RESULTS: The incidence of NSAID use was 30%, whereas the overall incidence of hyponatremia was 1.8%. NSAID use was related to the incidence of hyponatremia (P = 0.0002). The NSAID group had lower plasma Na (P = 0.02) and higher plasma K (P = 0.002), urea (P = 0.05), and creatinine (P = 0.01). Lower Na was also significantly related to female gender, lower prerace body weight, younger age and a smaller weight loss during the race. Race times were not associated with plasma Na; however, faster triathletes lost more weight. Estimated fluid intake was not different in the NSAID group, but heavier triathletes reported greater fluid intakes.
+CONCLUSIONS: NSAIDs are commonly used by athletes competing in endurance events and are a risk factor for hyponatremia and altered renal function. Notwithstanding high rates of NSAID use, the incidence of hyponatremia was low. We attribute this to changes in fluid replacement guidelines and drink station availability that reduce the risk of overdrinking, the principal cause of this condition.

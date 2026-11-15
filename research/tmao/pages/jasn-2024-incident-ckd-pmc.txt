@@ -1,0 +1,858 @@
+# URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC11164118/
+# Fetched via web_extract on 2026-11-15
+
+[Skip to main content](https://pmc.ncbi.nlm.nih.gov/articles/PMC11164118/#main-content)
+
+![](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/icon-dot-gov.svg)
+
+**Official websites use .gov**
+
+A
+**.gov** website belongs to an official
+government organization in the United States.
+
+
+![](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/icon-https.svg)
+
+**Secure .gov websites use HTTPS**
+
+A **lock** (
+Lock
+Locked padlock icon
+) or **https://** means you've safely
+connected to the .gov website. Share sensitive
+information only on official, secure websites.
+
+
+### NIH Websites Are Changing
+
+- [Get the Latest Updates and FAQs on the transition](https://www.nih.gov/web-modernization)
+- Per [Executive Order 14434](https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/), federal agencies are now using "Super Intelligence" (SI) in place of "Artificial Intelligence" (AI). You may see both terms across NIH content during this transition.
+
+[Home](https://pmc.ncbi.nlm.nih.gov/ "Home")
+
+![PMC search open icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/search.svg)![PMC search close ison](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/close.svg)
+
+Search PMC Full-Text Archive
+
+Search in PMC![Search](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons-bg/search--white.svg)
+
+- [Journal List](https://pmc.ncbi.nlm.nih.gov/journals/)
+- [User Guide](https://pmc.ncbi.nlm.nih.gov/about/userguide/)
+
+- ![Open resources icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/more_vert.svg)
+- [![View on publisher site icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/launch.svg)](https://doi.org/10.1681/ASN.0000000000000344) View on publisher site
+- [![Download PDF icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/file_download.svg)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11164118/pdf/jasn-35-749.pdf) Download PDF
+- ![Collections icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/action-bookmark-full.svg)![Collections icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/action-bookmark-empty.svg)Add to Collections
+- ![Cite icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/format_quote.svg)Cite
+- ![Show article permalink icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/share.svg)Permalink
+
+
+
+
+## PERMALINK
+
+
+
+![Copy icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/content_copy.svg)Copy
+
+
+![Open article navigation icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/list.svg)
+
+As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with,
+the contents by NLM or the National Institutes of Health.
+
+Learn more:
+[PMC Disclaimer](https://pmc.ncbi.nlm.nih.gov/about/disclaimer/)
+\|
+[PMC Copyright Notice](https://pmc.ncbi.nlm.nih.gov/about/copyright/)
+
+![Journal of the American Society of Nephrology : JASN logo](https://cdn.ncbi.nlm.nih.gov/pmc/banners/logo-jnephrol.png)
+
+J Am Soc Nephrol
+
+. 2024 May 9;35(6):749–760. doi: [10.1681/ASN.0000000000000344](https://doi.org/10.1681/ASN.0000000000000344)
+
+# The Gut Microbial Metabolite Trimethylamine _N_-oxide, Incident CKD, and Kidney Function Decline
+
+[Meng Wang](https://pubmed.ncbi.nlm.nih.gov/?term=%22Wang%20M%22[Author])
+
+### Meng Wang
+
+1Friedman School of Nutrition Science and Policy, Tufts University, Boston, Massachusetts
+
+Find articles by [Meng Wang](https://pubmed.ncbi.nlm.nih.gov/?term=%22Wang%20M%22[Author])
+
+1,✉, [WH Wilson Tang](https://pubmed.ncbi.nlm.nih.gov/?term=%22Tang%20WHW%22[Author])
+
+### WH Wilson Tang
+
+2Department of Cardiovascular and Metabolic Sciences, Lerner Research Institute, Cleveland, Ohio
+
+3Center for Microbiome and Human Health, Lerner Research Institute, Cleveland, Ohio
+
+4Department of Cardiovascular Medicine, Heart, Vascular and Thoracic Institute, Cleveland Clinic, Cleveland, Ohio
+
+Find articles by [WH Wilson Tang](https://pubmed.ncbi.nlm.nih.gov/?term=%22Tang%20WHW%22[Author])
+
+2,3,4, [Xinmin S Li](https://pubmed.ncbi.nlm.nih.gov/?term=%22Li%20XS%22[Author])
+
+### Xinmin S Li
+
+2Department of Cardiovascular and Metabolic Sciences, Lerner Research Institute, Cleveland, Ohio
+
+3Center for Microbiome and Human Health, Lerner Research Institute, Cleveland, Ohio
+
+Find articles by [Xinmin S Li](https://pubmed.ncbi.nlm.nih.gov/?term=%22Li%20XS%22[Author])
+
+2,3, [Marcia C de Oliveira Otto](https://pubmed.ncbi.nlm.nih.gov/?term=%22de%20Oliveira%20Otto%20MC%22[Author])
+
+### Marcia C de Oliveira Otto
+
+5Division of Epidemiology, Human Genetics and Environmental Sciences, The University of Texas Health Science Center at Houston (UTHealth) School of Public Health, Houston, Texas
+
+Find articles by [Marcia C de Oliveira Otto](https://pubmed.ncbi.nlm.nih.gov/?term=%22de%20Oliveira%20Otto%20MC%22[Author])
+
+5, [Yujin Lee](https://pubmed.ncbi.nlm.nih.gov/?term=%22Lee%20Y%22[Author])
+
+### Yujin Lee
+
+6Department of Food and Nutrition, Myongji University, Yongin, South Korea
+
+Find articles by [Yujin Lee](https://pubmed.ncbi.nlm.nih.gov/?term=%22Lee%20Y%22[Author])
+
+6, [Rozenn N Lemaitre](https://pubmed.ncbi.nlm.nih.gov/?term=%22Lemaitre%20RN%22[Author])
+
+### Rozenn N Lemaitre
+
+7Cardiovascular Health Research Unit, Department of Medicine, University of Washington, Seattle, Washington
+
+Find articles by [Rozenn N Lemaitre](https://pubmed.ncbi.nlm.nih.gov/?term=%22Lemaitre%20RN%22[Author])
+
+7, [Amanda Fretts](https://pubmed.ncbi.nlm.nih.gov/?term=%22Fretts%20A%22[Author])
+
+### Amanda Fretts
+
+7Cardiovascular Health Research Unit, Department of Medicine, University of Washington, Seattle, Washington
+
+8Department of Epidemiology, University of Washington, Seattle, Washington
+
+Find articles by [Amanda Fretts](https://pubmed.ncbi.nlm.nih.gov/?term=%22Fretts%20A%22[Author])
+
+7,8, [Ina Nemet](https://pubmed.ncbi.nlm.nih.gov/?term=%22Nemet%20I%22[Author])
+
+### Ina Nemet
+
+2Department of Cardiovascular and Metabolic Sciences, Lerner Research Institute, Cleveland, Ohio
+
+3Center for Microbiome and Human Health, Lerner Research Institute, Cleveland, Ohio
+
+Find articles by [Ina Nemet](https://pubmed.ncbi.nlm.nih.gov/?term=%22Nemet%20I%22[Author])
+
+2,3, [Nona Sotoodehnia](https://pubmed.ncbi.nlm.nih.gov/?term=%22Sotoodehnia%20N%22[Author])
+
+### Nona Sotoodehnia
+
+7Cardiovascular Health Research Unit, Department of Medicine, University of Washington, Seattle, Washington
+
+Find articles by [Nona Sotoodehnia](https://pubmed.ncbi.nlm.nih.gov/?term=%22Sotoodehnia%20N%22[Author])
+
+7, [Colleen M Sitlani](https://pubmed.ncbi.nlm.nih.gov/?term=%22Sitlani%20CM%22[Author])
+
+### Colleen M Sitlani
+
+7Cardiovascular Health Research Unit, Department of Medicine, University of Washington, Seattle, Washington
+
+Find articles by [Colleen M Sitlani](https://pubmed.ncbi.nlm.nih.gov/?term=%22Sitlani%20CM%22[Author])
+
+7, [Matthew Budoff](https://pubmed.ncbi.nlm.nih.gov/?term=%22Budoff%20M%22[Author])
+
+### Matthew Budoff
+
+9Lundquist Institute at Harbor-UCLA Medical Center, Torrance, California
+
+Find articles by [Matthew Budoff](https://pubmed.ncbi.nlm.nih.gov/?term=%22Budoff%20M%22[Author])
+
+9, [Joseph A DiDonato](https://pubmed.ncbi.nlm.nih.gov/?term=%22DiDonato%20JA%22[Author])
+
+### Joseph A DiDonato
+
+2Department of Cardiovascular and Metabolic Sciences, Lerner Research Institute, Cleveland, Ohio
+
+3Center for Microbiome and Human Health, Lerner Research Institute, Cleveland, Ohio
+
+Find articles by [Joseph A DiDonato](https://pubmed.ncbi.nlm.nih.gov/?term=%22DiDonato%20JA%22[Author])
+
+2,3, [Zeneng Wang](https://pubmed.ncbi.nlm.nih.gov/?term=%22Wang%20Z%22[Author])
+
+### Zeneng Wang
+
+2Department of Cardiovascular and Metabolic Sciences, Lerner Research Institute, Cleveland, Ohio
+
+3Center for Microbiome and Human Health, Lerner Research Institute, Cleveland, Ohio
+
+Find articles by [Zeneng Wang](https://pubmed.ncbi.nlm.nih.gov/?term=%22Wang%20Z%22[Author])
+
+2,3,✉, [Nisha Bansal](https://pubmed.ncbi.nlm.nih.gov/?term=%22Bansal%20N%22[Author])
+
+### Nisha Bansal
+
+10Division of Nephrology, Department of Medicine, University of Washington, Seattle, Washington
+
+Find articles by [Nisha Bansal](https://pubmed.ncbi.nlm.nih.gov/?term=%22Bansal%20N%22[Author])
+
+10, [Michael G Shlipak](https://pubmed.ncbi.nlm.nih.gov/?term=%22Shlipak%20MG%22[Author])
+
+### Michael G Shlipak
+
+11Kidney Health Research Collaborative and Department of Medicine, San Francisco Veterans Administration Medical Center and University of California–San Francisco, San Francisco, California
+
+Find articles by [Michael G Shlipak](https://pubmed.ncbi.nlm.nih.gov/?term=%22Shlipak%20MG%22[Author])
+
+11, [Bruce M Psaty](https://pubmed.ncbi.nlm.nih.gov/?term=%22Psaty%20BM%22[Author])
+
+### Bruce M Psaty
+
+7Cardiovascular Health Research Unit, Department of Medicine, University of Washington, Seattle, Washington
+
+8Department of Epidemiology, University of Washington, Seattle, Washington
+
+12Department of Health Systems and Population Health, University of Washington, Seattle, Washington
+
+Find articles by [Bruce M Psaty](https://pubmed.ncbi.nlm.nih.gov/?term=%22Psaty%20BM%22[Author])
+
+7,8,12, [David S Siscovick](https://pubmed.ncbi.nlm.nih.gov/?term=%22Siscovick%20DS%22[Author])
+
+### David S Siscovick
+
+13The New York Academy of Medicine, New York, New York
+
+Find articles by [David S Siscovick](https://pubmed.ncbi.nlm.nih.gov/?term=%22Siscovick%20DS%22[Author])
+
+13, [Mark J Sarnak](https://pubmed.ncbi.nlm.nih.gov/?term=%22Sarnak%20MJ%22[Author])
+
+### Mark J Sarnak
+
+14Department of Medicine (Nephrology), Tufts University School of Medicine, Boston, Massachusetts
+
+Find articles by [Mark J Sarnak](https://pubmed.ncbi.nlm.nih.gov/?term=%22Sarnak%20MJ%22[Author])
+
+14, [Dariush Mozaffarian](https://pubmed.ncbi.nlm.nih.gov/?term=%22Mozaffarian%20D%22[Author])
+
+### Dariush Mozaffarian
+
+1Friedman School of Nutrition Science and Policy, Tufts University, Boston, Massachusetts
+
+Find articles by [Dariush Mozaffarian](https://pubmed.ncbi.nlm.nih.gov/?term=%22Mozaffarian%20D%22[Author])
+
+1, [Stanley L Hazen](https://pubmed.ncbi.nlm.nih.gov/?term=%22Hazen%20SL%22[Author])
+
+### Stanley L Hazen
+
+2Department of Cardiovascular and Metabolic Sciences, Lerner Research Institute, Cleveland, Ohio
+
+3Center for Microbiome and Human Health, Lerner Research Institute, Cleveland, Ohio
+
+4Department of Cardiovascular Medicine, Heart, Vascular and Thoracic Institute, Cleveland Clinic, Cleveland, Ohio
+
+Find articles by [Stanley L Hazen](https://pubmed.ncbi.nlm.nih.gov/?term=%22Hazen%20SL%22[Author])
+
+2,3,4,✉
+
+- Author information
+- Article notes
+- Copyright and License information
+
+1Friedman School of Nutrition Science and Policy, Tufts University, Boston, Massachusetts
+
+2Department of Cardiovascular and Metabolic Sciences, Lerner Research Institute, Cleveland, Ohio
+
+3Center for Microbiome and Human Health, Lerner Research Institute, Cleveland, Ohio
+
+4Department of Cardiovascular Medicine, Heart, Vascular and Thoracic Institute, Cleveland Clinic, Cleveland, Ohio
+
+5Division of Epidemiology, Human Genetics and Environmental Sciences, The University of Texas Health Science Center at Houston (UTHealth) School of Public Health, Houston, Texas
+
+6Department of Food and Nutrition, Myongji University, Yongin, South Korea
+
+7Cardiovascular Health Research Unit, Department of Medicine, University of Washington, Seattle, Washington
+
+8Department of Epidemiology, University of Washington, Seattle, Washington
+
+9Lundquist Institute at Harbor-UCLA Medical Center, Torrance, California
+
+10Division of Nephrology, Department of Medicine, University of Washington, Seattle, Washington
+
+11Kidney Health Research Collaborative and Department of Medicine, San Francisco Veterans Administration Medical Center and University of California–San Francisco, San Francisco, California
+
+12Department of Health Systems and Population Health, University of Washington, Seattle, Washington
+
+13The New York Academy of Medicine, New York, New York
+
+14Department of Medicine (Nephrology), Tufts University School of Medicine, Boston, Massachusetts
+
+✉
+
+**Correspondence:** Dr. Stanley L. Hazen or Dr. Meng Wang, email: Hazens@ccf.org or meng.wang@tufts.edu
+
+✉
+
+Corresponding author.
+
+Received 2023 Nov 26; Accepted 2024 Apr 1; Issue date 2024 Jun.
+
+Copyright © 2024 by the American Society of Nephrology
+
+[PMC Copyright notice](https://pmc.ncbi.nlm.nih.gov/about/copyright/)
+
+PMCID: PMC11164118  PMID: [38593157](https://pubmed.ncbi.nlm.nih.gov/38593157/)
+
+## Visual Abstract
+
+[![graphic file with name jasn-35-749-g001.jpg](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/2820/11164118/3d778fc7dbdb/jasn-35-749-g001.jpg)](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=11164118_jasn-35-749-g001.jpg)
+
+[Open in a new tab](https://pmc.ncbi.nlm.nih.gov/articles/PMC11164118/figure/absf1/)
+
+**Keywords:** CKD, epidemiology and outcomes, nutrition, risk factors
+
+## Abstract
+
+### Key Points
+
+- In community-based US adults, higher plasma trimethylamine _N_-oxide levels associated with higher risk of incident CKD and greater rate of kidney function decline.
+
+- Findings from our study support future clinical trials to examine whether lowering plasma trimethylamine _N_-oxide levels may prevent CKD development and progression.
+
+
+### Background
+
+Trimethylamine _N_-oxide (TMAO) is a gut microbiota–derived metabolite of dietary phosphatidylcholine and carnitine. Experimentally, TMAO causes kidney injury and tubulointerstitial fibrosis. Little is known about prospective associations between TMAO and kidney outcomes, especially incident CKD. We hypothesized that higher plasma TMAO levels would be associated with higher risk of incident CKD and greater rate of kidney function decline.
+
+### Methods
+
+We included 10,564 participants from two community-based, prospective cohorts with eGFR ≥60 ml/min per 1.73 m2 to assess incident CKD. TMAO was measured using targeted mass spectrometry at baseline and one follow-up visit. Creatinine and cystatin C were measured up to four times during follow-up and used to compute eGFR. Incident CKD was defined as an eGFR decline ≥30% from baseline and a resulting eGFR <60 ml/min per 1.73 m2. Time-varying Cox models assessed the association of serial TMAO measures with incident CKD, adjusting for sociodemographic, lifestyle, diet, and cardiovascular disease risk factors. Linear mixed models assessed the association with annualized eGFR change in 10,009 participants with at least one follow-up eGFR measure without exclusions for baseline eGFR levels.
+
+### Results
+
+During a median follow-up of 9.4 years (interquartile range, 9.1–11.6 years), 979 incident CKD events occurred. Higher TMAO levels were associated with higher risk of incident CKD (second to fifth versus first quintile hazard ratio \[95% confidence interval\]=1.65 \[1.22 to 2.23\], 1.68 \[1.26 to 2.25\], 2.28 \[1.72 to 3.02\], and 2.24 \[1.68 to 2.98\], respectively) and greater annualized eGFR decline (second to fifth versus first quintile annualized eGFR change=−0.21 \[−0.32 to −0.09\], −0.17 \[−0.29 to −0.05\], −0.35 \[−0.47 to −0.22\], and −0.43 \[−0.56 to −0.30\] ml/min per 1.73 m2, respectively) with monotonic dose–response relationships. These associations were consistent across different racial/ethnic groups examined. The association with eGFR decline was similar to or larger than that seen for established CKD risk factors, including diabetes, per 10 mm Hg of higher systolic BP, per 10 years of older age, and Black race.
+
+### Conclusions
+
+In community-based US adults, higher serial measures of plasma TMAO were associated with higher risk of incident CKD and greater annualized kidney function decline.
+
+## Introduction
+
+CKD is a major and growing public health challenge in the United States and globally, affecting approximately 10%–15% of the population worldwide, and is a strong risk factor of cardiovascular disease.[1](https://pmc.ncbi.nlm.nih.gov/articles/PMC11164118/#B1)– [3](https://pmc.ncbi.nlm.nih.gov/articles/PMC11164118/#B3) Despite several established risk factors, such as age, diabetes, and hypertension, causes of CKD development and progression and the heightened cardiovascular risk in patients with CKD remain incompletely understood, hindering targeted preventive and therapeutic strategies.[1](https://pmc.ncbi.nlm.nih.gov/articles/PMC11164118/#B1)
+
+Growing evidence highlights human gut microbiota and microbiome-derived metabolites, especially trimethylamine _N_-oxide (TMAO), as novel contributors to the pathogenesis of cardiovascular disease.[4](https://pmc.ncbi.nlm.nih.gov/articles/PMC11164118/#B4)– [7](https://pmc.ncbi.nlm.nih.gov/articles/PMC11164118/#B7) TMAO is a metabolite generated by microbial metabolism of dietary l-carnitine (abundant almost exclusively in red meat) and choline (present in a variety of animal source foods).[8](https://pmc.ncbi.nlm.nih.gov/articles/PMC11164118/#B8), [9](https://pmc.ncbi.nlm.nih.gov/articles/PMC11164118/#B9) TMAO is atherogenic and thrombogenic in experimental studies and has been associated with higher risk of cardiovascular events and mortality in several cohort studies and clinical patient samples.[5](https://pmc.ncbi.nlm.nih.gov/articles/PMC11164118/#B5), [10](https://pmc.ncbi.nlm.nih.gov/articles/PMC11164118/#B10)– [16](https://pmc.ncbi.nlm.nih.gov/articles/PMC11164118/#B16) Experimental models suggest TMAO may also directly affect kidney function. Feeding mice with choline or TMAO reduces GFR, raises plasma cystatin C and urine albumin levels, and increases renal tubulointerstitial fibrosis.[17](https://pmc.ncbi.nlm.nih.gov/articles/PMC11164118/#B17), [18](https://pmc.ncbi.nlm.nih.gov/articles/PMC11164118/#B18) Furthermore, targeted inhibition of gut microbial TMAO generation using a choline TMAO-lyase inhibitor suppresses these kidney impairments induced by choline diet,[17](https://pmc.ncbi.nlm.nih.gov/articles/PMC11164118/#B17), [19](https://pmc.ncbi.nlm.nih.gov/articles/PMC11164118/#B19) supporting a direct causal mechanism. TMAO's effects on cardiorenal pathways, together with its renal clearance, suggest it may be a novel intervention target for preventing CKD development and progression, while possibly also reducing cardiovascular complications in patients with CKD. However, whether TMAO is prospectively associated with kidney outcomes in humans remains largely unknown, especially among those with preserved kidney function. Few studies have investigated such associations, and these studies comprised mostly adults of White, European descent, limiting inference to other racial and ethnic groups.[20](https://pmc.ncbi.nlm.nih.gov/articles/PMC11164118/#B20)– [23](https://pmc.ncbi.nlm.nih.gov/articles/PMC11164118/#B23) In addition, while TMAO levels can change over time and be influenced by a range of important confounding factors, these prior studies evaluated only a single measure of TMAO at baseline and lacked information on sociodemographic, lifestyle, and diet variables, raising the potential for measurement error and significant confounding.
+
+To address these research gaps and to understand the relationship of TMAO to CKD development and progression in the general population with diverse races/ethnicities, we investigated the associations of serial measures of plasma TMAO with the risk of incident CKD and kidney function decline, pooling individual data from two diverse, well-characterized, community-based prospective cohorts of US adults: the Cardiovascular Health Study (CHS) and the Multi-Ethnic Study of Atherosclerosis (MESA). We hypothesized that higher levels of serially measured plasma TMAO would be prospectively associated with higher risk of incident CKD and greater kidney function decline.
+
+## Methods
+
+### Study Population
+
+The study design and participant recruitment of CHS and MESA have been described.[24](https://pmc.ncbi.nlm.nih.gov/articles/PMC11164118/#B24)– [26](https://pmc.ncbi.nlm.nih.gov/articles/PMC11164118/#B26) Briefly, CHS is a prospective cohort study designed to investigate risk factors of coronary heart disease and stroke in older adults.[24](https://pmc.ncbi.nlm.nih.gov/articles/PMC11164118/#B24), [25](https://pmc.ncbi.nlm.nih.gov/articles/PMC11164118/#B25) In 1989–1990, 5201 noninstitutionalized adults aged 65 years and older were recruited from random samples of Medicare eligibility lists in four US communities (main cohort). To enrich minority recruitment, an additional 687 Black participants were recruited in 1992–1993 using similar methods, resulting in 5888 total participants (84% White, 16% Black). MESA is an ongoing prospective cohort study to investigate characteristics and risk factors of onset and progression of subclinical cardiovascular disease in diverse races/ethnicities.[26](https://pmc.ncbi.nlm.nih.gov/articles/PMC11164118/#B26) In 2000–2002, 6814 adults aged 45–84 years were recruited from six study sites, including 38% White, 28% Black, 22% Hispanic, and 12% Chinese American adults. All MESA participants were free of clinical cardiovascular disease at baseline. Both CHS and MESA were approved by the institutional review board of each participating university, and all participants provided informed written consent.
+
+To investigate the association between TMAO and incident CKD, we evaluated 10,564 CHS and MESA participants with at least one concurrent measurement of TMAO and eGFR and normal baseline kidney function ( _i.e_., eGFR ≥60 ml/min per 1.73 m2). These participants were younger, more likely to be non-White, and healthier than CHS and MESA participants not included in the analysis ( [Supplemental Table 1](http://links.lww.com/JSN/E626), only about 5% of participants \[ _n_ =678\] were excluded because of the lack of concurrent TMAO and eGFR measures). To investigate the association between TMAO and kidney function decline, we included 10,009 CHS and MESA participants with available TMAO and eGFR at enrollment, without exclusions for eGFR levels, and at least one follow-up eGFR measure to calculate change in kidney function. [Supplemental Figure 1](http://links.lww.com/JSN/E626) shows timing of TMAO and kidney function measurements in these two cohorts. As a prespecified plan, we pooled the two cohorts to increase power given no expected biological difference in the associations between TMAO and kidney outcomes by cohorts. We also presented cohort-specific results in secondary analyses.
+
+### TMAO Measurement
+
+Plasma TMAO concentrations were measured centrally at the Cleveland Clinic Lerner Research Institute using stored frozen (−80°C) fasting blood samples collected at enrollment and one follow-up visit (7 years after main cohort enrollment in CHS, 5 years after enrollment in MESA, [Supplemental Figure 1](http://links.lww.com/JSN/E626)). TMAO was quantified using a stable-isotope dilution assay with high-performance liquid chromatography, with online electrospray ionization tandem mass spectrometry on a Shimadzu 8050 or 8060 mass spectrometer.[27](https://pmc.ncbi.nlm.nih.gov/articles/PMC11164118/#B27) These measurement methods are in general more precise and accurate than untargeted omics platforms, with all laboratory intra- and inter-assay coefficients of variation <6%.
+
+### Incident CKD and Kidney Function
+
+eGFR was computed using serum creatinine and cystatin C, measured up to four times during follow-up in both cohorts ( [Supplemental Figure 1](http://links.lww.com/JSN/E626)), on the basis of the 2021 Chronic Kidney Disease Epidemiology Collaboration creatinine and cystatin C–based equation.[28](https://pmc.ncbi.nlm.nih.gov/articles/PMC11164118/#B28) The primary outcome was incident CKD, defined as both an eGFR decline ≥30% from baseline and a resulting eGFR <60 ml/min per 1.73 m2. In secondary analysis, we captured additional patients with possible CKD by using a previously developed algorithm on the basis of hospitalization International Classification of Disease (ICD) codes to identify incident CKD stage 3 or above.[29](https://pmc.ncbi.nlm.nih.gov/articles/PMC11164118/#B29) In exploratory analysis, we also examined the outcome of eGFR decline ≥40% (regardless of the resultant eGFR level), which has been recommended by the US Food and Drug Administration as an acceptable surrogate end point for the development of kidney failure in CKD clinical trials.[30](https://pmc.ncbi.nlm.nih.gov/articles/PMC11164118/#B30) Annualized change in eGFR was assessed as the absolute change in eGFR between time points divided by the interval (in years) between the measurements. In a _post hoc_ secondary analysis, we also examined rate of kidney function decline using three categories: rapid decline (eGFR change <−3 ml/min per 1.73 m2 per year), intermediate decline (−3 ≤eGFR change <−1 ml/min per 1.73 m2 per year), and slow or no decline (eGFR change ≥−1 ml/min per 1.73 m2 per year).
+
+### Covariates
+
+At each cohort examination, information on sociodemographics, anthropometrics, dietary and other lifestyle habits, medical history, medications, and cardiovascular disease risk factors including blood biomarkers were collected by standardized questionnaires, physical examination, and fasting blood draw performed by trained personnel following established protocols.[24](https://pmc.ncbi.nlm.nih.gov/articles/PMC11164118/#B24), [26](https://pmc.ncbi.nlm.nih.gov/articles/PMC11164118/#B26) Data from MESA and CHS were harmonized to the same units or response categories ( [Supplemental Text](http://links.lww.com/JSN/E626)).
+
+### Statistical Analysis
+
+Cohort-stratified Cox proportional hazards models with time-varying TMAO and covariates were used to assess associations with incident CKD. Time at risk was calculated from the first concurrent measurement of TMAO and kidney function until the last visit with kidney function assessment (2005–2006 in CHS, 2010–2011 in MESA, [Supplemental Figure 1](http://links.lww.com/JSN/E626)), death, or last study contact, whichever occurred first. The proportional hazards assumption for TMAO was not violated on the basis of Schoenfeld residuals.[31](https://pmc.ncbi.nlm.nih.gov/articles/PMC11164118/#B31)
+
+We used time-varying cumulative averages of TMAO to leverage the two measures: Baseline TMAO measure was related to CKD risk until the time of the second measure, and the average of both TMAO measures was related to subsequent risk. Cumulative average was used for two reasons. First, health effects due to a factor like TMAO likely relate to the cumulative effect of exposure in the past and more recent exposure. Averaging helps account for this. Second, averaging helps to reduce measurement error. TMAO was analyzed in quintiles with cutoffs selected on the basis of baseline levels of the combined cohorts. To assess linear trends across quintiles, we assigned each participant the median value of their quintile and analyzed this variable continuously. Potential nonlinear associations were examined using restricted cubic splines.[32](https://pmc.ncbi.nlm.nih.gov/articles/PMC11164118/#B32)
+
+To minimize confounding, two prespecified multivariable models were fitted. Model 1 (multivariable model) adjusted for baseline sociodemographics (age, sex, race/ethnicity, study site, education, and income) and time-varying lifestyle (smoking status, alcohol intake, and physical activity), habitual diet (intakes of total energy, unprocessed red meat, processed meat, fish, poultry, eggs, fruits, and vegetables), self-perceived health, and antibiotic use in the past 2 weeks. Model 2 (multivariable+cardiovascular disease risk factor model) further adjusted for time-varying cardiovascular disease risk factors and medications, including body mass index, waist circumference, systolic BP, diastolic BP, LDL cholesterol, HDL cholesterol, triglycerides, prevalent diabetes, C-reactive protein, antihypertensive medication, and lipid-lowering medication. We used model 2 as our primary model for inference on associations. In addition, we fitted three mediator models, further adjusting for factors that are experimentally influenced by TMAO and could be both mediators (on the causal pathway) and confounders of the TMAO-CKD association,[4](https://pmc.ncbi.nlm.nih.gov/articles/PMC11164118/#B4), [17](https://pmc.ncbi.nlm.nih.gov/articles/PMC11164118/#B17), [18](https://pmc.ncbi.nlm.nih.gov/articles/PMC11164118/#B18) including time-varying continuous eGFR, urine albumin-to-creatinine ratio (UACR) (available in MESA only), and cardiovascular events. All time-varying covariates were updated once at the same time as the follow-up TMAO measure using concurrent values ( _i.e_., adjusting for the starting covariate level of each time interval). If a participant did not have follow-up TMAO measure, covariates were not updated. Of all participants with a second TMAO measure, 95.8% also had a concurrent eGFR measure. For those with missing eGFR at the time of the second TMAO measurement (<5%), we carried forward the most recent eGFR before that time point in eGFR-adjusted analysis.
+
+Linear mixed models assessed associations of time-varying TMAO with annualized eGFR changes, and mixed ordinal logistic regressions assessed associations with rate of kidney function decline ( _i.e_., rapid decline, intermediate decline, and slow or no decline, defined by categorizing annualized eGFR changes). Cohort and participant were included as random intercepts, accounting for both within-cohort and within-participant correlations. TMAO was analyzed using cumulative averages, with baseline TMAO related to annualized eGFR change until the second TMAO measurement, and the average of both TMAO measures related to subsequent eGFR change. Annualized eGFR change was directly computed and used as the outcome. In each time interval, if a participant had more than one eGFR measure after the starting time point, the last measure was used to compute annualized change for that interval. Multivariable models were adjusted as described above, except that time-varying continuous eGFR ( _i.e_., the starting eGFR level of each time interval) was adjusted in all models.
+
+We explored whether associations varied in prespecified subgroups by baseline age, sex, race/ethnicity, total meat (unprocessed red+processed meat) intake, diabetes, hypertension, cardiovascular disease, and (for the outcome of annualized eGFR change) eGFR < versus ≥60 ml/min per 1.73 m2. We included multiplicative interaction terms between TMAO and each subgroup in separate models, with statistical significance for these exploratory interactions Bonferroni adjusted for multiple comparisons ( _α_ =0.05/15=0.003). Statistical significance for all other analyses was defined as two-sided _α_ =0.05. Analyses were performed using Stata 16.1 (Stata Corp, College Station, TX).
+
+## Results
+
+### Participant Characteristics
+
+At baseline, mean (SD) age was 66 (10) years, and 44% were male (Table [1](https://pmc.ncbi.nlm.nih.gov/articles/PMC11164118/#t1)). Nearly half (44%) of the participants were non-White, including 23% Black, 7% Chinese American, and 14% Hispanic adults. Approximately 16% of participants had diabetes, 8% had recognized cardiovascular disease, 38% were on antihypertensive medication, and 12% were on lipid-lowering medication. Participants with higher TMAO levels were more likely to be older, male, White, physically inactive, and on antihypertensive medication and have diabetes, cardiovascular disease, higher triglycerides, and lower eGFR ( [Supplemental Table 2](http://links.lww.com/JSN/E626)). The unadjusted Spearman correlation coefficient between baseline TMAO and eGFR was −0.27 ( _P_ < 0.001). Correlation between baseline TMAO and total meat intake was small but statistically significant (Spearman ρ=0.08, _P_ < 0.001).
+
+#### Table 1.
+
+Baseline characteristics of 10,564 US adults included in the analysis of incident CKD [a](https://pmc.ncbi.nlm.nih.gov/articles/PMC11164118/#tblfn1)
+
+| Characteristics | CHS ( _n_ =4131) | MESA ( _n_ =6433) | Pooled ( _N_ =10,564) |
+| --- | :-: | :-: | :-: |
+| TMAO, _µ_ mol/L | 4.39 (3.03–6.86) | 3.45 (2.37–5.33) | 3.80 (2.58–5.93) |
+| **Sociodemographic factors** |  |  |  |
+| Age, yr | 72±5 | 62±10 | 66±10 |
+| Male | 1629 (39) | 3045 (47) | 4674 (44) |
+| Race/ethnicity |  |  |  |
+| _Black_ | 647 (16) | 1752 (27) | 2399 (23) |
+| _Chinese American_ | 0 (0) | 768 (12) | 768 (7) |
+| _Hispanic_ | 0 (0) | 1431 (22) | 1431 (14) |
+| _Other [b](https://pmc.ncbi.nlm.nih.gov/articles/PMC11164118/#tblfn2)_ | 22 (1) | 0 (0) | 22 (0) |
+| _White_ | 3462 (84) | 2482 (39) | 5944 (56) |
+| Education |  |  |  |
+| _<High school_ | 1117 (27) | 1139 (18) | 2256 (21) |
+| _High school_ | 1178 (29) | 1152 (18) | 2330 (22) |
+| _Some college_ | 953 (23) | 1840 (29) | 2793 (26) |
+| _College graduate_ | 883 (21) | 2302 (36) | 3185 (30) |
+| Annual household income |  |  |  |
+| _<$12,000_ | 973 (24) | 732 (11) | 1705 (16) |
+| _$12,000 to <$25,000_ | 1493 (36) | 1264 (20) | 2757 (26) |
+| _$25,000 to <$50,000_ | 1120 (27) | 1894 (29) | 3014 (29) |
+| _≥$50,000_ | 545 (13) | 2543 (40) | 3088 (29) |
+| Self-reported health |  |  |  |
+| _Excellent_ | 592 (14) | 1042 (16) | 1634 (15) |
+| _Very good_ | 1079 (26) | 2176 (34) | 3255 (31) |
+| _Good_ | 1556 (38) | 2641 (41) | 4197 (40) |
+| _Fair_ | 788 (19) | 535 (8) | 1323 (13) |
+| _Poor_ | 116 (3) | 39 (1) | 155 (1) |
+| **Lifestyle** |  |  |  |
+| Smoking status |  |  |  |
+| _Never smoked_ | 1930 (47) | 3239 (50) | 5169 (49) |
+| _Former smoker_ | 1711 (41) | 2343 (36) | 4054 (38) |
+| _Current smoker_ | 490 (12) | 851 (13) | 1341 (13) |
+| Alcohol intake, drinks/wk | 2.8±7.6 | 2.7±5.3 | 2.7±6.3 |
+| Physical activity, kcal/wk | 1212±1599 | 2148±3334 | 1782±2824 |
+| Total energy intake, kcal/d | 1811±636 | 1629±879 | 1700±798 |
+| Red meat intake, servings/d | 0.5±0.4 | 0.4±0.4 | 0.4±0.4 |
+| Processed meat intake, servings/d | 0.4±0.4 | 0.2±0.3 | 0.3±0.4 |
+| Fish intake, servings/d | 0.3±0.2 | 0.3±0.4 | 0.3±0.3 |
+| Poultry intake, servings/d | 0.3±0.3 | 0.4±0.4 | 0.4±0.3 |
+| Egg intake, servings/d | 0.2±0.2 | 0.2±0.3 | 0.2±0.3 |
+| Fruit intake, servings/d | 2.2±1.1 | 2.6±1.9 | 2.4±1.7 |
+| Vegetable intake, servings/d | 2.6±1.4 | 2.7±1.9 | 2.7±1.7 |
+| **Vascular risk factors** |  |  |  |
+| BMI, kg/m2 | 26.6±4.7 | 28.3±5.4 | 27.6±5.2 |
+| Waist circumference, cm | 94.0±13.2 | 97.9±14.3 | 96.4±14.0 |
+| Systolic BP, mm Hg | 135±21 | 126±21 | 130±22 |
+| Diastolic BP, mm Hg | 71±11 | 72±10 | 72±11 |
+| HDL cholesterol, mg/dl | 56±16 | 51±15 | 53±15 |
+| LDL cholesterol, mg/dl | 130±34 | 117±32 | 122±34 |
+| Triglycerides, mg/dl | 136±72 | 131±87 | 133±82 |
+| CRP, mg/L | 4.4±7.7 | 3.7±5.8 | 4.0±6.6 |
+| eGFR, ml/min per 1.73 m2 | 80±12 | 96±15 | 90±16 |
+| **Medical history** |  |  |  |
+| Diabetes mellitus [c](https://pmc.ncbi.nlm.nih.gov/articles/PMC11164118/#tblfn3) | 874 (21) | 770 (12) | 1644 (16) |
+| Cardiovascular disease [d](https://pmc.ncbi.nlm.nih.gov/articles/PMC11164118/#tblfn4) | 830 (20) | 0 (0) | 830 (8) |
+| Antihypertensive medication (prior 2 wk) | 1774 (43) | 2279 (35) | 4053 (38) |
+| Lipid-lowering medication (prior 2 wk) | 243 (6) | 1015 (16) | 1258 (12) |
+| Antibiotic use (prior 2 wk) | 122 (3) | 184 (3) | 306 (3) |
+
+[Open in a new tab](https://pmc.ncbi.nlm.nih.gov/articles/PMC11164118/table/t1/)
+
+Data are _N_ (%) for categorical variables and mean±SD for continuous variables. BMI, body mass index; CHS, Cardiovascular Health Study; CRP, C-reactive protein; MESA, Multi-Ethnic Study of Atherosclerosis; TMAO, trimethylamine _N_-oxide.
+
+a
+
+Baseline was defined as the time of the first concurrent measurement of trimethylamine _N_-oxide and kidney function, with participants included for the analysis of incident CKD.
+
+b
+
+“Other” includes American Indian/Alaskan Native, Asian/Pacific Islander, and other race/ethnicities.
+
+c
+
+Diabetes was defined in the Cardiovascular Health Study as treatment with oral hypoglycemic agents or insulin, fasting glucose ≥126 mg/dl, or 2-hour post-oral glucose challenge ≥200 mg/dl, and in the Multi-Ethnic Study of Atherosclerosis, as treatment with oral hypoglycemic agents or insulin or fasting glucose ≥126 mg/dl.
+
+d
+
+Cardiovascular disease was defined as confirmed prevalent myocardial infarction, angina on the basis of the Rose questionnaire, coronary revascularization, or stroke. Participants with prevalent recognized cardiovascular disease were excluded from the Multi-Ethnic Study of Atherosclerosis enrollment by design.
+
+### Serial TMAO Levels and Incident CKD
+
+During a median of 9.4 years (maximum: 16.7 years) and 106,291 total person-years of follow-up, 979 incident CKD events occurred (eGFR-defined; 552 in CHS, 427 in MESA). After adjusting for sociodemographics, dietary and other lifestyle habits, and traditional cardiovascular disease risk factors, higher plasma TMAO associated with more than two-fold risk of incident CKD (top versus bottom quintile hazard ratio \[HR\]=2.24; 95% confidence interval \[CI\], 1.68 to 2.98; _P_-trend < 0.001, Table [2](https://pmc.ncbi.nlm.nih.gov/articles/PMC11164118/#t2)). With further adjustment for eGFR, which could be both a mediator and a confounder, the association remained significant (top quintile HR=1.70; 95% CI, 1.27 to 2.26; _P_-trend = 0.008). Further adjustment for cardiovascular disease events did not appreciably alter the results. Restricted cubic spline analyses suggested an overall monotonic dose–response relationship ( _P_-linearity < 0.001) that also exhibited a potential flattening of the slope ( _i.e_., smaller magnitude of risk increase per unit of higher TMAO) above the approximately 75th percentile of TMAO levels (Figure [1](https://pmc.ncbi.nlm.nih.gov/articles/PMC11164118/#fig1)).
+
+#### Table 2.
+
+Risk of incident CKD associated with time-varying serial plasma trimethylamine _N_-oxide levels in 10,564 US adults [a](https://pmc.ncbi.nlm.nih.gov/articles/PMC11164118/#tblfn5)
+
+| Outcomes and Models | Quintiles of Blood TMAO | _P_-Trend |
+| --- | :-: | :-: |
+| 1 | 2 | 3 | 4 | 5 |
+| :-: | :-: | :-: | :-: | :-: |
+| TMAO range, _µ_ mol/L | 0.10–2.36 | 2.36–3.29 | 3.29–4.45 | 4.45–6.74 | 6.74–146.87 |  |
+| **eGFR-based CKD** |
+| No. of events | 60 | 148 | 199 | 297 | 275 |  |
+| Multivariable [b](https://pmc.ncbi.nlm.nih.gov/articles/PMC11164118/#tblfn6) | 1.00 | 1.67 (1.23–2.25) | 1.80 (1.34–2.41) | 2.52 (1.90–3.33) | 2.48 (1.87–3.30) | <0.001 |
+| Multivariable+CVD risk factors [c](https://pmc.ncbi.nlm.nih.gov/articles/PMC11164118/#tblfn7) | 1.00 | 1.65 (1.22–2.23) | 1.68 (1.26–2.25) | 2.28 (1.72–3.02) | 2.24 (1.68–2.98) | <0.001 |
+| _+Continuous eGFR_ [d](https://pmc.ncbi.nlm.nih.gov/articles/PMC11164118/#tblfn8) | 1.00 | 1.53 (1.13–2.06) | 1.44 (1.08–1.93) | 1.82 (1.37–2.42) | 1.70 (1.27–2.26) | 0.008 |
+| _+CVD events_ [e](https://pmc.ncbi.nlm.nih.gov/articles/PMC11164118/#tblfn9) | 1.00 | 1.65 (1.22–2.23) | 1.68 (1.26–2.25) | 2.28 (1.72–3.02) | 2.24 (1.68–2.97) | <0.001 |
+| **eGFR or hospitalization-based CKD** |
+| No. of events | 111 | 222 | 303 | 424 | 425 |  |
+| Multivariable [b](https://pmc.ncbi.nlm.nih.gov/articles/PMC11164118/#tblfn6) | 1.00 | 1.36 (1.08–1.70) | 1.46 (1.17–1.81) | 1.92 (1.55–2.37) | 2.00 (1.61–2.47) | <0.001 |
+| Multivariable+CVD risk factors [c](https://pmc.ncbi.nlm.nih.gov/articles/PMC11164118/#tblfn7) | 1.00 | 1.31 (1.04–1.65) | 1.34 (1.08–1.68) | 1.71 (1.38–2.12) | 1.77 (1.43–2.19) | <0.001 |
+| _+Continuous eGFR_ [d](https://pmc.ncbi.nlm.nih.gov/articles/PMC11164118/#tblfn8) | 1.00 | 1.18 (0.94–1.49) | 1.11 (0.89–1.38) | 1.32 (1.07–1.64) | 1.28 (1.03–1.59) | 0.030 |
+| _+CVD events_ [e](https://pmc.ncbi.nlm.nih.gov/articles/PMC11164118/#tblfn9) | 1.00 | 1.31 (1.04–1.65) | 1.34 (1.08–1.67) | 1.71 (1.38–2.11) | 1.76 (1.42–2.18) | <0.001 |
+
+[Open in a new tab](https://pmc.ncbi.nlm.nih.gov/articles/PMC11164118/table/t2/)
+
+CVD, cardiovascular disease; TMAO, trimethylamine _N_-oxide.
+
+a
+
+eGFR-based incident CKD was defined as eGFR decline ≥30% from baseline plus eGFR <60 ml/min per 1.73 m2 at a follow-up visit (primary outcome). Hospitalization-based incident CKD was defined on the basis of a previously developed algorithm making use of hospitalization International Classification of Disease codes to capture incident CKD stage 3 or above. Hazard ratios were estimated from stratified Cox proportional hazards models with cohort (Cardiovascular Health Study and Multi-Ethnic Study of Atherosclerosis) as a stratification factor and on the basis of time-varying trimethylamine _N_-oxide levels, with baseline trimethylamine _N_-oxide related to CKD risk until the time of the second trimethylamine _N_-oxide measurement, and the average of both trimethylamine _N_-oxide measures related to subsequent risk.
+
+b
+
+Multivariable adjustments included baseline age, sex, race/ethnicity (White, Black, Chinese American, Hispanic, others \[American Indian/Alaskan Native, Asian/Pacific Islander, and others\]), study site (ten sites), education (<high school, high school, some college, and college graduate), and household income (<12,000; 12,000 to <25,000; 25,000 to <50,000; and ≥50,000) and time-varying self-reported health (poor, fair, good, very good, and excellent), smoking status (never, former, and current), alcohol intake (drinks/wk), physical activity (kcal/wk), antibiotic use in the past 2 weeks, total energy intake (kcal/d), unprocessed red meat (servings/d), processed meat (servings/d), fish (servings/d), poultry (servings/d), eggs (servings/d), fruits (servings/d), and vegetables (servings/d), each updated at the same time as the serial trimethylamine _N_-oxide measures.
+
+c
+
+Cardiovascular disease risk factors included time-varying body mass index, waist circumference, systolic BP, diastolic BP, LDL cholesterol, HDL cholesterol, triglycerides, C-reactive protein, diabetes, antihypertensive medication, and lipid-lowering mediation, each updated at the same time as the serial trimethylamine _N_-oxide measures.
+
+d
+
+Further adjusted for time-varying continuous eGFR (updated at the same time as the serial trimethylamine _N_-oxide measures), with other covariates as in the multivariable+cardiovascular disease risk factor model.
+
+e
+
+Further adjusted for time-varying nonfatal cardiovascular events (confirmed nonfatal myocardial infarction, angina, coronary revascularization, or stroke) updated at the same time as the serial trimethylamine _N_-oxide measures, with other covariates as in the multivariable+cardiovascular disease risk factor model.
+
+#### Figure 1.
+
+[![Figure 1](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/2820/11164118/8effdeb84407/jasn-35-749-g002.jpg)](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=11164118_jasn-35-749-g002.jpg)
+
+[Open in a new tab](https://pmc.ncbi.nlm.nih.gov/articles/PMC11164118/figure/fig1/)
+
+**Multivariable-adjusted relationship of time-varying serial plasma TMAO levels with incident CKD (left) and annualized eGFR change (right), evaluated using restricted cubic splines.** Incident CKD was assessed among 10,564 participants without CKD at baseline, and eGFR decline among 10,009 participants with or without CKD at baseline. Knots were evaluated at the 10th, 50th, and 90th percentiles. Participants in the top 1% of baseline TMAO levels were removed to minimize the influence of outliers. The solid line represents the central HR or annualized eGFR change using the 10th percentile of TMAO levels as the reference level; the shaded area, the 95% CI; and the dotted vertical lines, from left to right, the 10th, 25th, 50th, 75th, and 90th percentiles of TMAO levels. _P_ for linearity was the _P_ value for TMAO in a model with TMAO analyzed as a linear term. _P_ for nonlinearity was obtained by a likelihood ratio test comparing the model with linear TMAO versus the model with all spline terms for TMAO. Covariate adjustments represent the multivariable+CVD risk factor model in Table [1](https://pmc.ncbi.nlm.nih.gov/articles/PMC11164118/#t1) (for incident CKD) and Table [2](https://pmc.ncbi.nlm.nih.gov/articles/PMC11164118/#t2) (for annualized eGFR decline). CI, confidence interval; CVD, cardiovascular disease; HR, hazard ratio; TMAO, trimethylamine _N_-oxide.
+
+The association between TMAO and incident CKD was evident in both cohorts evaluated separately, although it was numerically stronger in MESA (middle-aged adults) than in CHS (older adults) ( [Supplemental Table 3](http://links.lww.com/JSN/E626)). After further adjustment for eGFR, only the association in MESA remained statistically significant (top quintile HR=2.60; 95% CI, 1.56 to 4.36; _P_-trend < 0.001). Further adjustment for cardiovascular disease events or UACR (available in MESA only) did not appreciably alter the results in either cohort.
+
+In secondary analyses adding ICD code–based CKD, TMAO levels remained associated with higher risk of incident CKD, with a smaller magnitude than for incident CKD based on eGFR alone (Table [2](https://pmc.ncbi.nlm.nih.gov/articles/PMC11164118/#t2) and [Supplemental Table 3](http://links.lww.com/JSN/E626)). TMAO was also significantly associated with eGFR decline ≥40% ( [Supplemental Table 4](http://links.lww.com/JSN/E626)), of similar magnitude to the primary outcome (eGFR decline ≥30% plus resulting eGFR <60 ml/min per 1.73 m2).
+
+### Serial TMAO Levels and Annualized Kidney Function Decline
+
+The mean (SD) annualized eGFR change was −1.5 (2.37) ml/min per 1.73 m2 per year ( [Supplemental Figure 2](http://links.lww.com/JSN/E626)). After multivariable adjustment, higher TMAO levels were associated with greater annualized eGFR decline (top versus bottom quintile eGFR change=−0.43 ml/min per 1.73 m2 per year; 95% CI, −0.56 to −0.30; _P_-trend < 0.001; Table [3](https://pmc.ncbi.nlm.nih.gov/articles/PMC11164118/#t3)). As seen for incident CKD, the dose–response relationship appeared monotonic ( _P_-linearity < 0.001) but also to partly flatten ( _i.e_., smaller magnitude of annualized eGFR decline per unit of higher TMAO) above the approximately 75th percentile of TMAO levels (Figure [1](https://pmc.ncbi.nlm.nih.gov/articles/PMC11164118/#fig1)).
+
+#### Table 3.
+
+Annualized changes in eGFR (eGFR, ml/min per 1.73 m2) associated with time-varying serial plasma trimethylamine _N_-oxide levels in 10,009 US adults [a](https://pmc.ncbi.nlm.nih.gov/articles/PMC11164118/#tblfn10)
+
+| Models | Quintiles of Blood TMAO | _P_-Trend |
+| --- | :-: | :-: |
+| 1 | 2 | 3 | 4 | 5 |
+| :-: | :-: | :-: | :-: | :-: |
+| TMAO range, _µ_ mol/L | 0.01–2.42 | 2.42–3.40 | 3.40–4.69 | 4.69–7.26 | 7.26–160.09 |  |
+| Multivariable [b](https://pmc.ncbi.nlm.nih.gov/articles/PMC11164118/#tblfn11) | 0 | −0.20 (−0.32 to −0.08) | −0.21 (−0.33 to −0.09) | −0.42 (−0.54 to −0.30) | −0.49 (−0.62 to −0.36) | <0.001 |
+| **Multivariable+CVD risk factors** [c](https://pmc.ncbi.nlm.nih.gov/articles/PMC11164118/#tblfn12) | 0 | −0.21 (−0.32 to −0.09) | −0.17 (−0.29 to −0.05) | −0.35 (−0.47 to −0.22) | −0.43 (−0.56 to −0.30) | <0.001 |
+| +CVD events [d](https://pmc.ncbi.nlm.nih.gov/articles/PMC11164118/#tblfn13) | 0 | −0.21 (−0.32 to −0.09) | −0.17 (−0.29 to −0.05) | −0.35 (−0.47 to −0.22) | −0.43 (−0.56 to −0.30) | <0.001 |
+
+[Open in a new tab](https://pmc.ncbi.nlm.nih.gov/articles/PMC11164118/table/t3/)
+
+CVD, cardiovascular disease; TMAO, trimethylamine _N_-oxide.
+
+a
+
+On the basis of linear mixed models with cohort and participant as random effects, with baseline trimethylamine _N_-oxide measure related to annualized changes in eGFR from baseline to the time of the second trimethylamine _N_-oxide measurement, and the average of both trimethylamine _N_-oxide measures related to subsequent annualized changes. Annualized changes in eGFR were computed using the difference between two eGFR measures divided by the time interval (in years) between the two measures. Kidney function measures at the 2005–2006 Cardiovascular Health Study visit were not used on the basis of lower direct comparability with earlier measures because of assay calibration issues.
+
+b
+
+Multivariable adjustments included baseline age, sex, race/ethnicity (White, Black, Chinese American, Hispanic, and others \[American Indian/Alaskan Native, Asian/Pacific Islander, others\]), study site (ten sites), education (<high school, high school, some college, and college graduate), and household income (<12,000; 12,000 to <25,000; 25,000 to <50,000; and ≥50,000) and time-varying continuous eGFR (the starting eGFR level of each interval), self-reported health (poor, fair, good, very good, and excellent), smoking status (never, former, and current), alcohol intake (drinks/wk), physical activity (kcal/wk), antibiotic use in the past 2 weeks, total energy intake (kcal/d), unprocessed red meat (servings/d), processed meat (servings/d), fish (servings/d), poultry (servings/d), eggs (servings/d), fruits (servings/d), and vegetables (servings/d), each updated at the same time as the serial trimethylamine _N_-oxide measures.
+
+c
+
+Cardiovascular disease risk factors included time-varying body mass index, waist circumference, systolic BP, diastolic BP, LDL cholesterol, HDL cholesterol, triglycerides, C-reactive protein, diabetes, antihypertensive medication, and lipid-lowering mediation, each updated at the same time as the serial trimethylamine _N_-oxide measures.
+
+d
+
+Further adjusted for time-varying nonfatal cardiovascular events (confirmed nonfatal myocardial infarction, angina, coronary revascularization, or stroke) updated at the same time as the serial trimethylamine _N_-oxide measures, with other covariates as in the multivariable+cardiovascular disease risk factor model.
+
+We next compared the magnitude of annualized eGFR change associated with TMAO versus other known major CKD risk factors (Figure [2](https://pmc.ncbi.nlm.nih.gov/articles/PMC11164118/#fig2)). Notably, the association with TMAO (top versus bottom quintile) was –0.43 ml/min per 1.73 m2 per year, which was similar to that seen for 10 years of older age (–0.43 ml/min per 1.73 m2 per year) and presence of diabetes (–0.51 ml/min per 1.73 m2 per year). Moreover, the association with TMAO was larger than that seen for 10 mm Hg of higher systolic BP (–0.16 ml/min per 1.73 m2 per year) and comparing Black versus non-Black race (–0.28 ml/min per 1.73 m2 per year).
+
+#### Figure 2.
+
+![Figure 2](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/2820/11164118/0403e12b63d5/jasn-35-749-g003.jpg)
+
+[Open in a new tab](https://pmc.ncbi.nlm.nih.gov/articles/PMC11164118/figure/fig2/)
+
+**Annualized eGFR change (ml/min per 1.73 m** **2** **) associated with time-varying serial plasma TMAO measures and other major CKD risk factors.** Effect estimates for different risk factors were obtained from the same multivariable model, including all factors in the figure with adjustment for sex, study site (ten sites), education (<high school, high school, some college, and college graduate), and household income (<12,000; 12,000 to <25,000; 25,000 to <50,000; and ≥50,000) at baseline, and time-varying continuous eGFR, self-reported health (poor, fair, good, very good, and excellent), smoking status (never, former, and current), alcohol intake (drinks/wk), physical activity (kcal/wk), antibiotic use in the past 2 weeks, total energy intake (kcal/d), unprocessed red meat (servings/d), processed meat (servings/d), fish (servings/d), poultry (servings/d), eggs (servings/d), fruits (servings/d), vegetables (servings/d), body mass index, waist circumference, diastolic BP, LDL cholesterol, HDL cholesterol, triglycerides, C-reactive protein, antihypertensive medication, and lipid-lowering mediation, each updated at the same time as the serial TMAO measures.
+
+The association between TMAO and annualized eGFR decline was present in both cohorts and appeared numerically stronger in MESA than in CHS ( [Supplemental Table 5](http://links.lww.com/JSN/E626)). Further adjustment for cardiovascular disease events or UACR (available in MESA only) did not appreciably alter the results. In _post hoc_ secondary analysis, higher TMAO levels were also associated with higher odds of more rapid kidney function decline (top quintile OR=1.41 \[95% CI, 1.27 to 1.58\], _P_-trend < 0.001, [Supplemental Table 6](http://links.lww.com/JSN/E626)).
+
+### Subgroup Analyses
+
+In exploratory analyses, associations of TMAO with incident CKD and annualized eGFR decline were not significantly different by age, sex, race/ethnicity, baseline total meat intake, diabetes, hypertension, cardiovascular disease, or (for annualized eGFR decline only) eGFR level <60 versus ≥60 ml/min per 1.73 m2 ( _P_-interaction > 0.003 each, Figure [3](https://pmc.ncbi.nlm.nih.gov/articles/PMC11164118/#fig3) and [Supplemental Figure 3](http://links.lww.com/JSN/E626)). However, there were nonsignificant trends of potentially stronger associations among those with younger age (for incident CKD only), diabetes (for annualized eGFR decline only), or hypertension (for both outcomes).
+
+#### Figure 3.
+
+[![Figure 3](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/2820/11164118/2219282202db/jasn-35-749-g004.jpg)](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=11164118_jasn-35-749-g004.jpg)
+
+[Open in a new tab](https://pmc.ncbi.nlm.nih.gov/articles/PMC11164118/figure/fig3/)
+
+**Risk of incident CKD associated with time-varying serial plasma TMAO measures, according to participant subgroups.** HRs presented compared the top versus bottom quintile of TMAO levels. _P_ for interaction assessed overall interaction between quintile TMAO levels and each potential effect modifier. Covariate adjustments represent the multivariable+CVD risk factor model in Table [2](https://pmc.ncbi.nlm.nih.gov/articles/PMC11164118/#t2). Total meat (unprocessed red meat plus processed meat) intake was dichotomized on the basis of the median value at baseline (lower or higher than 0.57 servings/d). CVD, defined as confirmed myocardial infarction, angina, revascularization, or stroke.
+
+## Discussion
+
+In this pooled analysis of two community-based, multiethnic, prospective cohorts of over 10,000 US adults, higher plasma TMAO levels were strongly associated with incident CKD and greater annualized kidney function decline. These associations were independent of sociodemographics, dietary and other lifestyle habits, traditional cardiovascular disease risk factors, and baseline eGFR and were consistent across different racial/ethnic groups, including White, Black, Hispanic, and Chinese American adults. To our knowledge, this is the first study to investigate associations of serial measures of plasma TMAO with the incident development and progression of kidney dysfunction in multiethnic, community-based adults.
+
+In animal model studies, TMAO causes kidney functional impairment and fibrosis. Feeding mice with choline or TMAO reduces GFR; raises plasma cystatin C and the UACR; and increases multiple kidney profibrotic gene expressions, myofibroblast protein expression, and tubulointerstitial fibrosis.[17](https://pmc.ncbi.nlm.nih.gov/articles/PMC11164118/#B17)– [19](https://pmc.ncbi.nlm.nih.gov/articles/PMC11164118/#B19), [33](https://pmc.ncbi.nlm.nih.gov/articles/PMC11164118/#B33), [34](https://pmc.ncbi.nlm.nih.gov/articles/PMC11164118/#B34) Experimentally targeted inhibition of gut microbial TMAO generation using a gut microbial choline TMAO-lyase inhibitor with limited systemic exposure in the host has been shown to suppress these kidney functional impairments and tissue fibrosis induced by elevated TMAO states ( _e.g_., with choline diet),[17](https://pmc.ncbi.nlm.nih.gov/articles/PMC11164118/#B17), [19](https://pmc.ncbi.nlm.nih.gov/articles/PMC11164118/#B19) supporting a causal role of TMAO in kidney dysfunction and fibrosis. In addition, kidney dysfunction also raises TMAO levels given its renal clearance. Thus, TMAO's cardiorenal harm could be more pronounced in settings of underlying impaired kidney function. Besides glomerular filtration, tubular secretion and reabsorption may also play a role in renal excretion of TMAO, although the magnitude of such tubular participation remains uncertain, with most estimates of TMAO clearance ranging from approximately 70% to 100% of glomerular filtration.[35](https://pmc.ncbi.nlm.nih.gov/articles/PMC11164118/#B35)– [37](https://pmc.ncbi.nlm.nih.gov/articles/PMC11164118/#B37)
+
+In this study, we observed a more than two-fold higher risk of incident CKD among participants in the top versus bottom TMAO quintile. The association remained significant after further adjustment for eGFR, a potential confounder and/or mediator on the causal pathway from TMAO to incident CKD. The results were also robust to different definitions of incident CKD ( _i.e_., adding hospitalization-based CKD) or differing eGFR declines. TMAO also significantly associated with both continuous and categorical annualized kidney function decline, with a magnitude similar or larger than that seen for major CKD risk factors, including age, Black race, systolic BP, and diabetes. For both incident CKD and eGFR decline, the dose–response relationships appeared monotonic. Taken together, these findings suggest that TMAO is a strong biologic risk factor of incident CKD and kidney function decline and could represent a potential novel intervention target to prevent kidney dysfunction. This is particularly of interest given that patients with CKD are also at heightened incident cardiovascular disease risks, and traditional preventive cardiovascular disease risk-reducing therapies like statins have shown limited benefit in participants with significant kidney functional impairment.[38](https://pmc.ncbi.nlm.nih.gov/articles/PMC11164118/#B38) Animal studies have also shown that targeted inhibition of gut microbial TMAO production has beneficial effects on host atherosclerosis and thrombosis-related outcomes,[14](https://pmc.ncbi.nlm.nih.gov/articles/PMC11164118/#B14), [15](https://pmc.ncbi.nlm.nih.gov/articles/PMC11164118/#B15), [17](https://pmc.ncbi.nlm.nih.gov/articles/PMC11164118/#B17) further supporting reducing TMAO production as a rational therapeutic strategy for the prevention and treatment of CKD.
+
+Notably, this study focused on TMAO as a biological risk factor of CKD and kidney function decline, rather than as a marker for improving clinical diagnosis and risk prediction, which would require a different design. These novel results do support the relevance of a future careful investigation of the potential role of TMAO as a clinical risk predictor, in a study with appropriate key design elements to validly assess and compare model performance. Looking for novel biological risk factors can provide insight into disease pathologic pathways and thus is highly relevant for designing targeted interventions. As a crucial complement to animal model and mechanistic research, our study provides population-based evidence to support innovative CKD clinical trials targeting plasma TMAO levels, which is highly modifiable by lifestyle ( _e.g_., changing dietary habits) and pharmacologic interventions ( _e.g_., by gut microbe-targeted, nonlethal choline trimethylamine-lyase inhibitor[15](https://pmc.ncbi.nlm.nih.gov/articles/PMC11164118/#B15)). These new findings are also important for guiding future mechanistic experiments on how the interplay between diet and gut microbiome influences kidney function.
+
+Although the associations of TMAO with cardiovascular outcomes have been studied in those with prevalent CKD,[10](https://pmc.ncbi.nlm.nih.gov/articles/PMC11164118/#B10), [11](https://pmc.ncbi.nlm.nih.gov/articles/PMC11164118/#B11), [39](https://pmc.ncbi.nlm.nih.gov/articles/PMC11164118/#B39), [40](https://pmc.ncbi.nlm.nih.gov/articles/PMC11164118/#B40) few prior studies have focused on kidney outcomes, especially among those with persevered kidney function. An untargeted metabolomic study of participants with normal kidney function from the Framingham Heart Study (predominantly White participants) found significantly higher levels of baseline choline and TMAO in those who subsequently developed CKD compared with those who remained CKD-free during follow-up.[22](https://pmc.ncbi.nlm.nih.gov/articles/PMC11164118/#B22) However, no covariates were adjusted in the analysis, and untargeted metabolomics studies by their nature are only semiquantitative. Three cohort studies with targeted (stable-isotope dilution liquid chromatography–mass spectrometry) measurements of TMAO were all in patients with diabetes. One study[23](https://pmc.ncbi.nlm.nih.gov/articles/PMC11164118/#B23) among patients with type 1 diabetes reported a positive association between TMAO and risk of kidney failure (HR=1.67 per doubling in TMAO; 95% CI, 1.47 to 1.96),[21](https://pmc.ncbi.nlm.nih.gov/articles/PMC11164118/#B21) which was attenuated after adjustment for baseline eGFR (HR=1.41; 95% CI, 0.97 to 1.35). Another study among patients with type 2 diabetes and albuminuria did not observe significant associations between TMAO and eGFR decline ≥30%, eGFR decline ≥40%, or annualized decline.[20](https://pmc.ncbi.nlm.nih.gov/articles/PMC11164118/#B20) Both studies included predominantly White patients. The Reasons for Geographic and Racial Differences in Stroke study included Black and White patients with diabetes with eGFR <60 ml/min per 1.73 m2 and did not find significant associations of plasma TMAO or the ratio of urine to plasma TMAO levels with kidney failure with replacement therapy.[23](https://pmc.ncbi.nlm.nih.gov/articles/PMC11164118/#B23) These studies had limited sample size (<150 events each); only measured TMAO once at baseline; lacked data on cystatin C for improved kidney function assessment; and did not assess important confounders, including socioeconomic, dietary, and lifestyle factors. Our study greatly extends these prior studies by examining two large, multiethnic, community-based cohorts, evaluating serial TMAO measures, assessing eGFR on the basis of both creatinine and cystatin C,[28](https://pmc.ncbi.nlm.nih.gov/articles/PMC11164118/#B28) and incorporating a range of important confounders.
+
+The associations of TMAO with incident CKD appeared numerically stronger in MESA than in CHS. CHS participants were older (mean age 72 versus 62 years), more likely to be White adults (84% versus 39%), and included patients with clinical cardiovascular disease at baseline (20% versus 0%). These differences might play a role in the different cohort-specific findings because exploratory subgroup analyses suggested a numerically (but not statistically significant) stronger association among those who were non-White, younger, or had no cardiovascular disease. On the other hand, 2005–2006 creatinine and cystatin C measures in CHS had lower comparability with earlier measures because of assay changes that could not be fully calibrated, which may have increased nondifferential outcome misclassification in CHS and cause underestimation of associations.[41](https://pmc.ncbi.nlm.nih.gov/articles/PMC11164118/#B41) Nevertheless, the positive associations were evident in both cohorts.
+
+In our study, meat intake was only modestly correlated with TMAO levels (Spearman correlation coefficient ρ=0.08, _P_ < 0.001) and did not show substantial difference across TMAO quintiles. Similar small diet–TMAO associations have been reported before,[42](https://pmc.ncbi.nlm.nih.gov/articles/PMC11164118/#B42)– [44](https://pmc.ncbi.nlm.nih.gov/articles/PMC11164118/#B44) which may be explained by the temporal difference between habitual diet assessment ( _i.e_., in the past year) versus short-term diet variations that alter TMAO levels (weeks) and interindividual variations in microbial conversions of dietary precursors and host hepatic flavin-containing activities.[8](https://pmc.ncbi.nlm.nih.gov/articles/PMC11164118/#B8), [37](https://pmc.ncbi.nlm.nih.gov/articles/PMC11164118/#B37)
+
+Our study has several strengths. The use of large, community-based, multiethnic prospective cohorts with long-term follow-up reduced the likelihood of reverse causation and increased generalizability and statistical power. Compared with a single baseline measure, serial TMAO assessments accounted for changes over time and reduced measurement error. Adjustment for numerous well-measured sociodemographics, lifestyle, and health phenotypes minimized confounding. eGFR was calculated using the combined creatinine–cystatin C equation, which performs better than equations based on either marker alone.[28](https://pmc.ncbi.nlm.nih.gov/articles/PMC11164118/#B28) The multiethnic nature of these cohorts allowed exploration of associations by race/ethnicity groups.
+
+Potential limitations should be considered. The observational design cannot exclude residual confounding. However, for a meaningful residual confounder to be present, it would need to be strongly associated with both the exposure and the outcome, conditional on all the variables already in the model. Given that we adjusted for a broad range of well-measured CKD risk factors, it is unlikely that residual confounding could fully account for the observed associations. Owing to inter-assay variability that could not be fully calibrated in CHS, findings for incident CKD in that cohort may be subject to nondifferential ( _i.e_., not related to TMAO levels) outcome misclassification, which could most often lead to underestimation of true associations. Hospitalization-based CKD was defined using ICD codes, subject to reporting errors (hence only used in secondary analysis).
+
+In this pooled analysis of two large, community-based, multiethnic, prospective cohorts, higher serial measures of plasma TMAO associated with higher risk of incident CKD and greater annualized kidney function decline. These findings support future studies to investigate whether lifestyle and pharmacologic interventions to lower TMAO may prevent CKD development and progression.
+
+## Supplementary Material
+
+[jasn-35-749-s001.pdf](https://pmc.ncbi.nlm.nih.gov/articles/instance/11164118/bin/jasn-35-749-s001.pdf) (1.4MB, pdf)
+
+[Open in a new tab](https://pmc.ncbi.nlm.nih.gov/articles/PMC11164118/figure/s001/)
+
+[jasn-35-749-s002.pdf](https://pmc.ncbi.nlm.nih.gov/articles/instance/11164118/bin/jasn-35-749-s002.pdf) (684KB, pdf)
+
+[Open in a new tab](https://pmc.ncbi.nlm.nih.gov/articles/PMC11164118/figure/s002/)
+
+## Acknowledgments
+
+The authors thank the other investigators, staff, and participants of the CHS and MESA study for their valuable contributions. A full list of participating investigators and institutions of CHS and MESA can be found at [https://chs-nhlbi.org/](https://chs-nhlbi.org/) and [http://www.mesa-nhlbi.org](http://www.mesa-nhlbi.org/), respectively. The funding organizations had no role in the design and conduct of the study; collection, analysis, and interpretation of the data; preparation, review, or approval of the manuscript; and decision to submit the manuscript for publication.
+
+## Footnotes
+
+D.M. and S.L.H. contributed equally to this work.
+
+## Disclosures
+
+Disclosure forms, as provided by each author, are available with the online version of the article at [http://links.lww.com/JSN/E625](http://links.lww.com/JSN/E625).
+
+## Funding
+
+This work was supported by the National Institutes of Health grants R01HL135920, P01 HL147823, and R01 HL103866 and American Heart Association Postdoctoral Fellowship (906562). CHS was supported by contracts HHSN268201200036C, HHSN268200800007C, HHSN268201800001C, N01HC55222, N01HC85079, N01HC85080, N01HC85081, N01HC85082, N01HC85083, N01HC85086, and 75N92021D00006 and grants U01HL080295 and U01HL130114 from the NHLBI, with additional contribution from the National Institute of Neurological Disorders and Stroke (NINDS). Additional support was provided by R01AG023629 from the National Institute on Aging (NIA). MESA was supported by contracts 75N92020D00001, HHSN268201500003I, N01-HC-95159, 75N92020D00005, N01-HC-95160, 75N92020D00002, N01-HC-95161, 75N92020D00003, N01-HC-95162, 75N92020D00006, N01-HC-95163, 75N92020D00004, N01-HC-95164, 75N92020D00007, N01-HC-95165, N01-HC-95166, N01-HC-95167, N01-HC-95168, and N01-HC-95169 from the National Heart, Lung, and Blood Institute and by grants UL1-TR-000040, UL1-TR-001079, and UL1-TR-001420 from the National Center for Advancing Translational Sciences (NCATS).
+
+## Author Contributions
+
+**Conceptualization**: Stanley L. Hazen, Dariush Mozaffarian, W.H. Wilson Tang, Meng Wang.
+
+**Data curation:** Joseph A. DiDonato, Yujin Lee, Xinmin S. Li, Ina Nemet, Meng Wang, Zeneng Wang.
+
+**Formal analysis:** Meng Wang.
+
+**Funding acquisition:** Stanley L. Hazen, Dariush Mozaffarian, Meng Wang.
+
+**Investigation:** Nisha Bansal, Matthew Budoff, Marcia C. de Oliveira Otto, Joseph A. DiDonato, Amanda Fretts, Stanley L. Hazen, Yujin Lee, Rozenn N. Lemaitre, Xinmin S. Li, Dariush Mozaffarian, Ina Nemet, Bruce M. Psaty, Mark J. Sarnak, Michael G. Shlipak, David S. Siscovick, Colleen M. Sitlani, Nona Sotoodehnia, W.H. Wilson Tang, Meng Wang, Zeneng Wang.
+
+**Methodology:** Nisha Bansal, Matthew Budoff, Marcia C. de Oliveira Otto, Joseph A. DiDonato, Amanda Fretts, Stanley L. Hazen, Yujin Lee, Rozenn N. Lemaitre, Xinmin S. Li, Dariush Mozaffarian, Ina Nemet, Bruce M. Psaty, Mark J. Sarnak, Michael G. Shlipak, David S. Siscovick, Colleen M. Sitlani, Nona Sotoodehnia, W.H. Wilson Tang, Meng Wang, Zeneng Wang.
+
+**Project administration:** Yujin Lee, Meng Wang.
+
+**Resources:** Dariush Mozaffarian, Mark J. Sarnak.
+
+**Supervision:** Stanley L. Hazen, Dariush Mozaffarian, Mark J. Sarnak.
+
+**Writing – original draft:** Meng Wang.
+
+**Writing – review & editing:** Nisha Bansal, Matthew Budoff, Marcia C. de Oliveira Otto, Joseph A. DiDonato, Amanda Fretts, Stanley L. Hazen, Yujin Lee, Rozenn N. Lemaitre, Xinmin S. Li, Dariush Mozaffarian, Ina Nemet, Bruce M. Psaty, Mark J. Sarnak, Michael G. Shlipak, David S. Siscovick, Colleen M. Sitlani, Nona Sotoodehnia, W.H. Wilson Tang, Zeneng Wang.
+
+## Data Sharing Statement
+
+The data that support the findings of this study are available from the Cardiovascular Health Study (CHS, [https://chs-nhlbi.org/](https://chs-nhlbi.org/)) and the Multi-ethic Study of Atherosclerosis (MESA, [https://www.mesa-nhlbi.org](https://www.mesa-nhlbi.org/)). Restrictions apply to the availability of these data, which were used under license for the current study, and so are not publicly available. Requests to access the dataset from qualified researchers may be sent to CHS and MESA.
+
+## Supplemental Material
+
+This article contains the following supplemental material online at [http://links.lww.com/JSN/E626](http://links.lww.com/JSN/E626).
+
+[Supplemental Figure 1](http://links.lww.com/JSN/E626). Timing of TMAO and kidney function measurement in CHS and MESA.
+
+[Supplemental Table 1](http://links.lww.com/JSN/E626). Comparisons of baseline characteristics between participants excluded and included in the analysis of incident CKD.
+
+[Supplemental Text](http://links.lww.com/JSN/E626). Assessments of covariates in CHS and MESA.
+
+[Supplemental Table 2](http://links.lww.com/JSN/E626). Characteristics of 10,564 CHS and MESA participants by quintiles of plasma TMAO levels at baseline.
+
+[Supplemental Table 3](http://links.lww.com/JSN/E626). Risk of incident CKD associated with time-varying serial TMAO levels in 4131 CHS and 6433 MESA participants separately.
+
+[Supplemental Table 4](http://links.lww.com/JSN/E626). Risk of eGFR decline ≥40% (No. of events=729) associated with time-varying serial TMAO levels in 12,122 CHS and MESA participants.
+
+[Supplemental Table 5](http://links.lww.com/JSN/E626). Annualized changes in eGFR associated with time-varying TMAO levels in 3997 CHS and 6012 MESA participants separately.
+
+[Supplemental Table 6](http://links.lww.com/JSN/E626). Odds ratios of more rapid kidney function decline associated with time-varying plasma TMAO levels in 10,009 CHS and MESA participants.
+
+[Supplemental Figure 2](http://links.lww.com/JSN/E626). Distribution of annualized eGFR change of all time intervals in the pooled population of 10,009 participants.
+
+[Supplemental Figure 3](http://links.lww.com/JSN/E626). Annualized changes in eGFR associated with time-varying plasma TMAO levels by participants' characteristics at baseline.
+
+[Supplemental References](http://links.lww.com/JSN/E626).
+
+## References
+
+- 1.Levin A Tonelli M Bonventre J, et al. Global kidney health 2017 and beyond: a roadmap for closing gaps in care, research, and policy. Lancet.
+2017;390(10105):1888–1917. doi: 10.1016/S0140-6736(17)30788-2
+\[ [DOI](https://doi.org/10.1016/S0140-6736(17)30788-2)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/28434650/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Lancet.&title=Global%20kidney%20health%202017%20and%20beyond:%20a%20roadmap%20for%20closing%20gaps%20in%20care,%20research,%20and%20policy&author=A%20Levin&author=M%20Tonelli&author=J%20Bonventre&volume=390&issue=10105&publication_year=2017&pages=1888-1917&pmid=28434650&doi=10.1016/S0140-6736(17)30788-2&)\]
+- 2.Tang WH Wang Z Li XS, et al. Increased trimethylamine N-oxide portends high mortality risk independent of glycemic control in patients with type 2 diabetes mellitus. Clin Chem.
+2017;63(1):297–306. doi: 10.1373/clinchem.2016.263640
+\[ [DOI](https://doi.org/10.1373/clinchem.2016.263640)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC5659115/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/27864387/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Clin%20Chem.&title=Increased%20trimethylamine%20N-oxide%20portends%20high%20mortality%20risk%20independent%20of%20glycemic%20control%20in%20patients%20with%20type%202%20diabetes%20mellitus&author=WH%20Tang&author=Z%20Wang&author=XS%20Li&volume=63&issue=1&publication_year=2017&pages=297-306&pmid=27864387&doi=10.1373/clinchem.2016.263640&)\]
+- 3.Romagnani P Remuzzi G Glassock R, et al. Chronic kidney disease. Nat Rev Dis Primers.
+2017;3:17088. doi: 10.1038/nrdp.2017.88
+\[ [DOI](https://doi.org/10.1038/nrdp.2017.88)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/29168475/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Nat%20Rev%20Dis%20Primers.&title=Chronic%20kidney%20disease&author=P%20Romagnani&author=G%20Remuzzi&author=R%20Glassock&volume=3&publication_year=2017&pages=17088&pmid=29168475&doi=10.1038/nrdp.2017.88&)\]
+- 4.Tang WHW, Backhed F, Landmesser U, Hazen SL. Intestinal microbiota in cardiovascular health and disease: JACC state-of-the-art review. J Am Coll Cardiol.
+2019;73(16):2089–2105. doi: 10.1016/j.jacc.2019.03.024
+\[ [DOI](https://doi.org/10.1016/j.jacc.2019.03.024)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC6518422/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/31023434/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Am%20Coll%20Cardiol.&title=Intestinal%20microbiota%20in%20cardiovascular%20health%20and%20disease:%20JACC%20state-of-the-art%20review&author=WHW%20Tang&author=F%20Backhed&author=U%20Landmesser&author=SL%20Hazen&volume=73&issue=16&publication_year=2019&pages=2089-2105&pmid=31023434&doi=10.1016/j.jacc.2019.03.024&)\]
+- 5.Witkowski M, Weeks TL, Hazen SL. Gut microbiota and cardiovascular disease. Circ Res.
+2020;127(4):553–570. doi: 10.1161/CIRCRESAHA.120.316242
+\[ [DOI](https://doi.org/10.1161/CIRCRESAHA.120.316242)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7416843/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/32762536/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Circ%20Res.&title=Gut%20microbiota%20and%20cardiovascular%20disease&author=M%20Witkowski&author=TL%20Weeks&author=SL%20Hazen&volume=127&issue=4&publication_year=2020&pages=553-570&pmid=32762536&doi=10.1161/CIRCRESAHA.120.316242&)\]
+- 6.Zeisel SH, Warrier M. Trimethylamine N-oxide, the microbiome, and heart and kidney disease. Annu Rev Nutr.
+2017;37:157–181. doi: 10.1146/annurev-nutr-071816-064732
+\[ [DOI](https://doi.org/10.1146/annurev-nutr-071816-064732)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/28715991/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Annu%20Rev%20Nutr.&title=Trimethylamine%20N-oxide,%20the%20microbiome,%20and%20heart%20and%20kidney%20disease&author=SH%20Zeisel&author=M%20Warrier&volume=37&publication_year=2017&pages=157-181&pmid=28715991&doi=10.1146/annurev-nutr-071816-064732&)\]
+- 7.Mafra D, Lobo JC, Barros AF, Koppe L, Vaziri ND, Fouque D. Role of altered intestinal microbiota in systemic inflammation and cardiovascular disease in chronic kidney disease. Future Microbiol.
+2014;9(3):399–410. doi: 10.2217/fmb.13.165
+\[ [DOI](https://doi.org/10.2217/fmb.13.165)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/24762311/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Future%20Microbiol.&title=Role%20of%20altered%20intestinal%20microbiota%20in%20systemic%20inflammation%20and%20cardiovascular%20disease%20in%20chronic%20kidney%20disease&author=D%20Mafra&author=JC%20Lobo&author=AF%20Barros&author=L%20Koppe&author=ND%20Vaziri&volume=9&issue=3&publication_year=2014&pages=399-410&pmid=24762311&doi=10.2217/fmb.13.165&)\]
+- 8.Koeth RA Wang Z Levison BS, et al. Intestinal microbiota metabolism of L-carnitine, a nutrient in red meat, promotes atherosclerosis. Nat Med.
+2013;19(5):576–585. doi: 10.1038/nm.3145
+\[ [DOI](https://doi.org/10.1038/nm.3145)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC3650111/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/23563705/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Nat%20Med.&title=Intestinal%20microbiota%20metabolism%20of%20L-carnitine,%20a%20nutrient%20in%20red%20meat,%20promotes%20atherosclerosis&author=RA%20Koeth&author=Z%20Wang&author=BS%20Levison&volume=19&issue=5&publication_year=2013&pages=576-585&pmid=23563705&doi=10.1038/nm.3145&)\]
+- 9.Wang Z Klipfell E Bennett BJ, et al. Gut flora metabolism of phosphatidylcholine promotes cardiovascular disease. Nature.
+2011;472(7341):57–63. doi: 10.1038/nature09922
+\[ [DOI](https://doi.org/10.1038/nature09922)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC3086762/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/21475195/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Nature.&title=Gut%20flora%20metabolism%20of%20phosphatidylcholine%20promotes%20cardiovascular%20disease&author=Z%20Wang&author=E%20Klipfell&author=BJ%20Bennett&volume=472&issue=7341&publication_year=2011&pages=57-63&pmid=21475195&doi=10.1038/nature09922&)\]
+- 10.Schiattarella GG Sannino A Toscano E, et al. Gut microbe-generated metabolite trimethylamine-N-oxide as cardiovascular risk biomarker: a systematic review and dose-response meta-analysis. Eur Heart J.
+2017;38(39):2948–2956. doi: 10.1093/eurheartj/ehx342
+\[ [DOI](https://doi.org/10.1093/eurheartj/ehx342)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/29020409/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Eur%20Heart%20J.&title=Gut%20microbe-generated%20metabolite%20trimethylamine-N-oxide%20as%20cardiovascular%20risk%20biomarker:%20a%20systematic%20review%20and%20dose-response%20meta-analysis&author=GG%20Schiattarella&author=A%20Sannino&author=E%20Toscano&volume=38&issue=39&publication_year=2017&pages=2948-2956&pmid=29020409&doi=10.1093/eurheartj/ehx342&)\]
+- 11.Heianza Y, Ma W, Manson JE, Rexrode KM, Qi L. Gut microbiota metabolites and risk of major adverse cardiovascular disease events and death: a systematic review and meta-analysis of prospective studies. J Am Heart Assoc.
+2017;6(7):e004947. doi: 10.1161/JAHA.116.004947
+\[ [DOI](https://doi.org/10.1161/JAHA.116.004947)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC5586261/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/28663251/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Am%20Heart%20Assoc.&title=Gut%20microbiota%20metabolites%20and%20risk%20of%20major%20adverse%20cardiovascular%20disease%20events%20and%20death:%20a%20systematic%20review%20and%20meta-analysis%20of%20prospective%20studies&author=Y%20Heianza&author=W%20Ma&author=JE%20Manson&author=KM%20Rexrode&author=L%20Qi&volume=6&issue=7&publication_year=2017&pages=e004947&pmid=28663251&doi=10.1161/JAHA.116.004947&)\]
+- 12.Lee Y Nemet I Wang Z, et al. Longitudinal plasma measures of trimethylamine N-oxide and risk of atherosclerotic cardiovascular disease events in community-based older adults. J Am Heart Assoc.
+2021;10(17):e020646. doi: 10.1161/JAHA.120.020646
+\[ [DOI](https://doi.org/10.1161/JAHA.120.020646)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC8649305/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/34398665/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Am%20Heart%20Assoc.&title=Longitudinal%20plasma%20measures%20of%20trimethylamine%20N-oxide%20and%20risk%20of%20atherosclerotic%20cardiovascular%20disease%20events%20in%20community-based%20older%20adults&author=Y%20Lee&author=I%20Nemet&author=Z%20Wang&volume=10&issue=17&publication_year=2021&pages=e020646&pmid=34398665&doi=10.1161/JAHA.120.020646&)\]
+- 13.Heianza Y Ma W DiDonato JA, et al. Long-term changes in gut microbial metabolite trimethylamine N-oxide and coronary heart disease risk. J Am Coll Cardiol.
+2020;75(7):763–772. doi: 10.1016/j.jacc.2019.11.060
+\[ [DOI](https://doi.org/10.1016/j.jacc.2019.11.060)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC8140616/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/32081286/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Am%20Coll%20Cardiol.&title=Long-term%20changes%20in%20gut%20microbial%20metabolite%20trimethylamine%20N-oxide%20and%20coronary%20heart%20disease%20risk&author=Y%20Heianza&author=W%20Ma&author=JA%20DiDonato&volume=75&issue=7&publication_year=2020&pages=763-772&pmid=32081286&doi=10.1016/j.jacc.2019.11.060&)\]
+- 14.Zhu W Gregory JC Org E, et al. Gut microbial metabolite TMAO enhances platelet hyperreactivity and thrombosis risk. Cell.
+2016;165(1):111–124. doi: 10.1016/j.cell.2016.02.011
+\[ [DOI](https://doi.org/10.1016/j.cell.2016.02.011)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC4862743/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/26972052/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Cell.&title=Gut%20microbial%20metabolite%20TMAO%20enhances%20platelet%20hyperreactivity%20and%20thrombosis%20risk&author=W%20Zhu&author=JC%20Gregory&author=E%20Org&volume=165&issue=1&publication_year=2016&pages=111-124&pmid=26972052&doi=10.1016/j.cell.2016.02.011&)\]
+- 15.Roberts AB Gu X Buffa JA, et al. Development of a gut microbe-targeted nonlethal therapeutic to inhibit thrombosis potential. Nat Med.
+2018;24(9):1407–1417. doi: 10.1038/s41591-018-0128-1
+\[ [DOI](https://doi.org/10.1038/s41591-018-0128-1)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC6129214/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/30082863/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Nat%20Med.&title=Development%20of%20a%20gut%20microbe-targeted%20nonlethal%20therapeutic%20to%20inhibit%20thrombosis%20potential&author=AB%20Roberts&author=X%20Gu&author=JA%20Buffa&volume=24&issue=9&publication_year=2018&pages=1407-1417&pmid=30082863&doi=10.1038/s41591-018-0128-1&)\]
+- 16.Wang M Li XS Wang Z, et al. Trimethylamine N-oxide is associated with long-term mortality risk: the multi-ethnic study of atherosclerosis. Eur Heart J.
+2023;44(18):1608–1618. doi: 10.1093/eurheartj/ehad089
+\[ [DOI](https://doi.org/10.1093/eurheartj/ehad089)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC10411925/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/36883587/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Eur%20Heart%20J.&title=Trimethylamine%20N-oxide%20is%20associated%20with%20long-term%20mortality%20risk:%20the%20multi-ethnic%20study%20of%20atherosclerosis&author=M%20Wang&author=XS%20Li&author=Z%20Wang&volume=44&issue=18&publication_year=2023&pages=1608-1618&pmid=36883587&doi=10.1093/eurheartj/ehad089&)\]
+- 17.Gupta N Buffa JA Roberts AB, et al. Targeted inhibition of gut microbial trimethylamine N-oxide production reduces renal tubulointerstitial fibrosis and functional impairment in a murine model of chronic kidney disease. Arterioscler Thromb Vasc Biol.
+2020;40(5):1239–1255. doi: 10.1161/ATVBAHA.120.314139
+\[ [DOI](https://doi.org/10.1161/ATVBAHA.120.314139)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7203662/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/32212854/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Arterioscler%20Thromb%20Vasc%20Biol.&title=Targeted%20inhibition%20of%20gut%20microbial%20trimethylamine%20N-oxide%20production%20reduces%20renal%20tubulointerstitial%20fibrosis%20and%20functional%20impairment%20in%20a%20murine%20model%20of%20chronic%20kidney%20disease&author=N%20Gupta&author=JA%20Buffa&author=AB%20Roberts&volume=40&issue=5&publication_year=2020&pages=1239-1255&pmid=32212854&doi=10.1161/ATVBAHA.120.314139&)\]
+- 18.Tang WHW Wang Z Kennedy DJ, et al. Gut microbiota-dependent trimethylamine N-oxide (TMAO) pathway contributes to both development of renal insufficiency and mortality risk in chronic kidney disease. Circ Res.
+2015;116(3):448–455. doi: 10.1161/CIRCRESAHA.116.305360
+\[ [DOI](https://doi.org/10.1161/CIRCRESAHA.116.305360)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC4312512/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/25599331/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Circ%20Res.&title=Gut%20microbiota-dependent%20trimethylamine%20N-oxide%20(TMAO)%20pathway%20contributes%20to%20both%20development%20of%20renal%20insufficiency%20and%20mortality%20risk%20in%20chronic%20kidney%20disease&author=WHW%20Tang&author=Z%20Wang&author=DJ%20Kennedy&volume=116&issue=3&publication_year=2015&pages=448-455&pmid=25599331&doi=10.1161/CIRCRESAHA.116.305360&)\]
+- 19.Zhang W Miikeda A Zuckerman J, et al. Inhibition of microbiota-dependent TMAO production attenuates chronic kidney disease in mice. Sci Rep.
+2021;11(1):518. doi: 10.1038/s41598-020-80063-0
+\[ [DOI](https://doi.org/10.1038/s41598-020-80063-0)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7804188/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/33436815/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Sci%20Rep.&title=Inhibition%20of%20microbiota-dependent%20TMAO%20production%20attenuates%20chronic%20kidney%20disease%20in%20mice&author=W%20Zhang&author=A%20Miikeda&author=J%20Zuckerman&volume=11&issue=1&publication_year=2021&pages=518&pmid=33436815&doi=10.1038/s41598-020-80063-0&)\]
+- 20.Winther SA Øllgaard JC Hansen TW, et al. Plasma trimethylamine N-oxide and its metabolic precursors and risk of mortality, cardiovascular and renal disease in individuals with type 2-diabetes and albuminuria. PLoS One.
+2021;16(3):e0244402. doi: 10.1371/journal.pone.0244402
+\[ [DOI](https://doi.org/10.1371/journal.pone.0244402)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7928450/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/33657115/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=PLoS%20One.&title=Plasma%20trimethylamine%20N-oxide%20and%20its%20metabolic%20precursors%20and%20risk%20of%20mortality,%20cardiovascular%20and%20renal%20disease%20in%20individuals%20with%20type%202-diabetes%20and%20albuminuria&author=SA%20Winther&author=JC%20%C3%98llgaard&author=TW%20Hansen&volume=16&issue=3&publication_year=2021&pages=e0244402&pmid=33657115&doi=10.1371/journal.pone.0244402&)\]
+- 21.Winther SA Øllgaard JC Tofte N, et al. Utility of plasma concentration of trimethylamine N-oxide in predicting cardiovascular and renal complications in individuals with type 1 diabetes. Diabetes Care.
+2019;42(8):1512–1520. doi: 10.2337/dc19-0048
+\[ [DOI](https://doi.org/10.2337/dc19-0048)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7082641/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/31123156/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Diabetes%20Care.&title=Utility%20of%20plasma%20concentration%20of%20trimethylamine%20N-oxide%20in%20predicting%20cardiovascular%20and%20renal%20complications%20in%20individuals%20with%20type%201%20diabetes&author=SA%20Winther&author=JC%20%C3%98llgaard&author=N%20Tofte&volume=42&issue=8&publication_year=2019&pages=1512-1520&pmid=31123156&doi=10.2337/dc19-0048&)\]
+- 22.Rhee EP Clish CB Ghorbani A, et al. A combined epidemiologic and metabolomic approach improves CKD prediction. J Am Soc Nephrol.
+2013;24(8):1330–1338. doi: 10.1681/ASN.2012101006
+\[ [DOI](https://doi.org/10.1681/ASN.2012101006)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC3736702/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/23687356/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Am%20Soc%20Nephrol.&title=A%20combined%20epidemiologic%20and%20metabolomic%20approach%20improves%20CKD%20prediction&author=EP%20Rhee&author=CB%20Clish&author=A%20Ghorbani&volume=24&issue=8&publication_year=2013&pages=1330-1338&pmid=23687356&doi=10.1681/ASN.2012101006&)\]
+- 23.Sapa H Gutiérrez OM Shlipak MG, et al. Association of uremic solutes with cardiovascular death in diabetic kidney disease. Am J Kidney Dis.
+2022;80(4):502–512.e1. doi: 10.1053/j.ajkd.2022.02.016
+\[ [DOI](https://doi.org/10.1053/j.ajkd.2022.02.016)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC9554797/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/35351578/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Am%20J%20Kidney%20Dis.&title=Association%20of%20uremic%20solutes%20with%20cardiovascular%20death%20in%20diabetic%20kidney%20disease&author=H%20Sapa&author=OM%20Guti%C3%A9rrez&author=MG%20Shlipak&volume=80&issue=4&publication_year=2022&pages=502-512.e1&pmid=35351578&doi=10.1053/j.ajkd.2022.02.016&)\]
+- 24.Fried LP Borhani NO Enright P, et al. The cardiovascular health study: design and rationale. Ann Epidemiol.
+1991;1(3):263–276. doi: 10.1016/1047-2797(91)90005-w
+\[ [DOI](https://doi.org/10.1016/1047-2797(91)90005-w)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/1669507/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Ann%20Epidemiol.&title=The%20cardiovascular%20health%20study:%20design%20and%20rationale&author=LP%20Fried&author=NO%20Borhani&author=P%20Enright&volume=1&issue=3&publication_year=1991&pages=263-276&pmid=1669507&doi=10.1016/1047-2797(91)90005-w&)\]
+- 25.Tell GS, Fried LP, Hermanson B, Manolio TA, Newman AB, Borhani NO. Recruitment of adults 65 years and older as participants in the cardiovascular health study. Ann Epidemiol.
+1993;3(4):358–366. doi: 10.1016/1047-2797(93)90062-9
+\[ [DOI](https://doi.org/10.1016/1047-2797(93)90062-9)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/8275211/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Ann%20Epidemiol.&title=Recruitment%20of%20adults%2065%20years%20and%20older%20as%20participants%20in%20the%20cardiovascular%20health%20study&author=GS%20Tell&author=LP%20Fried&author=B%20Hermanson&author=TA%20Manolio&author=AB%20Newman&volume=3&issue=4&publication_year=1993&pages=358-366&pmid=8275211&doi=10.1016/1047-2797(93)90062-9&)\]
+- 26.Bild DE Bluemke DA Burke GL, et al. Multi-ethnic study of atherosclerosis: objectives and design. Am J Epidemiol.
+2002;156(9):871–881. doi: 10.1093/aje/kwf113
+\[ [DOI](https://doi.org/10.1093/aje/kwf113)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/12397006/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Am%20J%20Epidemiol.&title=Multi-ethnic%20study%20of%20atherosclerosis:%20objectives%20and%20design&author=DE%20Bild&author=DA%20Bluemke&author=GL%20Burke&volume=156&issue=9&publication_year=2002&pages=871-881&pmid=12397006&doi=10.1093/aje/kwf113&)\]
+- 27.Wang Z, Levison BS, Hazen JE, Donahue L, Li X-M, Hazen SL. Measurement of trimethylamine-N-oxide by stable isotope dilution liquid chromatography tandem mass spectrometry. Anal Biochem.
+2014;455:35–40. doi: 10.1016/j.ab.2014.03.016
+\[ [DOI](https://doi.org/10.1016/j.ab.2014.03.016)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC4167037/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/24704102/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Anal%20Biochem.&title=Measurement%20of%20trimethylamine-N-oxide%20by%20stable%20isotope%20dilution%20liquid%20chromatography%20tandem%20mass%20spectrometry&author=Z%20Wang&author=BS%20Levison&author=JE%20Hazen&author=L%20Donahue&author=X-M%20Li&volume=455&publication_year=2014&pages=35-40&pmid=24704102&doi=10.1016/j.ab.2014.03.016&)\]
+- 28.Inker LA Eneanya ND Coresh J, et al. New creatinine- and cystatin C–based equations to estimate GFR without race. New Engl J Med.
+2021;385(19):1737–1749. doi: 10.1056/NEJMoa2102953
+\[ [DOI](https://doi.org/10.1056/NEJMoa2102953)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC8822996/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/34554658/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=New%20Engl%20J%20Med.&title=New%20creatinine-%20and%20cystatin%20C%E2%80%93based%20equations%20to%20estimate%20GFR%20without%20race&author=LA%20Inker&author=ND%20Eneanya&author=J%20Coresh&volume=385&issue=19&publication_year=2021&pages=1737-1749&pmid=34554658&doi=10.1056/NEJMoa2102953&)\]
+- 29.Grams ME Rebholz CM McMahon B, et al. Identification of incident CKD stage 3 in research studies. Am J Kidney Dis.
+2014;64(2):214–221. doi: 10.1053/j.ajkd.2014.02.021
+\[ [DOI](https://doi.org/10.1053/j.ajkd.2014.02.021)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC4112019/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/24726628/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Am%20J%20Kidney%20Dis.&title=Identification%20of%20incident%20CKD%20stage%203%20in%20research%20studies&author=ME%20Grams&author=CM%20Rebholz&author=B%20McMahon&volume=64&issue=2&publication_year=2014&pages=214-221&pmid=24726628&doi=10.1053/j.ajkd.2014.02.021&)\]
+- 30.Levey AS Inker LA Matsushita K, et al. GFR decline as an end point for clinical trials in CKD: a scientific workshop sponsored by the National Kidney Foundation and the US food and Drug administration. Am J Kidney Dis.
+2014;64(6):821–835. doi: 10.1053/j.ajkd.2014.07.030
+\[ [DOI](https://doi.org/10.1053/j.ajkd.2014.07.030)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/25441437/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Am%20J%20Kidney%20Dis.&title=GFR%20decline%20as%20an%20end%20point%20for%20clinical%20trials%20in%20CKD:%20a%20scientific%20workshop%20sponsored%20by%20the%20National%20Kidney%20Foundation%20and%20the%20US%20food%20and%20Drug%20administration&author=AS%20Levey&author=LA%20Inker&author=K%20Matsushita&volume=64&issue=6&publication_year=2014&pages=821-835&pmid=25441437&doi=10.1053/j.ajkd.2014.07.030&)\]
+- 31.Schoenfeld D. Partial residuals for the proportional hazards regression model. Biometrika.
+1982;69(1):239–241. doi: 10.2307/2335876 \[ [DOI](https://doi.org/10.2307/2335876)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Biometrika.&title=Partial%20residuals%20for%20the%20proportional%20hazards%20regression%20model&author=D%20Schoenfeld&volume=69&issue=1&publication_year=1982&pages=239-241&doi=10.2307/2335876&)\]
+- 32.Harrell FE, Jr. Regression Modeling Strategies: With Applications to Linear Models, Logistic Regression, and Survival Analysis. Springer; 2001. \[ [Google Scholar](https://scholar.google.com/scholar_lookup?title=Regression%20Modeling%20Strategies:%20With%20Applications%20to%20Linear%20Models,%20Logistic%20Regression,%20and%20Survival%20Analysis&author=FE%20Harrell&publication_year=2001&)\]
+- 33.Sun G Yin Z Liu N, et al. Gut microbial metabolite TMAO contributes to renal dysfunction in a mouse model of diet-induced obesity. Biochem Biophys Res Commun.
+2017;493(2):964–970. doi: 10.1016/j.bbrc.2017.09.108
+\[ [DOI](https://doi.org/10.1016/j.bbrc.2017.09.108)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/28942145/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Biochem%20Biophys%20Res%20Commun.&title=Gut%20microbial%20metabolite%20TMAO%20contributes%20to%20renal%20dysfunction%20in%20a%20mouse%20model%20of%20diet-induced%20obesity&author=G%20Sun&author=Z%20Yin&author=N%20Liu&volume=493&issue=2&publication_year=2017&pages=964-970&pmid=28942145&doi=10.1016/j.bbrc.2017.09.108&)\]
+- 34.Kapetanaki S, Kumawat AK, Persson K, Demirel I. The fibrotic effects of TMAO on human renal fibroblasts is mediated by NLRP3, caspase-1 and the PERK/Akt/mTOR pathway. Int J Mol Sci.
+2021;22(21):11864. doi: 10.3390/ijms222111864
+\[ [DOI](https://doi.org/10.3390/ijms222111864)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC8584593/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/34769294/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Int%20J%20Mol%20Sci.&title=The%20fibrotic%20effects%20of%20TMAO%20on%20human%20renal%20fibroblasts%20is%20mediated%20by%20NLRP3,%20caspase-1%20and%20the%20PERK/Akt/mTOR%20pathway&author=S%20Kapetanaki&author=AK%20Kumawat&author=K%20Persson&author=I%20Demirel&volume=22&issue=21&publication_year=2021&pages=11864&pmid=34769294&doi=10.3390/ijms222111864&)\]
+- 35.Pelletier CC Croyal M Ene L, et al. Elevation of trimethylamine-N-oxide in chronic kidney disease: contribution of decreased glomerular filtration rate. Toxins (Basel).
+2019;11(11):635. doi: 10.3390/toxins11110635
+\[ [DOI](https://doi.org/10.3390/toxins11110635)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC6891811/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/31683880/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Toxins%20(Basel).&title=Elevation%20of%20trimethylamine-N-oxide%20in%20chronic%20kidney%20disease:%20contribution%20of%20decreased%20glomerular%20filtration%20rate&author=CC%20Pelletier&author=M%20Croyal&author=L%20Ene&volume=11&issue=11&publication_year=2019&pages=635&pmid=31683880&doi=10.3390/toxins11110635&)\]
+- 36.Stubbs JR House JA Ocque AJ, et al. Serum trimethylamine-N-oxide is elevated in CKD and correlates with coronary atherosclerosis burden. J Am Soc Nephrol.
+2016;27(1):305–313. doi: 10.1681/ASN.2014111063
+\[ [DOI](https://doi.org/10.1681/ASN.2014111063)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC4696571/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/26229137/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Am%20Soc%20Nephrol.&title=Serum%20trimethylamine-N-oxide%20is%20elevated%20in%20CKD%20and%20correlates%20with%20coronary%20atherosclerosis%20burden&author=JR%20Stubbs&author=JA%20House&author=AJ%20Ocque&volume=27&issue=1&publication_year=2016&pages=305-313&pmid=26229137&doi=10.1681/ASN.2014111063&)\]
+- 37.Wang Z Bergeron N Levison BS, et al. Impact of chronic dietary red meat, white meat, or non-meat protein on trimethylamine N-oxide metabolism and renal excretion in healthy men and women. Eur Heart J.
+2019;40(7):583–594. doi: 10.1093/eurheartj/ehy799
+\[ [DOI](https://doi.org/10.1093/eurheartj/ehy799)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC6374688/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/30535398/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Eur%20Heart%20J.&title=Impact%20of%20chronic%20dietary%20red%20meat,%20white%20meat,%20or%20non-meat%20protein%20on%20trimethylamine%20N-oxide%20metabolism%20and%20renal%20excretion%20in%20healthy%20men%20and%20women&author=Z%20Wang&author=N%20Bergeron&author=BS%20Levison&volume=40&issue=7&publication_year=2019&pages=583-594&pmid=30535398&doi=10.1093/eurheartj/ehy799&)\]
+- 38.Sarnak MJ Amann K Bangalore S, et al. Chronic kidney disease and coronary artery disease: JACC state-of-the-art review. J Am Coll Cardiol.
+2019;74(14):1823–1838. doi: 10.1016/j.jacc.2019.08.1017
+\[ [DOI](https://doi.org/10.1016/j.jacc.2019.08.1017)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/31582143/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Am%20Coll%20Cardiol.&title=Chronic%20kidney%20disease%20and%20coronary%20artery%20disease:%20JACC%20state-of-the-art%20review&author=MJ%20Sarnak&author=K%20Amann&author=S%20Bangalore&volume=74&issue=14&publication_year=2019&pages=1823-1838&pmid=31582143&doi=10.1016/j.jacc.2019.08.1017&)\]
+- 39.Schrauben SJ Sapa H Xie D, et al. Association of urine and plasma ADMA with atherosclerotic risk in DKD cardiovascular disease risk in diabetic kidney disease: findings from the Chronic Renal Insufficiency Cohort (CRIC) study. Nephrol Dial Transplant.
+2023;38(12):2809–2815. doi: 10.1093/ndt/gfad103
+\[ [DOI](https://doi.org/10.1093/ndt/gfad103)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC10689177/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/37230949/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Nephrol%20Dial%20Transplant.&title=Association%20of%20urine%20and%20plasma%20ADMA%20with%20atherosclerotic%20risk%20in%20DKD%20cardiovascular%20disease%20risk%20in%20diabetic%20kidney%20disease:%20findings%20from%20the%20Chronic%20Renal%20Insufficiency%20Cohort%20(CRIC)%20study&author=SJ%20Schrauben&author=H%20Sapa&author=D%20Xie&volume=38&issue=12&publication_year=2023&pages=2809-2815&pmid=37230949&doi=10.1093/ndt/gfad103&)\]
+- 40.Qi J You T Li J, et al. Circulating trimethylamine N-oxide and the risk of cardiovascular diseases: a systematic review and meta-analysis of 11 prospective cohort studies. J Cell Mol Med.
+2018;22(1):185–194. doi: 10.1111/jcmm.13307
+\[ [DOI](https://doi.org/10.1111/jcmm.13307)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC5742728/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/28782886/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Cell%20Mol%20Med.&title=Circulating%20trimethylamine%20N-oxide%20and%20the%20risk%20of%20cardiovascular%20diseases:%20a%20systematic%20review%20and%20meta-analysis%20of%2011%20prospective%20cohort%20studies&author=J%20Qi&author=T%20You&author=J%20Li&volume=22&issue=1&publication_year=2018&pages=185-194&pmid=28782886&doi=10.1111/jcmm.13307&)\]
+- 41.Steubl D Buzkova P Garimella PS, et al. Association of serum uromodulin with ESKD and kidney function decline in the elderly: the cardiovascular health study. Am J Kidney Dis.
+2019;74(4):501–509. doi: 10.1053/j.ajkd.2019.02.024
+\[ [DOI](https://doi.org/10.1053/j.ajkd.2019.02.024)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7188359/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/31128770/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Am%20J%20Kidney%20Dis.&title=Association%20of%20serum%20uromodulin%20with%20ESKD%20and%20kidney%20function%20decline%20in%20the%20elderly:%20the%20cardiovascular%20health%20study&author=D%20Steubl&author=P%20Buzkova&author=PS%20Garimella&volume=74&issue=4&publication_year=2019&pages=501-509&pmid=31128770&doi=10.1053/j.ajkd.2019.02.024&)\]
+- 42.Hamaya R Ivey KL Lee DH, et al. Association of diet with circulating trimethylamine-N-oxide concentration. Am J Clin Nutr.
+2020;112(6):1448–1455. doi: 10.1093/ajcn/nqaa225
+\[ [DOI](https://doi.org/10.1093/ajcn/nqaa225)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7727477/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/32936862/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Am%20J%20Clin%20Nutr.&title=Association%20of%20diet%20with%20circulating%20trimethylamine-N-oxide%20concentration&author=R%20Hamaya&author=KL%20Ivey&author=DH%20Lee&volume=112&issue=6&publication_year=2020&pages=1448-1455&pmid=32936862&doi=10.1093/ajcn/nqaa225&)\]
+- 43.Yang JJ Shu XO Herrington DM, et al. Circulating trimethylamine N-oxide in association with diet and cardiometabolic biomarkers: an international pooled analysis. Am J Clin Nutr.
+2021;113(5):1145–1156. doi: 10.1093/ajcn/nqaa430
+\[ [DOI](https://doi.org/10.1093/ajcn/nqaa430)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC8106754/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/33826706/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Am%20J%20Clin%20Nutr.&title=Circulating%20trimethylamine%20N-oxide%20in%20association%20with%20diet%20and%20cardiometabolic%20biomarkers:%20an%20international%20pooled%20analysis&author=JJ%20Yang&author=XO%20Shu&author=DM%20Herrington&volume=113&issue=5&publication_year=2021&pages=1145-1156&pmid=33826706&doi=10.1093/ajcn/nqaa430&)\]
+- 44.Wang M Wang Z Lee Y, et al. Dietary meat, trimethylamine N-Oxide-Related metabolites, and incident cardiovascular disease among older adults: the cardiovascular health study. Arterioscler Thromb Vasc Biol.
+2022;42(9):e273–e288. doi: 10.1161/ATVBAHA.121.316533
+\[ [DOI](https://doi.org/10.1161/ATVBAHA.121.316533)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC9420768/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/35912635/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Arterioscler%20Thromb%20Vasc%20Biol.&title=Dietary%20meat,%20trimethylamine%20N-Oxide-Related%20metabolites,%20and%20incident%20cardiovascular%20disease%20among%20older%20adults:%20the%20cardiovascular%20health%20study&author=M%20Wang&author=Z%20Wang&author=Y%20Lee&volume=42&issue=9&publication_year=2022&pages=e273-e288&pmid=35912635&doi=10.1161/ATVBAHA.121.316533&)\]
+
+![Close](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/close.svg)
+
+## ACTIONS
+
+- [![View on publisher site icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/launch.svg)View on publisher site](https://doi.org/10.1681/ASN.0000000000000344)
+- [![Download PDF icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/file_download.svg)PDF (616.5 KB)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11164118/pdf/jasn-35-749.pdf)
+- ![Cite icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/format_quote.svg)Cite
+- ![Collections icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/action-bookmark-full.svg)![Collections icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/action-bookmark-empty.svg)Collections
+- ![Permalink icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/share.svg)Permalink
+
+
+
+
+## PERMALINK
+
+
+
+![Copy icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/content_copy.svg)Copy
+
+
+## RESOURCES
+
+### Similar articles
+
+### Cited by other articles
+
+### Links to NCBI Databases
+
+Back to Top![back to top icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/arrow_upward.svg)

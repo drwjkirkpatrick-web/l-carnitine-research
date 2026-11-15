@@ -1,0 +1,312 @@
+# URL: https://pubmed.ncbi.nlm.nih.gov/23614584/
+# Fetched via web_extract on 2026-11-15
+
+Clipboard, Search History, and several other advanced features are temporarily unavailable.
+
+
+[Skip to main page content](https://pubmed.ncbi.nlm.nih.gov/23614584/#article-details)
+
+### NIH Websites Are Changing
+
+- [Get the Latest Updates and FAQs on the transition](https://www.nih.gov/web-modernization)
+- Per [Executive Order 14434](https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/), federal agencies are now using "Super Intelligence" (SI) in place of "Artificial Intelligence" (AI). You may see both terms across NIH content during this transition.
+
+![Dot gov](https://cdn.ncbi.nlm.nih.gov/coreutils/uswds/img/icon-dot-gov.svg)
+
+**The .gov means it’s official.**
+
+Federal government websites often end in .gov or .mil. Before
+sharing sensitive information, make sure you’re on a federal
+government site.
+
+
+![Https](https://cdn.ncbi.nlm.nih.gov/coreutils/uswds/img/icon-https.svg)
+
+**The site is secure.**
+
+The **https://** ensures that you are connecting to the
+official website and that any information you provide is encrypted
+and transmitted securely.
+
+
+[Access keys](https://www.ncbi.nlm.nih.gov/guide/browsers/#ncbi_accesskeys) [NCBI Homepage](https://www.ncbi.nlm.nih.gov/) [MyNCBI Homepage](https://pubmed.ncbi.nlm.nih.gov/myncbi/) [Main Content](https://pubmed.ncbi.nlm.nih.gov/23614584/#maincontent) [Main Navigation](https://pubmed.ncbi.nlm.nih.gov/23614584/#)
+
+[![pubmed logo](https://cdn.ncbi.nlm.nih.gov/pubmed/a447896c-976f-490b-b86b-2668b65114a8/core/images/pubmed-logo-blue.svg)](https://pubmed.ncbi.nlm.nih.gov/)[Show search bar](https://pubmed.ncbi.nlm.nih.gov/23614584/# "Show search bar")
+
+Search:
+
+
+```
+
+```
+
+[Clear search input](https://pubmed.ncbi.nlm.nih.gov/23614584/# "Clear search input") Search
+
+[Advanced](https://pubmed.ncbi.nlm.nih.gov/advanced/) [Clipboard](https://pubmed.ncbi.nlm.nih.gov/clipboard/)
+
+[User Guide](https://pubmed.ncbi.nlm.nih.gov/help/)
+
+Save
+
+Email
+
+
+Send to
+
+- [Clipboard](https://pubmed.ncbi.nlm.nih.gov/23614584/#)
+- [My Bibliography](https://account.ncbi.nlm.nih.gov/?back_url=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F23614584%2F%23open-bibliography-panel)
+- [Collections](https://account.ncbi.nlm.nih.gov/?back_url=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F23614584%2F%23open-collections-panel)
+- [Citation manager](https://pubmed.ncbi.nlm.nih.gov/23614584/#)
+
+Display options
+
+Display options
+
+
+Format
+AbstractPubMedPMID
+
+## Save citation to file
+
+Format:
+Summary (text)PubMedPMIDAbstract (text)CSV
+
+Create file
+
+Cancel
+
+
+## Email citation
+
+Email address has not been verified. Go to
+[My NCBI account settings](https://account.ncbi.nlm.nih.gov/settings/)
+to confirm your email and then refresh this page.
+
+
+To:
+
+
+Subject:
+
+
+Body:
+
+
+Format:
+SummarySummary (text)AbstractAbstract (text)
+
+MeSH and other data
+
+
+Send email
+
+Cancel
+
+
+### Add to Collections
+
+- Create a new collection
+- Add to an existing collection
+
+Name your collection:
+
+
+Name must be less than 100 characters
+
+
+Choose a collection:
+
+
+Unable to load your collection due to an error
+
+[Please try again](https://pubmed.ncbi.nlm.nih.gov/23614584/#)
+
+Add
+
+Cancel
+
+
+### Add to My Bibliography
+
+- My Bibliography
+
+Unable to load your delegates due to an error
+
+[Please try again](https://pubmed.ncbi.nlm.nih.gov/23614584/#)
+
+Add
+
+Cancel
+
+
+## Your saved search
+
+Name of saved search:
+
+
+Search terms:
+
+
+[Test search terms](https://pubmed.ncbi.nlm.nih.gov/23614584/#)
+
+Would you like email updates of new search results?
+Saved Search Alert Radio Buttons
+
+- Yes
+- No
+
+Email:
+( [change](https://www.ncbi.nlm.nih.gov/account/settings/))
+
+Frequency:
+MonthlyWeeklyDaily
+
+Which day?
+The first SundayThe first MondayThe first TuesdayThe first WednesdayThe first ThursdayThe first FridayThe first SaturdayThe first dayThe first weekday
+
+Which day?
+SundayMondayTuesdayWednesdayThursdayFridaySaturday
+
+Report format:
+SummarySummary (text)AbstractAbstract (text)PubMed
+
+Send at most:
+1 item5 items10 items20 items50 items100 items200 items
+
+Send even when there aren't any new results
+
+
+Optional text in email:
+
+
+Save
+
+Cancel
+
+
+## Create a file for external citation management software
+
+Create file
+
+Cancel
+
+
+## Your RSS Feed
+
+Name of RSS Feed:
+
+
+Number of items displayed:
+510152050100
+
+Create RSS
+
+Cancel
+
+
+RSS Link
+Copy
+
+
+Full text links
+Cite
+
+Display options
+
+Display options
+
+
+Format
+AbstractPubMedPMID
+
+Linked Discoveries
+
+## Abstract
+
+**Background:**
+
+Recent studies in animals have shown a mechanistic link between intestinal microbial metabolism of the choline moiety in dietary phosphatidylcholine (lecithin) and coronary artery disease through the production of a proatherosclerotic metabolite, trimethylamine-N-oxide (TMAO). We investigated the relationship among intestinal microbiota-dependent metabolism of dietary phosphatidylcholine, TMAO levels, and adverse cardiovascular events in humans.
+
+
+**Methods:**
+
+We quantified plasma and urinary levels of TMAO and plasma choline and betaine levels by means of liquid chromatography and online tandem mass spectrometry after a phosphatidylcholine challenge (ingestion of two hard-boiled eggs and deuterium \[d9\]-labeled phosphatidylcholine) in healthy participants before and after the suppression of intestinal microbiota with oral broad-spectrum antibiotics. We further examined the relationship between fasting plasma levels of TMAO and incident major adverse cardiovascular events (death, myocardial infarction, or stroke) during 3 years of follow-up in 4007 patients undergoing elective coronary angiography.
+
+
+**Results:**
+
+Time-dependent increases in levels of both TMAO and its d9 isotopologue, as well as other choline metabolites, were detected after the phosphatidylcholine challenge. Plasma levels of TMAO were markedly suppressed after the administration of antibiotics and then reappeared after withdrawal of antibiotics. Increased plasma levels of TMAO were associated with an increased risk of a major adverse cardiovascular event (hazard ratio for highest vs. lowest TMAO quartile, 2.54; 95% confidence interval, 1.96 to 3.28; P<0.001). An elevated TMAO level predicted an increased risk of major adverse cardiovascular events after adjustment for traditional risk factors (P<0.001), as well as in lower-risk subgroups.
+
+
+**Conclusions:**
+
+The production of TMAO from dietary phosphatidylcholine is dependent on metabolism by the intestinal microbiota. Increased TMAO levels are associated with an increased risk of incident major adverse cardiovascular events. (Funded by the National Institutes of Health and others.).
+
+
+[PubMed Disclaimer](https://pubmed.ncbi.nlm.nih.gov/disclaimer/)
+
+## Figures
+
+[![Figure 1](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/a89d/3701945/1a6a3eab687d/nihms474706f1.gif)](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/a89d/3701945/5563df01e33b/nihms474706f1.jpg)
+
+**Figure 1. Effects of a Phosphatidylcholine Challenge…**
+
+**Figure 1. Effects of a Phosphatidylcholine Challenge and Administration of Antibiotics on Mean Levels of…**
+
+**Figure 1. Effects of a Phosphatidylcholine Challenge and Administration of Antibiotics on Mean Levels of Trimethylamine- _N_-Oxide (TMAO) and Its d9 Isotopologue (d9-TMAO)**
+
+All 40 study participants underwent the first dietary phosphatidylcholine challenge (visit 1), which consisted of the ingestion of deuterium-labeled phosphatidylcholine (d9-phosphatidylcholine) and two hard-boiled eggs. Six participants then received broad-spectrum antibiotics for 1 week, followed by a second phosphatidylcholine challenge (visit 2). These same participants returned again at least 1 month after discontinuing the antibiotics for a third challenge (visit 3). Shown are the results of assays for TMAO (Panel A) and d9-TMAO (Panel B) after the phosphatidylcholine challenge, before and after the administration of antibiotics, with the intensity of stable-isotope-dilution assays measured by means of high-performance liquid chromatography with online electro-spray ionization tandem mass spectrometry. The arrows indicate retention time where authentic isotope-labeled TMAO standards elute. Also shown are the plasma levels of TMAO (Panel C) and d9-TMAO (Panel D) at each visit. The plasma levels of TMAO were markedly suppressed after the administration of antibiotics and subsequently reappeared after the cessation of antibiotics, indicating that the production of TMAO from dietary phosphatidylcholine is dependent on metabolism by the intestinal microbiota.
+
+[![Figure 2](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/a89d/3701945/9d30e071cabc/nihms474706f2.gif)](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/a89d/3701945/306cea510dff/nihms474706f2.jpg)
+
+**Figure 2. Kaplan–Meier Estimates of Major Adverse…**
+
+**Figure 2. Kaplan–Meier Estimates of Major Adverse Cardiovascular Events, According to the Quartile of TMAO…**
+
+**Figure 2. Kaplan–Meier Estimates of Major Adverse Cardiovascular Events, According to the Quartile of TMAO Level**
+
+
+[... middle omitted — see footer ...]
+
+- [T32 GM007250/GM/NIGMS NIH HHS/United States](https://pubmed.ncbi.nlm.nih.gov/?term=T32+GM007250%2FGM%2FNIGMS+NIH+HHS%2FUnited+States%5BGrants+and+Funding%5D&sort=date&sort_order=desc "All articles for grant T32 GM007250/GM/NIGMS NIH HHS/United States")
+- [P20 HL113452/HL/NHLBI NIH HHS/United States](https://pubmed.ncbi.nlm.nih.gov/?term=P20+HL113452%2FHL%2FNHLBI+NIH+HHS%2FUnited+States%5BGrants+and+Funding%5D&sort=date&sort_order=desc "All articles for grant P20 HL113452/HL/NHLBI NIH HHS/United States")
+- [R01 DK080732/DK/NIDDK NIH HHS/United States](https://pubmed.ncbi.nlm.nih.gov/?term=R01+DK080732%2FDK%2FNIDDK+NIH+HHS%2FUnited+States%5BGrants+and+Funding%5D&sort=date&sort_order=desc "All articles for grant R01 DK080732/DK/NIDDK NIH HHS/United States")
+- [R01DK080732/DK/NIDDK NIH HHS/United States](https://pubmed.ncbi.nlm.nih.gov/?term=R01DK080732%2FDK%2FNIDDK+NIH+HHS%2FUnited+States%5BGrants+and+Funding%5D&sort=date&sort_order=desc "All articles for grant R01DK080732/DK/NIDDK NIH HHS/United States")
+- [P01 HL098055/HL/NHLBI NIH HHS/United States](https://pubmed.ncbi.nlm.nih.gov/?term=P01+HL098055%2FHL%2FNHLBI+NIH+HHS%2FUnited+States%5BGrants+and+Funding%5D&sort=date&sort_order=desc "All articles for grant P01 HL098055/HL/NHLBI NIH HHS/United States")
+- [P01HL076491/HL/NHLBI NIH HHS/United States](https://pubmed.ncbi.nlm.nih.gov/?term=P01HL076491%2FHL%2FNHLBI+NIH+HHS%2FUnited+States%5BGrants+and+Funding%5D&sort=date&sort_order=desc "All articles for grant P01HL076491/HL/NHLBI NIH HHS/United States")
+
+Show all 15 grants
+
+
+## LinkOut - more resources
+
+- ### Full Text Sources
+
+
+  - [Atypon](https://www.nejm.org/doi/10.1056/NEJMoa1109400?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200www.ncbi.nlm.nih.gov)
+  - [Europe PMC](https://europepmc.org/abstract/MED/23614584)
+  - [Ovid Technologies, Inc.](https://www.ovid.com/23614584.pmid)
+  - [PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/pmid/23614584/)
+- ### Other Literature Sources
+
+
+  - [H1 Connect - Access expert opinions and insights on biomedical research.](https://facultyopinions.com/pubmed/23614584)
+  - [The Lens - Patent Citations Database](https://www.lens.org/lens/search/patent/list?q=reference_cited.npl.ids.pmid:23614584)
+  - [scite Smart Citations](https://scite.ai/reports/23614584)
+- ### Medical
+
+
+  - [ClinicalTrials.gov](https://clinicaltrials.gov/search?term=AREA%5BReferencePMID%5D23614584)
+  - [MedlinePlus Health Information](https://medlineplus.gov/antibiotics.html)
+
+NCBI Literature Resources
+
+[MeSH](https://www.ncbi.nlm.nih.gov/mesh/) [PMC](https://www.ncbi.nlm.nih.gov/pmc/) [Bookshelf](https://www.ncbi.nlm.nih.gov/books) [Disclaimer](https://pubmed.ncbi.nlm.nih.gov/disclaimer/)
+
+The PubMed wordmark and PubMed logo are registered trademarks of the U.S. Department of Health and Human Services (HHS). Unauthorized use of these marks is strictly prohibited.
+
+──────── [TRUNCATED] ────────
+Showing 8,916 chars (head) + 2,897 chars (tail) of 32,621 total clean characters.
+Full text saved to: /home/walker/.hermes/cache/web/pubmed.ncbi.nlm.nih.gov-9163413c2d.md
+To read the omitted middle: read_file path="/home/walker/.hermes/cache/web/pubmed.ncbi.nlm.nih.gov-9163413c2d.md" offset=265 limit=200  (the file is the complete page; raise/lower offset to page through it).
+─────────────────────────────

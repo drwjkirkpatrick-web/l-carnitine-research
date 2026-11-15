@@ -1,0 +1,47 @@
+PMID: 11014405
+PubMed URL: https://pubmed.ncbi.nlm.nih.gov/11014405/
+Fetched via NCBI eutils efetch, accessed 2026-11-15
+
+1. Clin Pharmacol Ther. 2000 Sep;68(3):238-49. doi: 10.1067/mcp.2000.108850.
+
+Pharmacokinetics of L-carnitine in patients with end-stage renal disease 
+undergoing long-term hemodialysis.
+
+Evans AM(1), Faull R, Fornasini G, Lemanowicz EF, Longo A, Pace S, Nation RL.
+
+Author information:
+(1)Centre for Pharmaceutical Research, School of Pharmacy and Medical Sciences, 
+University of South Australia, Adelaide. allan.evans@unisa.edu.au
+
+OBJECTIVE: L-Carnitine is an endogenous molecule involved in fatty acid 
+metabolism. Secondary carnitine deficiency may develop in patients with 
+end-stage renal disease undergoing long-term hemodialysis because of dialytic 
+loss. In these patients L-carnitine can be administered to restore plasma and 
+tissue levels. The objective of this study was to evaluate the pharmacokinetics 
+of intravenous L-carnitine in patients undergoing long-term hemodialysis.
+METHODS: Twelve patients undergoing three dialysis sessions/week received 
+L-carnitine intravenously (20 mg x kg(-1)) at the end of each dialysis session 
+for 9 weeks. Plasma samples were analyzed for L-carnitine, acetyl-L-carnitine, 
+and total carnitine by HPLC.
+RESULTS: Under baseline conditions, the mean +/- SD predialysis plasma 
+concentration of L-carnitine was 19.5 +/- 5.6 micromol/L, decreasing to 5.6 +/- 
+1.9 micromol/L at the end of the dialysis session. These concentrations were 
+substantially lower than endogenous levels in healthy human beings. Under 
+baseline conditions the extraction ratios of L-carnitine and acetyl-L-carnitine 
+by the dialyser were 0.74 +/- 0.07 and 0.71 +/- 0.11, respectively. During 
+repeated dosing, there was accumulation of L-carnitine in plasma, and after 9 
+weeks of dosing, the predialysis and postdialysis plasma levels were 191 +/- 
+54.1 and 41.8 +/- 13.0 micromol/L, respectively. The predialysis and 
+postdialysis plasma levels of L-carnitine decreased once dosing was ceased but 
+had not returned to pretreatment levels after 6 weeks.
+CONCLUSION: The study demonstrated that removal of L-carnitine by hemodialysis 
+is extremely efficient and that patients undergoing hemodialysis had plasma 
+concentrations that were substantially lower than normal, particularly during 
+dialysis. During repeated administration of L-carnitine, the predialysis and 
+postdialysis concentrations of the compound increased steadily, reaching an 
+apparent steady state after about 8 weeks. It is proposed that this accumulation 
+arose from the distribution of L-carnitine into a deep tissue pool that includes 
+skeletal muscle.
+
+DOI: 10.1067/mcp.2000.108850
+PMID: 11014405 [Indexed for MEDLINE]

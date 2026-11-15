@@ -1,0 +1,40 @@
+# Source: PubMed (NCBI E-utilities efetch)
+# URL: https://pubmed.ncbi.nlm.nih.gov/15386530/
+# Fetched: 2026-11-15
+# PMID: 15386530
+
+1. Cell Biochem Funct. 2005 May-Jun;23(3):151-5. doi: 10.1002/cbf.1159.
+
+Protective effect of L-carnitine on renal ischaemia-reperfusion injury in the 
+rat.
+
+Görür S(1), Bağdatoğlu OT, Polat G.
+
+Author information:
+(1)Department of Urology, Kadirli Devlet Hastanesi, Turkey. sadgorur@hotmail.com
+
+Comment in
+    Cell Biochem Funct. 2005 Sep-Oct;23(5):369; author reply 370. doi: 
+10.1002/cbf.1247.
+
+This study was designed to investigate the effect of L-carnitine in ischaemia 
+and reperfusion of the rat kidney. Rats were randomly allocated into three 
+groups. Group I (control group; n = 6) received no treatment. Group II (isotonic 
+saline group; n = 6), received 2 ml of isotonic saline 15 min before the renal 
+ischaemia, and group III (carnitine group; n = 6) received L-carnitine 
+hydrochloride (100 mg kg(-1)) intraperitoneally. At the end of the reperfusion 
+period, rats were sacrificed. Tissue malondialdehyde level (MDA), 
+myeloperoxidase (MPO) activity, and nitrite/nitrate (NO) level of renal tissue 
+were measured to evaluate the lipid peroxidation, neutrophil function, and 
+nitric oxide metabolism, respectively. The tissue levels of MDA, MPO and NO were 
+lower in group III (71.8 +/- 8.4, 172.1 +/- 27.4 U g(-1) tissue, 76.3 +/- 29.7 
+micromol l(-1) respectively) than levels in groups I (103.4 +/- 13.4 nmol g(-1), 
+325.9 +/- 20.2 U g(-1) tissue, 144.5 +/- 39.2 micromol l(-1), respectively) and 
+II (103.5 +/- 11.4 nmol g(-1), 317.1 +/- 41.5 U g(-1) tissue, 148.9 +/- 23.9 
+micromol l(-1), respectively). It is shown that carnitine protects kidney tissue 
+against ischaemia-reperfusion injury.
+
+Copyright 2004 John Wiley & Sons, Ltd.
+
+DOI: 10.1002/cbf.1159
+PMID: 15386530 [Indexed for MEDLINE]

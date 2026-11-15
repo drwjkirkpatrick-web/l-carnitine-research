@@ -1,0 +1,53 @@
+PMID: 18053183
+PubMed URL: https://pubmed.ncbi.nlm.nih.gov/18053183/
+Fetched via NCBI eutils efetch, accessed 2026-11-15
+
+1. J Int Soc Sports Nutr. 2007 Dec 3;4:22. doi: 10.1186/1550-2783-4-22.
+
+Glycine propionyl-L-carnitine increases plasma nitrate/nitrite in resistance 
+trained men.
+
+Bloomer RJ(1), Smith WA, Fisher-Wellman KH.
+
+Author information:
+(1)Department of Health and Sport Sciences, University of Memphis, Memphis, TN, 
+USA. rbloomer@memphis.edu.
+
+: We have recently demonstrated that oral intake of glycine 
+propionyl-L-carnitine (GPLC) increases plasma nitrate/nitrite (NOx), a surrogate 
+measure of nitric oxide production. However, these findings were observed at 
+rest, and in previously sedentary subjects.
+PURPOSE: In the present study, we sought to determine the impact of oral GPLC on 
+plasma NOx at rest and in response to a period of reactive hyperemia in 
+resistance trained men.
+METHODS: Using a double blind, crossover design, 15 healthy men (24 +/- 4 years) 
+were assigned to GPLC (3 g/d PLC + 1044 mg glycine) and a placebo in random 
+order, for a four-week period, with a two-week washout between condition 
+assignment. Blood samples were taken from subjects at rest and at 0, 3, and 10 
+minutes following an ischemia-reperfusion protocol (six minutes of upper arm 
+cuff occlusion at 200 mmHg followed by rapid reperfusion with cuff removal). 
+Blood samples were taken from a forearm vein from the same arm used for the 
+protocol and analyzed for total nitrate/nitrite. Data are presented as mean +/- 
+SEM.
+RESULTS: A condition main effect (p = 0.0008) was noted for NOx, with higher 
+values in subjects when using GPLC (45.6 +/- 2.8 mumol.L-1) compared to placebo 
+(34.9 +/- 1.2 mumol.L-1). No time main effect was noted (p = 0.7099), although 
+values increased approximately 12% from rest (37.7 +/- 2.7 mumol.L-1) to a peak 
+at 10 minutes post protocol (42.3 +/- 3.3 mumol.L-1). The interaction effect was 
+not significant (p = 0.8809), although paired time contrasts revealed higher 
+values for GPLC compared to placebo at 3 (48.2 +/- 6.7 vs. 34.9 +/- 2.4 
+mumol.L-1; p = 0.033) and 10 (48.8 +/- 5.9 vs. 35.7 +/- 2.1 mumol.L-1; p = 
+0.036) minutes post protocol, with non-statistically significant differences 
+noted at rest (41.8 +/- 4.5 vs. 33.6 +/- 2.5 mumol.L-1; p = 0.189) and at 0 
+minutes (43.6 +/- 5.1 vs. 35.4 +/- 2.7 mumol.L-1; p = 0.187) post protocol. An 
+analysis by subject (collapsed across time) indicated that 11 of the 15 subjects 
+experienced an increase in NOx with GPLC treatment.
+CONCLUSION: These findings indicate that short-term oral GPLC supplementation 
+can increase NOx in resistance trained men. However, as with many dietary 
+supplements, there exist both "responders" and "non-responders" to treatment. 
+Future work may focus on the mechanisms for the discrepancy in response to GPLC 
+supplementation for purposes of NOx elevation.
+
+DOI: 10.1186/1550-2783-4-22
+PMCID: PMC2211291
+PMID: 18053183

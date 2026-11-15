@@ -1,0 +1,68 @@
+# Source: PubMed (NCBI E-utilities efetch)
+# URL: https://pubmed.ncbi.nlm.nih.gov/41261345/
+# Fetched: 2026-11-15
+# PMID: 41261345
+
+1. Mol Cell Biochem. 2026 Feb;481(2):911-922. doi: 10.1007/s11010-025-05433-6.
+Epub  2025 Nov 20.
+
+L-carnitine mitigates urographin-induced nephrotoxicity via modulation of 
+inflammatory, oxidative, and apoptotic pathways in rat kidney.
+
+Erbaş M(1), Gündüz D(2), Sarman E(3), İlhan İ(4), Tepebaşı MY(5), Arlıoğlu M(6), 
+Savran M(6).
+
+Author information:
+(1)Department of Radiology, Faculty of Medicine, Suleyman Demirel University, 
+Cunur, Isparta, Turkey. mahmuterbas@yahoo.com.
+(2)Department of Radiology, Faculty of Medicine, Akdeniz University, Antalya, 
+Turkey.
+(3)Department of Histology and Embryology, Faculty of Medicine, Afyonkarahisar 
+Saglik Bilimleri University, Afyonkarahisar, Turkey.
+(4)Department of Biochemistry, Faculty of Medicine, Suleyman Demirel University, 
+Cunur, Isparta, Turkey.
+(5)Department of Genetic, Faculty of Medicine, Suleyman Demirel University, 
+Cunur, Isparta, Turkey.
+(6)Department of Pharmacology, Faculty of Medicine, Suleyman Demirel University, 
+Cunur, Isparta, Turkey.
+
+Contrast-induced nephropathy (CIN) remains a significant clinical challenge, 
+particularly following the administration of iodinated agents such as 
+urographin. L-carnitine (LC) is a substance known for its anti-inflammatory and 
+antiapoptotic effects. This study investigates the nephroprotective potential of 
+LC through its regulatory effects on inflammation, oxidative stress, and 
+apoptosis in a rat model of CIN. Thirty-two Wistar albino rats were assigned to 
+four groups: Control, urographin (URO, 10 mL/kg i.p.), URO-LC (200 mg/kg 
+L-carnitine i.p. for 10 days), and LC alone. Renal function markers (urea, 
+creatinine), oxidative stress indicators as total oxidans status (TOS), total 
+antioxidant status (TAS), oxidative stress (OSI), and histopathological features 
+were evaluated. The immunohistochemical expression of tumor necrosis factor 
+alpha (TNF-α) and Caspase-3 (Cas-3), along with the mRNA expression levels of 
+B-cell lymphoma 2 (Bcl-2), Bcl-2-associated X protein (Bax), and Caspase-9 
+(Cas-9), were assessed. URO significantly increased serum urea and creatinine 
+levels, TOS and OSI values. TNF-α and Cas-3 immunoreactivity, along with Bax and 
+Cas-9 gene expression, were markedly elevated in the URO group, while 
+anti-apoptotic Bcl-2 expression was suppressed. URO also induced severe 
+histological damage. LC treatment reversed these effects, preserving tissue 
+integrity and restoring molecular markers toward baseline levels. LC exerts 
+potent nephroprotective effects against URO-induced renal injury by attenuating 
+oxidative stress, suppressing pro-inflammatory and apoptotic signaling, and 
+promoting anti-apoptotic gene expression. These findings support its potential 
+clinical use in the prevention of contrast-induced renal damage.
+
+DOI: 10.1007/s11010-025-05433-6
+PMID: 41261345 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Competing interests: The authors 
+declare no competing interests. Ethical approval: The execution of all animal 
+experiments was formally endorsed by the Animal Experiments Local Ethics 
+Committee of Suleyman Demirel University (Approval No: [296], Date: 
+[09.05.2024]). Animal procedures were conducted in accordance with the National 
+Institutes of Health (NIH) Guide for the Care and Use of Laboratory Animals (8th 
+Edition, 2011) and adhered to the ARRIVE guidelines. Declaration of the Use of 
+AI Tools: The graphical abstract (Fig. 1) of this manuscript was generated with 
+the assistance of an artificial intelligence-based image generation tool. The AI 
+tool was used exclusively for visual design purposes and did not contribute to 
+the scientific content, data interpretation, or conclusions of the work. All 
+scientific content and interpretations were provided entirely by the authors. 
+The authors reviewed and approved the final figure.

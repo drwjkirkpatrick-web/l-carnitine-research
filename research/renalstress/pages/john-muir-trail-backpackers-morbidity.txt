@@ -1,0 +1,15 @@
+PMID: 29804621
+URL: https://pubmed.ncbi.nlm.nih.gov/29804621/
+Title: The Epidemiology and Medical Morbidity of Long-Distance Backpackers on the John Muir Trail in the Sierra Nevada.
+Authors: Spano SJ; Hile AG; Jain R; Stalcup PR
+Journal: Wilderness & environmental medicine
+Year: 2018
+Vol/Pages: 29(2):203-210
+DOI: 10.1016/j.wem.2018.02.006
+Accessed: 2026-11-15 (NCBI PubMed efetch abstract)
+
+ABSTRACT
+INTRODUCTION: The baseline characteristics and medical morbidity of hikers on the 354 km (220 mi) John Muir Trail (JMT) have not been previously reported.
+METHODS: Using online and on-site recruitment, hikers completing the JMT in 2014 were directed to an online 83-question survey. Pearson correlations, regression models, and descriptive statistics were applied to data, reported as mean±SD (range). Statistical significance was set at P<0.05.
+RESULTS: Of 771 respondents, 57% were men aged 43±14 (13-76) y; they hiked 15.2±7.6 (5-34) days and traveled 272±129 (45-1207) km (169±80 [28-750] mi). Backpackers lost 3.5±2.6 (+3.6 to -18.2) kg (7.7±5.8 [+8 to -40] lbs). Over half (57%) of respondents reported illness or injury, with blisters (57%), sleep problems (57%), and pack strap pain (46%) most prevalent. Altitude illness affected 37%. Thirty hikers left the trail; of these, 4 required emergency medical services evacuations (3 by helicopter). Increasing age, base pack weight, and body mass index (BMI) were all associated with a decrease in the distance hiked per day. Higher base pack weight was associated with illness or injury, whereas older age was slightly protective. Increasing BMI was associated with a slight increase in medical illness or injury and a strong association with evacuation from the trail.
+CONCLUSIONS: JMT hikers experienced medical issues seen on other national trails. Weight loss was prevalent. Most hikers had medical complaints, with few seeking medical attention. Heavy packs and higher BMIs were associated with undesirable outcomes, while older hikers fared better.

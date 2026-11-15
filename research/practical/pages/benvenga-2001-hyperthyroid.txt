@@ -1,0 +1,45 @@
+4. J Clin Endocrinol Metab. 2001 Aug;86(8):3579-94. doi: 10.1210/jcem.86.8.7747.
+
+Usefulness of L-carnitine, a naturally occurring peripheral antagonist of 
+thyroid hormone action, in iatrogenic hyperthyroidism: a randomized, 
+double-blind, placebo-controlled clinical trial.
+
+Benvenga S(1), Ruggeri RM, Russo A, Lapa D, Campenni A, Trimarchi F.
+
+Author information:
+(1)Cattedra & Sezione di Endocrinologia, Dipartimento Clinico-sperimentale di 
+Medicina e Farmacologia, University of Messina School of Medicine, 98125 
+Messina, Italy. s.benvenga@me.nettuno.it
+
+Old studies in animals and unblinded studies in a few hyperthyroid patients 
+suggested that L -carnitine is a periferal antagonist of thyroid hormone action 
+at least in some tissues. This conclusion was substantiated by our recent 
+observation that carnitine inhibits thyroid hormone entry into the nucleus of 
+hepatocytes, neurons, and fibroblasts. In the randomized, double-blind, 
+placebo-controlled 6-month trial reported here, we assessed whether 2 or 4 g/d 
+oral L-carnitine were able to both reverse and prevent/minimize nine 
+hyperthyroidism- related symptoms. We also evaluated changes on nine thyroid 
+hormone-sensitive biochemical parameters and on vertebral and hip mineral 
+density (bone mineral density). Fifty women under a fixed TSH-suppressive dose 
+of L -T(4) for all 6 months were randomly allocated to five groups of 10 
+subjects each. Group 0 associated placebo for 6 months; groups A2 and A4 started 
+associating placebo (first bimester), substituted placebo with 2 or 4 g/d 
+carnitine (second bimester), and then returned to the association with placebo. 
+Groups B2 and B4 started associating 2 and 4 g/d carnitine for the first two 
+bimesters, and then substituted carnitine with placebo (third bimester). 
+Symptoms and biochemical parameters worsened in group 0. In group A, symptoms 
+and biochemical parameters worsened during the first bimester, returned to 
+baseline or increased minimally during the second bimester (except osteocalcin 
+and urinary OH-proline), and worsened again in the third bimester. In group B, 
+symptoms and biochemical parameters (except osteocalcin and urinary OH-proline) 
+did not worsen or even improved over the first 4 months; they tended to worsen 
+in the third bimester. In both the A and B groups, the two doses of carnitine 
+were similarly effective. At the end of the trial, bone mineral density tended 
+to increase in groups B and A (B > A). In conclusion, L-carnitine is effective 
+in both reversing and preventing symptoms of hyperthyroidism and has a 
+beneficial effect on bone mineralization. Because hyperthyroidism depletes the 
+body deposits of carnitine and since carnitine has no toxicity, teratogenicity, 
+contraindications and interactions with drugs, carnitine can be of clinical use.
+
+DOI: 10.1210/jcem.86.8.7747
+PMID: 11502782 [Indexed for MEDLINE]

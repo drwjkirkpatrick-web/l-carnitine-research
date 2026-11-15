@@ -1,0 +1,325 @@
+# URL: https://pubmed.ncbi.nlm.nih.gov/35113194/
+# Fetched via web_extract on 2026-11-15
+
+Clipboard, Search History, and several other advanced features are temporarily unavailable.
+
+
+[Skip to main page content](https://pubmed.ncbi.nlm.nih.gov/35113194/#article-details)
+
+![Dot gov](https://cdn.ncbi.nlm.nih.gov/coreutils/uswds/img/icon-dot-gov.svg)
+
+**The .gov means it’s official.**
+
+Federal government websites often end in .gov or .mil. Before
+sharing sensitive information, make sure you’re on a federal
+government site.
+
+
+![Https](https://cdn.ncbi.nlm.nih.gov/coreutils/uswds/img/icon-https.svg)
+
+**The site is secure.**
+
+The **https://** ensures that you are connecting to the
+official website and that any information you provide is encrypted
+and transmitted securely.
+
+
+[Access keys](https://www.ncbi.nlm.nih.gov/guide/browsers/#ncbi_accesskeys) [NCBI Homepage](https://www.ncbi.nlm.nih.gov/) [MyNCBI Homepage](https://pubmed.ncbi.nlm.nih.gov/myncbi/) [Main Content](https://pubmed.ncbi.nlm.nih.gov/35113194/#maincontent) [Main Navigation](https://pubmed.ncbi.nlm.nih.gov/35113194/#)
+
+[![pubmed logo](https://cdn.ncbi.nlm.nih.gov/pubmed/a447896c-976f-490b-b86b-2668b65114a8/core/images/pubmed-logo-blue.svg)](https://pubmed.ncbi.nlm.nih.gov/)[Show search bar](https://pubmed.ncbi.nlm.nih.gov/35113194/# "Show search bar")
+
+Search:
+[Clear search input](https://pubmed.ncbi.nlm.nih.gov/35113194/# "Clear search input") Search
+
+[Advanced](https://pubmed.ncbi.nlm.nih.gov/advanced/) [Clipboard](https://pubmed.ncbi.nlm.nih.gov/clipboard/)
+
+[User Guide](https://pubmed.ncbi.nlm.nih.gov/help/)
+
+Save
+
+Email
+
+
+Send to
+
+- [Clipboard](https://pubmed.ncbi.nlm.nih.gov/35113194/#)
+- [My Bibliography](https://account.ncbi.nlm.nih.gov/?back_url=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F35113194%2F%23open-bibliography-panel)
+- [Collections](https://account.ncbi.nlm.nih.gov/?back_url=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F35113194%2F%23open-collections-panel)
+- [Citation manager](https://pubmed.ncbi.nlm.nih.gov/35113194/#)
+
+Display options
+
+Display options
+
+
+Format
+AbstractPubMedPMID
+
+## Save citation to file
+
+Format:
+Summary (text)PubMedPMIDAbstract (text)CSV
+
+Create file
+
+Cancel
+
+
+## Email citation
+
+Email address has not been verified. Go to
+[My NCBI account settings](https://account.ncbi.nlm.nih.gov/settings/)
+to confirm your email and then refresh this page.
+
+
+To:
+
+
+Subject:
+
+
+Body:
+
+
+Format:
+SummarySummary (text)AbstractAbstract (text)
+
+MeSH and other data
+
+
+Send email
+
+Cancel
+
+
+### Add to Collections
+
+- Create a new collection
+- Add to an existing collection
+
+Name your collection:
+
+
+Name must be less than 100 characters
+
+
+Choose a collection:
+
+
+Unable to load your collection due to an error
+
+[Please try again](https://pubmed.ncbi.nlm.nih.gov/35113194/#)
+
+Add
+
+Cancel
+
+
+### Add to My Bibliography
+
+- My Bibliography
+
+Unable to load your delegates due to an error
+
+[Please try again](https://pubmed.ncbi.nlm.nih.gov/35113194/#)
+
+Add
+
+Cancel
+
+
+## Your saved search
+
+Name of saved search:
+
+
+Search terms:
+
+
+[Test search terms](https://pubmed.ncbi.nlm.nih.gov/35113194/#)
+
+Would you like email updates of new search results?
+Saved Search Alert Radio Buttons
+
+- Yes
+- No
+
+Email:
+( [change](https://www.ncbi.nlm.nih.gov/account/settings/))
+
+Frequency:
+MonthlyWeeklyDaily
+
+Which day?
+The first SundayThe first MondayThe first TuesdayThe first WednesdayThe first ThursdayThe first FridayThe first SaturdayThe first dayThe first weekday
+
+Which day?
+SundayMondayTuesdayWednesdayThursdayFridaySaturday
+
+Report format:
+SummarySummary (text)AbstractAbstract (text)PubMed
+
+Send at most:
+1 item5 items10 items20 items50 items100 items200 items
+
+Send even when there aren't any new results
+
+
+Optional text in email:
+
+
+Save
+
+Cancel
+
+
+## Create a file for external citation management software
+
+Create file
+
+Cancel
+
+
+## Your RSS Feed
+
+Name of RSS Feed:
+
+
+Number of items displayed:
+510152050100
+
+Create RSS
+
+Cancel
+
+
+RSS Link
+Copy
+
+
+Full text links
+Cite
+
+Display options
+
+Display options
+
+
+Format
+AbstractPubMedPMID
+
+Linked Discoveries
+
+## Abstract
+
+**Purpose:**
+
+Some species of fish and seafood are high in trimethylamine N-oxide (TMAO), which accumulates in muscle where it protects against pressure and cold. Trimethylamine (TMA), the metabolic precursor to TMAO, is formed in fish during bacterial spoilage. Fish intake is promoted for its potential cardioprotective effects. However, numerous studies show TMAO has pro-atherothrombotic properties. Here, we determined the effects of fish or seafood consumption on circulating TMAO levels in participants with normal renal function.
+
+
+**Methods:**
+
+TMAO and omega-3 fatty acid content were quantified across multiple different fish or seafood species by mass spectrometry. Healthy volunteers (n = 50) were recruited for three studies. Participants in the first study consented to 5 consecutive weekly blood draws and provided dietary recall for the 24 h preceding each draw. In the second study, TMAO levels were determined following defined low and high TMAO diets. Finally, participants consumed test meals containing shrimp, tuna, fish sticks, salmon or cod. TMAO levels were quantified by mass spectrometry in blood collected before and after dietary challenge.
+
+
+**Results:**
+
+TMAO + TMA content varied widely across fish and seafood species. Consumption of fish sticks, cod, and to a lesser extent salmon led to significant increases in circulating TMAO levels. Within 1 day, circulating TMAO concentrations in all participants returned to baseline levels.
+
+
+**Conclusions:**
+
+We conclude that some fish and seafood contain high levels of TMAO, and may induce a transient elevation in TMAO levels in some individuals. Selection of low TMAO content fish is prudent for subjects with elevated TMAO, cardiovascular disease or impaired renal function.
+
+
+**Keywords:**
+
+Cardiovascular disease risk; Fish consumption; Gut microbiome; Thrombosis; Trimethylamine N-oxide.
+
+
+© 2022\. The Author(s), under exclusive licence to Springer-Verlag GmbH Germany.
+
+
+[PubMed Disclaimer](https://pubmed.ncbi.nlm.nih.gov/disclaimer/)
+
+## Conflict of interest statement
+
+Conflicts of interest
+
+Drs Hazen and Wang report being named as co-inventors on pending and issued patents held by the Cleveland Clinic relating to cardiovascular diagnostics and therapeutics. Drs Hazen and Wang report having received royalty payments for inventions or discoveries related to cardiovascular diagnostics or therapeutics from Cleveland Heart Lab, a fully owned subsidiary of Quest Diagnostics, and Procter & Gamble. Dr. Hazen is a paid consultant for Zehna Therapeutics and Proctor & Gamble, and has received research funds from Zehna Therapeutics, Proctor & Gamble, Pfizer Inc., and Roche Diagnostics. Dr. Garcia is a current employee of Labcorp, and Drs Jeyarajah and O’Connell are former employees of LipoScience. Dr. Tang is a consultant for Sequana Medical A.G., Owkin Inc, Relypsa Inc, preCARDIA Inc, and Cardiol Therapeutics Inc, Genomics plc, and has received honorarium from Springer Nature for authorship/editorship and American Board of Internal Medicine for exam writing committee participation - all unrelated to the subject and contents of this paper. The remaining authors have nothing to disclose.
+
+## Figures
+
+[![Figure 1.](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/69f3/9283263/133a387c89e2/nihms-1783531-f0001.gif)](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/69f3/9283263/ae2e57ccc309/nihms-1783531-f0001.jpg)
+
+**Figure 1.. Inter- and intra-individual variation in…**
+
+**Figure 1.. Inter- and intra-individual variation in serum TMAO concentration following consumption of red meat…**
+
+**Figure 1.. Inter- and intra-individual variation in serum TMAO concentration following consumption of red meat or fish.**
+
+Serum TMAO concentrations in the 24 participants, 5 week biological and temporal variability study. Participants reported whether they had eaten red meat or fish as part of their dinner the previous evening.
+
+[![Figure 2.](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/69f3/9283263/095b49b3dd49/nihms-1783531-f0002.gif)](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/69f3/9283263/910f291dba55/nihms-1783531-f0002.jpg)
+
+**Figure 2.. Serum TMAO levels are transiently…**
+
+**Figure 2.. Serum TMAO levels are transiently elevated following cod consumption.**
+
+Serum TMAO concentrations in…
+
+**Figure 2.. Serum TMAO levels are transiently elevated following cod consumption.**
+
+Serum TMAO concentrations in participants before cod meal, after cod meal, and after an additional 24 hours. Data were presented as mean±SD from three measurements.
+
+[![Figure 3.](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/69f3/9283263/5a06e2665643/nihms-1783531-f0003.gif)](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/69f3/9283263/ebac98f6e971/nihms-1783531-f0003.jpg)
+
+**Figure 3.. TMA+TMAO and EPA+DHA content in…**
+
+**Figure 3.. TMA+TMAO and EPA+DHA content in fish and seafood.**
+
+Fish and seafood was homogenized…
+
+**Figure 3.. TMA+TMAO and EPA+DHA content in fish and seafood.**
+
+
+[... middle omitted — see footer ...]
+
+  - [Add to Search](https://pubmed.ncbi.nlm.nih.gov/35113194/#)
+
+## Grants and funding
+
+- [P01 HL147823/HL/NHLBI NIH HHS/United States](https://pubmed.ncbi.nlm.nih.gov/?term=P01+HL147823%2FHL%2FNHLBI+NIH+HHS%2FUnited+States%5BGrants+and+Funding%5D&sort=date&sort_order=desc "All articles for grant P01 HL147823/HL/NHLBI NIH HHS/United States")
+- [R01HL130819/NH/NIH HHS/United States](https://pubmed.ncbi.nlm.nih.gov/?term=R01HL130819%2FNH%2FNIH+HHS%2FUnited+States%5BGrants+and+Funding%5D&sort=date&sort_order=desc "All articles for grant R01HL130819/NH/NIH HHS/United States")
+- [R01HL103866/NH/NIH HHS/United States](https://pubmed.ncbi.nlm.nih.gov/?term=R01HL103866%2FNH%2FNIH+HHS%2FUnited+States%5BGrants+and+Funding%5D&sort=date&sort_order=desc "All articles for grant R01HL103866/NH/NIH HHS/United States")
+- [R01 HL130819/HL/NHLBI NIH HHS/United States](https://pubmed.ncbi.nlm.nih.gov/?term=R01+HL130819%2FHL%2FNHLBI+NIH+HHS%2FUnited+States%5BGrants+and+Funding%5D&sort=date&sort_order=desc "All articles for grant R01 HL130819/HL/NHLBI NIH HHS/United States")
+- [R01 HL103866/HL/NHLBI NIH HHS/United States](https://pubmed.ncbi.nlm.nih.gov/?term=R01+HL103866%2FHL%2FNHLBI+NIH+HHS%2FUnited+States%5BGrants+and+Funding%5D&sort=date&sort_order=desc "All articles for grant R01 HL103866/HL/NHLBI NIH HHS/United States")
+
+- [P01HL147823/NH/NIH HHS/United States](https://pubmed.ncbi.nlm.nih.gov/?term=P01HL147823%2FNH%2FNIH+HHS%2FUnited+States%5BGrants+and+Funding%5D&sort=date&sort_order=desc "All articles for grant P01HL147823/NH/NIH HHS/United States")
+- [R01HL130819/NH/NIH HHS/United States](https://pubmed.ncbi.nlm.nih.gov/?term=R01HL130819%2FNH%2FNIH+HHS%2FUnited+States%5BGrants+and+Funding%5D&sort=date&sort_order=desc "All articles for grant R01HL130819/NH/NIH HHS/United States")
+- [R01HL103866/NH/NIH HHS/United States](https://pubmed.ncbi.nlm.nih.gov/?term=R01HL103866%2FNH%2FNIH+HHS%2FUnited+States%5BGrants+and+Funding%5D&sort=date&sort_order=desc "All articles for grant R01HL103866/NH/NIH HHS/United States")
+- [P01HL147823/NH/NIH HHS/United States](https://pubmed.ncbi.nlm.nih.gov/?term=P01HL147823%2FNH%2FNIH+HHS%2FUnited+States%5BGrants+and+Funding%5D&sort=date&sort_order=desc "All articles for grant P01HL147823/NH/NIH HHS/United States")
+
+Show all 9 grants
+
+
+## LinkOut - more resources
+
+- ### Full Text Sources
+
+
+  - [Europe PMC](https://europepmc.org/abstract/MED/35113194)
+  - [PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/pmid/35113194/)
+  - [Springer](https://dx.doi.org/10.1007/s00394-022-02803-4)
+
+NCBI Literature Resources
+
+[MeSH](https://www.ncbi.nlm.nih.gov/mesh/) [PMC](https://www.ncbi.nlm.nih.gov/pmc/) [Bookshelf](https://www.ncbi.nlm.nih.gov/books) [Disclaimer](https://pubmed.ncbi.nlm.nih.gov/disclaimer/)
+
+The PubMed wordmark and PubMed logo are registered trademarks of the U.S. Department of Health and Human Services (HHS). Unauthorized use of these marks is strictly prohibited.
+
+──────── [TRUNCATED] ────────
+Showing 8,896 chars (head) + 2,937 chars (tail) of 19,085 total clean characters.
+Full text saved to: /home/walker/.hermes/cache/web/pubmed.ncbi.nlm.nih.gov-b08a3f6188.md
+To read the omitted middle: read_file path="/home/walker/.hermes/cache/web/pubmed.ncbi.nlm.nih.gov-b08a3f6188.md" offset=282 limit=200  (the file is the complete page; raise/lower offset to page through it).
+─────────────────────────────

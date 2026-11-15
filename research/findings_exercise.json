@@ -1,0 +1,792 @@
+{
+ "sources": [
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/17331998/",
+   "title": "New insights concerning the role of carnitine in the regulation of fuel metabolism in skeletal muscle.",
+   "authors": "Stephens FB; Constantin-Teodosiu D; Greenhaff PL",
+   "year": "2007",
+   "journal_or_publisher": "J Physiol",
+   "vol_pages": "581(Pt 2):431-44",
+   "doi": "10.1113/jphysiol.2006.125799",
+   "pmid": "17331998",
+   "page_file": "research/exercise/pages/stephens-2007-carnitine-fuel-review.txt",
+   "quotes": [
+    "In skeletal muscle, carnitine plays an essential role in the translocation of long-chain fatty-acids into the mitochondrial matrix for subsequent beta-oxidation, and in the regulation of the mitochondrial acetyl-CoA/CoASH ratio.",
+    "It has been established that muscle free carnitine availability may be limiting to fat oxidation during high intensity submaximal exercise."
+   ],
+   "notes": "Nottingham group review establishing carnitine's dual exercise roles and the insulin-mediated loading rationale.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/11579177/",
+   "title": "The effects of increasing exercise intensity on muscle fuel utilisation in humans.",
+   "authors": "van Loon LJ; Greenhaff PL; Constantin-Teodosiu D; Saris WH; Wagenmakers AJ",
+   "year": "2001",
+   "journal_or_publisher": "J Physiol",
+   "vol_pages": "536(Pt 1):295-304",
+   "doi": "10.1111/j.1469-7793.2001.00295.x",
+   "pmid": "11579177",
+   "page_file": "research/exercise/pages/vanloon-2001-fuel-utilisation-intensity.txt",
+   "quotes": [
+    "We conclude that the most likely mechanism for the reduction in fat oxidation during high-intensity exercise is a downregulation of carnitine palmitoyltransferase I, either by this marked decline in free carnitine availability or by a decrease in intracellular pH.",
+    "This decline involved a decrease in the oxidation rate of both plasma FFA and triacylglycerol fat sources (sum of intramuscular plus lipoprotein-derived triacylglycerol), and was accompanied by increases in muscle pyruvate dehydrogenase complex activation and acetylation of the carnitine pool, resulting in a decline in muscle free carnitine concentration."
+   ],
+   "notes": "8 trained cyclists, stable isotope + biopsies, 40/55/75% Wmax; seminal intensity-fuel-selection study.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/29221849/",
+   "title": "Molecular Regulation of Fatty Acid Oxidation in Skeletal Muscle during Aerobic Exercise.",
+   "authors": "Lundsgaard AM; Fritzen AM; Kiens B",
+   "year": "2018",
+   "journal_or_publisher": "Trends Endocrinol Metab",
+   "vol_pages": "29(1):18-30",
+   "doi": "10.1016/j.tem.2017.10.011",
+   "pmid": "29221849",
+   "page_file": "research/exercise/pages/2018-tem-fatty-acid-oxidation-review.txt",
+   "quotes": [
+    "This is executed at the step of mitochondrial fatty acyl import, as the extent of acetyl group sequestration by carnitine determines the availability of carnitine for the carnitine palmitoyltransferase 1 (CPT1) reaction."
+   ],
+   "notes": "Copenhagen molecular-physiology review of FA oxidation regulation during aerobic exercise.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/31906370/",
+   "title": "Carnitine in Human Muscle Bioenergetics: Can Carnitine Supplementation Improve Physical Exercise?",
+   "authors": "Gnoni A; Longo S; Gnoni GV; Giudetti AM",
+   "year": "2020",
+   "journal_or_publisher": "Molecules",
+   "vol_pages": "25",
+   "doi": "10.3390/molecules25010182",
+   "pmid": "31906370",
+   "page_file": "research/exercise/pages/2020-molecules-carnitine-bioenergetics.txt",
+   "quotes": [
+    "Human muscle contains high amounts of carnitine but it depends on the uptake of this compound from the bloodstream, due to muscle inability to synthesize carnitine.",
+    "So far, the question of the role of l-carnitine supplementation on muscle performance has not definitively been clarified."
+   ],
+   "notes": "Open-access review of carnitine in muscle energetics and why trial results conflict.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/31676389/",
+   "title": "Carnitine supplementation improves metabolic flexibility and skeletal muscle acetylcarnitine formation in volunteers with impaired glucose tolerance: A randomised controlled trial.",
+   "authors": "Bruls YM; de Ligt M; Lindeboom L; Phielix E; Havekes B; Schaart G; Kornips E; Wildberger JE; Hesselink MK; Muoio D; Schrauwen P; Schrauwen-Hinderling VB",
+   "year": "2019",
+   "journal_or_publisher": "EBioMedicine",
+   "vol_pages": "49():318-330",
+   "doi": "10.1016/j.ebiom.2019.10.017",
+   "pmid": "31676389",
+   "page_file": "research/exercise/pages/2019-ebiomedicine-acetylcarnitine-flexibility.txt",
+   "quotes": [
+    "Furthermore, carnitine supplementation increased post-exercise acetylcarnitine concentrations and reduced long-chain acylcarnitine species in IGT-subjects, suggesting the stimulation of a more complete fat oxidation in muscle."
+   ],
+   "notes": "Randomised placebo-controlled double-blind crossover, n=11 impaired-glucose-tolerant volunteers, 2 g/day for 36 days; 1H-MRS acetylcarnitine at rest and after 30-min cycling.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/40019115/",
+   "title": "Carnitine supplementation improves insulin sensitivity and skeletal muscle acetylcarnitine formation in patients with type 2 diabetes.",
+   "authors": "Op den Kamp-Bruls YMH; Op den Kamp YJM; Veeraiah P; Zapata Perez R; Phielix E; Havekes B; Schaart G; Kornips E; Berendsen BRB; Virmani A; Wildberger JE; Houtkooper RH; Hesselink MKC; Schrauwen P; Schrauwen-Hinderling VB",
+   "year": "2025",
+   "journal_or_publisher": "Diabetes Obes Metab",
+   "vol_pages": "27(5):2864-2877",
+   "doi": "10.1111/dom.16298",
+   "pmid": "40019115",
+   "page_file": "research/exercise/pages/2025-dom-carnitine-acetylcarnitine-insulin.txt",
+   "quotes": [
+    "Resting (1.18 ± 0.13 vs. 1.54 ± 0.17 mmol/kgww, p = 0.008) and post-exercise (3.70 ± 0.22 vs. 4.53 ± 0.30 mmol/kgww, p < 0.001) skeletal muscle acetylcarnitine concentrations were both elevated after carnitine supplementation.",
+    "Insulin-induced suppression of endogenous glucose production (31.9 ± 2.9 vs. 39.9 ± 3.2%, p = 0.020) and peripheral insulin sensitivity (Δ rate of glucose disappearance (ΔRd): 10.53 ± 1.85 vs. 13.83 ± 2.02 μmol/kg/min, p = 0.005) improved after supplementation."
+   ],
+   "notes": "Pre-post design in 32 type 2 diabetes patients, 12 weeks 2970 mg/day (no control group in abstract); two authors are Alfasigma employees (declared).",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/21224234/",
+   "title": "Chronic oral ingestion of L-carnitine and carbohydrate increases muscle carnitine content and alters muscle fuel metabolism during exercise in humans.",
+   "authors": "Wall BT; Stephens FB; Constantin-Teodosiu D; Marimuthu K; Macdonald IA; Greenhaff PL",
+   "year": "2011",
+   "journal_or_publisher": "J Physiol",
+   "vol_pages": "589(Pt 4):963-73",
+   "doi": "10.1113/jphysiol.2010.201343",
+   "pmid": "21224234",
+   "page_file": "research/exercise/pages/wall-2011-carnitine-loading.txt",
+   "quotes": [
+    "volunteers ingested either 80 g of CHO (Control) or 2 g of l-carnitine-l-tartrate and 80 g of CHO (Carnitine) twice daily for 24 weeks in a randomised, double blind manner.",
+    "Muscle TC increased from basal by 21% in Carnitine (P < 0.05), and was unchanged in Control.",
+    "At 50% , the Carnitine group utilised 55% less muscle glycogen compared to Control (P < 0.05) and 31% less pyruvate dehydrogenase complex (PDC) activation compared to before supplementation (P < 0.05).",
+    "Conversely, at 80% , muscle PDC activation was 38% higher (P < 0.05), acetylcarnitine content showed a trend to be 16% greater (P < 0.10), muscle lactate content was 44% lower (P < 0.05) and the muscle PCr/ATP ratio was better maintained (P < 0.05) in Carnitine compared to Control.",
+    "The Carnitine group increased work output 11% from baseline in the performance trial, while Control showed no change."
+   ],
+   "notes": "RCT n=14 recreational athletes (7/group), 24 weeks, 2 g L-carnitine L-tartrate (Carnipure, Lonza) + 80 g CHO twice daily; the pivotal loading trial. The efetch abstract drops the VO2max symbol ('50% ,'), preserved verbatim in quotes.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/23818692/",
+   "title": "Skeletal muscle carnitine loading increases energy expenditure, modulates fuel metabolism gene networks and prevents body fat accumulation in humans.",
+   "authors": "Stephens FB; Wall BT; Marimuthu K; Shannon CE; Constantin-Teodosiu D; Macdonald IA; Greenhaff PL",
+   "year": "2013",
+   "journal_or_publisher": "J Physiol",
+   "vol_pages": "591(18):4655-66",
+   "doi": "10.1113/jphysiol.2013.255364",
+   "pmid": "23818692",
+   "page_file": "research/exercise/pages/wall-2013-carnitine-loading-energy.txt",
+   "quotes": [
+    "whereas muscle total carnitine, long-chain acyl-CoA and whole-body energy expenditure did not change over 12 weeks in Control, they increased in Carnitine by 20%, 200% and 6%, respectively (P<0.05).",
+    "body mass and whole-body fat mass (dual-energy X-ray absorptiometry) increased over 12 weeks in Control by 1.9 and 1.8 kg, respectively (P<0.05), but did not change in Carnitine."
+   ],
+   "notes": "RCT n=12 (6/group), 12 weeks, 1.36 g L-carnitine + 80 g CHO twice daily; first author Stephens, Wall co-author.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/16368715/",
+   "title": "Insulin stimulates L-carnitine accumulation in human skeletal muscle.",
+   "authors": "Stephens FB; Constantin-Teodosiu D; Laithwaite D; Simpson EJ; Greenhaff PL",
+   "year": "2006",
+   "journal_or_publisher": "FASEB J",
+   "vol_pages": "20(2):377-9",
+   "doi": "10.1096/fj.05-4985fje",
+   "pmid": "16368715",
+   "page_file": "research/exercise/pages/stephens-2006-insulin-stimulates-carnitine-accumulation.txt",
+   "quotes": [
+    "The combination of hypercarnitinemia (approximately 500 micromol*l(-1)) and hyperinsulinemia increased muscle total carnitine (TC) content from 22.0 +/- 0.9 to 24.7 +/- 1.4 mmol*(kg dm)(-1) (P<0.05)",
+    "and was associated with a 2.3 +/- 0.3-fold increase in carnitine transporter protein (OCTN2) mRNA expression (P<0.05)."
+   ],
+   "notes": "8 men, 5-h IV L-carnitine clamp with fasting vs high insulin; OCTN2 mRNA endpoint.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/16984983/",
+   "title": "An acute increase in skeletal muscle carnitine content alters fuel metabolism in resting human skeletal muscle.",
+   "authors": "Stephens FB; Constantin-Teodosiu D; Laithwaite D; Simpson EJ; Greenhaff PL",
+   "year": "2006",
+   "journal_or_publisher": "J Clin Endocrinol Metab",
+   "vol_pages": "91(12):5013-8",
+   "doi": "10.1210/jc.2006-1584",
+   "pmid": "16984983",
+   "page_file": "research/exercise/pages/stephens-2006-acute-carnitine-fuel-metabolism.txt",
+   "quotes": [
+    "The combination of hypercarnitinemia (600 micromol/liter) and hyperinsulinemia (160 mU/liter) increased muscle TC content by 15% (P < 0.01) and was associated with decreased pyruvate dehydrogenase complex activity (P < 0.05) and muscle lactate content (P < 0.05) by 30 and 40%, respectively, and an overnight increase in muscle glycogen (P < 0.01) and long-chain acyl-coenzyme A content (P < 0.05) by 30 and 40%, respectively, compared with control."
+   ],
+   "notes": "7 men, 5-h IV L-carnitine + hyperinsulinemia; acute +15% muscle TC.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/17138832/",
+   "title": "Carbohydrate ingestion augments L-carnitine retention in humans.",
+   "authors": "Stephens FB; Evans CE; Constantin-Teodosiu D; Greenhaff PL",
+   "year": "2007",
+   "journal_or_publisher": "J Appl Physiol (1985)",
+   "vol_pages": "102(3):1065-70",
+   "doi": "10.1152/japplphysiol.01011.2006",
+   "pmid": "17138832",
+   "page_file": "research/exercise/pages/stephens-2007-carbohydrate-carnitine-retention.txt",
+   "quotes": [
+    "Twenty-four-hour urinary TC excretion in the CHO visit was lower than in the Con visit in study A (155.0 +/- 10.7 vs. 212.1 +/- 17.2 mg; P < 0.05)."
+   ],
+   "notes": "Feeding studies: 3 g/day L-carnitine with vs without 94 g simple sugars; urinary retention endpoint.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/17047160/",
+   "title": "A threshold exists for the stimulatory effect of insulin on plasma L-carnitine clearance in humans.",
+   "authors": "Stephens FB; Constantin-Teodosiu D; Laithwaite D; Simpson EJ; Greenhaff PL",
+   "year": "2007",
+   "journal_or_publisher": "Am J Physiol Endocrinol Metab",
+   "vol_pages": "292(2):E637-41",
+   "doi": "10.1152/ajpendo.00508.2006",
+   "pmid": "17047160",
+   "page_file": "research/exercise/pages/stephens-2007-insulin-threshold-carnitine.txt",
+   "quotes": [
+    "The findings demonstrate that only high circulating serum insulin concentrations (> or =90 mU/l) are capable of stimulating skeletal muscle carnitine accumulation."
+   ],
+   "notes": "Four-step euglycemic clamps (10-174 mU/l) with IV L-carnitine; defines the insulin threshold.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/26675771/",
+   "title": "Protein ingestion acutely inhibits insulin-stimulated muscle carnitine uptake in healthy young men.",
+   "authors": "Shannon CE; Nixon AV; Greenhaff PL; Stephens FB",
+   "year": "2016",
+   "journal_or_publisher": "Am J Clin Nutr",
+   "vol_pages": "103(1):276-82",
+   "doi": "10.3945/ajcn.115.119826",
+   "pmid": "26675771",
+   "page_file": "research/exercise/pages/stephens-2016-protein-inhibits-carnitine-uptake.txt",
+   "quotes": [
+    "The insulin-mediated increase in forearm carnitine balance with carbohydrate consumption was acutely blunted by a carbohydrate+protein beverage, which suggests that carbohydrate+protein could inhibit chronic muscle carnitine accumulation."
+   ],
+   "notes": "7 men, forearm balance design; practical implication: load with carbohydrate, not carbohydrate+protein.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/7987362/",
+   "title": "Effect of L-carnitine supplementation on muscle and blood carnitine content and lactate accumulation during high-intensity sprint cycling.",
+   "authors": "Barnett C; Costill DL; Vukovich MD; Cole KJ; Goodpaster BH; Trappe SW; Fink WJ",
+   "year": "1994",
+   "journal_or_publisher": "Int J Sport Nutr",
+   "vol_pages": "4(3):280-8",
+   "doi": "10.1123/ijsn.4.3.280",
+   "pmid": "7987362",
+   "page_file": "research/exercise/pages/vukovich-1994-lcarnitine-muscle-blood.txt",
+   "quotes": [
+    "Plasma total acid soluble and free carnitine concentrations were significantly higher (p < .05) at all time points following supplementation. L-carnitine supplementation had no significant effect on muscle carnitine content and thus could not alter lactate accumulation during exercise.",
+    "Following CON II, all subjects began dietary supplementation of L-carnitine for a period of 14 days (4 g/day)."
+   ],
+   "notes": "Barnett C et al. with Vukovich MD as senior/corresponding author (often cited as 'Vukovich 1994'); n=8, 14 days 4 g/day oral L-carnitine, sprint cycling.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/8004884/",
+   "title": "Effect of intravenous L-carnitine on carnitine homeostasis and fuel metabolism during exercise in humans.",
+   "authors": "Brass EP; Hoppel CL; Hiatt WR",
+   "year": "1994",
+   "journal_or_publisher": "Clin Pharmacol Ther",
+   "vol_pages": "55(6):681-92",
+   "doi": "10.1038/clpt.1994.85",
+   "pmid": "8004884",
+   "page_file": "research/exercise/pages/brass-1994-iv-carnitine-exercise.txt",
+   "quotes": [
+    "Thus the skeletal muscle carnitine pool is segregated from dramatic changes in the plasma carnitine pool, and short-term administration of carnitine has no significant effect on fuel metabolism during exercise in humans."
+   ],
+   "notes": "Randomised blinded crossover, IV 185 umol/kg L-carnitine during 2-h ergometry; even IV doses fail acutely.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/36696886/",
+   "title": "Twenty-Four Weeks of L-Carnitine Combined with Leucine Supplementation Does Not Increase the Muscle Carnitine Content in Healthy Active Subjects.",
+   "authors": "Samborowska E; Olek RA",
+   "year": "2023",
+   "journal_or_publisher": "Ann Nutr Metab",
+   "vol_pages": "79(2):219-227",
+   "doi": "10.1159/000529333",
+   "pmid": "36696886",
+   "page_file": "research/exercise/pages/2023-annnutrmetab-lclt-leucine-null.txt",
+   "quotes": [
+    "Plasma FC and TC content increased in LC + L group after 24 weeks of supplementation (p = 0.003 and 0.010, respectively). However, the skeletal muscle FC and TC contents were not affected by the supplementation protocol."
+   ],
+   "notes": "n=14 active subjects, 24 weeks 1 g L-carnitine L-tartrate + 3 g leucine (insulin secretagogue without CHO); null loading result.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/28345160/",
+   "title": "Increasing skeletal muscle carnitine availability does not alter the adaptations to high-intensity interval training.",
+   "authors": "Shannon CE; Ghasemi R; Greenhaff PL; Stephens FB",
+   "year": "2018",
+   "journal_or_publisher": "Scand J Med Sci Sports",
+   "vol_pages": "28(1):107-115",
+   "doi": "10.1111/sms.12885",
+   "pmid": "28345160",
+   "page_file": "research/exercise/pages/2018-smjms-hiit-carnitine-null.txt",
+   "quotes": [
+    "Augmenting muscle carnitine during 24 weeks of HIIT did not alter this, nor did it enhance muscle metabolic adaptations or performance gains beyond those with HIIT alone.",
+    "Following HIIT, muscle free carnitine was 30% greater in CARN vs CON at rest and remained 40% elevated prior to the start of bout 2 (P<.05)."
+   ],
+   "notes": "21 volunteers, 24 weeks HIIT + 3 g l-carnitine+CHO twice daily vs CHO; loading verified (free carnitine +30%) but no added training benefit.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42887880/",
+   "title": "Acute and Chronic L-Carnitine Supplementation Enhances Endurance Performance Without Consistent Effects on Substrate Oxidation in Active Individuals: A Systematic Review.",
+   "authors": "Eryiğit H; Güzel Y; Bulut S; Turnagöl HH; Atakan MM",
+   "year": "2026",
+   "journal_or_publisher": "Int J Sport Nutr Exerc Metab",
+   "vol_pages": "1-13",
+   "doi": "10.1123/ijsnem.2026-0077",
+   "pmid": "42887880",
+   "page_file": "research/exercise/pages/2026-ijsnem-acute-chronic-review.txt",
+   "quotes": [
+    "Both acute and chronic L-carnitine supplementation were associated with improvements in endurance performance following acute supplementation and chronic supplementation. By contrast, no significant changes in fat oxidation during exercise were reported after either acute (2-4 g ingested 120-180 min before exercise) or chronic supplementation (2 g/day for 2-4 weeks).",
+    "15 (83%) studies were rated as having some concerns, three (17%) were classified as having a high risk of bias, and none were judged to be at low risk of bias."
+   ],
+   "notes": "PRISMA 2020 systematic review to Feb 1 2026; 18 trials; RoB: none low risk.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/34842765/",
+   "title": "Clinical Effects of L-Carnitine Supplementation on Physical Performance in Healthy Subjects, the Key to Success in Rehabilitation: A Systematic Review and Meta-Analysis from the Rehabilitation Point of View.",
+   "authors": "Vecchio M; Chiaramonte R; Testa G; Pavone V",
+   "year": "2021",
+   "journal_or_publisher": "J Funct Morphol Kinesiol",
+   "vol_pages": "6",
+   "doi": "10.3390/jfmk6040093",
+   "pmid": "34842765",
+   "page_file": "research/exercise/pages/2021-jfmk-performance-review.txt",
+   "quotes": [
+    "The meta-analysis did not show any significant differences in serum lactate values at rest and after exercise in healthy subjects who took L-carnitine supplementation (p > 0.05)."
+   ],
+   "notes": "Systematic review + meta-analysis, 30 publications; rehabilitation framing.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/40944177/",
+   "title": "Acute L-Carnitine Supplementation Does Not Improve CrossFit(®) Performance: A Randomized, Double-Blind, Placebo-Controlled Crossover Study.",
+   "authors": "Devrim-Lanpir A; Velasco LS; Ramirez Lara FG; Ojeda Sanchez A; Kimble R; Zare R; Gunes FE; Knechtle B; Weiss K; Rosemann T; Heinrich K",
+   "year": "2025",
+   "journal_or_publisher": "Nutrients",
+   "vol_pages": "17",
+   "doi": "10.3390/nu17172784",
+   "pmid": "40944177",
+   "page_file": "research/exercise/pages/2025-nutrients-crossfit-acute-null.txt",
+   "quotes": [
+    "The results showed that L-carnitine supplementation did not significantly affect the number of repetitions performed (202.4 ± 69.9 vs. 204.5 ± 78.8, p = 0.810) compared to the placebo.",
+    "However, 10% of participants reported difficulty sleeping after L-carnitine supplementation."
+   ],
+   "notes": "RCT crossover n=20 recreational CrossFit athletes, 3 g L-carnitine tartrate 90 min pre-exercise.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/32958033/",
+   "title": "The bright and the dark sides of L-carnitine supplementation: a systematic review.",
+   "authors": "Sawicka AK; Renzi G; Olek RA",
+   "year": "2020",
+   "journal_or_publisher": "J Int Soc Sports Nutr",
+   "vol_pages": "17(1):49",
+   "doi": "10.1186/s12970-020-00377-2",
+   "pmid": "32958033",
+   "page_file": "research/exercise/pages/2020-jissn-bright-dark-review.txt",
+   "quotes": [
+    "LC supplementation, in combination with carbohydrates (CHO) effectively elevated total carnitine content in skeletal muscle.",
+    "LC supplementation was also noted to induce an increase of fasting plasma trimethylamine-N-oxide (TMAO) levels, which was not associated with modification of determined inflammatory nor oxidative stress markers."
+   ],
+   "notes": "Systematic review of >=12-week oral L-carnitine trials in healthy subjects (11 studies); TMAO finding cross-links to the TMAO stream (sa-4).",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/15591004/",
+   "title": "Carnitine and sports medicine: use or abuse?",
+   "authors": "Brass EP",
+   "year": "2004",
+   "journal_or_publisher": "Ann N Y Acad Sci",
+   "vol_pages": "1033():67-78",
+   "doi": "10.1196/annals.1320.006",
+   "pmid": "15591004",
+   "page_file": "research/exercise/pages/brass-2004-sports-medicine-abuse.txt",
+   "quotes": [
+    "Despite this strong foundation and 20 years of research, no compelling evidence exists that carnitine supplementation can improve physical performance in healthy subjects.",
+    "Muscle carnitine content is not easily increased with carnitine supplementation."
+   ],
+   "notes": "Historic anchor review; frames 20 years of null performance data.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/20045157/",
+   "title": "l-Carnitine l-tartrate supplementation favorably affects biochemical markers of recovery from physical exertion in middle-aged men and women.",
+   "authors": "Ho JY; Kraemer WJ; Volek JS; Fragala MS; Thomas GA; Dunn-Lewis C; Coday M; Häkkinen K; Maresh CM",
+   "year": "2010",
+   "journal_or_publisher": "Metabolism",
+   "vol_pages": "59(8):1190-9",
+   "doi": "10.1016/j.metabol.2009.11.012",
+   "pmid": "20045157",
+   "page_file": "research/exercise/pages/2010-metabolism-lclt-recovery.txt",
+   "quotes": [
+    "Two grams of l-carnitine supplementation had positive effects and significantly (P < or = .05) attenuated biochemical markers of purine metabolism (ie, hypoxanthine, xanthine oxidase), free radical formation (malondialdehyde), muscle tissue disruption (myoglobin, creatine kinase), and muscle soreness after physical exertion. However, markers of physical performance (ie, strength, power, get up and go) were not affected by supplementation."
+   ],
+   "notes": "Ho JY, Kraemer WJ et al.; crossover RCT n=18 (9 men/9 women, middle-aged), 2 g/day l-carnitine as Carnipure tartrate (Lonza) for 3 wk + 3 d.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/32154768/",
+   "title": "The Effect of L-Carnitine Supplementation on Exercise-Induced Muscle Damage: A Systematic Review and Meta-Analysis of Randomized Clinical Trials.",
+   "authors": "Yarizadh H; Shab-Bidar S; Zamani B; Vanani AN; Baharlooi H; Djafarian K",
+   "year": "2020",
+   "journal_or_publisher": "J Am Coll Nutr",
+   "vol_pages": "39(5):457-468",
+   "doi": "10.1080/07315724.2019.1661804",
+   "pmid": "32154768",
+   "page_file": "research/exercise/pages/2020-jacn-muscle-damage-meta.txt",
+   "quotes": [
+    "Pooled data from seven studies showed that L-Carnitine resulted in significant improvements in muscle soreness (MS) at the five follow-up time points (0, 24, 48, 72 and 96 hours (h)) compared to placebo. Also, pooled data indicated that L-Carnitine significantly reduced creatine kinase (CK), myoglobin (Mb), and lactate dehydrogenase (LDH) levels at one follow-up period (24 h). However, no effects have been observed beyond this period.",
+    "Overall, L-carnitine supplementation ameliorated muscle damage only in resistance training groups and untrained population."
+   ],
+   "notes": "Meta-analysis of 7 RCTs to Nov 2018; soreness at all 5 timepoints, CK/Mb/LDH only at 24 h.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/16826026/",
+   "title": "Androgenic responses to resistance exercise: effects of feeding and L-carnitine.",
+   "authors": "Kraemer WJ; Spiering BA; Volek JS; Ratamess NA; Sharman MJ; Rubin MR; French DN; Silvestre R; Hatfield DL; Van Heest JL; Vingren JL; Judelson DA; Deschenes MR; Maresh CM",
+   "year": "2006",
+   "journal_or_publisher": "Med Sci Sports Exerc",
+   "vol_pages": "38(7):1288-96",
+   "doi": "10.1249/01.mss.0000227314.85728.35",
+   "pmid": "16826026",
+   "page_file": "research/exercise/pages/kraemer-2006-androgen-lcarnitine.txt",
+   "quotes": [
+    "these data demonstrated that: 1) feeding after RE increased AR content, which may result in increased testosterone uptake, and thus enhanced luteinizing hormone secretion via feedback mechanisms; and 2) LCLT supplementation upregulated AR content, which may promote recovery from RE.",
+    "LCLT supplementation upregulated (P<0.05) preexercise AR content compared with PL (12.9+/-5.9 vs 11.2+/-4.0 au, respectively)."
+   ],
+   "notes": "Crossover RCT n=10 resistance-trained men, 21 days 2 g L-carnitine/day as LCLT; muscle AR content endpoint.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/17313301/",
+   "title": "Responses of criterion variables to different supplemental doses of L-carnitine L-tartrate.",
+   "authors": "Spiering BA; Kraemer WJ; Vingren JL; Hatfield DL; Fragala MS; Ho JY; Maresh CM; Anderson JM; Volek JS",
+   "year": "2007",
+   "journal_or_publisher": "J Strength Cond Res",
+   "vol_pages": "21(1):259-64",
+   "doi": "10.1519/00124278-200702000-00046",
+   "pmid": "17313301",
+   "page_file": "research/exercise/pages/2007-jscr-lclt-doses.txt",
+   "quotes": [
+    "The 1- and 2-g doses reduced postexercise serum hypoxanthine, serum xanthine oxidase, serum myoglobin, and perceived muscle soreness."
+   ],
+   "notes": "Dose-finding: n=8 men, 0/1/2 g LCLT for 3 weeks; 1 g and 2 g both effective, 2 g highest serum carnitine.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/34684429/",
+   "title": "L-Carnitine Tartrate Supplementation for 5 Weeks Improves Exercise Recovery in Men and Women: A Randomized, Double-Blind, Placebo-Controlled Trial.",
+   "authors": "Stefan M; Sharp M; Gheith R; Lowery R; Ottinger C; Wilson J; Durkee S; Bellamine A",
+   "year": "2021",
+   "journal_or_publisher": "Nutrients",
+   "vol_pages": "13",
+   "doi": "10.3390/nu13103432",
+   "pmid": "34684429",
+   "page_file": "research/exercise/pages/2021-nutrients-lclt-5week-rct.txt",
+   "quotes": [
+    "Compared to placebo, L-carnitine tartrate supplementation was able to improve perceived recovery and soreness (p = 0.021), and lower serum creatine kinase (p = 0.016).",
+    "Interestingly, serum superoxide dismutase levels increased significantly among those supplementing with L-carnitine tartrate."
+   ],
+   "notes": "RCT n=80 (73 completers, 21-65 y); funded by Lonza Consumer Health with two employee co-authors (declared).",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/37299549/",
+   "title": "Effects of L-Carnitine Intake on Exercise-Induced Muscle Damage and Oxidative Stress: A Narrative Scoping Review.",
+   "authors": "Caballero-García A; Noriega-González DC; Roche E; Drobnic F; Córdova A",
+   "year": "2023",
+   "journal_or_publisher": "Nutrients",
+   "vol_pages": "15",
+   "doi": "10.3390/nu15112587",
+   "pmid": "37299549",
+   "page_file": "research/exercise/pages/2023-nutrients-damage-oxidative-review.txt",
+   "quotes": [
+    "In view of the studies analyzed and considering the role of L-carnitine in muscle bioenergetics and its antioxidant potential, this supplement could help in postexercise recovery. However, further studies are needed to conclusively clarify the mechanisms underlying these protective effects."
+   ],
+   "notes": "Narrative scoping review; antioxidant mechanisms and recovery; mechanisms unresolved.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/8214047/",
+   "title": "Regulation of endogenous fat and carbohydrate metabolism in relation to exercise intensity and duration.",
+   "authors": "Romijn JA; Coyle EF; Sidossis LS; Gastaldelli A; Horowitz JF; Endert E; Wolfe RR",
+   "year": "1993",
+   "journal_or_publisher": "Am J Physiol",
+   "vol_pages": "265(3 Pt 1):E380-91",
+   "doi": "10.1152/ajpendo.1993.265.3.E380",
+   "pmid": "8214047",
+   "page_file": "research/exercise/pages/romijn-1993-substrate-regulation.txt",
+   "quotes": [
+    "In contrast, peripheral lipolysis was stimulated maximally at the lowest exercise intensity, and fatty acid release into plasma decreased with increasing exercise intensity.",
+    "During 2 h of exercise at 65% VO2max plasma-derived substrate oxidation progressively increased over time, whereas muscle glycogen and triglyceride oxidation decreased."
+   ],
+   "notes": "Seminal tracer study, 5 trained subjects, 25/65/85% VO2max, intensity x duration.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/37586947/",
+   "title": "Low Energy Availability and Increased Risk of Relative Energy Deficiency in Sport (RED-S) During a 3767-km Thru-Hike on the Pacific Crest Trail: A Case Study.",
+   "authors": "Weiss EP; Frech AM; Perez VR",
+   "year": "2023",
+   "journal_or_publisher": "Wilderness Environ Med",
+   "vol_pages": "34(4):536-542",
+   "doi": "10.1016/j.wem.2023.06.011",
+   "pmid": "37586947",
+   "page_file": "research/exercise/pages/2023-wem-thruhike-lea-reds.txt",
+   "quotes": [
+    "Exercise energy expenditure above rest (heart rate vs indirect calorimetry regression method) was 2834±1518 kcal/d, total energy expenditure was 5702±1323 kcal/d, and energy intake was 4141 kcal/d. Body mass decreased by 9%, and fat mass (dual-energy X-ray absorptiometry) decreased by 46%. Energy availability (energy intake minus exercise energy expenditure) was 19.3 kcal/d/kg fat-free mass, indicating low energy availability (defined as <30 kcal/d/kg)."
+   ],
+   "notes": "Case study, 55-y man, 3767 km PCT in 128 days (2021); DXA + HR-calorimetry.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/33661563/",
+   "title": "Case studies in physiology: Impact of a long-distance hike on the Pacific Crest Trail on arterial function and body composition in a highly fit young male.",
+   "authors": "Heinbockel TC; Craighead DH",
+   "year": "2021",
+   "journal_or_publisher": "Physiol Rep",
+   "vol_pages": "9(5):e14767",
+   "doi": "10.14814/phy2.14767",
+   "pmid": "33661563",
+   "page_file": "research/exercise/pages/2021-physiolrep-pct-hike.txt",
+   "quotes": [
+    "Individuals who hike the entire length of the trail in one season (4-6 months) perform long daily exercise durations while exposed to extreme environmental temperatures, high altitudes, intense solar radiation, and the consumption of calorie-rich, nutrient-poor diets."
+   ],
+   "notes": "Case study, highly fit young male, 112-day PCT hike; arterial function + body composition.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42572415/",
+   "title": "Case study: Body composition and bone changes following a thru-hike of the Pacific Crest Trail by a young female adult.",
+   "authors": "Wagner DR; Heath EM; Gustavus M",
+   "year": "2026",
+   "journal_or_publisher": "Physiol Rep",
+   "vol_pages": "14(15):e71058",
+   "doi": "10.14814/phy2.71058",
+   "pmid": "42572415",
+   "page_file": "research/exercise/pages/2026-physiolrep-pct-thruhike-bodycomp.txt",
+   "quotes": [
+    "Her body fat percentage dropped from 33.2% to 24.9%, and there was a 52% decrease in visceral adipose tissue mass and area.",
+    "A decrease in lumbar BMD despite engaging in load-bearing activity was also observed in two recent case study reports of male thru-hikers, suggesting a maladaptive response that warrants further investigation."
+   ],
+   "notes": "Case study, 24-y premenopausal female, full PCT; DXA body composition and bone.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/38095023/",
+   "title": "l-Carnitine pretreatment ameliorates heat stress-induced acute kidney injury by restoring mitochondrial function of tubular cells.",
+   "authors": "Goto H; Nakashima H; Mori K; Tanoue K; Ito S; Kearney BM; Kato A; Nakashima M; Imakiire T; Kumagai H; Kinoshita M; Oshima N",
+   "year": "2024",
+   "journal_or_publisher": "Am J Physiol Renal Physiol",
+   "vol_pages": "326(3):F338-F351",
+   "doi": "10.1152/ajprenal.00196.2023",
+   "pmid": "38095023",
+   "page_file": "research/exercise/pages/2024-ajprenal-lcarnitine-heat-aki.txt",
+   "quotes": [
+    "We observed an elevation in serum acylcarnitine levels, indicating carnitine insufficiency in patients with severe heat-related illness and/or AKI.",
+    "l-Carnitine pretreatment ameliorated ATP production in murine tubular cell mitochondria and prevented a change in the kidney macrophage population dynamics observed in AKI: a decrease in tissue-resident macrophages, influx of bone marrow-derived macrophages, and change toward proinflammatory M1 polarization.",
+    "To date, there has been little attention given to the role of carnitine in heat-related illness and AKI."
+   ],
+   "notes": "Translational: serum acylcarnitine in heat-illness patients + l-carnitine pretreatment in heat-stressed mice (mitochondrial/macrophage endpoints). The key heat-stress bridge to the renal-support stream.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/35464382/",
+   "title": "Exogenous L-carnitine Administration Ameliorates the Adverse Effects of Heat Stress on Testicular Hemodynamics, Echotexture, and Total Antioxidant Capacity in Rams.",
+   "authors": "El-Sherbiny HR; El-Shalofy AS; Samir H",
+   "year": "2022",
+   "journal_or_publisher": "Front Vet Sci",
+   "vol_pages": "9():860771",
+   "doi": "10.3389/fvets.2022.860771",
+   "pmid": "35464382",
+   "page_file": "research/exercise/pages/2022-frontvetsci-lcarnitine-heat.txt",
+   "quotes": [
+    "exogenous LC administration ameliorates testicular hemodynamic disruptions, as measured by spectral Doppler ultrasonography, via augmentation of the rams' total antioxidant capacity under HS conditions."
+   ],
+   "notes": "Ram study (livestock); shows heat-stress carnitine literature is animal-husbandry only. A related broiler trial (PMID 36103130) was RETRACTED and deliberately excluded.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/7808246/",
+   "title": "Carnitine supplementation: effect on muscle carnitine and glycogen content during exercise.",
+   "authors": "Vukovich MD; Costill DL; Fink WJ",
+   "year": "1994",
+   "journal_or_publisher": "Med Sci Sports Exerc",
+   "vol_pages": "26(9):1122-9",
+   "doi": "",
+   "pmid": "7808246",
+   "page_file": "research/exercise/pages/vukovich-1994-carnitine-glycogen-msse.txt",
+   "quotes": [
+    "Increased availability of serum carnitine does not result in an increase in muscle carnitine content nor does it alter lipid oxidation."
+   ],
+   "notes": "n=7 approx; 6 g/day for 7-14 days; 70% VO2max cycling with biopsies.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/3624147/",
+   "title": "Acetylcarnitine formation during intense muscular contraction in humans.",
+   "authors": "Harris RC; Foster CV; Hultman E",
+   "year": "1987",
+   "journal_or_publisher": "J Appl Physiol (1985)",
+   "vol_pages": "63(1):440-2",
+   "doi": "10.1152/jappl.1987.63.1.440",
+   "pmid": "3624147",
+   "page_file": "research/exercise/pages/harris-1987-acetylcarnitine-contraction.txt",
+   "quotes": [
+    "The results indicate that acetylcarnitine is a major metabolite formed during intense muscular effort and that carnitine may function in the regulation of the acetyl-CoA/CoA ratio by buffering excess production of acetyl units.",
+    "Resting mean muscle total carnitine content was 20.0 mmol/kg dry muscle. Approximately 77% was free carnitine and 19% acetylcarnitine."
+   ],
+   "notes": "The 'Harris' anchor from the brief verifies as this acetylcarnitine-formation study (mechanism, not a loading trial). 4-min intense exercise/electrical stimulation with biopsies.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/11880112/",
+   "title": "Long-term administration of L-carnitine to humans: effect on skeletal muscle carnitine content and physical performance.",
+   "authors": "Wächter S; Vogt M; Kreis R; Boesch C; Bigler P; Hoppeler H; Krähenbühl S",
+   "year": "2002",
+   "journal_or_publisher": "Clin Chim Acta",
+   "vol_pages": "318(1-2):51-61",
+   "doi": "10.1016/s0009-8981(01)00804-x",
+   "pmid": "11880112",
+   "page_file": "research/exercise/pages/wachter-2002-longterm-lcarnitine.txt",
+   "quotes": [
+    "The total carnitine content in the skeletal muscle was 4.10 +/- 0.82 micromol/g before, 4.79 +/- 1.19 micromol/g immediately after, and 4.19 +/- 0.61 micromol/g wet weight 2 months after the treatment (no significant difference).",
+    "Beneficial effects of the long-term treatment with L-carnitine on the physical performance of healthy adults cannot be explained by an increase in the carnitine muscle stores."
+   ],
+   "notes": "n=8 men, 2x2 g/day for 3 months WITHOUT carbohydrate co-ingestion; biopsies + MRS.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3060373/",
+   "title": "Chronic oral ingestion of l-carnitine and carbohydrate increases muscle carnitine content and alters muscle fuel metabolism during exercise in humans (full text, PMC3060373)",
+   "authors": "Wall BT; Stephens FB; Constantin-Teodosiu D; Marimuthu K; Macdonald IA; Greenhaff PL",
+   "year": "2011",
+   "journal_or_publisher": "The Journal of Physiology",
+   "vol_pages": "589(Pt 4):963-973",
+   "doi": "10.1113/jphysiol.2010.201343",
+   "pmid": "21224234",
+   "page_file": "research/exercise/pages/wall-2011-carnitine-loading-fulltext.txt",
+   "quotes": [
+    "After 30 years of endeavour, this is the first study to show that muscle carnitine content can be increased in humans by dietary means",
+    "after 24 weeks of supplementation perceived exertion was lower in the Carnitine group when compared to baseline (14.0 _vs._ 15.0, respectively; _P_ < 0.05) and Control at 24 weeks (14.0 _vs._ 16.2, respectively; _P_ < 0.05).",
+    "Collectively, these metabolic effects resulted in a reduced perception of effort and increased work output during a validated exercise performance test.",
+    "containing 2.0 g of l-carnitine tartrate (1.36 g of l-carnitine; Carnipure™, Lonza Group Ltd, Basel, Switzerland)"
+   ],
+   "notes": "Full text (PMC3060373) adds RPE detail and protocol specifics; markdown italics markers (_vs._, _P_) are preserved verbatim in quotes.",
+   "extract_status": "ok"
+  }
+ ],
+ "claims": [
+  {
+   "claim": "In skeletal muscle carnitine is essential both for transporting long-chain fatty acids into the mitochondrial matrix for beta-oxidation and for regulating the mitochondrial acetyl-CoA/CoASH ratio.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/17331998/",
+   "quote": "In skeletal muscle, carnitine plays an essential role in the translocation of long-chain fatty-acids into the mitochondrial matrix for subsequent beta-oxidation, and in the regulation of the mitochondrial acetyl-CoA/CoASH ratio.",
+   "strength": "review"
+  },
+  {
+   "claim": "The fall in fat oxidation as exercise intensity rises to 75% of maximal workload is most likely caused by downregulation of carnitine palmitoyltransferase I, driven by the marked decline in free carnitine (or falling intracellular pH).",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/11579177/",
+   "quote": "We conclude that the most likely mechanism for the reduction in fat oxidation during high-intensity exercise is a downregulation of carnitine palmitoyltransferase I, either by this marked decline in free carnitine availability or by a decrease in intracellular pH.",
+   "strength": "human"
+  },
+  {
+   "claim": "Acetylcarnitine is a major metabolite formed during intense muscular effort, buffering excess acetyl-unit production and regulating the acetyl-CoA/CoA ratio.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/3624147/",
+   "quote": "The results indicate that acetylcarnitine is a major metabolite formed during intense muscular effort and that carnitine may function in the regulation of the acetyl-CoA/CoA ratio by buffering excess production of acetyl units.",
+   "strength": "human"
+  },
+  {
+   "claim": "In type 2 diabetes patients, 12 weeks of L-carnitine (2970 mg/day) elevated skeletal muscle acetylcarnitine concentrations both at rest and after 30 minutes of cycling at 70% Wmax, alongside improved peripheral insulin sensitivity.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/40019115/",
+   "quote": "Resting (1.18 ± 0.13 vs. 1.54 ± 0.17 mmol/kgww, p = 0.008) and post-exercise (3.70 ± 0.22 vs. 4.53 ± 0.30 mmol/kgww, p < 0.001) skeletal muscle acetylcarnitine concentrations were both elevated after carnitine supplementation.",
+   "strength": "human"
+  },
+  {
+   "claim": "Insulin acutely stimulates muscle carnitine accumulation in humans: five hours of intravenous L-carnitine during physiologically high insulin raised muscle total carnitine from 22.0 to 24.7 mmol/kg dry muscle, with no effect at fasting insulin.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/16368715/",
+   "quote": "The combination of hypercarnitinemia (approximately 500 micromol*l(-1)) and hyperinsulinemia increased muscle total carnitine (TC) content from 22.0 +/- 0.9 to 24.7 +/- 1.4 mmol*(kg dm)(-1) (P<0.05)",
+   "strength": "human"
+  },
+  {
+   "claim": "Chronic ingestion of 2 g L-carnitine L-tartrate plus 80 g carbohydrate twice daily for 24 weeks increased muscle total carnitine by 21% from baseline, with no change in the carbohydrate-only control group.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/21224234/",
+   "quote": "Muscle TC increased from basal by 21% in Carnitine (P < 0.05), and was unchanged in Control.",
+   "strength": "human"
+  },
+  {
+   "claim": "During low-intensity cycling the loaded group used 55% less muscle glycogen and showed 31% less pyruvate dehydrogenase complex activation, consistent with increased lipid utilization.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/21224234/",
+   "quote": "At 50% , the Carnitine group utilised 55% less muscle glycogen compared to Control (P < 0.05) and 31% less pyruvate dehydrogenase complex (PDC) activation compared to before supplementation (P < 0.05).",
+   "strength": "human"
+  },
+  {
+   "claim": "Wall et al. report that the metabolic effects of muscle carnitine loading resulted in a reduced perception of effort and increased work output during a validated exercise performance test, with perceived exertion at 80% VO2max lower after 24 weeks (Borg 14.0 vs 16.2 in control).",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3060373/",
+   "quote": "Collectively, these metabolic effects resulted in a reduced perception of effort and increased work output during a validated exercise performance test.",
+   "strength": "human"
+  },
+  {
+   "claim": "Work output in the 30-minute all-out performance trial increased 11% from baseline in the carnitine-loaded group while the control group showed no change.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/21224234/",
+   "quote": "The Carnitine group increased work output 11% from baseline in the performance trial, while Control showed no change.",
+   "strength": "human"
+  },
+  {
+   "claim": "Fourteen days of 4 g/day oral L-carnitine raised plasma carnitine concentrations but had no significant effect on muscle carnitine content and could not alter lactate accumulation during high-intensity sprint cycling.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/7987362/",
+   "quote": "Plasma total acid soluble and free carnitine concentrations were significantly higher (p < .05) at all time points following supplementation. L-carnitine supplementation had no significant effect on muscle carnitine content and thus could not alter lactate accumulation during exercise.",
+   "strength": "human"
+  },
+  {
+   "claim": "Three months of high-dose oral L-carnitine alone (2x2 g/day) without carbohydrate co-ingestion did not significantly increase muscle carnitine content.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/11880112/",
+   "quote": "The total carnitine content in the skeletal muscle was 4.10 +/- 0.82 micromol/g before, 4.79 +/- 1.19 micromol/g immediately after, and 4.19 +/- 0.61 micromol/g wet weight 2 months after the treatment (no significant difference).",
+   "strength": "human"
+  },
+  {
+   "claim": "Even 24 weeks of 1 g/day L-carnitine L-tartrate combined with the insulin secretagogue leucine raised plasma but not skeletal muscle carnitine, underscoring that carbohydrate-driven hyperinsulinemia is the operative co-stimulus.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/36696886/",
+   "quote": "Plasma FC and TC content increased in LC + L group after 24 weeks of supplementation (p = 0.003 and 0.010, respectively). However, the skeletal muscle FC and TC contents were not affected by the supplementation protocol.",
+   "strength": "human"
+  },
+  {
+   "claim": "Twelve weeks of 1.36 g L-carnitine plus 80 g carbohydrate twice daily increased muscle total carnitine by 20%, long-chain acyl-CoA by 200%, and whole-body energy expenditure by 6%.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/23818692/",
+   "quote": "whereas muscle total carnitine, long-chain acyl-CoA and whole-body energy expenditure did not change over 12 weeks in Control, they increased in Carnitine by 20%, 200% and 6%, respectively (P<0.05).",
+   "strength": "human"
+  },
+  {
+   "claim": "When 24 weeks of carnitine loading (verified by 30-40% higher muscle free carnitine) was combined with high-intensity interval training, it did not enhance muscle metabolic adaptations or performance gains beyond HIIT alone.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/28345160/",
+   "quote": "Augmenting muscle carnitine during 24 weeks of HIIT did not alter this, nor did it enhance muscle metabolic adaptations or performance gains beyond those with HIIT alone.",
+   "strength": "human"
+  },
+  {
+   "claim": "Despite two decades of research, no compelling evidence existed as of 2004 that carnitine supplementation improves physical performance in healthy subjects.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/15591004/",
+   "quote": "Despite this strong foundation and 20 years of research, no compelling evidence exists that carnitine supplementation can improve physical performance in healthy subjects.",
+   "strength": "review"
+  },
+  {
+   "claim": "A February 2026 systematic review of 18 randomized trials found both acute and chronic L-carnitine supplementation were associated with improved endurance performance, while fat oxidation during exercise was unchanged and the fat-burning reputation is not supported by current evidence.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42887880/",
+   "quote": "Both acute and chronic L-carnitine supplementation were associated with improvements in endurance performance following acute supplementation and chronic supplementation. By contrast, no significant changes in fat oxidation during exercise were reported after either acute (2-4 g ingested 120-180 min before exercise) or chronic supplementation (2 g/day for 2-4 weeks).",
+   "strength": "review"
+  },
+  {
+   "claim": "A 2025 randomized double-blind crossover trial found 3 g acute L-carnitine tartrate taken 90 minutes before a CrossFit workout did not improve repetitions performed, perceived exertion, or blood pressure.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/40944177/",
+   "quote": "The results showed that L-carnitine supplementation did not significantly affect the number of repetitions performed (202.4 ± 69.9 vs. 204.5 ± 78.8, p = 0.810) compared to the placebo.",
+   "strength": "human"
+  },
+  {
+   "claim": "Twenty-one days of L-carnitine L-tartrate supplementation (2 g L-carnitine/day) upregulated pre-exercise androgen receptor content in resistance-trained men, which the authors suggest may promote recovery from resistance exercise.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/16826026/",
+   "quote": "these data demonstrated that: 1) feeding after RE increased AR content, which may result in increased testosterone uptake, and thus enhanced luteinizing hormone secretion via feedback mechanisms; and 2) LCLT supplementation upregulated AR content, which may promote recovery from RE.",
+   "strength": "human"
+  },
+  {
+   "claim": "In middle-aged men and women, 2 g/day L-carnitine L-tartrate significantly attenuated purine-metabolism markers (hypoxanthine, xanthine oxidase), free-radical formation (malondialdehyde), muscle-disruption markers (myoglobin, creatine kinase), and muscle soreness after exertion, while performance markers were unaffected.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/20045157/",
+   "quote": "Two grams of l-carnitine supplementation had positive effects and significantly (P < or = .05) attenuated biochemical markers of purine metabolism (ie, hypoxanthine, xanthine oxidase), free radical formation (malondialdehyde), muscle tissue disruption (myoglobin, creatine kinase), and muscle soreness after physical exertion. However, markers of physical performance (ie, strength, power, get up and go) were not affected by supplementation.",
+   "strength": "human"
+  },
+  {
+   "claim": "A 2020 meta-analysis of seven randomized trials found L-carnitine improved muscle soreness at all five follow-up time points (0-96 h) and reduced creatine kinase, myoglobin, and lactate dehydrogenase at 24 h only, with benefits concentrated in resistance-training and untrained populations.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/32154768/",
+   "quote": "Pooled data from seven studies showed that L-Carnitine resulted in significant improvements in muscle soreness (MS) at the five follow-up time points (0, 24, 48, 72 and 96 hours (h)) compared to placebo. Also, pooled data indicated that L-Carnitine significantly reduced creatine kinase (CK), myoglobin (Mb), and lactate dehydrogenase (LDH) levels at one follow-up period (24 h). However, no effects have been observed beyond this period.",
+   "strength": "review"
+  },
+  {
+   "claim": "In an industry-funded randomized trial of 80 adults, five weeks of L-carnitine tartrate improved perceived recovery and soreness (p = 0.021), lowered serum creatine kinase (p = 0.016), and raised serum superoxide dismutase.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/34684429/",
+   "quote": "Compared to placebo, L-carnitine tartrate supplementation was able to improve perceived recovery and soreness (p = 0.021), and lower serum creatine kinase (p = 0.016).",
+   "strength": "human"
+  },
+  {
+   "claim": "During a 3767-km, 128-day Pacific Crest Trail thru-hike, total energy expenditure averaged 5702 kcal/d against 4141 kcal/d intake, yielding low energy availability (19.3 kcal/kg fat-free mass/day), a 9% loss of body mass and a 46% loss of fat mass.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/37586947/",
+   "quote": "Exercise energy expenditure above rest (heart rate vs indirect calorimetry regression method) was 2834±1518 kcal/d, total energy expenditure was 5702±1323 kcal/d, and energy intake was 4141 kcal/d. Body mass decreased by 9%, and fat mass (dual-energy X-ray absorptiometry) decreased by 46%. Energy availability (energy intake minus exercise energy expenditure) was 19.3 kcal/d/kg fat-free mass, indicating low energy availability (defined as <30 kcal/d/kg).",
+   "strength": "human"
+  },
+  {
+   "claim": "Patients with severe heat-related illness and/or acute kidney injury showed elevated serum acylcarnitine levels, interpreted as functional carnitine insufficiency under heat stress.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/38095023/",
+   "quote": "We observed an elevation in serum acylcarnitine levels, indicating carnitine insufficiency in patients with severe heat-related illness and/or AKI.",
+   "strength": "human"
+  },
+  {
+   "claim": "In heat-stressed mice, L-carnitine pretreatment ameliorated tubular-cell mitochondrial ATP production and prevented the proinflammatory macrophage population shift observed in acute kidney injury.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/38095023/",
+   "quote": "l-Carnitine pretreatment ameliorated ATP production in murine tubular cell mitochondria and prevented a change in the kidney macrophage population dynamics observed in AKI: a decrease in tissue-resident macrophages, influx of bone marrow-derived macrophages, and change toward proinflammatory M1 polarization.",
+   "strength": "animal"
+  },
+  {
+   "claim": "Peripheral lipolysis is stimulated maximally at the lowest exercise intensities and plasma fatty-acid release falls as intensity rises, making fat the dominant oxidative fuel during the prolonged low-to-moderate-intensity work of all-day hiking.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/8214047/",
+   "quote": "In contrast, peripheral lipolysis was stimulated maximally at the lowest exercise intensity, and fatty acid release into plasma decreased with increasing exercise intensity.",
+   "strength": "human"
+  }
+ ]
+}

@@ -1,0 +1,12 @@
+PMID: 40947642
+URL: https://pubmed.ncbi.nlm.nih.gov/40947642/
+Title: The prevalence and perceptions of non-steroidal anti-inflammatory drug use among ultra-endurance runners.
+Authors: Cole PL; Bontemps B; Pugh J; Owens DJ
+Journal: Research in sports medicine (Print)
+Year: 2026
+Vol/Pages: 34(3):257-275
+DOI: 10.1080/15438627.2025.2561040
+Accessed: 2026-11-15 (NCBI PubMed efetch abstract)
+
+ABSTRACT
+Ultra-endurance running imposes extreme physical demands often resulting in exercise-induced muscle damage (EIMD), pain, and inflammation. Many athletes use non-steroidal anti-inflammatory drugs (NSAIDs) despite safety concerns, questionable efficacy, and recent bans in some events. However, the prevalence, patterns, and cultural drivers of NSAID use across performance levels remain underexplored. This mixed-methods, cross-sectional survey included 167 ultra-endurance runners across five self-reported performance tiers. The survey, developed iteratively with expert input, captured NSAID usage during training and competition, motivations, perceived risks/benefits, information sources, and openness to alternatives. Quantitative data were analysed descriptively; qualitative responses underwent inductive thematic analysis. Over half (53%) reported NSAID use, with ibuprofen most common. Usage patterns varied by calibre; Tier 5 (World-class) athletes described strategic use, while lower tiers reported more reactive use. Despite 77% being aware of potential harms, most often renal and gastrointestinal (GI), usage remained high due to perceived benefits. Female participants reported use often linked to menstrual or menopause-related discomfort. Information sources were largely informal, reflecting entrenched norms around pain management. Findings highlight the need for targeted behaviour change strategies, sex-informed approaches, and development of safer, evidence-based pain management alternatives in ultra-endurance sport.

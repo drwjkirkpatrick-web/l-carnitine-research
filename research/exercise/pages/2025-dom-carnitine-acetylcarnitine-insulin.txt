@@ -1,0 +1,78 @@
+SOURCE: Carnitine supplementation improves insulin sensitivity and skeletal muscle acetylcarnitine formation in patients with type 2 diabetes.
+URL: https://pubmed.ncbi.nlm.nih.gov/40019115/
+FETCHED: 2026-11-15 via NCBI efetch (pubmed abstract, retmode=text)
+PMID: 40019115
+DOI: 10.1111/dom.16298
+------------------------------------------------------------------------
+6. Diabetes Obes Metab. 2025 May;27(5):2864-2877. doi: 10.1111/dom.16298. Epub
+2025  Feb 28.
+
+Carnitine supplementation improves insulin sensitivity and skeletal muscle 
+acetylcarnitine formation in patients with type 2 diabetes.
+
+Op den Kamp-Bruls YMH(1), Op den Kamp YJM(2), Veeraiah P(1), Zapata Perez R(3), 
+Phielix E(2), Havekes B(4), Schaart G(2), Kornips E(2), Berendsen BRB(5), 
+Virmani A(5), Wildberger JE(1), Houtkooper RH(3), Hesselink MKC(2), Schrauwen 
+P(6)(7), Schrauwen-Hinderling VB(1)(2)(7)(8).
+
+Author information:
+(1)Departments of Radiology and Nuclear Medicine, NUTRIM School for Nutrition 
+and Translational Research in Metabolism, Maastricht University Medical Center, 
+Maastricht, The Netherlands.
+(2)Department of Nutrition and Movement Sciences, NUTRIM School for Nutrition 
+and Translational Research in Metabolism, Maastricht University Medical Center, 
+Maastricht, The Netherlands.
+(3)Laboratory Genetic Metabolic Diseases, Amsterdam Gastroenterology and 
+Metabolism, Amsterdam Cardiovascular Sciences, Amsterdam University Medical 
+Centers, University of Amsterdam, Amsterdam, Netherlands.
+(4)Department of Internal Medicine, Division of Endocrinology, NUTRIM School for 
+Nutrition and Translational Research in Metabolism, Maastricht University 
+Medical Center, Maastricht, The Netherlands.
+(5)Alfasigma Nederland B.V., Utrecht, The Netherlands.
+(6)Clinical Epidemiology, Leiden University Medical Center, Leiden, The 
+Netherlands.
+(7)Institute for Clinical Diabetology, German Diabetes Center, Leibniz Institute 
+for Diabetes Research at Heinrich Heine University Düsseldorf, Düsseldorf, 
+Germany.
+(8)German Center for Diabetes Research (DZD), Partner Düsseldorf, Neuherberg, 
+Germany.
+
+AIM/HYPOTHESIS: Recently, we reported that increasing free carnitine 
+availability resulted in elevated skeletal muscle acetylcarnitine concentrations 
+and restored metabolic flexibility in individuals who have impaired glucose 
+tolerance. Metabolic flexibility is defined as the capacity to switch from 
+predominantly fat oxidation while fasted to carbohydrate oxidation while insulin 
+stimulated. Here we investigated if carnitine supplementation enhances the 
+capacity of skeletal muscle to form acetylcarnitine and thereby improves insulin 
+sensitivity and glucose homeostasis in patients with type 2 diabetes (T2DM).
+METHODS: Thirty-two patients followed a 12-week L-carnitine treatment 
+(2970 mg/day, orally). Insulin sensitivity was assessed by a two-step 
+hyperinsulinemic-euglycemic clamp. In vivo skeletal muscle acetylcarnitine 
+concentrations at rest and post-exercise (30 min, 70% Wmax) and intrahepatic 
+lipid content (IHL) were determined by proton magnetic resonance spectroscopy 
+(1H-MRS). All measurements were performed before and after 12 weeks of carnitine 
+supplementation.
+RESULTS: Compliance with the carnitine supplementation was good (as indicated by 
+increased plasma-free carnitine levels (p < 0.01) and pill count (97.1 ± 0.7%)). 
+Insulin-induced suppression of endogenous glucose production (31.9 ± 2.9 vs. 
+39.9 ± 3.2%, p = 0.020) and peripheral insulin sensitivity (Δ rate of glucose 
+disappearance (ΔRd): 10.53 ± 1.85 vs. 13.83 ± 2.02 μmol/kg/min, p = 0.005) 
+improved after supplementation. Resting (1.18 ± 0.13 vs. 1.54 ± 0.17 mmol/kgww, 
+p = 0.008) and post-exercise (3.70 ± 0.22 vs. 4.53 ± 0.30 mmol/kgww, p < 0.001) 
+skeletal muscle acetylcarnitine concentrations were both elevated after 
+carnitine supplementation. Plasma glucose (p = 0.083) and IHL (p = 0.098) tended 
+to be reduced after carnitine supplementation.
+CONCLUSION: Carnitine supplementation improved insulin sensitivity and tended to 
+lower IHL and fasting plasma glucose levels in patients with type 2 diabetes. 
+Furthermore, carnitine supplementation increased acetylcarnitine concentration 
+in muscle, which may underlie the beneficial effect on insulin sensitivity.
+
+© 2025 The Author(s). Diabetes, Obesity and Metabolism published by John Wiley & 
+Sons Ltd.
+
+DOI: 10.1111/dom.16298
+PMCID: PMC11965010
+PMID: 40019115 [Indexed for MEDLINE]
+
+Conflict of interest statement: B.R.B and A.V. are employees of Alfasigma 
+Nederland B.V.

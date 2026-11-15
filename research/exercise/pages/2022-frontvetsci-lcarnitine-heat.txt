@@ -1,0 +1,61 @@
+SOURCE: Exogenous L-carnitine Administration Ameliorates the Adverse Effects of Heat Stress on Testicular Hemodynamics, Echotexture, and Total Antioxidant Capacity in Rams.
+URL: https://pubmed.ncbi.nlm.nih.gov/35464382/
+FETCHED: 2026-11-15 via NCBI efetch (pubmed abstract, retmode=text)
+PMID: 35464382
+DOI: 10.3389/fvets.2022.860771
+------------------------------------------------------------------------
+1. Front Vet Sci. 2022 Apr 6;9:860771. doi: 10.3389/fvets.2022.860771.
+eCollection  2022.
+
+Exogenous L-carnitine Administration Ameliorates the Adverse Effects of Heat 
+Stress on Testicular Hemodynamics, Echotexture, and Total Antioxidant Capacity 
+in Rams.
+
+El-Sherbiny HR(1), El-Shalofy AS(1), Samir H(1).
+
+Author information:
+(1)Theriogenology Department, Faculty of Veterinary Medicine, Cairo University, 
+Giza, Egypt.
+
+Heat stress (HS) diminishes the testicular antioxidant defense systems, which 
+adversely affect the testicular blood perfusion. Improving the testicular 
+hemodynamics during HS conditions is of a great impact on the whole reproductive 
+performance in rams. This study aimed to evaluate the ameliorative effects of 
+L-carnitine (LC) on the testicular blood flow and echotextures and also on the 
+total antioxidants (TAC) and nitric oxide (NO) concentrations in the serum 
+during HS conditions in rams. Testicular blood flow was evaluated through 
+scanning of the supra-testicular artery (STA) spectral patterns through pulsed 
+Doppler ultrasonography [peak systolic velocity (PSV), end-diastolic velocity 
+(EDV), time average maximum velocity (TAMAX), resistive index (RI), and 
+pulsatility index (PI)], while the echotexture assessment of testicular 
+parenchyma was performed by a computerized software program. Moreover, TAC and 
+NO concentrations were assayed colorimetrically using the spectrophotometer. 
+There were significant decreases (P < 0.05) in values of PSV at 48 and 168 h 
+(23.45 ± 0.39 and 23.37 ± 1.41 cm/s, respectively), and TAMAX at 1, 48, and 168 
+h (17.65 ± 0.95, 17.5 ± 0.13, and 16.9 ± 1.05 cm/s, respectively) after LC 
+administration compared to just before administration (31.92 ± 1.13 and 21.58 ± 
+0.92 cm/s, respectively). Values of RI and PI of the examined STA significantly 
+decreased, especially at 1 h for RI (0.45 ± 0.02) and 1 and 48 h for PI (0.66 ± 
+0.06 and 0.65 ± 0.05, respectively) after LC treatment to 0 h (0.55 ± 0.03 and 
+0.84 ± 0.06, respectively). The EDV values did not show any significant (P < 
+0.05) changes in all the experimental time points. There were significant (P < 
+0.05) increases in the values of pixel intensity of the testicular parenchyma, 
+especially at 1 and 168 h (78.71 ± 2.50 and 88.56 ± 4.10, respectively) after LC 
+administration, compared to just before administration (69.40 ± 4.75). Serum NO 
+levels tend to increase after LC administration (P = 0.07) concerning just 
+before administration. While TAC values showed significant gradual increase and 
+reached the highest values at 168 h (2.75 ± 0.58 mM/l) after LC administration, 
+compared to 0 h (1.12 ± 0.05 mM/l). In conclusion, exogenous LC administration 
+ameliorates testicular hemodynamic disruptions, as measured by spectral Doppler 
+ultrasonography, via augmentation of the rams' total antioxidant capacity under 
+HS conditions.
+
+Copyright © 2022 El-Sherbiny, El-Shalofy and Samir.
+
+DOI: 10.3389/fvets.2022.860771
+PMCID: PMC9019560
+PMID: 35464382
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.

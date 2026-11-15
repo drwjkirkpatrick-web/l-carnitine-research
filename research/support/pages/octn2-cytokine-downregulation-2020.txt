@@ -1,0 +1,59 @@
+# Source: PubMed (NCBI E-utilities efetch)
+# URL: https://pubmed.ncbi.nlm.nih.gov/32579962/
+# Fetched: 2026-11-15
+# PMID: 32579962
+
+1. Biochem Pharmacol. 2020 Aug;178:114115. doi: 10.1016/j.bcp.2020.114115. Epub 
+2020 Jun 21.
+
+Downregulation of OCTN2 by cytokines plays an important role in the progression 
+of inflammatory bowel disease.
+
+Li P(1), Wang Y(2), Luo J(1), Zeng Q(3), Wang M(1), Bai M(2), Zhou H(1), Wang 
+J(4), Jiang H(5).
+
+Author information:
+(1)Laboratory of Drug Metabolism and Pharmaceutical Analysis, College of 
+Pharmaceutical Sciences, Zhejiang University, Hangzhou, China.
+(2)Hangzhou Translational Medicine Research Center, Hangzhou First People's 
+Hospital, Hangzhou, China; Laboratory of Drug Metabolism and Pharmaceutical 
+Analysis, College of Pharmaceutical Sciences, Zhejiang University, Hangzhou, 
+China.
+(3)College of Medicine, Zhejiang University, Hangzhou, China; Laboratory of Drug 
+Metabolism and Pharmaceutical Analysis, College of Pharmaceutical Sciences, 
+Zhejiang University, Hangzhou, China.
+(4)College of Medicine, Zhejiang University, Hangzhou, China. Electronic 
+address: hdjiang@zju.edu.cn.
+(5)Laboratory of Drug Metabolism and Pharmaceutical Analysis, College of 
+Pharmaceutical Sciences, Zhejiang University, Hangzhou, China. Electronic 
+address: wangyx@zju.edu.cn.
+
+Inflammatory bowel diseases (IBD) are characterized by chronic relapsing 
+disorders of the gastrointestinal tract. OCTN2 (SLC22A5) and its substrate 
+l-carnitine (l-Car) play crucial roles in maintaining normal intestinal 
+function. An aim of this study was to delineate the expression alteration of 
+OCTN2 in IBD and its underlying mechanism. We also investigated the impact of 
+OCTN2 on IBD progression and the possibility of improving IBD through OCTN2 
+regulation. Our results showed decreased OCTN2 expression levels and l-Car 
+content in inflamed colon tissues of IBD patients and mice, which negatively 
+correlated with the degree of colonic inflammation in IBD mice. Mixed 
+proinflammatory cytokines TNF-α, IL-1β and IFNγ downregulated the expression of 
+OCTN2 and subsequently reduced the l-Car content through PPARγ/RXRα pathways in 
+FHC cells. OCTN2 silencing reduced the proliferation rate of the colon cells, 
+whereas OCTN2 overexpression increased the proliferation rate. Furthermore, the 
+ability of PPARγ agonist, luteolin, to increase OCTN2 expression resulted in the 
+alleviation of colonic inflammatory responses. In conclusion, OCTN2 was 
+downregulated in IBD by proinflammatory cytokines via the PPARγ/RXRα pathways, 
+which reduced l-Car concentration and subsequently induced IBD deterioration. 
+Upregulation of OCTN2 by the PPARγ agonist alleviated colonic inflammation. Our 
+findings suggest that, OCTN2 may serve as a therapeutic target for IBD therapy.
+
+Copyright © 2020 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.bcp.2020.114115
+PMID: 32579962 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.

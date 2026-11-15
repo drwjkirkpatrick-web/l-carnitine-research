@@ -1,0 +1,4107 @@
+# URL: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=16901595,21475195,23563705,23614584,25599331,26229137,26502377,26584136,26751065,27190056,28807612,29020409,29581220,30341034,30377191,30530985,30665924,31167879,32392758,32958033,33213511,34091663,34405585,34769294,35113194,35366920,37915930,38593157,39683637,40603925,42287393&rettype=medline&retmode=text
+# Fetched via curl (NCBI PubMed efetch, MEDLINE format) on 2026-11-15
+# Citation metadata batch for the PubMed-URL pages of this stream: their HTML fetches
+# contained the abstract but not the article citation block (title/authors/journal/DOI).
+# This file holds the PubMed records for those 31 papers, keyed by PMID- lines.
+
+
+PMID- 16901595
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20070105
+LR  - 20151119
+IS  - 0273-2300 (Print)
+IS  - 0273-2300 (Linking)
+VI  - 46
+IP  - 1
+DP  - 2006 Oct
+TI  - Risk assessment for carnitine.
+PG  - 23-8
+AB  - Carnitine is a conditionally essential amino acid-like compound involved in the 
+      transport of long-chain fatty acids into the mitochondria during the 
+      beta-oxidation process. Carnitine has become an increasingly popular ingredient 
+      in dietary supplements, especially weight loss and some sports nutrition 
+      products. A number of clinical trials have been conducted examining the effect of 
+      carnitine supplementation on weight loss and energy balance. Regarding safety, 
+      systematic evaluation of the research designs and data do not provide a basis for 
+      risk assessment and the usual safe upper level of intake (UL) derived from it 
+      unless the newer methods described as the observed safe level (OSL) or highest 
+      observed intake (HOI) are utilized. The OSL risk assessment method indicates that 
+      the evidence of safety is strong at intakes up to 2000mg/day l-carnitine 
+      equivalents for chronic supplementation, and this level is identified as the OSL. 
+      Although much higher levels have been tested without adverse effects and may be 
+      safe, the data for intakes above 2000mg/day are not sufficient for a confident 
+      conclusion of long-term safety.
+FAU - Hathcock, John N
+AU  - Hathcock JN
+AD  - Council for Responsible Nutrition, 1828 L St., NW, Suite 900, Washington, DC 
+      20036-5114, USA. jhathcock@crnusa.org
+FAU - Shao, Andrew
+AU  - Shao A
+LA  - eng
+PT  - Journal Article
+PT  - Meta-Analysis
+PT  - Review
+DEP - 20060809
+PL  - Netherlands
+TA  - Regul Toxicol Pharmacol
+JT  - Regulatory toxicology and pharmacology : RTP
+JID - 8214983
+RN  - S7UI8SM58A (Carnitine)
+SB  - IM
+MH  - Carnitine/*adverse effects
+MH  - Dietary Supplements/*adverse effects
+MH  - Dose-Response Relationship, Drug
+MH  - Humans
+MH  - Risk Assessment
+MH  - Toxicity Tests/methods
+RF  - 45
+EDAT- 2006/08/12 09:00
+MHDA- 2007/01/06 09:00
+CRDT- 2006/08/12 09:00
+PHST- 2006/05/02 00:00 [received]
+PHST- 2006/08/12 09:00 [pubmed]
+PHST- 2007/01/06 09:00 [medline]
+PHST- 2006/08/12 09:00 [entrez]
+AID - S0273-2300(06)00111-5 [pii]
+AID - 10.1016/j.yrtph.2006.06.007 [doi]
+PST - ppublish
+SO  - Regul Toxicol Pharmacol. 2006 Oct;46(1):23-8. doi: 10.1016/j.yrtph.2006.06.007. 
+      Epub 2006 Aug 9.
+
+PMID- 21475195
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20110531
+LR  - 20250529
+IS  - 1476-4687 (Electronic)
+IS  - 0028-0836 (Print)
+IS  - 0028-0836 (Linking)
+VI  - 472
+IP  - 7341
+DP  - 2011 Apr 7
+TI  - Gut flora metabolism of phosphatidylcholine promotes cardiovascular disease.
+PG  - 57-63
+LID - 10.1038/nature09922 [doi]
+AB  - Metabolomics studies hold promise for the discovery of pathways linked to disease 
+      processes. Cardiovascular disease (CVD) represents the leading cause of death and 
+      morbidity worldwide. Here we used a metabolomics approach to generate unbiased 
+      small-molecule metabolic profiles in plasma that predict risk for CVD. Three 
+      metabolites of the dietary lipid phosphatidylcholine--choline, trimethylamine 
+      N-oxide (TMAO) and betaine--were identified and then shown to predict risk for 
+      CVD in an independent large clinical cohort. Dietary supplementation of mice with 
+      choline, TMAO or betaine promoted upregulation of multiple macrophage scavenger 
+      receptors linked to atherosclerosis, and supplementation with choline or TMAO 
+      promoted atherosclerosis. Studies using germ-free mice confirmed a critical role 
+      for dietary choline and gut flora in TMAO production, augmented macrophage 
+      cholesterol accumulation and foam cell formation. Suppression of intestinal 
+      microflora in atherosclerosis-prone mice inhibited dietary-choline-enhanced 
+      atherosclerosis. Genetic variations controlling expression of flavin 
+      monooxygenases, an enzymatic source of TMAO, segregated with atherosclerosis in 
+      hyperlipidaemic mice. Discovery of a relationship between gut-flora-dependent 
+      metabolism of dietary phosphatidylcholine and CVD pathogenesis provides 
+      opportunities for the development of new diagnostic tests and therapeutic 
+      approaches for atherosclerotic heart disease.
+CI  - (c)2011 Macmillan Publishers Limited. All rights reserved
+FAU - Wang, Zeneng
+AU  - Wang Z
+AD  - Department of Cell Biology, Cleveland Clinic, Cleveland, Ohio 44195, USA.
+FAU - Klipfell, Elizabeth
+AU  - Klipfell E
+FAU - Bennett, Brian J
+AU  - Bennett BJ
+FAU - Koeth, Robert
+AU  - Koeth R
+FAU - Levison, Bruce S
+AU  - Levison BS
+FAU - Dugar, Brandon
+AU  - Dugar B
+FAU - Feldstein, Ariel E
+AU  - Feldstein AE
+FAU - Britt, Earl B
+AU  - Britt EB
+FAU - Fu, Xiaoming
+AU  - Fu X
+FAU - Chung, Yoon-Mi
+AU  - Chung YM
+FAU - Wu, Yuping
+AU  - Wu Y
+FAU - Schauer, Phil
+AU  - Schauer P
+FAU - Smith, Jonathan D
+AU  - Smith JD
+FAU - Allayee, Hooman
+AU  - Allayee H
+FAU - Tang, W H Wilson
+AU  - Tang WH
+FAU - DiDonato, Joseph A
+AU  - DiDonato JA
+FAU - Lusis, Aldons J
+AU  - Lusis AJ
+FAU - Hazen, Stanley L
+AU  - Hazen SL
+LA  - eng
+GR  - P01 HL087018/HL/NHLBI NIH HHS/United States
+GR  - UL1 RR024989/RR/NCRR NIH HHS/United States
+GR  - P01HL087018-020001/HL/NHLBI NIH HHS/United States
+GR  - R01 HL103931/HL/NHLBI NIH HHS/United States
+GR  - P01 HL28481/HL/NHLBI NIH HHS/United States
+GR  - R01 HL103866/HL/NHLBI NIH HHS/United States
+GR  - T32 DK007789/DK/NIDDK NIH HHS/United States
+GR  - R01 DK080732/DK/NIDDK NIH HHS/United States
+GR  - P01 HL098055/HL/NHLBI NIH HHS/United States
+GR  - P01 HL30568/HL/NHLBI NIH HHS/United States
+GR  - T32-DK07789/DK/NIDDK NIH HHS/United States
+GR  - P01 HL028481/HL/NHLBI NIH HHS/United States
+GR  - P01 HL076491/HL/NHLBI NIH HHS/United States
+GR  - R01 HL098193/HL/NHLBI NIH HHS/United States
+GR  - P01 HL030568/HL/NHLBI NIH HHS/United States
+GR  - P20 AA017837/AA/NIAAA NIH HHS/United States
+GR  - T32 GM007250/GM/NIGMS NIH HHS/United States
+GR  - K99 HL102223/HL/NHLBI NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PL  - England
+TA  - Nature
+JT  - Nature
+JID - 0410462
+RN  - 0 (Biomarkers)
+RN  - 0 (Cholesterol, HDL)
+RN  - 0 (Dietary Fats)
+RN  - 0 (Methylamines)
+RN  - 0 (Phosphatidylcholines)
+RN  - 0 (Receptors, Scavenger)
+RN  - 3SCV180C9W (Betaine)
+RN  - EC 1.13.- (Oxygenases)
+RN  - EC 1.14.13.8 (dimethylaniline monooxygenase (N-oxide forming))
+RN  - FLD0K1SJ1A (trimethyloxamine)
+RN  - N91BDP6H0X (Choline)
+SB  - IM
+CIN - Nature. 2011 Apr 7;472(7341):40-1. doi: 10.1038/472040a. PMID: 21475185
+CIN - Circ Cardiovasc Genet. 2011 Aug 1;4(4):463-4. doi: 
+      10.1161/CIRCGENETICS.111.961003. PMID: 21846870
+CIN - Nature. 2011 Sep 07;477(7363):162. doi: 10.1038/477162d. PMID: 21900997
+MH  - Animals
+MH  - Atherosclerosis/chemically induced/genetics/metabolism/microbiology
+MH  - Betaine/blood/metabolism
+MH  - Biomarkers/blood/metabolism
+MH  - Cardiovascular Diseases/blood/diagnosis/*metabolism/*microbiology
+MH  - Cholesterol, HDL/blood
+MH  - Choline/administration & dosage/blood/metabolism/pharmacology
+MH  - Diet/adverse effects
+MH  - Dietary Fats/blood/metabolism/pharmacology
+MH  - Female
+MH  - Gastrointestinal Tract/*metabolism/*microbiology
+MH  - Gene Expression Regulation
+MH  - Germ-Free Life
+MH  - Humans
+MH  - Liver/enzymology
+MH  - Macrophages/metabolism
+MH  - Metabolomics
+MH  - Methylamines/blood/metabolism/pharmacology
+MH  - Mice
+MH  - Mice, Inbred C57BL
+MH  - Oxygenases/genetics/metabolism
+MH  - Phenotype
+MH  - Phosphatidylcholines/administration & dosage/blood/*metabolism/pharmacology
+MH  - Receptors, Scavenger/metabolism
+MH  - Risk Assessment
+PMC - PMC3086762
+MID - NIHMS271797
+EDAT- 2011/04/09 06:00
+MHDA- 2011/06/01 06:00
+PMCR- 2011/10/07
+CRDT- 2011/04/09 06:00
+PHST- 2009/07/29 00:00 [received]
+PHST- 2011/02/09 00:00 [accepted]
+PHST- 2011/04/09 06:00 [entrez]
+PHST- 2011/04/09 06:00 [pubmed]
+PHST- 2011/06/01 06:00 [medline]
+PHST- 2011/10/07 00:00 [pmc-release]
+AID - nature09922 [pii]
+AID - 10.1038/nature09922 [doi]
+PST - ppublish
+SO  - Nature. 2011 Apr 7;472(7341):57-63. doi: 10.1038/nature09922.
+
+PMID- 23563705
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20130703
+LR  - 20261102
+IS  - 1546-170X (Electronic)
+IS  - 1078-8956 (Print)
+IS  - 1078-8956 (Linking)
+VI  - 19
+IP  - 5
+DP  - 2013 May
+TI  - Intestinal microbiota metabolism of L-carnitine, a nutrient in red meat, promotes 
+      atherosclerosis.
+PG  - 576-85
+LID - 10.1038/nm.3145 [doi]
+AB  - Intestinal microbiota metabolism of choline and phosphatidylcholine produces 
+      trimethylamine (TMA), which is further metabolized to a proatherogenic species, 
+      trimethylamine-N-oxide (TMAO). We demonstrate here that metabolism by intestinal 
+      microbiota of dietary L-carnitine, a trimethylamine abundant in red meat, also 
+      produces TMAO and accelerates atherosclerosis in mice. Omnivorous human subjects 
+      produced more TMAO than did vegans or vegetarians following ingestion of 
+      L-carnitine through a microbiota-dependent mechanism. The presence of specific 
+      bacterial taxa in human feces was associated with both plasma TMAO concentration 
+      and dietary status. Plasma L-carnitine levels in subjects undergoing cardiac 
+      evaluation (n = 2,595) predicted increased risks for both prevalent 
+      cardiovascular disease (CVD) and incident major adverse cardiac events 
+      (myocardial infarction, stroke or death), but only among subjects with 
+      concurrently high TMAO levels. Chronic dietary L-carnitine supplementation in 
+      mice altered cecal microbial composition, markedly enhanced synthesis of TMA and 
+      TMAO, and increased atherosclerosis, but this did not occur if intestinal 
+      microbiota was concurrently suppressed. In mice with an intact intestinal 
+      microbiota, dietary supplementation with TMAO or either carnitine or choline 
+      reduced in vivo reverse cholesterol transport. Intestinal microbiota may thus 
+      contribute to the well-established link between high levels of red meat 
+      consumption and CVD risk.
+FAU - Koeth, Robert A
+AU  - Koeth RA
+AD  - Department of Cellular & Molecular Medicine, Cleveland Clinic, Cleveland, Ohio, 
+      USA.
+FAU - Wang, Zeneng
+AU  - Wang Z
+FAU - Levison, Bruce S
+AU  - Levison BS
+FAU - Buffa, Jennifer A
+AU  - Buffa JA
+FAU - Org, Elin
+AU  - Org E
+FAU - Sheehy, Brendan T
+AU  - Sheehy BT
+FAU - Britt, Earl B
+AU  - Britt EB
+FAU - Fu, Xiaoming
+AU  - Fu X
+FAU - Wu, Yuping
+AU  - Wu Y
+FAU - Li, Lin
+AU  - Li L
+FAU - Smith, Jonathan D
+AU  - Smith JD
+FAU - DiDonato, Joseph A
+AU  - DiDonato JA
+FAU - Chen, Jun
+AU  - Chen J
+FAU - Li, Hongzhe
+AU  - Li H
+FAU - Wu, Gary D
+AU  - Wu GD
+FAU - Lewis, James D
+AU  - Lewis JD
+FAU - Warrier, Manya
+AU  - Warrier M
+FAU - Brown, J Mark
+AU  - Brown JM
+FAU - Krauss, Ronald M
+AU  - Krauss RM
+FAU - Tang, W H Wilson
+AU  - Tang WH
+FAU - Bushman, Frederic D
+AU  - Bushman FD
+FAU - Lusis, Aldons J
+AU  - Lusis AJ
+FAU - Hazen, Stanley L
+AU  - Hazen SL
+LA  - eng
+GR  - UL1 RR024989/RR/NCRR NIH HHS/United States
+GR  - P30-DK034987-25-28/DK/NIDDK NIH HHS/United States
+GR  - RC1 DK086472/DK/NIDDK NIH HHS/United States
+GR  - P20 HL113452/HL/NHLBI NIH HHS/United States
+GR  - 1RC1DK086472/DK/NIDDK NIH HHS/United States
+GR  - P01 HL098055/HL/NHLBI NIH HHS/United States
+GR  - P40-RR018603-06-08/RR/NCRR NIH HHS/United States
+GR  - P01 HL30568/HL/NHLBI NIH HHS/United States
+GR  - P01 H28481/PHS HHS/United States
+GR  - R00 HL096166/HL/NHLBI NIH HHS/United States
+GR  - T32 GM007250/GM/NIGMS NIH HHS/United States
+GR  - R01 CA127334/CA/NCI NIH HHS/United States
+GR  - UH3 DK083981/DK/NIDDK NIH HHS/United States
+GR  - R01 HL103931/HL/NHLBI NIH HHS/United States
+GR  - R01 HL103866/HL/NHLBI NIH HHS/United States
+GR  - P30 DK034987/DK/NIDDK NIH HHS/United States
+GR  - 1UL1RR024989/RR/NCRR NIH HHS/United States
+GR  - UH3-DK083981/DK/NIDDK NIH HHS/United States
+GR  - P01 HL028481/HL/NHLBI NIH HHS/United States
+GR  - P01 HL076491/HL/NHLBI NIH HHS/United States
+GR  - R01 HL098193/HL/NHLBI NIH HHS/United States
+GR  - P01 HL030568/HL/NHLBI NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20130407
+PL  - United States
+TA  - Nat Med
+JT  - Nature medicine
+JID - 9502015
+RN  - 0 (Methylamines)
+RN  - 313-04-2 (Desmosterol)
+RN  - 63231-63-0 (RNA)
+RN  - 97C5T2UQ7J (Cholesterol)
+RN  - FLD0K1SJ1A (trimethyloxamine)
+RN  - N91BDP6H0X (Choline)
+RN  - S7UI8SM58A (Carnitine)
+SB  - IM
+CIN - Nat Rev Endocrinol. 2013 Jul;9(7):378. doi: 10.1038/nrendo.2013.90. PMID: 
+      23609335
+CIN - Nat Med. 2013 May;19(5):533-4. doi: 10.1038/nm.3178. PMID: 23652100
+CIN - Circ Cardiovasc Genet. 2013 Jun;6(3):308-9. doi: 10.1161/CIRCGENETICS.113.000213. 
+      PMID: 23778590
+CIN - Mayo Clin Proc. 2013 Aug;88(8):786-9. doi: 10.1016/j.mayocp.2013.06.004. PMID: 
+      23910406
+MH  - Animals
+MH  - Atherosclerosis/*etiology/microbiology/physiopathology
+MH  - Carnitine/chemistry/*metabolism
+MH  - Cholesterol/metabolism
+MH  - Choline/chemistry
+MH  - Desmosterol/metabolism
+MH  - Female
+MH  - Humans
+MH  - Intestines/*microbiology
+MH  - Macrophages/metabolism
+MH  - Mass Spectrometry
+MH  - Meat
+MH  - *Metagenome
+MH  - Methylamines/blood/metabolism
+MH  - Mice
+MH  - Mice, Knockout
+MH  - RNA/metabolism
+MH  - Time Factors
+PMC - PMC3650111
+MID - NIHMS450760
+EDAT- 2013/04/09 06:00
+MHDA- 2013/07/05 06:00
+PMCR- 2013/11/01
+CRDT- 2013/04/09 06:00
+PHST- 2012/12/07 00:00 [received]
+PHST- 2013/02/27 00:00 [accepted]
+PHST- 2013/04/09 06:00 [entrez]
+PHST- 2013/04/09 06:00 [pubmed]
+PHST- 2013/07/05 06:00 [medline]
+PHST- 2013/11/01 00:00 [pmc-release]
+AID - nm.3145 [pii]
+AID - 10.1038/nm.3145 [doi]
+PST - ppublish
+SO  - Nat Med. 2013 May;19(5):576-85. doi: 10.1038/nm.3145. Epub 2013 Apr 7.
+
+PMID- 23614584
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20130502
+LR  - 20220409
+IS  - 1533-4406 (Electronic)
+IS  - 0028-4793 (Print)
+IS  - 0028-4793 (Linking)
+VI  - 368
+IP  - 17
+DP  - 2013 Apr 25
+TI  - Intestinal microbial metabolism of phosphatidylcholine and cardiovascular risk.
+PG  - 1575-84
+LID - 10.1056/NEJMoa1109400 [doi]
+AB  - BACKGROUND: Recent studies in animals have shown a mechanistic link between 
+      intestinal microbial metabolism of the choline moiety in dietary 
+      phosphatidylcholine (lecithin) and coronary artery disease through the production 
+      of a proatherosclerotic metabolite, trimethylamine-N-oxide (TMAO). We 
+      investigated the relationship among intestinal microbiota-dependent metabolism of 
+      dietary phosphatidylcholine, TMAO levels, and adverse cardiovascular events in 
+      humans. METHODS: We quantified plasma and urinary levels of TMAO and plasma 
+      choline and betaine levels by means of liquid chromatography and online tandem 
+      mass spectrometry after a phosphatidylcholine challenge (ingestion of two 
+      hard-boiled eggs and deuterium [d9]-labeled phosphatidylcholine) in healthy 
+      participants before and after the suppression of intestinal microbiota with oral 
+      broad-spectrum antibiotics. We further examined the relationship between fasting 
+      plasma levels of TMAO and incident major adverse cardiovascular events (death, 
+      myocardial infarction, or stroke) during 3 years of follow-up in 4007 patients 
+      undergoing elective coronary angiography. RESULTS: Time-dependent increases in 
+      levels of both TMAO and its d9 isotopologue, as well as other choline 
+      metabolites, were detected after the phosphatidylcholine challenge. Plasma levels 
+      of TMAO were markedly suppressed after the administration of antibiotics and then 
+      reappeared after withdrawal of antibiotics. Increased plasma levels of TMAO were 
+      associated with an increased risk of a major adverse cardiovascular event (hazard 
+      ratio for highest vs. lowest TMAO quartile, 2.54; 95% confidence interval, 1.96 
+      to 3.28; P<0.001). An elevated TMAO level predicted an increased risk of major 
+      adverse cardiovascular events after adjustment for traditional risk factors 
+      (P<0.001), as well as in lower-risk subgroups. CONCLUSIONS: The production of 
+      TMAO from dietary phosphatidylcholine is dependent on metabolism by the 
+      intestinal microbiota. Increased TMAO levels are associated with an increased 
+      risk of incident major adverse cardiovascular events. (Funded by the National 
+      Institutes of Health and others.).
+FAU - Tang, W H Wilson
+AU  - Tang WH
+AD  - Department of Cellular and Molecular Medicine, Lerner Research Institute, 
+      Cleveland Clinic, Cleveland 44195, USA.
+FAU - Wang, Zeneng
+AU  - Wang Z
+FAU - Levison, Bruce S
+AU  - Levison BS
+FAU - Koeth, Robert A
+AU  - Koeth RA
+FAU - Britt, Earl B
+AU  - Britt EB
+FAU - Fu, Xiaoming
+AU  - Fu X
+FAU - Wu, Yuping
+AU  - Wu Y
+FAU - Hazen, Stanley L
+AU  - Hazen SL
+LA  - eng
+GR  - 1P20HL113452/HL/NHLBI NIH HHS/United States
+GR  - R01HL103866/HL/NHLBI NIH HHS/United States
+GR  - R01 HL103931/HL/NHLBI NIH HHS/United States
+GR  - R01 HL103866/HL/NHLBI NIH HHS/United States
+GR  - P01 HL076491/HL/NHLBI NIH HHS/United States
+GR  - P01HL098055/HL/NHLBI NIH HHS/United States
+GR  - R01HL103931/HL/NHLBI NIH HHS/United States
+GR  - UL1 TR000439/TR/NCATS NIH HHS/United States
+GR  - UL1TR000439/TR/NCATS NIH HHS/United States
+GR  - T32 GM007250/GM/NIGMS NIH HHS/United States
+GR  - P20 HL113452/HL/NHLBI NIH HHS/United States
+GR  - R01 DK080732/DK/NIDDK NIH HHS/United States
+GR  - R01DK080732/DK/NIDDK NIH HHS/United States
+GR  - P01 HL098055/HL/NHLBI NIH HHS/United States
+GR  - P01HL076491/HL/NHLBI NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - N Engl J Med
+JT  - The New England journal of medicine
+JID - 0255562
+RN  - 0 (Anti-Bacterial Agents)
+RN  - 0 (Methylamines)
+RN  - 0 (Phosphatidylcholines)
+RN  - 3SCV180C9W (Betaine)
+RN  - FLD0K1SJ1A (trimethyloxamine)
+RN  - N91BDP6H0X (Choline)
+SB  - IM
+CIN - N Engl J Med. 2013 Apr 25;368(17):1647-9. doi: 10.1056/NEJMe1302154. PMID: 
+      23614591
+CIN - Nat Rev Cardiol. 2013 Jul;10(7):363. doi: 10.1038/nrcardio.2013.75. PMID: 
+      23670614
+CIN - Rev Clin Esp (Barc). 2014 Jan-Feb;214(1):46-8. doi: 10.1016/j.rce.2013.07.006. 
+      PMID: 24624423
+MH  - Administration, Oral
+MH  - Aged
+MH  - Anti-Bacterial Agents/*pharmacology/therapeutic use
+MH  - Betaine/blood
+MH  - Cardiovascular Diseases/*blood
+MH  - Choline/administration & dosage/blood
+MH  - Female
+MH  - Humans
+MH  - Intestinal Mucosa/metabolism
+MH  - Intestines/*microbiology
+MH  - Kaplan-Meier Estimate
+MH  - Male
+MH  - Metagenome/drug effects/*physiology
+MH  - Methylamines/*blood/urine
+MH  - Middle Aged
+MH  - Phosphatidylcholines/administration & dosage/*metabolism
+MH  - Prospective Studies
+MH  - Risk Factors
+PMC - PMC3701945
+MID - NIHMS474706
+EDAT- 2013/04/26 06:00
+MHDA- 2013/05/03 06:00
+PMCR- 2013/10/25
+CRDT- 2013/04/26 06:00
+PHST- 2013/04/26 06:00 [entrez]
+PHST- 2013/04/26 06:00 [pubmed]
+PHST- 2013/05/03 06:00 [medline]
+PHST- 2013/10/25 00:00 [pmc-release]
+AID - 10.1056/NEJMoa1109400 [doi]
+PST - ppublish
+SO  - N Engl J Med. 2013 Apr 25;368(17):1575-84. doi: 10.1056/NEJMoa1109400.
+
+PMID- 25599331
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20150413
+LR  - 20220331
+IS  - 1524-4571 (Electronic)
+IS  - 0009-7330 (Print)
+IS  - 0009-7330 (Linking)
+VI  - 116
+IP  - 3
+DP  - 2015 Jan 30
+TI  - Gut microbiota-dependent trimethylamine N-oxide (TMAO) pathway contributes to 
+      both development of renal insufficiency and mortality risk in chronic kidney 
+      disease.
+PG  - 448-55
+LID - 10.1161/CIRCRESAHA.116.305360 [doi]
+AB  - RATIONALE: Trimethylamine-N-oxide (TMAO), a gut microbial-dependent metabolite of 
+      dietary choline, phosphatidylcholine (lecithin), and l-carnitine, is elevated in 
+      chronic kidney diseases (CKD) and associated with coronary artery disease 
+      pathogenesis. OBJECTIVE: To both investigate the clinical prognostic value of 
+      TMAO in subjects with versus without CKD, and test the hypothesis that TMAO plays 
+      a direct contributory role in the development and progression of renal 
+      dysfunction. METHODS AND RESULTS: We first examined the relationship between 
+      fasting plasma TMAO and all-cause mortality over 5-year follow-up in 521 stable 
+      subjects with CKD (estimated glomerular filtration rate, <60 mL/min per 1.73 
+      m(2)). Median TMAO level among CKD subjects was 7.9 mumol/L (interquartile range, 
+      5.2-12.4 mumol/L), which was markedly higher (P<0.001) than in non-CKD subjects 
+      (n=3166). Within CKD subjects, higher (fourth versus first quartile) plasma TMAO 
+      level was associated with a 2.8-fold increased mortality risk. After adjustments 
+      for traditional risk factors, high-sensitivity C-reactive protein, estimated 
+      glomerular filtration rate, elevated TMAO levels remained predictive of 5-year 
+      mortality risk (hazard ratio, 1.93; 95% confidence interval, 1.13-3.29; P<0.05). 
+      TMAO provided significant incremental prognostic value (net reclassification 
+      index, 17.26%; P<0.001 and differences in area under receiver operator 
+      characteristic curve, 63.26% versus 65.95%; P=0.036). Among non-CKD subjects, 
+      elevated TMAO levels portend poorer prognosis within cohorts of high and low 
+      cystatin C. In animal models, elevated dietary choline or TMAO directly led to 
+      progressive renal tubulointerstitial fibrosis and dysfunction. CONCLUSIONS: 
+      Plasma TMAO levels are both elevated in patients with CKD and portend poorer 
+      long-term survival. Chronic dietary exposures that increase TMAO directly 
+      contributes to progressive renal fibrosis and dysfunction in animal models.
+CI  - (c) 2014 American Heart Association, Inc.
+FAU - Tang, W H Wilson
+AU  - Tang WH
+AD  - From the Department for Cellular and Molecular Medicine, Lerner Research 
+      Institute (W.H.W.T., Z.W., D.J.K., J.A.B., B.A.-B., X.S.L., B.S.L., S.L.H.); 
+      Department of Cardiovascular Medicine, Heart and Vascular Institute, Cleveland 
+      Clinic Foundation, OH (W.H.W.T., S.L.H.); and Department of Mathematics, 
+      Cleveland State University, OH (Y.W.). tangw@ccf.org hazens@ccf.org.
+FAU - Wang, Zeneng
+AU  - Wang Z
+AD  - From the Department for Cellular and Molecular Medicine, Lerner Research 
+      Institute (W.H.W.T., Z.W., D.J.K., J.A.B., B.A.-B., X.S.L., B.S.L., S.L.H.); 
+      Department of Cardiovascular Medicine, Heart and Vascular Institute, Cleveland 
+      Clinic Foundation, OH (W.H.W.T., S.L.H.); and Department of Mathematics, 
+      Cleveland State University, OH (Y.W.).
+FAU - Kennedy, David J
+AU  - Kennedy DJ
+AD  - From the Department for Cellular and Molecular Medicine, Lerner Research 
+      Institute (W.H.W.T., Z.W., D.J.K., J.A.B., B.A.-B., X.S.L., B.S.L., S.L.H.); 
+      Department of Cardiovascular Medicine, Heart and Vascular Institute, Cleveland 
+      Clinic Foundation, OH (W.H.W.T., S.L.H.); and Department of Mathematics, 
+      Cleveland State University, OH (Y.W.).
+FAU - Wu, Yuping
+AU  - Wu Y
+AD  - From the Department for Cellular and Molecular Medicine, Lerner Research 
+      Institute (W.H.W.T., Z.W., D.J.K., J.A.B., B.A.-B., X.S.L., B.S.L., S.L.H.); 
+      Department of Cardiovascular Medicine, Heart and Vascular Institute, Cleveland 
+      Clinic Foundation, OH (W.H.W.T., S.L.H.); and Department of Mathematics, 
+      Cleveland State University, OH (Y.W.).
+FAU - Buffa, Jennifer A
+AU  - Buffa JA
+AD  - From the Department for Cellular and Molecular Medicine, Lerner Research 
+      Institute (W.H.W.T., Z.W., D.J.K., J.A.B., B.A.-B., X.S.L., B.S.L., S.L.H.); 
+      Department of Cardiovascular Medicine, Heart and Vascular Institute, Cleveland 
+      Clinic Foundation, OH (W.H.W.T., S.L.H.); and Department of Mathematics, 
+      Cleveland State University, OH (Y.W.).
+FAU - Agatisa-Boyle, Brendan
+AU  - Agatisa-Boyle B
+AD  - From the Department for Cellular and Molecular Medicine, Lerner Research 
+      Institute (W.H.W.T., Z.W., D.J.K., J.A.B., B.A.-B., X.S.L., B.S.L., S.L.H.); 
+      Department of Cardiovascular Medicine, Heart and Vascular Institute, Cleveland 
+      Clinic Foundation, OH (W.H.W.T., S.L.H.); and Department of Mathematics, 
+      Cleveland State University, OH (Y.W.).
+FAU - Li, Xinmin S
+AU  - Li XS
+AD  - From the Department for Cellular and Molecular Medicine, Lerner Research 
+      Institute (W.H.W.T., Z.W., D.J.K., J.A.B., B.A.-B., X.S.L., B.S.L., S.L.H.); 
+      Department of Cardiovascular Medicine, Heart and Vascular Institute, Cleveland 
+      Clinic Foundation, OH (W.H.W.T., S.L.H.); and Department of Mathematics, 
+      Cleveland State University, OH (Y.W.).
+FAU - Levison, Bruce S
+AU  - Levison BS
+AD  - From the Department for Cellular and Molecular Medicine, Lerner Research 
+      Institute (W.H.W.T., Z.W., D.J.K., J.A.B., B.A.-B., X.S.L., B.S.L., S.L.H.); 
+      Department of Cardiovascular Medicine, Heart and Vascular Institute, Cleveland 
+      Clinic Foundation, OH (W.H.W.T., S.L.H.); and Department of Mathematics, 
+      Cleveland State University, OH (Y.W.).
+FAU - Hazen, Stanley L
+AU  - Hazen SL
+AD  - From the Department for Cellular and Molecular Medicine, Lerner Research 
+      Institute (W.H.W.T., Z.W., D.J.K., J.A.B., B.A.-B., X.S.L., B.S.L., S.L.H.); 
+      Department of Cardiovascular Medicine, Heart and Vascular Institute, Cleveland 
+      Clinic Foundation, OH (W.H.W.T., S.L.H.); and Department of Mathematics, 
+      Cleveland State University, OH (Y.W.). tangw@ccf.org hazens@ccf.org.
+LA  - eng
+GR  - R01HL103866/HL/NHLBI NIH HHS/United States
+GR  - R01 HL103931/HL/NHLBI NIH HHS/United States
+GR  - R01 DK106000/DK/NIDDK NIH HHS/United States
+GR  - R01 HL103866/HL/NHLBI NIH HHS/United States
+GR  - P01 HL076491/HL/NHLBI NIH HHS/United States
+GR  - P20HL113452/HL/NHLBI NIH HHS/United States
+GR  - P20 HL113452/HL/NHLBI NIH HHS/United States
+GR  - P01HL098055/HL/NHLBI NIH HHS/United States
+GR  - R01HL103931/HL/NHLBI NIH HHS/United States
+GR  - P01 HL098055/HL/NHLBI NIH HHS/United States
+GR  - P01HL076491/HL/NHLBI NIH HHS/United States
+GR  - UL1 TR000439/TR/NCATS NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20141105
+PL  - United States
+TA  - Circ Res
+JT  - Circulation research
+JID - 0047103
+RN  - 0 (Biomarkers)
+RN  - 0 (Methylamines)
+RN  - FLD0K1SJ1A (trimethyloxamine)
+SB  - IM
+CIN - Circ Res. 2015 Jan 30;116(3):396-7. doi: 10.1161/CIRCRESAHA.114.305680. PMID: 
+      25634968
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Animals
+MH  - Biomarkers/blood
+MH  - Case-Control Studies
+MH  - Female
+MH  - Humans
+MH  - Intestines/microbiology
+MH  - Male
+MH  - Methylamines/blood/*toxicity
+MH  - Mice
+MH  - Mice, Inbred C57BL
+MH  - *Microbiota
+MH  - Middle Aged
+MH  - Prognosis
+MH  - Renal Insufficiency/*diagnosis/etiology
+MH  - Renal Insufficiency, Chronic/*diagnosis/metabolism/microbiology
+MH  - Risk Factors
+PMC - PMC4312512
+MID - NIHMS641127
+OTO - NOTNLM
+OT  - cardiovascular diseases
+OT  - chronic kidney disease
+OT  - fibrosis
+OT  - gut microbiota
+OT  - trimethylamine N-oxide
+EDAT- 2015/01/20 06:00
+MHDA- 2015/04/14 06:00
+PMCR- 2016/01/30
+CRDT- 2015/01/20 06:00
+PHST- 2015/01/20 06:00 [entrez]
+PHST- 2015/01/20 06:00 [pubmed]
+PHST- 2015/04/14 06:00 [medline]
+PHST- 2016/01/30 00:00 [pmc-release]
+AID - CIRCRESAHA.116.305360 [pii]
+AID - 10.1161/CIRCRESAHA.116.305360 [doi]
+PST - ppublish
+SO  - Circ Res. 2015 Jan 30;116(3):448-55. doi: 10.1161/CIRCRESAHA.116.305360. Epub 
+      2014 Nov 5.
+
+PMID- 26229137
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20160516
+LR  - 20220316
+IS  - 1533-3450 (Electronic)
+IS  - 1046-6673 (Print)
+IS  - 1046-6673 (Linking)
+VI  - 27
+IP  - 1
+DP  - 2016 Jan
+TI  - Serum Trimethylamine-N-Oxide is Elevated in CKD and Correlates with Coronary 
+      Atherosclerosis Burden.
+PG  - 305-13
+LID - 10.1681/ASN.2014111063 [doi]
+AB  - Trimethlyamine-N-oxide (TMAO) was recently identified as a promoter of 
+      atherosclerosis. Patients with CKD exhibit accelerated development of 
+      atherosclerosis; however, no studies have explored the relationship between TMAO 
+      and atherosclerosis formation in this group. This study measured serum 
+      concentrations and urinary excretion of TMAO in a CKD cohort (n=104), identified 
+      the effect of renal transplant on serum TMAO concentration in a subset of these 
+      patients (n=6), and explored the cross-sectional relationship between serum TMAO 
+      and coronary atherosclerosis burden in a separate CKD cohort (n=220) undergoing 
+      coronary angiography. Additional exploratory analyses examined the relationship 
+      between baseline serum TMAO and long-term survival after coronary angiography. 
+      Serum TMAO concentrations demonstrated a strong inverse association with eGFR 
+      (r(2)=0.31, P<0.001). TMAO concentrations were markedly higher in patients 
+      receiving dialysis (median [interquartile range], 94.4 muM [54.8-133.0 muM] for 
+      dialysis-dependent patients versus 3.3 muM [3.1-6.0 muM] for healthy controls; 
+      P<0.001); whereas renal transplantation resulted in substantial reductions in 
+      TMAO concentrations (median [min-max] 71.2 muM [29.2-189.7 muM] pretransplant 
+      versus 11.4 muM [8.9-20.2 muM] post-transplant; P=0.03). TMAO concentration was an 
+      independent predictor for coronary atherosclerosis burden (P=0.02) and predicted 
+      long-term mortality independent of traditional cardiac risk factors (hazard 
+      ratio, 1.26 per 10 muM increment in TMAO concentration; 95% confidence interval, 
+      1.13 to 1.40; P<0.001). In conclusion, serum TMAO concentrations substantially 
+      increase with decrements in kidney function, and this effect is reversed by renal 
+      transplantation. Increased TMAO concentrations correlate with coronary 
+      atherosclerosis burden and may associate with long-term mortality in patients 
+      with CKD undergoing coronary angiography.
+CI  - Copyright (c) 2016 by the American Society of Nephrology.
+FAU - Stubbs, Jason R
+AU  - Stubbs JR
+AD  - The Kidney Institute, University of Kansas Medical Center, Kansas City, Kansas; 
+      Department of Internal Medicine, Division of Nephrology & Hypertension, 
+      University of Kansas Medical Center, Kansas City, Kansas; jstubbs@kumc.edu.
+FAU - House, John A
+AU  - House JA
+AD  - Saint Luke's Mid America Heart Institute, Kansas City, Missouri;
+FAU - Ocque, A Jacob
+AU  - Ocque AJ
+AD  - Department of Pharmacy and Therapeutics, Center for Clinical Pharmaceutical 
+      Sciences and.
+FAU - Zhang, Shiqin
+AU  - Zhang S
+AD  - The Kidney Institute, University of Kansas Medical Center, Kansas City, Kansas;
+FAU - Johnson, Cassandra
+AU  - Johnson C
+AD  - The Kidney Institute, University of Kansas Medical Center, Kansas City, Kansas;
+FAU - Kimber, Cassandra
+AU  - Kimber C
+AD  - Department of Internal Medicine, Division of Nephrology & Hypertension, 
+      University of Kansas Medical Center, Kansas City, Kansas;
+FAU - Schmidt, Kyle
+AU  - Schmidt K
+AD  - The Kidney Institute, University of Kansas Medical Center, Kansas City, Kansas;
+FAU - Gupta, Aditi
+AU  - Gupta A
+AD  - The Kidney Institute, University of Kansas Medical Center, Kansas City, Kansas; 
+      Department of Internal Medicine, Division of Nephrology & Hypertension, 
+      University of Kansas Medical Center, Kansas City, Kansas;
+FAU - Wetmore, James B
+AU  - Wetmore JB
+AD  - Division of Nephrology, Hennepin County Medical Center, Minneapolis, Minnesota; 
+      and.
+FAU - Nolin, Thomas D
+AU  - Nolin TD
+AD  - Department of Pharmacy and Therapeutics, Center for Clinical Pharmaceutical 
+      Sciences and Department of Medicine, Renal-Electrolyte Division, University of 
+      Pittsburgh Schools of Pharmacy and Medicine, Pittsburgh, Pennsylvania;
+FAU - Spertus, John A
+AU  - Spertus JA
+AD  - Saint Luke's Mid America Heart Institute, Kansas City, Missouri; University of 
+      Missouri-Kansas City, Kansas City, Missouri.
+FAU - Yu, Alan S
+AU  - Yu AS
+AD  - The Kidney Institute, University of Kansas Medical Center, Kansas City, Kansas; 
+      Department of Internal Medicine, Division of Nephrology & Hypertension, 
+      University of Kansas Medical Center, Kansas City, Kansas;
+LA  - eng
+GR  - T32 DK071496/DK/NIDDK NIH HHS/United States
+GR  - UL1 TR000001/TR/NCATS NIH HHS/United States
+GR  - UL1-TR000001/TR/NCATS NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20150730
+PL  - United States
+TA  - J Am Soc Nephrol
+JT  - Journal of the American Society of Nephrology : JASN
+JID - 9013836
+RN  - 0 (Methylamines)
+RN  - FLD0K1SJ1A (trimethyloxamine)
+SB  - IM
+CIN - J Am Soc Nephrol. 2016 Jan;27(1):8-10. doi: 10.1681/ASN.2015050576. PMID: 
+      26229138
+MH  - Aged
+MH  - Coronary Artery Disease/*blood/complications
+MH  - Cross-Sectional Studies
+MH  - Female
+MH  - Humans
+MH  - *Kidney Transplantation
+MH  - Male
+MH  - Methylamines/*blood
+MH  - Prospective Studies
+MH  - Renal Insufficiency, Chronic/*blood/complications/*surgery
+PMC - PMC4696571
+OTO - NOTNLM
+OT  - CKD
+OT  - ESRD
+OT  - atherosclerosis
+OT  - cardiovascular disease
+OT  - coronary artery disease
+OT  - mortality
+EDAT- 2015/08/01 06:00
+MHDA- 2016/05/18 06:00
+PMCR- 2017/01/01
+CRDT- 2015/08/01 06:00
+PHST- 2014/11/03 00:00 [received]
+PHST- 2015/03/30 00:00 [accepted]
+PHST- 2015/08/01 06:00 [entrez]
+PHST- 2015/08/01 06:00 [pubmed]
+PHST- 2016/05/18 06:00 [medline]
+PHST- 2017/01/01 00:00 [pmc-release]
+AID - ASN.2014111063 [pii]
+AID - 2014111063 [pii]
+AID - 10.1681/ASN.2014111063 [doi]
+PST - ppublish
+SO  - J Am Soc Nephrol. 2016 Jan;27(1):305-13. doi: 10.1681/ASN.2014111063. Epub 2015 
+      Jul 30.
+
+PMID- 26502377
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20161101
+LR  - 20161230
+IS  - 1613-4133 (Electronic)
+IS  - 1613-4125 (Linking)
+VI  - 60
+IP  - 2
+DP  - 2016 Feb
+TI  - Fish protein increases circulating levels of trimethylamine-N-oxide and 
+      accelerates aortic lesion formation in apoE null mice.
+PG  - 358-68
+LID - 10.1002/mnfr.201500537 [doi]
+AB  - SCOPE: The protective effect of fish consumption on the cardiovascular system has 
+      primarily been ascribed to n-3 fatty acids, but data investigating the vascular 
+      effects of fish protein consumption are scarce. This study aimed to investigate 
+      the vascular impact of fish protein in a mouse model of atherosclerosis. METHODS 
+      AND RESULTS: Male apoE null mice were fed a Western diet containing 20% fish 
+      (turbot) protein, casein, or soy protein, for 16 wk. Morphometric analysis of the 
+      aorta revealed that the atherosclerotic plaque area of fish protein fed mice was 
+      twofold larger than that in casein- or soy protein-fed mice. The percentage area 
+      of calcification deposits in plaques of fish protein fed mice was higher (7.57%) 
+      than that in casein-fed (2.86%) or soy protein-fed (3.46%) mice, and fish protein 
+      fed mice exhibited higher plaque expression of CD68, CD36, and IL-6 than the 
+      other two groups. Fish protein intake was accompanied by increased serum 
+      concentrations of trimethylamine-N-oxide (7.03 +/- 2.83 mumol/L), as compared with 
+      casein (0.92 +/- 0.46 mumol/L) and soy protein (1.32 +/- 0.54 mumol/L) intake. 
+      CONCLUSION: The present data indicate adverse effects of fish protein on the 
+      vascular system, which could be attributable to the high serum 
+      trimethylamine-N-oxide concentrations in these mice.
+CI  - (c) 2015 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim.
+FAU - Yazdekhasti, Narges
+AU  - Yazdekhasti N
+AD  - Institute of Agricultural and Nutritional Sciences, Martin Luther University 
+      Halle-Wittenberg, Halle/Saale, Germany.
+FAU - Brandsch, Corinna
+AU  - Brandsch C
+AD  - Institute of Agricultural and Nutritional Sciences, Martin Luther University 
+      Halle-Wittenberg, Halle/Saale, Germany.
+FAU - Schmidt, Nadine
+AU  - Schmidt N
+AD  - Institute of Agricultural and Nutritional Sciences, Martin Luther University 
+      Halle-Wittenberg, Halle/Saale, Germany.
+FAU - Schloesser, Anke
+AU  - Schloesser A
+AD  - Institute of Human Nutrition and Food Science, University of Kiel, Kiel, Germany.
+FAU - Huebbe, Patricia
+AU  - Huebbe P
+AD  - Institute of Human Nutrition and Food Science, University of Kiel, Kiel, Germany.
+FAU - Rimbach, Gerald
+AU  - Rimbach G
+AD  - Institute of Human Nutrition and Food Science, University of Kiel, Kiel, Germany.
+FAU - Stangl, Gabriele I
+AU  - Stangl GI
+AD  - Institute of Agricultural and Nutritional Sciences, Martin Luther University 
+      Halle-Wittenberg, Halle/Saale, Germany.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20151026
+PL  - Germany
+TA  - Mol Nutr Food Res
+JT  - Molecular nutrition & food research
+JID - 101231818
+RN  - 0 (Apolipoproteins E)
+RN  - 0 (Fish Proteins)
+RN  - 0 (Genetic Markers)
+RN  - 0 (Methylamines)
+RN  - FLD0K1SJ1A (trimethyloxamine)
+SB  - IM
+MH  - Animals
+MH  - Aorta, Thoracic/drug effects/*pathology
+MH  - Apolipoproteins E/genetics
+MH  - Atherosclerosis/chemically induced/genetics/*pathology
+MH  - Disease Models, Animal
+MH  - Fish Proteins/*adverse effects/chemistry
+MH  - Gene Expression Regulation/drug effects
+MH  - Genetic Markers/drug effects
+MH  - Inflammation/genetics
+MH  - Male
+MH  - Methylamines/*blood
+MH  - Mice, Knockout
+OTO - NOTNLM
+OT  - Aortic lesion
+OT  - Fish protein
+OT  - Inflammation
+OT  - Mice
+OT  - Trimethylamine-N-oxide
+EDAT- 2015/10/27 06:00
+MHDA- 2016/11/02 06:00
+CRDT- 2015/10/27 06:00
+PHST- 2015/07/06 00:00 [received]
+PHST- 2015/09/21 00:00 [revised]
+PHST- 2015/09/25 00:00 [accepted]
+PHST- 2015/10/27 06:00 [entrez]
+PHST- 2015/10/27 06:00 [pubmed]
+PHST- 2016/11/02 06:00 [medline]
+AID - 10.1002/mnfr.201500537 [doi]
+PST - ppublish
+SO  - Mol Nutr Food Res. 2016 Feb;60(2):358-68. doi: 10.1002/mnfr.201500537. Epub 2015 
+      Oct 26.
+
+PMID- 26584136
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20161011
+LR  - 20201216
+IS  - 1879-1484 (Electronic)
+IS  - 0021-9150 (Linking)
+VI  - 244
+DP  - 2016 Jan
+TI  - L-Carnitine intake and high trimethylamine N-oxide plasma levels correlate with 
+      low aortic lesions in ApoE(-/-) transgenic mice expressing CETP.
+PG  - 29-37
+LID - S0021-9150(15)30192-1 [pii]
+LID - 10.1016/j.atherosclerosis.2015.10.108 [doi]
+AB  - OBJECTIVE: Dietary l-carnitine can be metabolized by intestinal microbiota to 
+      trimethylamine, which is absorbed by the gut and further oxidized to 
+      trimethylamine N-oxide (TMAO) in the liver. TMAO plasma levels have been 
+      associated with atherosclerosis development in ApoE(-/-) mice. To better 
+      understand the mechanisms behind this association, we conducted in vitro and in 
+      vivo studies looking at the effect of TMAO on different steps of atherosclerotic 
+      disease progression. METHODS: J774 mouse macrophage cells were used to evaluate 
+      the effect of TMAO on foam cell formation. Male ApoE(-/-) mice transfected with 
+      human cholesteryl ester transfer protein (hCETP) were fed l-carnitine and/or 
+      methimazole, a flavin monooxygenase 3 (FMO3) inhibitor that prevents the 
+      formation of TMAO. Following 12 week treatment, l-carnitine and TMAO plasma 
+      levels, aortic lesion development, and lipid profiles were determined. RESULTS: 
+      TMAO at concentrations up to 10-fold the Cmax reported in humans did not affect 
+      in vitro foam cell formation. In ApoE(-/-)mice expressing hCETP, high doses of 
+      l-carnitine resulted in a significant increase in plasma TMAO levels. 
+      Surprisingly, and independently from treatment group, TMAO levels inversely 
+      correlated with aortic lesion size in both aortic root and thoracic aorta. High 
+      TMAO levels were found to significantly correlate with smaller aortic lesion 
+      area. Plasma lipid and lipoprotein levels did not change with treatment nor with 
+      TMAO levels, suggesting that the observed effects on lesion area were independent 
+      from lipid changes. CONCLUSION: These findings suggest that TMAO slows aortic 
+      lesion formation in this mouse model and may have a protective effect against 
+      atherosclerosis development in humans.
+CI  - Copyright (c) 2015 The Authors. Published by Elsevier Ireland Ltd.. All rights 
+      reserved.
+FAU - Collins, Heidi L
+AU  - Collins HL
+AD  - VascularStrategies LLC, United States.
+FAU - Drazul-Schrader, Denise
+AU  - Drazul-Schrader D
+AD  - VascularStrategies LLC, United States.
+FAU - Sulpizio, Anthony C
+AU  - Sulpizio AC
+AD  - VascularStrategies LLC, United States.
+FAU - Koster, Paul D
+AU  - Koster PD
+AD  - VascularStrategies LLC, United States.
+FAU - Williamson, Yuping
+AU  - Williamson Y
+AD  - Lonza Inc., United States.
+FAU - Adelman, Steven J
+AU  - Adelman SJ
+AD  - VascularStrategies LLC, United States.
+FAU - Owen, Kevin
+AU  - Owen K
+AD  - Lonza Inc., United States.
+FAU - Sanli, Toran
+AU  - Sanli T
+AD  - KGK Synergize Inc., Canada.
+FAU - Bellamine, Aouatef
+AU  - Bellamine A
+AD  - Lonza Inc., United States. Electronic address: aouatef.bellamine@lonza.com.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20151102
+PL  - Ireland
+TA  - Atherosclerosis
+JT  - Atherosclerosis
+JID - 0242543
+RN  - 0 (Apolipoproteins E)
+RN  - 0 (CETP protein, human)
+RN  - 0 (Cholesterol Ester Transfer Proteins)
+RN  - 0 (Methylamines)
+RN  - FLD0K1SJ1A (trimethyloxamine)
+RN  - S7UI8SM58A (Carnitine)
+SB  - IM
+MH  - Animals
+MH  - Apolipoproteins E/genetics
+MH  - Atherosclerosis/*blood
+MH  - Carnitine/*pharmacokinetics
+MH  - Cells, Cultured
+MH  - Cholesterol Ester Transfer Proteins/*biosynthesis
+MH  - Disease Models, Animal
+MH  - Disease Progression
+MH  - Humans
+MH  - Macrophages/metabolism/pathology
+MH  - Male
+MH  - Methylamines/*blood
+MH  - Mice
+MH  - Mice, Knockout
+OTO - NOTNLM
+OT  - Atherosclerosis
+OT  - Cardiovascular disease
+OT  - Gut microbiota
+OT  - TMAO
+OT  - l-carnitine
+EDAT- 2015/11/20 06:00
+MHDA- 2016/10/12 06:00
+CRDT- 2015/11/20 06:00
+PHST- 2015/05/01 00:00 [received]
+PHST- 2015/09/16 00:00 [revised]
+PHST- 2015/10/27 00:00 [accepted]
+PHST- 2015/11/20 06:00 [entrez]
+PHST- 2015/11/20 06:00 [pubmed]
+PHST- 2016/10/12 06:00 [medline]
+AID - S0021-9150(15)30192-1 [pii]
+AID - 10.1016/j.atherosclerosis.2015.10.108 [doi]
+PST - ppublish
+SO  - Atherosclerosis. 2016 Jan;244:29-37. doi: 10.1016/j.atherosclerosis.2015.10.108. 
+      Epub 2015 Nov 2.
+
+PMID- 26751065
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20160629
+LR  - 20220316
+IS  - 1932-6203 (Electronic)
+IS  - 1932-6203 (Linking)
+VI  - 11
+IP  - 1
+DP  - 2016
+TI  - Serum Trimethylamine-N-Oxide Is Strongly Related to Renal Function and Predicts 
+      Outcome in Chronic Kidney Disease.
+PG  - e0141738
+LID - 10.1371/journal.pone.0141738 [doi]
+LID - e0141738
+AB  - BACKGROUND: The microbial metabolite Trimethylamine-N-oxide (TMAO) has been 
+      linked to adverse cardiovascular outcome and mortality in the general population. 
+      OBJECTIVE: To assess the contribution of TMAO to inflammation and mortality in 
+      chronic kidney disease (CKD) patients ranging from mild-moderate to end-stage 
+      disease and 1) associations with glomerular filtration rate (GFR) 2) effect of 
+      dialysis and renal transplantation (Rtx) 3) association with inflammatory 
+      biomarkers and 4) its predictive value for all-cause mortality. METHODS: Levels 
+      of metabolites were quantified by a novel liquid chromatography/tandem mass 
+      spectrometry-based method in fasting plasma samples from 80 controls and 179 CKD 
+      3-5 patients. Comorbidities, nutritional status, biomarkers of inflammation and 
+      GFR were assessed. RESULTS: GFR was the dominant variable affecting TMAO (beta = 
+      -0.41; p<0.001), choline (beta = -0.38; p<0.001), and betaine (beta = 0.45; p<0.001) 
+      levels. A longitudinal study of 74 CKD 5 patients starting renal replacement 
+      therapy demonstrated that whereas dialysis treatment did not affect TMAO, Rtx 
+      reduced levels of TMAO to that of controls (p<0.001). Following Rtx choline and 
+      betaine levels continued to increase. In CKD 3-5, TMAO levels were associated 
+      with IL-6 (Rho = 0.42; p<0.0001), fibrinogen (Rho = 0.43; p<0.0001) and hsCRP 
+      (Rho = 0.17; p = 0.022). Higher TMAO levels were associated with an increased 
+      risk for all-cause mortality that remained significant after multivariate 
+      adjustment (HR 4.32, 95% CI 1.32-14.2; p = 0.016). CONCLUSION: Elevated TMAO 
+      levels are strongly associated with degree of renal function in CKD and normalize 
+      after renal transplantation. TMAO levels correlates with increased systemic 
+      inflammation and is an independent predictor of mortality in CKD 3-5 patients.
+FAU - Missailidis, Catharina
+AU  - Missailidis C
+AD  - Department of Laboratory Medicine, Division of Clinical Microbiology, Karolinska 
+      University Hospital, Stockholm, Sweden.
+FAU - Hallqvist, Jenny
+AU  - Hallqvist J
+AD  - Department of Forest Genetics and Plant Physiology, Swedish Metabolomics Centre, 
+      Swedish University of Agricultural Sciences, Umea, Sweden.
+FAU - Qureshi, Abdel Rashid
+AU  - Qureshi AR
+AD  - Department of Clinical Science Intervention and Technology. Division of Renal 
+      Medicine, Karolinska University Hospital Huddinge, Stockholm, Sweden.
+FAU - Barany, Peter
+AU  - Barany P
+AD  - Department of Clinical Science Intervention and Technology. Division of Renal 
+      Medicine, Karolinska University Hospital Huddinge, Stockholm, Sweden.
+FAU - Heimburger, Olof
+AU  - Heimburger O
+AD  - Department of Clinical Science Intervention and Technology. Division of Renal 
+      Medicine, Karolinska University Hospital Huddinge, Stockholm, Sweden.
+FAU - Lindholm, Bengt
+AU  - Lindholm B
+AD  - Department of Clinical Science Intervention and Technology. Division of Renal 
+      Medicine, Karolinska University Hospital Huddinge, Stockholm, Sweden.
+FAU - Stenvinkel, Peter
+AU  - Stenvinkel P
+AD  - Department of Clinical Science Intervention and Technology. Division of Renal 
+      Medicine, Karolinska University Hospital Huddinge, Stockholm, Sweden.
+FAU - Bergman, Peter
+AU  - Bergman P
+AD  - Department of Laboratory Medicine, Division of Clinical Microbiology, Karolinska 
+      University Hospital, Stockholm, Sweden.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20160111
+PL  - United States
+TA  - PLoS One
+JT  - PloS one
+JID - 101285081
+RN  - 0 (Biomarkers)
+RN  - 0 (IL6 protein, human)
+RN  - 0 (Interleukin-6)
+RN  - 0 (Methylamines)
+RN  - 3SCV180C9W (Betaine)
+RN  - 9001-32-5 (Fibrinogen)
+RN  - 9007-41-4 (C-Reactive Protein)
+RN  - FLD0K1SJ1A (trimethyloxamine)
+RN  - N91BDP6H0X (Choline)
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Betaine/blood
+MH  - Biomarkers/blood
+MH  - C-Reactive Protein/metabolism
+MH  - Cardiovascular Diseases/*blood/*diagnosis/etiology/mortality
+MH  - Choline/blood
+MH  - Female
+MH  - Fibrinogen/metabolism
+MH  - Glomerular Filtration Rate
+MH  - Humans
+MH  - Inflammation
+MH  - Interleukin-6/blood
+MH  - *Kidney Transplantation
+MH  - Longitudinal Studies
+MH  - Male
+MH  - Methylamines/*blood
+MH  - Middle Aged
+MH  - Multivariate Analysis
+MH  - Prognosis
+MH  - Renal Dialysis
+MH  - Renal Insufficiency, Chronic/*blood/complications/*diagnosis/mortality
+MH  - Severity of Illness Index
+MH  - Survival Analysis
+PMC - PMC4709190
+COIS- Competing Interests: The authors have declared that no competing interests exist.
+EDAT- 2016/01/12 06:00
+MHDA- 2016/06/30 06:00
+PMCR- 2016/01/11
+CRDT- 2016/01/12 06:00
+PHST- 2015/08/04 00:00 [received]
+PHST- 2015/12/21 00:00 [accepted]
+PHST- 2016/01/12 06:00 [entrez]
+PHST- 2016/01/12 06:00 [pubmed]
+PHST- 2016/06/30 06:00 [medline]
+PHST- 2016/01/11 00:00 [pmc-release]
+AID - PONE-D-15-34186 [pii]
+AID - 10.1371/journal.pone.0141738 [doi]
+PST - epublish
+SO  - PLoS One. 2016 Jan 11;11(1):e0141738. doi: 10.1371/journal.pone.0141738. 
+      eCollection 2016.
+
+PMID- 27190056
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20180111
+LR  - 20250530
+IS  - 1521-009X (Electronic)
+IS  - 0090-9556 (Print)
+IS  - 0090-9556 (Linking)
+VI  - 44
+IP  - 11
+DP  - 2016 Nov
+TI  - Trimethylamine and Trimethylamine N-Oxide, a Flavin-Containing Monooxygenase 3 
+      (FMO3)-Mediated Host-Microbiome Metabolic Axis Implicated in Health and Disease.
+PG  - 1839-1850
+AB  - Flavin-containing monooxygenase 3 (FMO3) is known primarily as an enzyme involved 
+      in the metabolism of therapeutic drugs. On a daily basis, however, we are exposed 
+      to one of the most abundant substrates of the enzyme trimethylamine (TMA), which 
+      is released from various dietary components by the action of gut bacteria. FMO3 
+      converts the odorous TMA to nonodorous TMA N-oxide (TMAO), which is excreted in 
+      urine. Impaired FMO3 activity gives rise to the inherited disorder primary 
+      trimethylaminuria (TMAU). Affected individuals cannot produce TMAO and, 
+      consequently, excrete large amounts of TMA. A dysbiosis in gut bacteria can give 
+      rise to secondary TMAU. Recently, there has been much interest in FMO3 and its 
+      catalytic product, TMAO, because TMAO has been implicated in various conditions 
+      affecting health, including cardiovascular disease, reverse cholesterol 
+      transport, and glucose and lipid homeostasis. In this review, we consider the 
+      dietary components that can give rise to TMA, the gut bacteria involved in the 
+      production of TMA from dietary precursors, the metabolic reactions by which 
+      bacteria produce and use TMA, and the enzymes that catalyze the reactions. Also 
+      included is information on bacteria that produce TMA in the oral cavity and 
+      vagina, two key microbiome niches that can influence health. Finally, we discuss 
+      the importance of the TMA/TMAO microbiome-host axis in health and disease, 
+      considering factors that affect bacterial production and host metabolism of TMA, 
+      the involvement of TMAO and FMO3 in disease, and the implications of the 
+      host-microbiome axis for management of TMAU.
+CI  - Copyright (c) 2016 The Author(s).
+FAU - Fennema, Diede
+AU  - Fennema D
+AD  - Institute of Structural and Molecular Biology, University College London (D.F., 
+      I.R.P., E.A.S.), and School of Biological and Chemical Sciences, Queen Mary 
+      University of London (I.R.P.), London, United Kingdom.
+FAU - Phillips, Ian R
+AU  - Phillips IR
+AD  - Institute of Structural and Molecular Biology, University College London (D.F., 
+      I.R.P., E.A.S.), and School of Biological and Chemical Sciences, Queen Mary 
+      University of London (I.R.P.), London, United Kingdom.
+FAU - Shephard, Elizabeth A
+AU  - Shephard EA
+AUID- ORCID: 0000-0003-4905-0502
+AD  - Institute of Structural and Molecular Biology, University College London (D.F., 
+      I.R.P., E.A.S.), and School of Biological and Chemical Sciences, Queen Mary 
+      University of London (I.R.P.), London, United Kingdom e.shephard@ucl.ac.uk.
+LA  - eng
+GR  - MR/K015494/1/MRC_/Medical Research Council/United Kingdom
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+DEP - 20160517
+PL  - Netherlands
+TA  - Drug Metab Dispos
+JT  - Drug metabolism and disposition: the biological fate of chemicals
+JID - 9421550
+RN  - 0 (Methylamines)
+RN  - EC 1.13.- (Oxygenases)
+RN  - EC 1.14.13.8 (dimethylaniline monooxygenase (N-oxide forming))
+RN  - FLD0K1SJ1A (trimethyloxamine)
+RN  - LHH7G8O305 (trimethylamine)
+SB  - IM
+EIN - Drug Metab Dispos. 2016 Dec;44(12):1949. doi: 10.1124/dmd.115.070615err. PMID: 
+      27806989
+MH  - Animals
+MH  - Cardiovascular Diseases/*metabolism
+MH  - Gastrointestinal Microbiome/*drug effects
+MH  - Host-Pathogen Interactions/*drug effects
+MH  - Humans
+MH  - Methylamines/*metabolism/*pharmacology
+MH  - Oxygenases/*metabolism
+PMC - PMC5074467
+EDAT- 2016/10/21 06:00
+MHDA- 2018/01/13 06:00
+PMCR- 2016/11/01
+CRDT- 2016/05/19 06:00
+PHST- 2016/03/22 00:00 [received]
+PHST- 2016/05/13 00:00 [accepted]
+PHST- 2016/10/21 06:00 [pubmed]
+PHST- 2018/01/13 06:00 [medline]
+PHST- 2016/05/19 06:00 [entrez]
+PHST- 2016/11/01 00:00 [pmc-release]
+AID - S0090-9556(24)09935-5 [pii]
+AID - DMD_070615 [pii]
+AID - 10.1124/dmd.116.070615 [doi]
+PST - ppublish
+SO  - Drug Metab Dispos. 2016 Nov;44(11):1839-1850. doi: 10.1124/dmd.116.070615. Epub 
+      2016 May 17.
+
+PMID- 28807612
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20180525
+LR  - 20250530
+IS  - 1523-1755 (Electronic)
+IS  - 0085-2538 (Linking)
+VI  - 92
+IP  - 4
+DP  - 2017 Oct
+TI  - The role of trimethylamine N-oxide as a mediator of cardiovascular complications 
+      in chronic kidney disease.
+PG  - 809-815
+LID - S0085-2538(17)30397-6 [pii]
+LID - 10.1016/j.kint.2017.03.053 [doi]
+AB  - Patients with chronic kidney disease (CKD) have an enhanced risk of 
+      cardiovascular (CV) morbidity and mortality when compared with age- and 
+      gender-matched individuals with normal kidney function. Trimethlyamine N-oxide 
+      (TMAO) is a gut-derived amine oxide that has been implicated in the causation of 
+      CV diseases. Plasma TMAO is cleared by the kidney, and TMAO levels are elevated 
+      in CKD. Experimental studies have identified pathogenic mechanisms by which TMAO 
+      may contribute to CV disease through dysregulation of lipid metabolism, enhanced 
+      macrophage foam cell formation, and platelet dysfunction. Safe and well-tolerated 
+      therapeutic interventions such as pre- and probiotics, which modify the gut 
+      microbiome, offer the opportunity for interventional studies. This review 
+      examines the pathogenicity of TMAO, its value as a biomarker, and its potential 
+      as a therapeutic target in the context of CKD.
+CI  - Copyright (c) 2017 International Society of Nephrology. Published by Elsevier Inc. 
+      All rights reserved.
+FAU - Tomlinson, James A P
+AU  - Tomlinson JAP
+AD  - Institute of Clinical Sciences, Faculty of Medicine, Imperial College London, 
+      London, UK; MRC London Institute of Medical Sciences, Imperial College London, 
+      London, UK. Electronic address: j.tomlinson@imperial.ac.uk.
+FAU - Wheeler, David C
+AU  - Wheeler DC
+AD  - Centre for Nephrology, University College London, London, UK.
+LA  - eng
+GR  - MC_UP_1102/12/MRC_/Medical Research Council/United Kingdom
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+DEP - 20170812
+PL  - United States
+TA  - Kidney Int
+JT  - Kidney international
+JID - 0323470
+RN  - 0 (Biomarkers)
+RN  - 0 (Methylamines)
+RN  - FLD0K1SJ1A (trimethyloxamine)
+SB  - IM
+MH  - Biomarkers/blood/metabolism
+MH  - Cardiovascular Diseases/blood/epidemiology/*etiology/prevention & control
+MH  - Diet Therapy/methods
+MH  - Gastrointestinal Microbiome/drug effects/immunology
+MH  - Humans
+MH  - Kidney/metabolism
+MH  - *Lipid Metabolism
+MH  - Methylamines/blood/*metabolism
+MH  - Probiotics/pharmacology/therapeutic use
+MH  - Renal Elimination
+MH  - Renal Insufficiency, Chronic/blood/*complications/epidemiology/therapy
+MH  - Risk Factors
+OTO - NOTNLM
+OT  - cardiovascular disease
+OT  - chronic kidney disease
+OT  - microbiome
+EDAT- 2017/08/16 06:00
+MHDA- 2018/05/26 06:00
+CRDT- 2017/08/16 06:00
+PHST- 2017/02/02 00:00 [received]
+PHST- 2017/03/06 00:00 [revised]
+PHST- 2017/03/09 00:00 [accepted]
+PHST- 2017/08/16 06:00 [pubmed]
+PHST- 2018/05/26 06:00 [medline]
+PHST- 2017/08/16 06:00 [entrez]
+AID - S0085-2538(17)30397-6 [pii]
+AID - 10.1016/j.kint.2017.03.053 [doi]
+PST - ppublish
+SO  - Kidney Int. 2017 Oct;92(4):809-815. doi: 10.1016/j.kint.2017.03.053. Epub 2017 
+      Aug 12.
+
+PMID- 29020409
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20180618
+LR  - 20250623
+IS  - 1522-9645 (Electronic)
+IS  - 0195-668X (Linking)
+VI  - 38
+IP  - 39
+DP  - 2017 Oct 14
+TI  - Gut microbe-generated metabolite trimethylamine-N-oxide as cardiovascular risk 
+      biomarker: a systematic review and dose-response meta-analysis.
+PG  - 2948-2956
+LID - 10.1093/eurheartj/ehx342 [doi]
+AB  - AIMS: Gut microbiota-derived metabolite trimethylamine-N-oxide (TMAO) is emerging 
+      as a new potentially important cause of increased cardiovascular risk. The 
+      purpose of this meta-analysis was to systematically estimate and quantify the 
+      association between TMAO plasma levels, mortality, and major adverse cardio and 
+      cerebrovascular events (MACCE). METHODS AND RESULTS: MEDLINE, ISI Web of Science, 
+      and SCOPUS databases were searched for ad hoc studies published up to April 2017. 
+      Associations between TMAO plasma levels, all-cause mortality (primary outcome) 
+      and MACCE (secondary outcome) were systematically addressed. A total of 17 
+      clinical studies were included in the analytic synthesis, enrolling 26 167 
+      subjects. The mean follow-up in our study population was 4.3 +/- 1.5 years. High 
+      TMAO plasma levels were associated with increased incidence of all-cause 
+      mortality [14 studies for 16 cohorts enrolling 15 662 subjects, hazard ratio 
+      (HR): 1.91; 95% confidence interval (CI): 1.40-2.61, P < 0.0001, I2 = 94%] and 
+      MACCE (5 studies for 6 cohorts enrolling 13 944 subjects, HR: 1.67, 95% CI: 
+      1.33-2.11, P < 0.00001, I2 = 46%,). Dose-response meta-analysis revealed that the 
+      relative risk (RR) for all-cause mortality increased by 7.6% per each 10 mumol/L 
+      increment of TMAO [summary RR: 1.07, 95% CI (1.04-1.11), P < 0.0001; based on 
+      seven studies]. Association of TMAO and mortality persisted in all examined 
+      subgroups and across all subject populations. CONCLUSIONS: This is the first 
+      systematic review and meta-analysis demonstrating the positive dose-dependent 
+      association between TMAO plasma levels and increased cardiovascular risk and 
+      mortality.
+CI  - Published on behalf of the European Society of Cardiology. All rights reserved. (c) 
+      The Author 2017. For permissions, please email: journals.permissions@oup.com.
+FAU - Schiattarella, Gabriele Giacomo
+AU  - Schiattarella GG
+AD  - Department of Advanced Biomedical Sciences, Federico II University, Via Pansini 
+      5, 80131 Naples, Italy.
+AD  - Department of Internal Medicine, Cardiology, University of Texas Southwestern 
+      Medical Center, 6000 Harry Hines Blvd, 75390-8573 Dallas, TX, USA.
+FAU - Sannino, Anna
+AU  - Sannino A
+AD  - Department of Advanced Biomedical Sciences, Federico II University, Via Pansini 
+      5, 80131 Naples, Italy.
+AD  - Baylor Heart and Vascular Hospital, Baylor Research Institute, Department of 
+      Cardiology, 621 North Hall Street, 75226 Dallas, TX, USA.
+FAU - Toscano, Evelina
+AU  - Toscano E
+AD  - Department of Advanced Biomedical Sciences, Federico II University, Via Pansini 
+      5, 80131 Naples, Italy.
+FAU - Giugliano, Giuseppe
+AU  - Giugliano G
+AD  - Department of Advanced Biomedical Sciences, Federico II University, Via Pansini 
+      5, 80131 Naples, Italy.
+FAU - Gargiulo, Giuseppe
+AU  - Gargiulo G
+AD  - Department of Advanced Biomedical Sciences, Federico II University, Via Pansini 
+      5, 80131 Naples, Italy.
+AD  - Department of Cardiology, Bern University Hospital, Freiburgstrasse 4, 3010 Bern, 
+      Switzerland.
+FAU - Franzone, Anna
+AU  - Franzone A
+AD  - Department of Advanced Biomedical Sciences, Federico II University, Via Pansini 
+      5, 80131 Naples, Italy.
+AD  - Department of Cardiology, Bern University Hospital, Freiburgstrasse 4, 3010 Bern, 
+      Switzerland.
+FAU - Trimarco, Bruno
+AU  - Trimarco B
+AD  - Department of Advanced Biomedical Sciences, Federico II University, Via Pansini 
+      5, 80131 Naples, Italy.
+FAU - Esposito, Giovanni
+AU  - Esposito G
+AD  - Department of Advanced Biomedical Sciences, Federico II University, Via Pansini 
+      5, 80131 Naples, Italy.
+FAU - Perrino, Cinzia
+AU  - Perrino C
+AD  - Department of Advanced Biomedical Sciences, Federico II University, Via Pansini 
+      5, 80131 Naples, Italy.
+LA  - eng
+PT  - Journal Article
+PT  - Meta-Analysis
+PT  - Systematic Review
+PL  - England
+TA  - Eur Heart J
+JT  - European heart journal
+JID - 8006263
+RN  - 0 (Biomarkers)
+RN  - 0 (Methylamines)
+RN  - FLD0K1SJ1A (trimethyloxamine)
+SB  - IM
+MH  - Aged
+MH  - Biomarkers/metabolism
+MH  - Cardiovascular Diseases/*blood/etiology/mortality
+MH  - Cause of Death
+MH  - Dose-Response Relationship, Drug
+MH  - Female
+MH  - Gastrointestinal Microbiome/*physiology
+MH  - Humans
+MH  - Male
+MH  - Methylamines/*metabolism
+MH  - Middle Aged
+MH  - Myocardial Infarction/blood/etiology/mortality
+MH  - Risk Factors
+MH  - Stroke/blood/etiology/mortality
+OTO - NOTNLM
+OT  - Cardiovascular risk
+OT  - Meta-analysis
+OT  - Microbiota
+OT  - Outcomes
+OT  - Trimethylamine-N-oxide (TMAO)
+EDAT- 2017/10/12 06:00
+MHDA- 2018/06/19 06:00
+CRDT- 2017/10/12 06:00
+PHST- 2016/10/05 00:00 [received]
+PHST- 2017/06/05 00:00 [accepted]
+PHST- 2017/10/12 06:00 [pubmed]
+PHST- 2018/06/19 06:00 [medline]
+PHST- 2017/10/12 06:00 [entrez]
+AID - 3953914 [pii]
+AID - 10.1093/eurheartj/ehx342 [doi]
+PST - ppublish
+SO  - Eur Heart J. 2017 Oct 14;38(39):2948-2956. doi: 10.1093/eurheartj/ehx342.
+
+PMID- 29581220
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20191101
+LR  - 20250530
+IS  - 2047-9980 (Electronic)
+IS  - 2047-9980 (Linking)
+VI  - 7
+IP  - 7
+DP  - 2018 Mar 26
+TI  - Effect of Vegan Fecal Microbiota Transplantation on Carnitine- and 
+      Choline-Derived Trimethylamine-N-Oxide Production and Vascular Inflammation in 
+      Patients With Metabolic Syndrome.
+LID - 10.1161/JAHA.117.008342 [doi]
+LID - e008342
+AB  - BACKGROUND: Intestinal microbiota have been found to be linked to cardiovascular 
+      disease via conversion of the dietary compounds choline and carnitine to the 
+      atherogenic metabolite TMAO (trimethylamine-N-oxide). Specifically, a vegan diet 
+      was associated with decreased plasma TMAO levels and nearly absent TMAO 
+      production on carnitine challenge. METHODS AND RESULTS: We performed a 
+      double-blind randomized controlled pilot study in which 20 male metabolic 
+      syndrome patients were randomized to single lean vegan-donor or autologous fecal 
+      microbiota transplantation. At baseline and 2 weeks thereafter, we determined the 
+      ability to produce TMAO from d(6)-choline and d(3)-carnitine (eg, labeled and 
+      unlabeled TMAO in plasma and 24-hour urine after oral ingestion of 250 mg of both 
+      isotope-labeled precursor nutrients), and fecal samples were collected for 
+      analysis of microbiota composition. (18)F-fluorodeoxyglucose positron emission 
+      tomography/computed tomography scans of the abdominal aorta, as well as ex vivo 
+      peripheral blood mononuclear cell cytokine production assays, were performed. At 
+      baseline, fecal microbiota composition differed significantly between vegans and 
+      metabolic syndrome patients. With vegan-donor fecal microbiota transplantation, 
+      intestinal microbiota composition in metabolic syndrome patients, as monitored by 
+      global fecal microbial community structure, changed toward a vegan profile in 
+      some of the patients; however, no functional effects from vegan-donor fecal 
+      microbiota transplantation were seen on TMAO production, abdominal aortic 
+      (18)F-fluorodeoxyglucose uptake, or ex vivo cytokine production from peripheral 
+      blood mononuclear cells. CONCLUSIONS: Single lean vegan-donor fecal microbiota 
+      transplantation in metabolic syndrome patients resulted in detectable changes in 
+      intestinal microbiota composition but failed to elicit changes in TMAO production 
+      capacity or parameters related to vascular inflammation. CLINICAL TRIAL 
+      REGISTRATION: URL: http://www.trialregister.nl. Unique identifier: NTR 4338.
+CI  - (c) 2018 The Authors. Published on behalf of the American Heart Association, Inc., 
+      by Wiley.
+FAU - Smits, Loek P
+AU  - Smits LP
+AD  - Department of Vascular Medicine, Academic Medical Center, University of 
+      Amsterdam, The Netherlands.
+FAU - Kootte, Ruud S
+AU  - Kootte RS
+AD  - Department of Vascular Medicine, Academic Medical Center, University of 
+      Amsterdam, The Netherlands.
+FAU - Levin, Evgeni
+AU  - Levin E
+AD  - Department of Vascular Medicine, Academic Medical Center, University of 
+      Amsterdam, The Netherlands.
+FAU - Prodan, Andrei
+AU  - Prodan A
+AD  - Department of Vascular Medicine, Academic Medical Center, University of 
+      Amsterdam, The Netherlands.
+FAU - Fuentes, Susana
+AU  - Fuentes S
+AD  - Laboratory of Microbiology, Wageningen University and Research Center, 
+      Wageningen, The Netherlands.
+FAU - Zoetendal, Erwin G
+AU  - Zoetendal EG
+AD  - Laboratory of Microbiology, Wageningen University and Research Center, 
+      Wageningen, The Netherlands.
+FAU - Wang, Zeneng
+AU  - Wang Z
+AD  - Department of Cellular and Molecular Medicine, Lerner Research Institute 
+      Cleveland Clinic, Cleveland, OH.
+FAU - Levison, Bruce S
+AU  - Levison BS
+AD  - Department of Cellular and Molecular Medicine, Lerner Research Institute 
+      Cleveland Clinic, Cleveland, OH.
+AD  - Department of Pediatrics, College of Medicine and Life Sciences, University of 
+      Toledo, OH.
+FAU - Cleophas, Maartje C P
+AU  - Cleophas MCP
+AD  - Department of Internal Medicine and Radboud Center for Infectious Diseases (RCI), 
+      Radboud University Medical Center, Nijmegen, The Netherlands.
+FAU - Kemper, E Marleen
+AU  - Kemper EM
+AD  - Department of Clinical Pharmacy, Academic Medical Center, University of 
+      Amsterdam, The Netherlands.
+FAU - Dallinga-Thie, Geesje M
+AU  - Dallinga-Thie GM
+AD  - Department of Vascular Medicine, Academic Medical Center, University of 
+      Amsterdam, The Netherlands.
+FAU - Groen, Albert K
+AU  - Groen AK
+AD  - Department of Vascular Medicine, Academic Medical Center, University of 
+      Amsterdam, The Netherlands.
+FAU - Joosten, Leo A B
+AU  - Joosten LAB
+AD  - Department of Internal Medicine and Radboud Center for Infectious Diseases (RCI), 
+      Radboud University Medical Center, Nijmegen, The Netherlands.
+FAU - Netea, Mihai G
+AU  - Netea MG
+AD  - Department of Internal Medicine and Radboud Center for Infectious Diseases (RCI), 
+      Radboud University Medical Center, Nijmegen, The Netherlands.
+FAU - Stroes, Erik S G
+AU  - Stroes ESG
+AD  - Department of Vascular Medicine, Academic Medical Center, University of 
+      Amsterdam, The Netherlands.
+FAU - de Vos, Willem M
+AU  - de Vos WM
+AD  - Laboratory of Microbiology, Wageningen University and Research Center, 
+      Wageningen, The Netherlands.
+AD  - Immunobiology Research Program, Department of Bacteriology and Immunology, 
+      University of Helsinki, Finland.
+FAU - Hazen, Stanley L
+AU  - Hazen SL
+AD  - Department of Cellular and Molecular Medicine, Lerner Research Institute 
+      Cleveland Clinic, Cleveland, OH.
+FAU - Nieuwdorp, Max
+AU  - Nieuwdorp M
+AD  - Department of Vascular Medicine, Academic Medical Center, University of 
+      Amsterdam, The Netherlands m.nieuwdorp@amc.uva.nl.
+AD  - Department of Internal Medicine, VUMC Free University, Amsterdam, The 
+      Netherlands.
+AD  - Wallenberg Laboratory, Sahlgrenska Hospital, University of Gothenburg, Sweden.
+LA  - eng
+SI  - NTR/NTR 4338
+GR  - R01 DK106000/DK/NIDDK NIH HHS/United States
+GR  - R01 HL103866/HL/NHLBI NIH HHS/United States
+GR  - R01 HL126827/HL/NHLBI NIH HHS/United States
+GR  - P20 HL113452/HL/NHLBI NIH HHS/United States
+GR  - R01 HL135920/HL/NHLBI NIH HHS/United States
+GR  - 250172/ERC_/European Research Council/International
+GR  - 310372/ERC_/European Research Council/International
+GR  - R01 HL130819/HL/NHLBI NIH HHS/United States
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20180326
+PL  - England
+TA  - J Am Heart Assoc
+JT  - Journal of the American Heart Association
+JID - 101580524
+RN  - 0 (Cytokines)
+RN  - 0 (Inflammation Mediators)
+RN  - 0 (Methylamines)
+RN  - FLD0K1SJ1A (trimethyloxamine)
+RN  - N91BDP6H0X (Choline)
+RN  - S7UI8SM58A (Carnitine)
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Bacteria/*metabolism
+MH  - Carnitine/metabolism
+MH  - Choline/*metabolism
+MH  - Cytokines/*metabolism
+MH  - *Diet, Vegan
+MH  - Double-Blind Method
+MH  - *Fecal Microbiota Transplantation/adverse effects
+MH  - Feces/microbiology
+MH  - *Gastrointestinal Microbiome
+MH  - Humans
+MH  - Inflammation Mediators/*metabolism
+MH  - Male
+MH  - Metabolic Syndrome/diagnosis/microbiology/*therapy
+MH  - Methylamines/*metabolism
+MH  - Middle Aged
+MH  - Netherlands
+MH  - Pilot Projects
+MH  - Time Factors
+MH  - Treatment Outcome
+MH  - Vasculitis/diagnosis/microbiology/*therapy
+MH  - Young Adult
+PMC - PMC5907601
+OTO - NOTNLM
+OT  - atherosclerosis
+OT  - cardiovascular disease
+OT  - cardiovascular imaging
+OT  - inflammation
+OT  - metabolism
+EDAT- 2018/03/28 06:00
+MHDA- 2019/11/02 06:00
+PMCR- 2018/04/03
+CRDT- 2018/03/28 06:00
+PHST- 2018/03/28 06:00 [entrez]
+PHST- 2018/03/28 06:00 [pubmed]
+PHST- 2019/11/02 06:00 [medline]
+PHST- 2018/04/03 00:00 [pmc-release]
+AID - JAHA.117.008342 [pii]
+AID - JAH33052 [pii]
+AID - 10.1161/JAHA.117.008342 [doi]
+PST - epublish
+SO  - J Am Heart Assoc. 2018 Mar 26;7(7):e008342. doi: 10.1161/JAHA.117.008342.
+
+PMID- 30341034
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200716
+LR  - 20200716
+IS  - 1532-8503 (Electronic)
+IS  - 1051-2276 (Linking)
+VI  - 29
+IP  - 3
+DP  - 2019 May
+TI  - The Renal Safety of L-Carnitine, L-Arginine, and Glutamine in Athletes and 
+      Bodybuilders.
+PG  - 221-234
+LID - S1051-2276(18)30197-3 [pii]
+LID - 10.1053/j.jrn.2018.08.014 [doi]
+AB  - One of the major concerns about taking amino acid supplements is their potential 
+      adverse effects on the kidney as a major organ involved in the metabolism and 
+      excretion of exogenous substances. The aim of this study is to review available 
+      data about renal safety of the most prominent amino acid supplements including 
+      L-arginine, glutamine and also L-carnitine as well as creatine (as amino acid 
+      derivatives) in athletes and bodybuilders. The literature was searched by 
+      keywords such as "L-carnitine", "L-arginine", "glutamine", and "kidney injury" in 
+      databases such as Scopus, Medline, Embase, and ISI Web of Knowledge. Articles 
+      published from 1950 to December 2017 were included. Among 3171, 5740, and 1608 
+      records after primary search in the relevant databases, 8, 7, and 5 studies have 
+      been finally included, respectively, for L-carnitine, L-arginine, and glutamine 
+      in this review. Arginine appears to have both beneficial and detrimental effects 
+      on kidney function. However, adverse effects are unlikely to occur with the 
+      routine doses (from 3 to >100 g/day). The risks and benefits of L-carnitine on 
+      the athletes' and bodybuilders' kidney have not been evaluated yet. However, 
+      L-carnitine up to 6000 mg/day is generally considered to be a safe supplement at 
+      least in healthy adults. Both short-term (20-30 g within a few hours) and 
+      long-term (0.1 g/kg four times daily for 2 weeks) glutamine supplementation in 
+      healthy athletes were associated with no significant adverse effects, but it can 
+      cause glomerulosclerosis and serum creatinine level elevation in the setting of 
+      diabetic nephropathy. Creatine supplementation (ranged from 5 to 30 g/day) also 
+      appears to have no detrimental effects on kidney function of individuals without 
+      underlying renal diseases. More clinical data are warranted to determine the 
+      optimal daily dose and intake duration of common supplemental amino acids 
+      associated with the lowest renal adverse effects in sportsmen and sports women.
+CI  - Copyright (c) 2018 National Kidney Foundation, Inc. Published by Elsevier Inc. All 
+      rights reserved.
+FAU - Davani-Davari, Dorna
+AU  - Davani-Davari D
+AD  - Pharmaceutical Biotechnology Incubator, Faculty of Pharmacy, Shiraz University of 
+      Medical Sciences, Shiraz, Iran.
+FAU - Karimzadeh, Iman
+AU  - Karimzadeh I
+AD  - Department of Clinical Pharmacy, Faculty of Pharmacy, Shiraz University of 
+      Medical Sciences, Shiraz, Iran. Electronic address: karimzadehiman@yahoo.com.
+FAU - Sagheb, Mohammad Mahdi
+AU  - Sagheb MM
+AD  - Nephrology-Urology Research Center and Department of Internal Medicine, Shiraz 
+      University of Medical Sciences, Shiraz, Iran.
+FAU - Khalili, Hossein
+AU  - Khalili H
+AD  - Department of Clinical Pharmacy, Faculty of Pharmacy, Tehran University of 
+      Medical Sciences, Tehran, Iran.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20181016
+PL  - United States
+TA  - J Ren Nutr
+JT  - Journal of renal nutrition : the official journal of the Council on Renal 
+      Nutrition of the National Kidney Foundation
+JID - 9112938
+RN  - 0RH81L854J (Glutamine)
+RN  - 94ZLA3W45F (Arginine)
+RN  - S7UI8SM58A (Carnitine)
+SB  - IM
+MH  - Arginine/administration & dosage/*adverse effects
+MH  - *Athletes
+MH  - Carnitine/administration & dosage/*adverse effects
+MH  - Dietary Supplements/adverse effects
+MH  - Dose-Response Relationship, Drug
+MH  - Female
+MH  - Glutamine/administration & dosage/*adverse effects
+MH  - Humans
+MH  - Kidney/drug effects
+MH  - Kidney Diseases/*chemically induced
+MH  - MEDLINE
+MH  - Male
+MH  - Risk Assessment
+EDAT- 2018/10/21 06:00
+MHDA- 2020/07/17 06:00
+CRDT- 2018/10/21 06:00
+PHST- 2018/02/03 00:00 [received]
+PHST- 2018/07/07 00:00 [revised]
+PHST- 2018/08/27 00:00 [accepted]
+PHST- 2018/10/21 06:00 [pubmed]
+PHST- 2020/07/17 06:00 [medline]
+PHST- 2018/10/21 06:00 [entrez]
+AID - S1051-2276(18)30197-3 [pii]
+AID - 10.1053/j.jrn.2018.08.014 [doi]
+PST - ppublish
+SO  - J Ren Nutr. 2019 May;29(3):221-234. doi: 10.1053/j.jrn.2018.08.014. Epub 2018 Oct 
+      16.
+
+PMID- 30377191
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190821
+LR  - 20220408
+IS  - 1468-3288 (Electronic)
+IS  - 0017-5749 (Print)
+IS  - 0017-5749 (Linking)
+VI  - 68
+IP  - 8
+DP  - 2019 Aug
+TI  - Identification of TMAO-producer phenotype and host-diet-gut dysbiosis by 
+      carnitine challenge test in human and germ-free mice.
+PG  - 1439-1449
+LID - 10.1136/gutjnl-2018-317155 [doi]
+AB  - OBJECTIVE: The gut microbiota-derived metabolite, trimethylamine N-oxide (TMAO) 
+      plays an important role in cardiovascular disease (CVD). The fasting plasma TMAO 
+      was shown as a prognostic indicator of CVD incident in patients and raised the 
+      interest of intervention targeting gut microbiota. Here we develop a clinically 
+      applicable method called oral carnitine challenge test (OCCT) for TMAO-related 
+      therapeutic drug efforts assessment and personalising dietary guidance. DESIGN: A 
+      pharmacokinetic study was performed to verify the design of OCCT protocol. The 
+      OCCT was conducted in 23 vegetarians and 34 omnivores to validate gut microbiota 
+      TMAO production capacity. The OCCT survey was integrated with gut microbiome, 
+      host genotypes, dietary records and serum biochemistry. A humanised gnotobiotic 
+      mice study was performed for translational validation. RESULTS: The OCCT showed 
+      better efficacy than fasting plasma TMAO to identify TMAO producer phenotype. The 
+      omnivores exhibited a 10-fold higher OR to be high TMAO producer than 
+      vegetarians. The TMAO-associated taxa found by OCCT in this study were consistent 
+      with previous animal studies. The TMAO producer phenotypes were also reproduced 
+      in humanised gnotobiotic mice model. Besides, we found the faecal CntA gene was 
+      not associated with TMAO production; therefore, other key relevant microbial 
+      genes might be involved. Finally, we demonstrated the urine TMAO exhibited a 
+      strong positive correlation with plasma TMAO (r=0.92, p<0.0001) and improved the 
+      feasibility of OCCT. CONCLUSION: The OCCT can be used to identify TMAO-producer 
+      phenotype of gut microbiota and may serve as a personal guidance in CVD 
+      prevention and treatment. TRIAL REGISTRATION NUMBER: NCT02838732; Results.
+CI  - (c) Author(s) (or their employer(s)) 2019. Re-use permitted under CC BY-NC. No 
+      commercial re-use. See rights and permissions. Published by BMJ.
+FAU - Wu, Wei-Kai
+AU  - Wu WK
+AD  - Department of Internal Medicine, National Taiwan University Hospital Bei-Hu 
+      Branch, Taipei, Taiwan.
+AD  - Institute of Food Science and Technology, National Taiwan University, Taipei, 
+      Taiwan.
+FAU - Chen, Chieh-Chang
+AU  - Chen CC
+AD  - Department of Internal Medicine, National Taiwan University Hospital, Taipei, 
+      Taiwan.
+FAU - Liu, Po-Yu
+AU  - Liu PY
+AD  - Department of Life Science, National Taiwan University, Taipei, Taiwan.
+AD  - Genome and Systems Biology Degree Program, Academia Sinica, Taipei, Taiwan.
+FAU - Panyod, Suraphan
+AU  - Panyod S
+AD  - Institute of Food Science and Technology, National Taiwan University, Taipei, 
+      Taiwan.
+AD  - Department of Internal Medicine, College of Medicine, National Taiwan University, 
+      Taipei, Taiwan.
+FAU - Liao, Ben-Yang
+AU  - Liao BY
+AD  - Institute of Population Health Sciences, National Health Research Institutes, 
+      Miaoli, Taiwan.
+FAU - Chen, Pei-Chen
+AU  - Chen PC
+AD  - Institute of Food Science and Technology, National Taiwan University, Taipei, 
+      Taiwan.
+FAU - Kao, Hsien-Li
+AU  - Kao HL
+AD  - Department of Internal Medicine, National Taiwan University Hospital, Taipei, 
+      Taiwan.
+FAU - Kuo, Han-Chun
+AU  - Kuo HC
+AD  - The Metabolomics Core Laboratory, Center of Genomic Medicine, National Taiwan 
+      University, Taipei, Taiwan.
+AD  - School of Pharmacy, College of Medicine, National Taiwan University, Taipei, 
+      Taiwan.
+FAU - Kuo, Ching-Hua
+AU  - Kuo CH
+AD  - The Metabolomics Core Laboratory, Center of Genomic Medicine, National Taiwan 
+      University, Taipei, Taiwan.
+AD  - School of Pharmacy, College of Medicine, National Taiwan University, Taipei, 
+      Taiwan.
+FAU - Chiu, Tina H T
+AU  - Chiu THT
+AD  - Department of Nutrition Therapy, Dalin Tzu Chi Hospital, Chiayi, Taiwan.
+FAU - Chen, Rou-An
+AU  - Chen RA
+AD  - Institute of Food Science and Technology, National Taiwan University, Taipei, 
+      Taiwan.
+FAU - Chuang, Hsiao-Li
+AU  - Chuang HL
+AD  - National Applied Research Laboratories, National Laboratory Animal Center, 
+      Taipei, Taiwan.
+FAU - Huang, Yen-Te
+AU  - Huang YT
+AD  - National Applied Research Laboratories, National Laboratory Animal Center, 
+      Taipei, Taiwan.
+FAU - Zou, Hsin-Bai
+AU  - Zou HB
+AD  - Department of Chemistry, National Taiwan University, Taipei, Taiwan.
+FAU - Hsu, Cheng-Chih
+AU  - Hsu CC
+AD  - Department of Chemistry, National Taiwan University, Taipei, Taiwan.
+FAU - Chang, Ting-Yan
+AU  - Chang TY
+AD  - Institute of Population Health Sciences, National Health Research Institutes, 
+      Miaoli, Taiwan.
+FAU - Lin, Chin-Lon
+AU  - Lin CL
+AD  - Department of Internal Medicine, Dalin Tzu Chi Hospital, Taipei, Taiwan.
+FAU - Ho, Chi-Tang
+AU  - Ho CT
+AD  - Department of Food Science, Rutgers University, New Burnswick, New Jersey, USA.
+FAU - Yu, Hon-Tsen
+AU  - Yu HT
+AD  - Department of Life Science, National Taiwan University, Taipei, Taiwan.
+AD  - Genome and Systems Biology Degree Program, Academia Sinica, Taipei, Taiwan.
+FAU - Sheen, Lee-Yan
+AU  - Sheen LY
+AD  - Institute of Food Science and Technology, National Taiwan University, Taipei, 
+      Taiwan.
+FAU - Wu, Ming-Shiang
+AU  - Wu MS
+AD  - Department of Internal Medicine, National Taiwan University Hospital, Taipei, 
+      Taiwan.
+AD  - Department of Internal Medicine, College of Medicine, National Taiwan University, 
+      Taipei, Taiwan.
+LA  - eng
+SI  - ClinicalTrials.gov/NCT02838732
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20181030
+PL  - England
+TA  - Gut
+JT  - Gut
+JID - 2985108R
+RN  - 0 (Methylamines)
+RN  - 0 (Oxidants)
+RN  - FLD0K1SJ1A (trimethyloxamine)
+RN  - S7UI8SM58A (Carnitine)
+CIN - Gut. 2020 Feb;69(2):400-401. doi: 10.1136/gutjnl-2018-318000. PMID: 30635410
+CIN - Gut. 2020 Mar;69(3):610-611. doi: 10.1136/gutjnl-2018-318187. PMID: 30796098
+MH  - Animals
+MH  - Cardiovascular Diseases/metabolism/prevention & control
+MH  - Carnitine/metabolism/*pharmacology
+MH  - Diet/methods
+MH  - *Dysbiosis/diagnosis/metabolism
+MH  - Feeding Behavior/*physiology
+MH  - Gastrointestinal Microbiome/*physiology
+MH  - Humans
+MH  - *Methylamines/metabolism/pharmacokinetics
+MH  - Mice
+MH  - Oxidants/metabolism/pharmacokinetics
+MH  - Prognosis
+MH  - Renal Elimination/physiology
+PMC - PMC6691853
+OTO - NOTNLM
+OT  - cardiovascular disease
+OT  - gut microbiota
+OT  - oral carnitine challenge test
+OT  - trimethylamine n-oxide
+COIS- Competing interests: None declared.
+EDAT- 2018/11/01 06:00
+MHDA- 2019/08/23 06:00
+PMCR- 2019/08/13
+CRDT- 2018/11/01 06:00
+PHST- 2018/07/09 00:00 [received]
+PHST- 2018/10/08 00:00 [revised]
+PHST- 2018/10/11 00:00 [accepted]
+PHST- 2018/11/01 06:00 [pubmed]
+PHST- 2019/08/23 06:00 [medline]
+PHST- 2018/11/01 06:00 [entrez]
+PHST- 2019/08/13 00:00 [pmc-release]
+AID - gutjnl-2018-317155 [pii]
+AID - 10.1136/gutjnl-2018-317155 [doi]
+PST - ppublish
+SO  - Gut. 2019 Aug;68(8):1439-1449. doi: 10.1136/gutjnl-2018-317155. Epub 2018 Oct 30.
+
+PMID- 30530985
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20191105
+LR  - 20260301
+IS  - 1558-8238 (Electronic)
+IS  - 0021-9738 (Print)
+IS  - 0021-9738 (Linking)
+VI  - 129
+IP  - 1
+DP  - 2019 Jan 2
+TI  - l-Carnitine in omnivorous diets induces an atherogenic gut microbial pathway in 
+      humans.
+PG  - 373-387
+LID - 94601 [pii]
+LID - 10.1172/JCI94601 [doi]
+AB  - BACKGROUND: l-Carnitine, an abundant nutrient in red meat, accelerates 
+      atherosclerosis in mice via gut microbiota-dependent formation of trimethylamine 
+      (TMA) and trimethylamine N-oxide (TMAO) via a multistep pathway involving an 
+      atherogenic intermediate, gamma-butyrobetaine (gammaBB). The contribution of gammaBB in gut 
+      microbiota-dependent l-carnitine metabolism in humans is unknown. METHODS: 
+      Omnivores and vegans/vegetarians ingested deuterium-labeled l-carnitine 
+      (d3-l-carnitine) or gammaBB (d9-gammaBB), and both plasma metabolites and fecal 
+      polymicrobial transformations were examined at baseline, following oral 
+      antibiotics, or following chronic (>/=2 months) l-carnitine supplementation. Human 
+      fecal commensals capable of performing each step of the l-carnitine-->gammaBB-->TMA 
+      transformation were identified. RESULTS: Studies with oral d3-l-carnitine or 
+      d9-gammaBB before versus after antibiotic exposure revealed gut microbiota 
+      contribution to the initial 2 steps in a metaorganismal l-carnitine-->gammaBB-->TMA-->TMAO 
+      pathway in subjects. Moreover, a striking increase in d3-TMAO generation was 
+      observed in omnivores over vegans/vegetarians (>20-fold; P = 0.001) following 
+      oral d3-l-carnitine ingestion, whereas fasting endogenous plasma l-carnitine and 
+      gammaBB levels were similar in vegans/vegetarians (n = 32) versus omnivores (n = 40). 
+      Fecal metabolic transformation studies, and oral isotope tracer studies before 
+      versus after chronic l-carnitine supplementation, revealed that omnivores and 
+      vegans/vegetarians alike rapidly converted carnitine to gammaBB, whereas the second 
+      gut microbial transformation, gammaBB-->TMA, was diet inducible (l-carnitine, 
+      omnivorous). Extensive anaerobic subculturing of human feces identified no single 
+      commensal capable of l-carnitine-->TMA transformation, multiple community members 
+      that converted l-carnitine to gammaBB, and only 1 Clostridiales bacterium, Emergencia 
+      timonensis, that converted gammaBB to TMA. In coculture, E. timonensis promoted the 
+      complete l-carnitine-->TMA transformation. CONCLUSION: In humans, dietary 
+      l-carnitine is converted into the atherosclerosis- and thrombosis-promoting 
+      metabolite TMAO via 2 sequential gut microbiota-dependent transformations: (a) 
+      initial rapid generation of the atherogenic intermediate gammaBB, followed by (b) 
+      transformation into TMA via low-abundance microbiota in omnivores, and to a 
+      markedly lower extent, in vegans/vegetarians. Gut microbiota gammaBB-->TMA/TMAO 
+      transformation is induced by omnivorous dietary patterns and chronic l-carnitine 
+      exposure. TRIAL REGISTRATION: ClinicalTrials.gov NCT01731236. FUNDING: NIH and 
+      Office of Dietary Supplements grants HL103866, HL126827, and DK106000, and the 
+      Leducq Foundation.
+FAU - Koeth, Robert A
+AU  - Koeth RA
+AD  - Department of Cellular and Molecular Medicine, Lerner Research Institute.
+AD  - Center for Microbiome and Human Health, and.
+AD  - Department of Cardiovascular Medicine, Cleveland Clinic, Cleveland, Ohio, USA.
+FAU - Lam-Galvez, Betzabe Rachel
+AU  - Lam-Galvez BR
+AD  - Life Sciences TPT and.
+FAU - Kirsop, Jennifer
+AU  - Kirsop J
+AD  - Department of Cellular and Molecular Medicine, Lerner Research Institute.
+AD  - Center for Microbiome and Human Health, and.
+FAU - Wang, Zeneng
+AU  - Wang Z
+AD  - Department of Cellular and Molecular Medicine, Lerner Research Institute.
+AD  - Center for Microbiome and Human Health, and.
+FAU - Levison, Bruce S
+AU  - Levison BS
+AD  - Department of Cellular and Molecular Medicine, Lerner Research Institute.
+FAU - Gu, Xiaodong
+AU  - Gu X
+AD  - Department of Cellular and Molecular Medicine, Lerner Research Institute.
+AD  - Center for Microbiome and Human Health, and.
+FAU - Copeland, Matthew F
+AU  - Copeland MF
+AD  - Life Sciences TPT and.
+FAU - Bartlett, David
+AU  - Bartlett D
+AD  - Department of Cellular and Molecular Medicine, Lerner Research Institute.
+FAU - Cody, David B
+AU  - Cody DB
+AD  - Life Sciences TPT and.
+FAU - Dai, Hong J
+AU  - Dai HJ
+AD  - Global Biosciences, The Procter & Gamble Company, Cincinnati, Ohio, USA.
+FAU - Culley, Miranda K
+AU  - Culley MK
+AD  - Department of Cellular and Molecular Medicine, Lerner Research Institute.
+FAU - Li, Xinmin S
+AU  - Li XS
+AD  - Department of Cellular and Molecular Medicine, Lerner Research Institute.
+AD  - Center for Microbiome and Human Health, and.
+FAU - Fu, Xiaoming
+AU  - Fu X
+AD  - Department of Cellular and Molecular Medicine, Lerner Research Institute.
+AD  - Center for Microbiome and Human Health, and.
+FAU - Wu, Yuping
+AU  - Wu Y
+AD  - Department of Mathematics, Cleveland State University, Cleveland, Ohio, USA.
+FAU - Li, Lin
+AU  - Li L
+AD  - Department of Cellular and Molecular Medicine, Lerner Research Institute.
+AD  - Center for Microbiome and Human Health, and.
+FAU - DiDonato, Joseph A
+AU  - DiDonato JA
+AD  - Department of Cellular and Molecular Medicine, Lerner Research Institute.
+AD  - Center for Microbiome and Human Health, and.
+FAU - Tang, W H Wilson
+AU  - Tang WHW
+AD  - Department of Cellular and Molecular Medicine, Lerner Research Institute.
+AD  - Center for Microbiome and Human Health, and.
+AD  - Department of Cardiovascular Medicine, Cleveland Clinic, Cleveland, Ohio, USA.
+FAU - Garcia-Garcia, Jose Carlos
+AU  - Garcia-Garcia JC
+AD  - Life Sciences TPT and.
+FAU - Hazen, Stanley L
+AU  - Hazen SL
+AD  - Department of Cellular and Molecular Medicine, Lerner Research Institute.
+AD  - Center for Microbiome and Human Health, and.
+AD  - Department of Cardiovascular Medicine, Cleveland Clinic, Cleveland, Ohio, USA.
+LA  - eng
+SI  - ClinicalTrials.gov/NCT01731236
+GR  - R01 DK106000/DK/NIDDK NIH HHS/United States
+GR  - R01 HL103866/HL/NHLBI NIH HHS/United States
+GR  - R01 HL126827/HL/NHLBI NIH HHS/United States
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20181210
+PL  - United States
+TA  - J Clin Invest
+JT  - The Journal of clinical investigation
+JID - 7802877
+RN  - 0 (Methylamines)
+RN  - 3SCV180C9W (Betaine)
+RN  - 407-64-7 (gamma-butyrobetaine)
+RN  - FLD0K1SJ1A (trimethyloxamine)
+RN  - LHH7G8O305 (trimethylamine)
+RN  - S7UI8SM58A (Carnitine)
+SB  - IM
+MH  - Animals
+MH  - *Atherosclerosis/metabolism/microbiology/pathology
+MH  - Betaine/*analogs & derivatives/blood
+MH  - Carnitine/*blood
+MH  - Eubacteriales/*metabolism
+MH  - Female
+MH  - *Gastrointestinal Microbiome
+MH  - Humans
+MH  - Male
+MH  - Methylamines/*metabolism
+MH  - Mice
+MH  - Pilot Projects
+MH  - Vegans
+PMC - PMC6307959
+OTO - NOTNLM
+OT  - Atherosclerosis
+OT  - Cardiology
+OT  - Cardiovascular disease
+OT  - Vascular Biology
+COIS- Conflict of interest: ZW, BSL, and SLH are named as co-inventors on pending and 
+      issued patents held by the Cleveland Clinic relating to cardiovascular 
+      diagnostics and therapeutics, and have the right to receive royalty payment for 
+      inventions or discoveries related to cardiovascular diagnostics or therapeutics 
+      from Cleveland HeartLab, Quest Diagnostics, and Procter & Gamble. SLH also 
+      reports having been paid as a consultant by Procter & Gamble, and having received 
+      research funds from Procter & Gamble and Roche. BRLG, MFC, DBC, HJD, and JCGG are 
+      employees of Procter & Gamble and are named as co-inventors on patents relevant 
+      to this work.
+EDAT- 2018/12/12 06:00
+MHDA- 2019/11/07 06:00
+PMCR- 2019/04/02
+CRDT- 2018/12/12 06:00
+PHST- 2017/07/28 00:00 [received]
+PHST- 2018/10/30 00:00 [accepted]
+PHST- 2018/12/12 06:00 [pubmed]
+PHST- 2019/11/07 06:00 [medline]
+PHST- 2018/12/12 06:00 [entrez]
+PHST- 2019/04/02 00:00 [pmc-release]
+AID - 94601 [pii]
+AID - 10.1172/JCI94601 [doi]
+PST - ppublish
+SO  - J Clin Invest. 2019 Jan 2;129(1):373-387. doi: 10.1172/JCI94601. Epub 2018 Dec 
+      10.
+
+PMID- 30665924
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200513
+LR  - 20230502
+IS  - 1555-905X (Electronic)
+IS  - 1555-9041 (Print)
+IS  - 1555-9041 (Linking)
+VI  - 14
+IP  - 2
+DP  - 2019 Feb 7
+TI  - Trimethylamine N-Oxide and Cardiovascular Outcomes in Patients with ESKD 
+      Receiving Maintenance Hemodialysis.
+PG  - 261-267
+LID - 10.2215/CJN.06190518 [doi]
+AB  - BACKGROUND AND OBJECTIVES: Trimethylamine N-oxide (TMAO), a compound derived from 
+      byproducts of intestinal bacteria, has been shown to accelerate atherosclerosis 
+      in rodents. To date, there are conflicting data regarding the association of 
+      serum TMAO with cardiovascular outcomes in patients with ESKD, a population 
+      exhibiting both high serum TMAO and excessive atherosclerosis. DESIGN, SETTING, 
+      PARTICIPANTS, & MEASUREMENTS: We measured baseline serum TMAO concentrations in a 
+      subset of participants (n=1243) from the Evaluation of Cinacalcet Hydrochloride 
+      Therapy to Lower Cardiovascular Events (EVOLVE) trial and conducted post hoc 
+      analyses evaluating the association between baseline serum TMAO and 
+      cardiovascular outcomes. RESULTS: We observed a wide distribution of serum TMAO 
+      in our cohort, with approximately 80% of participants exhibiting TMAO 
+      concentrations >/=56 microM and a maximum TMAO concentration of 1103.1 microM. We found no 
+      association between TMAO and our primary outcome, a composite of cardiovascular 
+      mortality, myocardial infarction, peripheral vascular event, stroke, and 
+      hospitalization for unstable angina. Moreover, in unadjusted and adjusted 
+      analyses, we observed no relation between TMAO and all-cause mortality, the 
+      independent components of our composite outcome, or the original EVOLVE primary 
+      outcome. Although we did observe higher TMAO concentrations in white 
+      participants, further subgroup analyses did not confirm the previously identified 
+      interaction between TMAO and race observed in a prior study in patients receiving 
+      dialysis. CONCLUSIONS: We found no evidence linking TMAO to adverse clinical 
+      outcomes in patients receiving maintenance hemodialysis with moderate to severe 
+      secondary hyperparathyroidism.
+CI  - Copyright (c) 2019 by the American Society of Nephrology.
+FAU - Stubbs, Jason R
+AU  - Stubbs JR
+AD  - The Jared Grantham Kidney Institute.
+AD  - Division of Nephrology and Hypertension, and.
+FAU - Stedman, Margaret R
+AU  - Stedman MR
+AD  - Division of Nephrology, Stanford University School of Medicine, Palo Alto, 
+      California; and.
+FAU - Liu, Sai
+AU  - Liu S
+AD  - Division of Nephrology, Stanford University School of Medicine, Palo Alto, 
+      California; and.
+FAU - Long, Jin
+AU  - Long J
+AD  - Division of Nephrology, Stanford University School of Medicine, Palo Alto, 
+      California; and.
+FAU - Franchetti, Yoko
+AU  - Franchetti Y
+AD  - Department of Pharmacy and Therapeutics, Center for Clinical Pharmaceutical, 
+      Sciences, University of Pittsburgh, Pittsburgh, Pennsylvania.
+FAU - West, Raymond E 3rd
+AU  - West RE 3rd
+AD  - Department of Pharmacy and Therapeutics, Center for Clinical Pharmaceutical, 
+      Sciences, University of Pittsburgh, Pittsburgh, Pennsylvania.
+FAU - Prokopienko, Alexander J
+AU  - Prokopienko AJ
+AD  - Department of Pharmacy and Therapeutics, Center for Clinical Pharmaceutical, 
+      Sciences, University of Pittsburgh, Pittsburgh, Pennsylvania.
+FAU - Mahnken, Jonathan D
+AU  - Mahnken JD
+AD  - The Jared Grantham Kidney Institute.
+AD  - Department of Biostatistics, University of Kansas Medical Center, Kansas City, 
+      Kansas.
+FAU - Chertow, Glenn M
+AU  - Chertow GM
+AD  - Division of Nephrology, Stanford University School of Medicine, Palo Alto, 
+      California; and.
+FAU - Nolin, Thomas D
+AU  - Nolin TD
+AD  - Department of Pharmacy and Therapeutics, Center for Clinical Pharmaceutical, 
+      Sciences, University of Pittsburgh, Pittsburgh, Pennsylvania.
+LA  - eng
+GR  - R01 GM107122/GM/NIGMS NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20190121
+PL  - United States
+TA  - Clin J Am Soc Nephrol
+JT  - Clinical journal of the American Society of Nephrology : CJASN
+JID - 101271570
+RN  - 0 (Calcimimetic Agents)
+RN  - 0 (Methylamines)
+RN  - FLD0K1SJ1A (trimethyloxamine)
+RN  - UAZ6V7728S (Cinacalcet)
+SB  - IM
+CIN - Clin J Am Soc Nephrol. 2019 Feb 7;14(2):182-183. doi: 10.2215/CJN.14931218. PMID: 
+      30665925
+MH  - Adult
+MH  - Aged
+MH  - Angina, Unstable/epidemiology
+MH  - Calcimimetic Agents/therapeutic use
+MH  - Cardiovascular Diseases/*mortality
+MH  - Cinacalcet/therapeutic use
+MH  - Female
+MH  - Hospitalization/statistics & numerical data
+MH  - Humans
+MH  - Hyperparathyroidism, Secondary/etiology
+MH  - Kidney Failure, Chronic/*blood/complications/therapy
+MH  - Male
+MH  - Methylamines/*blood
+MH  - Middle Aged
+MH  - Mortality
+MH  - Myocardial Infarction/epidemiology
+MH  - Randomized Controlled Trials as Topic
+MH  - Renal Dialysis
+MH  - Stroke/epidemiology
+PMC - PMC6390920
+OTO - NOTNLM
+OT  - Angina, Unstable
+OT  - Atherosclerosis
+OT  - Bacteria
+OT  - Cohort Studies
+OT  - Hyperparathyroidism, Secondary
+OT  - Kidney Failure, Chronic
+OT  - Methylamines
+OT  - Myocardial Infarction
+OT  - Oxides
+OT  - Rodentia
+OT  - Stroke
+OT  - cardiovascular disease
+OT  - dialysis
+OT  - end-stage kidney disease
+OT  - end-stage renal disease
+OT  - heart disease
+OT  - hospitalization
+OT  - mortality
+OT  - renal dialysis
+OT  - trimethylamine
+OT  - trimethyloxamine
+EDAT- 2019/01/23 06:00
+MHDA- 2020/05/14 06:00
+PMCR- 2020/02/07
+CRDT- 2019/01/23 06:00
+PHST- 2018/05/17 00:00 [received]
+PHST- 2018/11/09 00:00 [accepted]
+PHST- 2019/01/23 06:00 [pubmed]
+PHST- 2020/05/14 06:00 [medline]
+PHST- 2019/01/23 06:00 [entrez]
+PHST- 2020/02/07 00:00 [pmc-release]
+AID - 01277230-201902000-00015 [pii]
+AID - 06190518 [pii]
+AID - 10.2215/CJN.06190518 [doi]
+PST - ppublish
+SO  - Clin J Am Soc Nephrol. 2019 Feb 7;14(2):261-267. doi: 10.2215/CJN.06190518. Epub 
+      2019 Jan 21.
+
+PMID- 31167879
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200320
+LR  - 20200320
+IS  - 1939-327X (Electronic)
+IS  - 0012-1797 (Linking)
+VI  - 68
+IP  - 9
+DP  - 2019 Sep
+TI  - Assessment of Causal Direction Between Gut Microbiota-Dependent Metabolites and 
+      Cardiometabolic Health: A Bidirectional Mendelian Randomization Analysis.
+PG  - 1747-1755
+LID - 10.2337/db19-0153 [doi]
+AB  - We examined the causal direction between gut microbiota-dependent metabolite 
+      trimethylamine N-oxide (TMAO) or its predecessors and cardiometabolic diseases, 
+      such as risk of type 2 diabetes mellitus (T2DM), coronary artery disease (CAD), 
+      myocardial infarction (MI), stroke, atrial fibrillation (AF), and chronic kidney 
+      disease (CKD). We used genetic variants as instruments to test the causal 
+      associations. Genetically predicted higher TMAO and carnitine were not associated 
+      with higher odds of T2DM, AF, CAD, MI, stroke, and CKD after Bonferroni 
+      correction (P </= 0.0005). However, we observed that genetically increased choline 
+      showed a suggestive association with higher risk of T2DM (odds ratio 1.84 [95% CI 
+      1.00-3.42] per 10 units, P = 0.05). In contrast, genetically predicted higher 
+      betaine (0.68 [0.48-0.95] per 10 units, P = 0.023) was suggestively associated 
+      with a lower risk of T2DM. We observed a suggestive association of genetically 
+      increased choline with a lower level of body fat percentage (beta +/- SE -0.28 +/- 0.11, 
+      P = 0.013) but a higher estimated glomerular filtration rate (0.10 +/- 0.05, P = 
+      0.034). We further found that T2DM (0.130 +/- 0.036, P < 0.0001) and CKD (0.483 +/- 
+      0.168, P = 0.004) were causally associated with higher TMAO levels. Our Mendelian 
+      randomization findings support that T2DM and kidney disease increase TMAO levels 
+      and that observational evidence for cardiovascular diseases may be due to 
+      confounding or reverse causality.
+CI  - (c) 2019 by the American Diabetes Association.
+FAU - Jia, Jinzhu
+AU  - Jia J
+AD  - Department of Epidemiology and Biostatistics, School of Public Health, Peking 
+      University, Beijing, China.
+AD  - Department of Biostatistics, School of Public Health, Peking University, Beijing, 
+      China.
+FAU - Dou, Pan
+AU  - Dou P
+AD  - Department of Clinical Nutrition, Peking University First Hospital, Beijing, 
+      China.
+FAU - Gao, Meng
+AU  - Gao M
+AD  - Department of Epidemiology and Biostatistics, School of Public Health, Peking 
+      University, Beijing, China.
+FAU - Kong, Xuejun
+AU  - Kong X
+AD  - Martinos Center, Massachusetts General Hospital, Charleston, MA.
+FAU - Li, Changwei
+AU  - Li C
+AUID- ORCID: 0000-0002-9203-304X
+AD  - Department of Epidemiology and Biostatistics, University of Georgia, Athens, GA.
+FAU - Liu, Zhonghua
+AU  - Liu Z
+AUID- ORCID: 0000-0003-3048-9823
+AD  - Department of Statistics and Actuarial Science, The University of Hong Kong, Hong 
+      Kong, China.
+FAU - Huang, Tao
+AU  - Huang T
+AUID- ORCID: 0000-0002-2098-1315
+AD  - Department of Epidemiology and Biostatistics, School of Public Health, Peking 
+      University, Beijing, China huangtaotao@pku.edu.cn zhhliu@hku.hk.
+AD  - Department of Global Health, School of Public Health, Peking University, Beijing, 
+      China.
+AD  - Key Laboratory of Molecular Cardiovascular Sciences (Peking University), Ministry 
+      of Education, Beijing, China.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20190605
+PL  - United States
+TA  - Diabetes
+JT  - Diabetes
+JID - 0372763
+RN  - 0 (Biomarkers)
+SB  - IM
+MH  - Adiposity/physiology
+MH  - Biomarkers
+MH  - Body Mass Index
+MH  - Cardiovascular Diseases/genetics/*metabolism
+MH  - *Gastrointestinal Microbiome
+MH  - Genome-Wide Association Study
+MH  - Humans
+MH  - Mendelian Randomization Analysis
+MH  - Metabolic Diseases/genetics/*metabolism
+EDAT- 2019/06/07 06:00
+MHDA- 2020/03/21 06:00
+CRDT- 2019/06/07 06:00
+PHST- 2019/02/12 00:00 [received]
+PHST- 2019/05/29 00:00 [accepted]
+PHST- 2019/06/07 06:00 [pubmed]
+PHST- 2020/03/21 06:00 [medline]
+PHST- 2019/06/07 06:00 [entrez]
+AID - db19-0153 [pii]
+AID - 10.2337/db19-0153 [doi]
+PST - ppublish
+SO  - Diabetes. 2019 Sep;68(9):1747-1755. doi: 10.2337/db19-0153. Epub 2019 Jun 5.
+
+PMID- 32392758
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210216
+LR  - 20260930
+IS  - 2072-6643 (Electronic)
+IS  - 2072-6643 (Linking)
+VI  - 12
+IP  - 5
+DP  - 2020 May 7
+TI  - Trimethylamine N-Oxide in Relation to Cardiometabolic Health-Cause or Effect?
+LID - 10.3390/nu12051330 [doi]
+LID - 1330
+AB  - Trimethylamine-N-oxide (TMAO) is generated in a microbial-mammalian co-metabolic 
+      pathway mainly from the digestion of meat-containing food and dietary quaternary 
+      amines such as phosphatidylcholine, choline, betaine, or L-carnitine. Fish intake 
+      provides a direct significant source of TMAO. Human observational studies 
+      previously reported a positive relationship between plasma TMAO concentrations 
+      and cardiometabolic diseases. Discrepancies and inconsistencies of recent 
+      investigations and previous studies questioned the role of TMAO in these 
+      diseases. Several animal studies reported neutral or even beneficial effects of 
+      TMAO or its precursors in cardiovascular disease model systems, supporting the 
+      clinically proven beneficial effects of its precursor, L-carnitine, or a sea-food 
+      rich diet (naturally containing TMAO) on cardiometabolic health. In this review, 
+      we summarize recent preclinical and epidemiological evidence on the effects of 
+      TMAO, in order to shed some light on the role of TMAO in cardiometabolic 
+      diseases, particularly as related to the microbiome.
+FAU - Papandreou, Christopher
+AU  - Papandreou C
+AUID- ORCID: 0000-0002-6803-507X
+AD  - Institut d'Investigacio Sanitaria Pere Virgili (IISPV), 43204 Reus, Spain.
+FAU - More, Margret
+AU  - More M
+AUID- ORCID: 0000-0002-3672-521X
+AD  - Analyze & Realize GmbH, 13467 Berlin, Germany.
+FAU - Bellamine, Aouatef
+AU  - Bellamine A
+AD  - Lonza LLC, Morristown, NJ 07960, USA.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20200507
+PL  - Switzerland
+TA  - Nutrients
+JT  - Nutrients
+JID - 101521595
+RN  - 0 (Amines)
+RN  - 0 (Methylamines)
+RN  - FLD0K1SJ1A (trimethyloxamine)
+RN  - S7UI8SM58A (Carnitine)
+SB  - IM
+MH  - Age Factors
+MH  - Amines/metabolism
+MH  - Animals
+MH  - Cardiometabolic Risk Factors
+MH  - Cardiovascular Diseases/*etiology/*prevention & control
+MH  - Carnitine
+MH  - Digestion/physiology
+MH  - Disease Models, Animal
+MH  - Eating/*physiology
+MH  - Female
+MH  - *Fishes
+MH  - Gastrointestinal Microbiome/*physiology
+MH  - Humans
+MH  - Male
+MH  - Meat
+MH  - Methylamines/blood/*metabolism
+MH  - Mice
+MH  - Sex Characteristics
+PMC - PMC7284902
+OTO - NOTNLM
+OT  - atherosclerosis
+OT  - cardiometabolic health
+OT  - cardiovascular disease
+OT  - cause‒effect relationship
+OT  - trimethylamine N-oxide (TMAO)
+OT  - type 2 diabetes
+COIS- C.P. has received an expense allowance from Lonza LLC for discussing the scope, 
+      writing, and editing the manuscript. M.M. is an independent consultant who 
+      received payment by the contract research organization analyze & realize GmbH, on 
+      behalf of Lonza LLC, for writing this manuscript. A.B. is an employee of Lonza 
+      LLC. This review has been funded by Lonza, a manufacturer of L-carnitine, one of 
+      the TMAO precursors.
+EDAT- 2020/05/13 06:00
+MHDA- 2021/02/17 06:00
+PMCR- 2020/05/01
+CRDT- 2020/05/13 06:00
+PHST- 2020/04/14 00:00 [received]
+PHST- 2020/04/29 00:00 [revised]
+PHST- 2020/05/04 00:00 [accepted]
+PHST- 2020/05/13 06:00 [entrez]
+PHST- 2020/05/13 06:00 [pubmed]
+PHST- 2021/02/17 06:00 [medline]
+PHST- 2020/05/01 00:00 [pmc-release]
+AID - nu12051330 [pii]
+AID - nutrients-12-01330 [pii]
+AID - 10.3390/nu12051330 [doi]
+PST - epublish
+SO  - Nutrients. 2020 May 7;12(5):1330. doi: 10.3390/nu12051330.
+
+PMID- 32958033
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210405
+LR  - 20210405
+IS  - 1550-2783 (Electronic)
+IS  - 1550-2783 (Linking)
+VI  - 17
+IP  - 1
+DP  - 2020 Sep 21
+TI  - The bright and the dark sides of L-carnitine supplementation: a systematic 
+      review.
+PG  - 49
+LID - 10.1186/s12970-020-00377-2 [doi]
+LID - 49
+AB  - BACKGROUND: L-carnitine (LC) is used as a supplement by recreationally-active, 
+      competitive and highly trained athletes. This systematic review aims to evaluate 
+      the effect of prolonged LC supplementation on metabolism and metabolic 
+      modifications. METHODS: A literature search was conducted in the MEDLINE (via 
+      PubMed) and Web of Science databases from the inception up February 2020. 
+      Eligibility criteria included studies on healthy human subjects, treated for at 
+      least 12 weeks with LC administered orally, with no drugs or any other 
+      multi-ingredient supplements co-ingestion. RESULTS: The initial search retrieved 
+      1024 articles, and a total of 11 studies were finally included after applying 
+      inclusion and exclusion criteria. All the selected studies were conducted with 
+      healthy human subjects, with supplemented dose ranging from 1 g to 4 g per day 
+      for either 12 or 24 weeks. LC supplementation, in combination with carbohydrates 
+      (CHO) effectively elevated total carnitine content in skeletal muscle. 
+      Twenty-four-weeks of LC supplementation did not affect muscle strength in healthy 
+      aged women, but significantly increased muscle mass, improved physical effort 
+      tolerance and cognitive function in centenarians. LC supplementation was also 
+      noted to induce an increase of fasting plasma trimethylamine-N-oxide (TMAO) 
+      levels, which was not associated with modification of determined inflammatory nor 
+      oxidative stress markers. CONCLUSION: Prolonged LC supplementation in specific 
+      conditions may affect physical performance. On the other hand, LC supplementation 
+      elevates fasting plasma TMAO, compound supposed to be pro-atherogenic. Therefore, 
+      additional studies focusing on long-term supplementation and its longitudinal 
+      effect on the cardiovascular system are needed.
+FAU - Sawicka, Angelika K
+AU  - Sawicka AK
+AD  - Department of Human Physiology, Faculty of Health Sciences, Medical University of 
+      Gdansk, 80-210, Gdansk, Poland.
+FAU - Renzi, Gianluca
+AU  - Renzi G
+AD  - University of Camerino, 62032, Camerino, Italy.
+FAU - Olek, Robert A
+AU  - Olek RA
+AUID- ORCID: 0000-0002-3714-7386
+AD  - Department of Athletics, Strength and Conditioning, Poznan University of Physical 
+      Education, Krolowej Jadwigi 27/39, 61-871, Poznan, Poland. robert.olek@aol.com.
+LA  - eng
+GR  - 2014/15/B/NZ7/00893/Narodowe Centrum Nauki/
+PT  - Journal Article
+PT  - Systematic Review
+DEP - 20200921
+PL  - United States
+TA  - J Int Soc Sports Nutr
+JT  - Journal of the International Society of Sports Nutrition
+JID - 101234168
+RN  - 0 (Dietary Carbohydrates)
+RN  - 0 (Methylamines)
+RN  - 0 (Muscle Proteins)
+RN  - FLD0K1SJ1A (trimethyloxamine)
+RN  - S7UI8SM58A (Carnitine)
+SB  - IM
+MH  - Age Factors
+MH  - Body Composition
+MH  - Carnitine/*administration & dosage/*adverse effects
+MH  - Cognition/physiology
+MH  - Dietary Carbohydrates/administration & dosage
+MH  - Dietary Supplements/*adverse effects
+MH  - *Energy Metabolism
+MH  - Exercise/*physiology
+MH  - Exercise Tolerance/physiology
+MH  - Humans
+MH  - Lipid Metabolism
+MH  - Methylamines/blood
+MH  - Muscle Proteins/metabolism
+MH  - Muscle Strength
+MH  - Muscle, Skeletal/anatomy & histology/*metabolism
+MH  - Obesity/metabolism
+MH  - Oxidation-Reduction
+MH  - Physical Conditioning, Human/physiology
+MH  - Sarcopenia/metabolism
+PMC - PMC7507632
+OTO - NOTNLM
+OT  - Atrogin-1
+OT  - Forkhead box O
+OT  - Insulin-like growth factor-1
+OT  - Mammalian target of rapamycin
+OT  - MuRF-1
+OT  - Protein kinase B
+OT  - Trimethylamine-N-oxide
+COIS- The authors declare that they have no competing interests.
+EDAT- 2020/09/23 06:00
+MHDA- 2021/04/07 06:00
+PMCR- 2020/09/21
+CRDT- 2020/09/22 05:31
+PHST- 2020/03/13 00:00 [received]
+PHST- 2020/09/04 00:00 [accepted]
+PHST- 2020/09/22 05:31 [entrez]
+PHST- 2020/09/23 06:00 [pubmed]
+PHST- 2021/04/07 06:00 [medline]
+PHST- 2020/09/21 00:00 [pmc-release]
+AID - 10.1186/s12970-020-00377-2 [pii]
+AID - 377 [pii]
+AID - 10.1186/s12970-020-00377-2 [doi]
+PST - epublish
+SO  - J Int Soc Sports Nutr. 2020 Sep 21;17(1):49. doi: 10.1186/s12970-020-00377-2.
+
+PMID- 33213511
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210401
+LR  - 20260127
+IS  - 2049-2618 (Electronic)
+IS  - 2049-2618 (Linking)
+VI  - 8
+IP  - 1
+DP  - 2020 Nov 19
+TI  - Characterization of TMAO productivity from carnitine challenge facilitates 
+      personalized nutrition and microbiome signatures discovery.
+PG  - 162
+LID - 10.1186/s40168-020-00912-y [doi]
+LID - 162
+AB  - The capability of gut microbiota in degrading foods and drugs administered orally 
+      can result in diversified efficacies and toxicity interpersonally and cause 
+      significant impact on human health. Production of atherogenic trimethylamine 
+      N-oxide (TMAO) from carnitine is a gut microbiota-directed pathway and varies 
+      widely among individuals. Here, we demonstrated a personalized TMAO formation and 
+      carnitine bioavailability from carnitine supplements by differentiating 
+      individual TMAO productivities with a recently developed oral carnitine challenge 
+      test (OCCT). By exploring gut microbiome in subjects characterized by TMAO 
+      producer phenotypes, we identified 39 operational taxonomy units that were highly 
+      correlated to TMAO productivity, including Emergencia timonensis, which has been 
+      recently discovered to convert gamma-butyrobetaine to TMA in vitro. A 
+      microbiome-based random forest classifier was therefore constructed to predict 
+      the TMAO producer phenotype (AUROC = 0.81) which was then validated with an 
+      external cohort (AUROC = 0.80). A novel bacterium called Ihubacter massiliensis 
+      was also discovered to be a key microbe for TMA/TMAO production by using an 
+      OCCT-based humanized gnotobiotic mice model. Simply combining the presence of E. 
+      timonensis and I. massiliensis could account for 43% of high TMAO producers with 
+      97% specificity. Collectively, this human gut microbiota phenotype-directed 
+      approach offers potential for developing precision medicine and provides insights 
+      into translational research. Video Abstract.
+FAU - Wu, Wei-Kai
+AU  - Wu WK
+AD  - Department of Internal Medicine, National Taiwan University Hospital Bei-Hu 
+      Branch, Taipei, Taiwan.
+FAU - Panyod, Suraphan
+AU  - Panyod S
+AD  - Institute of Food Science and Technology, National Taiwan University, Taipei, 
+      Taiwan.
+FAU - Liu, Po-Yu
+AU  - Liu PY
+AD  - Department of Internal Medicine, College of Medicine, National Taiwan University, 
+      No. 7, Chung-Shan South Road, Taipei, 100, Taiwan.
+FAU - Chen, Chieh-Chang
+AU  - Chen CC
+AD  - Department of Internal Medicine, National Taiwan University Hospital, Taipei, 
+      Taiwan.
+FAU - Kao, Hsien-Li
+AU  - Kao HL
+AD  - Department of Internal Medicine, National Taiwan University Hospital, Taipei, 
+      Taiwan.
+FAU - Chuang, Hsiao-Li
+AU  - Chuang HL
+AD  - National Laboratory Animal Center, National Applied Research Laboratories, 
+      Taipei, Taiwan.
+FAU - Chen, Ying-Hsien
+AU  - Chen YH
+AD  - Department of Internal Medicine, National Taiwan University Hospital, Taipei, 
+      Taiwan.
+FAU - Zou, Hsin-Bai
+AU  - Zou HB
+AD  - Department of Chemistry, National Taiwan University, Taipei, Taiwan.
+FAU - Kuo, Han-Chun
+AU  - Kuo HC
+AD  - The Metabolomics Core Laboratory, Center of Genomic Medicine, National Taiwan 
+      University, Taipei, Taiwan.
+FAU - Kuo, Ching-Hua
+AU  - Kuo CH
+AD  - The Metabolomics Core Laboratory, Center of Genomic Medicine, National Taiwan 
+      University, Taipei, Taiwan.
+AD  - School of Pharmacy, College of Medicine, National Taiwan University, Taipei, 
+      Taiwan.
+FAU - Liao, Ben-Yang
+AU  - Liao BY
+AD  - Institute of Population Health Sciences, National Health Research Institutes, 
+      Miaoli, Taiwan.
+FAU - Chiu, Tina H T
+AU  - Chiu THT
+AD  - Department of Nutritional Science, Fu Jen Catholic University, Taipei, Taiwan.
+FAU - Chung, Ching-Hu
+AU  - Chung CH
+AD  - Department of Medicine, Mackay Medical College, New Taipei City, Taiwan.
+FAU - Lin, Angela Yu-Chen
+AU  - Lin AY
+AD  - Graduate Institute of Environmental Engineering, National Taiwan University, 
+      Taipei, Taiwan.
+FAU - Lee, Yi-Chia
+AU  - Lee YC
+AD  - Department of Internal Medicine, National Taiwan University Hospital, Taipei, 
+      Taiwan.
+FAU - Tang, Sen-Lin
+AU  - Tang SL
+AD  - Biodiversity Research Center, Academia Sinica, Taipei, Taiwan.
+FAU - Wang, Jin-Town
+AU  - Wang JT
+AD  - Department of Internal Medicine, National Taiwan University Hospital, Taipei, 
+      Taiwan.
+AD  - Graduate Institute of Microbiology, College of Medicine, National Taiwan 
+      University, Taipei, Taiwan.
+FAU - Wu, Yu-Wei
+AU  - Wu YW
+AD  - Graduate Institute of Biomedical Informatics, College of Medical Science and 
+      Technology, Taipei Medical University, Taipei, 110, Taiwan.
+FAU - Hsu, Cheng-Chih
+AU  - Hsu CC
+AD  - Department of Chemistry, National Taiwan University, Taipei, Taiwan.
+FAU - Sheen, Lee-Yan
+AU  - Sheen LY
+AD  - Institute of Food Science and Technology, National Taiwan University, Taipei, 
+      Taiwan.
+FAU - Orekhov, Alexander N
+AU  - Orekhov AN
+AD  - Institute for Atherosclerosis Research, Skolkovo Innovative Center, Moscow, 
+      121609, Russia.
+AD  - Laboratory of Angiopathology, Institute of General Pathology and Pathophysiology, 
+      Moscow, 125315, Russia.
+FAU - Wu, Ming-Shiang
+AU  - Wu MS
+AUID- ORCID: 0000-0002-1940-6428
+AD  - Department of Internal Medicine, College of Medicine, National Taiwan University, 
+      No. 7, Chung-Shan South Road, Taipei, 100, Taiwan. mingshiang@ntu.edu.tw.
+AD  - Department of Internal Medicine, National Taiwan University Hospital, Taipei, 
+      Taiwan. mingshiang@ntu.edu.tw.
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Video-Audio Media
+DEP - 20201119
+PL  - England
+TA  - Microbiome
+JT  - Microbiome
+JID - 101615147
+RN  - 0 (Methylamines)
+RN  - FLD0K1SJ1A (trimethyloxamine)
+RN  - S7UI8SM58A (Carnitine)
+RN  - Emergencia timonensis
+RN  - Ihubacter massiliensis
+SB  - IM
+MH  - Administration, Oral
+MH  - Adult
+MH  - Animals
+MH  - Carnitine/administration & dosage/*pharmacology
+MH  - Eubacteriales/drug effects/metabolism
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Methylamines/*metabolism
+MH  - Mice
+MH  - Microbiota/*drug effects/genetics
+PMC - PMC7676756
+OTO - NOTNLM
+OT  - Cardiovascular disease
+OT  - Emergencia timonensis
+OT  - Gut microbiome
+OT  - Ihubacter massiliensis
+OT  - Machine learning
+OT  - Oral carnitine challenge test
+OT  - Personalized nutrition
+OT  - Trimethylamine N-oxide
+COIS- The authors declare they have no competing interests.
+EDAT- 2020/11/21 06:00
+MHDA- 2021/04/02 06:00
+PMCR- 2020/11/19
+CRDT- 2020/11/20 05:29
+PHST- 2020/04/22 00:00 [received]
+PHST- 2020/08/23 00:00 [accepted]
+PHST- 2020/11/20 05:29 [entrez]
+PHST- 2020/11/21 06:00 [pubmed]
+PHST- 2021/04/02 06:00 [medline]
+PHST- 2020/11/19 00:00 [pmc-release]
+AID - 10.1186/s40168-020-00912-y [pii]
+AID - 912 [pii]
+AID - 10.1186/s40168-020-00912-y [doi]
+PST - epublish
+SO  - Microbiome. 2020 Nov 19;8(1):162. doi: 10.1186/s40168-020-00912-y.
+
+PMID- 34091663
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20211025
+LR  - 20230214
+IS  - 1938-3207 (Electronic)
+IS  - 0002-9165 (Linking)
+VI  - 114
+IP  - 4
+DP  - 2021 Oct 4
+TI  - Plasma TMAO increase after healthy diets: results from 2 randomized controlled 
+      trials with dietary fish, polyphenols, and whole-grain cereals.
+PG  - 1342-1350
+LID - 10.1093/ajcn/nqab188 [doi]
+AB  - BACKGROUND: Plasma trimethylamine N-oxide (TMAO) has drawn much attention as a 
+      marker of several chronic diseases. Data on the relation between diet and TMAO 
+      are discordant and few human intervention studies have assessed causality for 
+      this association. OBJECTIVES: We aimed to evaluate the effects on plasma TMAO of 
+      diets based on foods rich in polyphenols (PP) and/or long-chain n-3 fatty acids 
+      (LCn3) or whole-grain cereals (WGCs), in individuals at high cardiometabolic 
+      risk. METHODS: An ancillary study was performed within 2 randomized controlled 
+      trials, aimed at evaluating the medium-term effects on cardiometabolic risk 
+      factors of diets naturally rich in PP and/or LCn3 (Etherpaths Project) or WGCs 
+      (HealthGrain Project). RESULTS: In the Etherpaths study (n = 78), the changes in 
+      TMAO (8-wk minus baseline) were statistically significant for the diets rich in 
+      LCn3 (+1.15 +/- 11.58 mumol/L) (P = 0.007), whereas they were not for the diets rich 
+      in PP (-0.14 +/- 9.66 mumol/L) (P = 0.905) or their interaction (P = 0.655) 
+      (2-factor ANOVA). In the HealthGrain Study (n = 48), the TMAO change (12-wk minus 
+      baseline) in the WGC group (+0.94 +/- 3.58 mumol/L) was significantly different from 
+      that in the Refined Cereal group (-1.29 +/- 3.09 mumol/L) (P = 0.037). Considering 
+      the pooled baseline data of the participants in the 2 studies, TMAO 
+      concentrations directly correlated with LCn3, EPA (20:5n-3), and protein intake, 
+      but not SFAs, fiber, MUFAs, and PP intake. Among food groups, TMAO directly 
+      correlated with the intake of fish, vegetables, and whole-grain products, but not 
+      meat, processed meat, and dairy products. CONCLUSIONS: Diets rich in LCn3 of 
+      marine origin or WGCs significantly increased plasma TMAO concentration. These 
+      changes mirrored the direct associations between TMAO concentrations and intakes 
+      of fish and WGCs, suggesting that TMAO reflects intakes of these healthy foods 
+      and, therefore, it is not a universally valid biomarker of cardiometabolic risk 
+      independent of the background diet.These trials were registered at 
+      clinicaltrials.gov as NCT01154478 and NCT00945854.
+CI  - (c) The Author(s) 2021. Published by Oxford University Press on behalf of the 
+      American Society for Nutrition.
+FAU - Costabile, Giuseppina
+AU  - Costabile G
+AUID- ORCID: 0000-0001-5761-8002
+AD  - Department of Clinical Medicine and Surgery, University of Naples "Federico II", 
+      Naples, Italy.
+FAU - Vetrani, Claudia
+AU  - Vetrani C
+AD  - Department of Clinical Medicine and Surgery, University of Naples "Federico II", 
+      Naples, Italy.
+FAU - Bozzetto, Lutgarda
+AU  - Bozzetto L
+AD  - Department of Clinical Medicine and Surgery, University of Naples "Federico II", 
+      Naples, Italy.
+FAU - Giacco, Rosalba
+AU  - Giacco R
+AD  - Institute of Food Sciences, National Research Council, Avellino, Italy.
+FAU - Bresciani, Letizia
+AU  - Bresciani L
+AD  - Human Nutrition Unit, Department of Veterinary Science, University of Parma, 
+      Parma, Italy.
+FAU - Del Rio, Daniele
+AU  - Del Rio D
+AD  - Human Nutrition Unit, Department of Veterinary Science, University of Parma, 
+      Parma, Italy.
+FAU - Vitale, Marilena
+AU  - Vitale M
+AD  - Department of Clinical Medicine and Surgery, University of Naples "Federico II", 
+      Naples, Italy.
+FAU - Della Pepa, Giuseppe
+AU  - Della Pepa G
+AD  - Department of Clinical Medicine and Surgery, University of Naples "Federico II", 
+      Naples, Italy.
+FAU - Brighenti, Furio
+AU  - Brighenti F
+AUID- ORCID: 0000-0001-8441-4611
+AD  - Human Nutrition Unit, Department of Food and Drugs, University of Parma, Parma, 
+      Italy.
+FAU - Riccardi, Gabriele
+AU  - Riccardi G
+AUID- ORCID: 0000-0003-4151-8298
+AD  - Department of Clinical Medicine and Surgery, University of Naples "Federico II", 
+      Naples, Italy.
+FAU - Rivellese, Angela A
+AU  - Rivellese AA
+AD  - Department of Clinical Medicine and Surgery, University of Naples "Federico II", 
+      Naples, Italy.
+FAU - Annuzzi, Giovanni
+AU  - Annuzzi G
+AD  - Department of Clinical Medicine and Surgery, University of Naples "Federico II", 
+      Naples, Italy.
+LA  - eng
+SI  - ClinicalTrials.gov/NCT01154478
+SI  - ClinicalTrials.gov/NCT00945854
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - Am J Clin Nutr
+JT  - The American journal of clinical nutrition
+JID - 0376027
+RN  - 0 (Biomarkers)
+RN  - 0 (Fatty Acids, Omega-3)
+RN  - 0 (Methylamines)
+RN  - 0 (Polyphenols)
+RN  - FLD0K1SJ1A (trimethyloxamine)
+SB  - IM
+MH  - Adult
+MH  - Animals
+MH  - Biomarkers
+MH  - *Diet, Healthy
+MH  - Fatty Acids, Omega-3/*administration & dosage/metabolism
+MH  - Female
+MH  - Fishes
+MH  - Humans
+MH  - Male
+MH  - *Meat
+MH  - Methylamines/*blood
+MH  - Middle Aged
+MH  - *Polyphenols
+MH  - *Whole Grains
+OTO - NOTNLM
+OT  - TMAO
+OT  - cardiometabolic risk factors
+OT  - diet
+OT  - dietary polyphenols
+OT  - fish
+OT  - long-chain n-3 fatty acids
+OT  - whole-grain cereals
+EDAT- 2021/06/07 06:00
+MHDA- 2021/10/26 06:00
+CRDT- 2021/06/06 21:12
+PHST- 2020/11/18 00:00 [received]
+PHST- 2021/05/13 00:00 [accepted]
+PHST- 2021/06/07 06:00 [pubmed]
+PHST- 2021/10/26 06:00 [medline]
+PHST- 2021/06/06 21:12 [entrez]
+AID - S0002-9165(22)00463-4 [pii]
+AID - 10.1093/ajcn/nqab188 [doi]
+PST - ppublish
+SO  - Am J Clin Nutr. 2021 Oct 4;114(4):1342-1350. doi: 10.1093/ajcn/nqab188.
+
+PMID- 34405585
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220301
+LR  - 20240403
+IS  - 2051-817X (Electronic)
+IS  - 2051-817X (Linking)
+VI  - 9
+IP  - 16
+DP  - 2021 Aug
+TI  - Fasting and postprandial trimethylamine N-oxide in sedentary and 
+      endurance-trained males following a short-term high-fat diet.
+PG  - e14970
+LID - 10.14814/phy2.14970 [doi]
+LID - e14970
+AB  - Gut bacteria release trimethylamine (TMA) from dietary substrates. TMA is 
+      absorbed and is subsequently oxidized in the liver to produce trimethylamine 
+      N-oxide (TMAO). Plasma TMAO levels are positively correlated with risk for type 2 
+      diabetes (T2D) and cardiovascular disease (CVD). High-fat diet (HFD) consumption 
+      has been reported to increase fasting and postprandial TMAO in sedentary 
+      individuals. However, whether the increase in TMAO with consumption of an HFD is 
+      observed in endurance-trained males is unknown. Healthy, sedentary (n = 17), and 
+      endurance-trained (n = 7) males consumed a 10-day eucaloric diet comprised of 55% 
+      carbohydrate, 30% total fat, and <10% saturated fat prior to baseline testing. 
+      Blood samples were obtained in a fasted state and for a 4-hour high-fat challenge 
+      (HFC) meal at baseline and then again following 5-day HFD (30% carbohydrate, 55% 
+      total fat, and 25% saturated fat). Plasma TMAO and TMA-moiety (choline, betaine, 
+      L-carnitine) concentrations were measured using isocratic ultraperformance liquid 
+      chromatography-tandem mass spectrometry. Age (23 +/-3 vs. 22 +/- 2 years) and body 
+      mass index (23.0 +/- 3.0 vs. 23.5 +/- 2.1 kg/m(2) ) were similar (both p > 0.05) in 
+      the sedentary and endurance-trained group, respectively. VO(2max) was 
+      significantly higher in the endurance-trained compared with sedentary males 
+      (56.7 +/- 8.2 vs. 39.9 +/- 6.0 ml/kg/min). Neither the HFC nor the HFD evoked a 
+      detectable change in plasma TMAO (p > 0.05) in either group. Future studies are 
+      needed to identify the effects of endurance training on TMAO production.
+CI  - (c) 2021 The Authors. Physiological Reports published by Wiley Periodicals LLC on 
+      behalf of The Physiological Society and the American Physiological Society.
+FAU - Steele, Cortney N
+AU  - Steele CN
+AUID- ORCID: 0000-0002-5701-1240
+AD  - Division of Renal Diseases and Hypertension, University of Colorado Anschutz 
+      Medical, Aurora, CO, USA.
+FAU - Baugh, Mary Elizabeth
+AU  - Baugh ME
+AD  - Center for Transformative Research on Health Behaviors, Fralin Biomedical 
+      Research Institute at Virginia Tech Carilion, Roanoke, VA, USA.
+FAU - Griffin, Laura E
+AU  - Griffin LE
+AD  - Department of Food, Bioprocessing and Nutrition Sciences, North Carolina State 
+      University, Kannapolis, NC, USA.
+AD  - Plants for Human Health Institute, Kannapolis, NC, USA.
+FAU - Neilson, Andrew P
+AU  - Neilson AP
+AD  - Department of Food, Bioprocessing and Nutrition Sciences, North Carolina State 
+      University, Kannapolis, NC, USA.
+AD  - Plants for Human Health Institute, Kannapolis, NC, USA.
+FAU - Davy, Brenda M
+AU  - Davy BM
+AD  - Department of Human Nutrition, Foods, and Exercise, Virginia Tech, Blacksburg, 
+      VA, USA.
+AD  - Translational Obesity Research Interdisciplinary Graduate Education Program, 
+      Virginia Tech, Blacksburg, VA, USA.
+FAU - Hulver, Matthew W
+AU  - Hulver MW
+AD  - Department of Human Nutrition, Foods, and Exercise, Virginia Tech, Blacksburg, 
+      VA, USA.
+AD  - Translational Obesity Research Interdisciplinary Graduate Education Program, 
+      Virginia Tech, Blacksburg, VA, USA.
+FAU - Davy, Kevin P
+AU  - Davy KP
+AD  - Department of Human Nutrition, Foods, and Exercise, Virginia Tech, Blacksburg, 
+      VA, USA.
+AD  - Translational Obesity Research Interdisciplinary Graduate Education Program, 
+      Virginia Tech, Blacksburg, VA, USA.
+LA  - eng
+GR  - R21 AG058931/AG/NIA NIH HHS/United States
+GR  - T32 DK007135/DK/NIDDK NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - Physiol Rep
+JT  - Physiological reports
+JID - 101607800
+RN  - 0 (Dietary Fats)
+RN  - 0 (Methylamines)
+RN  - FLD0K1SJ1A (trimethyloxamine)
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Cardiometabolic Risk Factors
+MH  - Diet, High-Fat/*adverse effects
+MH  - Dietary Fats/*metabolism
+MH  - *Endurance Training
+MH  - Fasting/*metabolism
+MH  - Humans
+MH  - Male
+MH  - Methylamines/*blood
+MH  - Postprandial Period
+MH  - Sedentary Behavior
+PMC - PMC8371342
+OTO - NOTNLM
+OT  - endurance-trained
+OT  - high-fat diet
+OT  - sedentary
+OT  - trimethylamine N-oxide
+COIS- No conflicts of interest, financial or otherwise are declared by the authors. 
+      AUTHOR CONTRIBUTIONS Conceptualization, M.W.H., B.M.D., and K.P.D.; Methodology, 
+      M.W.H. A.P.N., B.M.D., and K.P.D.; Formal Analysis, C.N.S., L.E.G., A.P.N., and 
+      K.P.D.; Data Curation, C.N.S. and M.E.B.; Writing-Original Draft Preparation, 
+      C.N.S. and K.P.D.; Writing-Reviewing and Editing, C.N.S., M.E.B., L.E.G., A.P.N., 
+      B.M.D., M.W.H., and K.P.D.
+EDAT- 2021/08/19 06:00
+MHDA- 2022/03/03 06:00
+PMCR- 2021/08/17
+CRDT- 2021/08/18 06:55
+PHST- 2021/06/14 00:00 [revised]
+PHST- 2021/01/16 00:00 [received]
+PHST- 2021/06/16 00:00 [accepted]
+PHST- 2021/08/18 06:55 [entrez]
+PHST- 2021/08/19 06:00 [pubmed]
+PHST- 2022/03/03 06:00 [medline]
+PHST- 2021/08/17 00:00 [pmc-release]
+AID - PHY214970 [pii]
+AID - 10.14814/phy2.14970 [doi]
+PST - ppublish
+SO  - Physiol Rep. 2021 Aug;9(16):e14970. doi: 10.14814/phy2.14970.
+
+PMID- 34769294
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20211213
+LR  - 20211214
+IS  - 1422-0067 (Electronic)
+IS  - 1422-0067 (Linking)
+VI  - 22
+IP  - 21
+DP  - 2021 Nov 1
+TI  - The Fibrotic Effects of TMAO on Human Renal Fibroblasts Is Mediated by NLRP3, 
+      Caspase-1 and the PERK/Akt/mTOR Pathway.
+LID - 10.3390/ijms222111864 [doi]
+LID - 11864
+AB  - Trimethylamine N-oxide (TMAO), a product of gut microbiota metabolism, has 
+      previously been shown to be implicated in chronic kidney disease. A high 
+      TMAO-containing diet has been found to cause tubulointerstitial renal fibrosis in 
+      mice. However, today there are no data linking specific molecular pathways with 
+      the effect of TMAO on human renal fibrosis. The aim of this study was to 
+      investigate the fibrotic effects of TMAO on renal fibroblasts and to elucidate 
+      the molecular pathways involved. We found that TMAO promoted renal fibroblast 
+      activation and fibroblast proliferation via the PERK/Akt/mTOR pathway, NLRP3, and 
+      caspase-1 signaling. We also found that TMAO increased the total collagen 
+      production from renal fibroblasts via the PERK/Akt/mTOR pathway. However, TMAO 
+      did not induce fibronectin or TGF-beta1 release from renal fibroblasts. We have 
+      unraveled that the PERK/Akt/mTOR pathway, NLRP3, and caspase-1 mediates TMAO's 
+      fibrotic effect on human renal fibroblasts. Our results can pave the way for 
+      future research to further clarify the molecular mechanism behind TMAO's effects 
+      and to identify novel therapeutic targets in the context of chronic kidney 
+      disease.
+FAU - Kapetanaki, Stefania
+AU  - Kapetanaki S
+AD  - School of Medical Sciences, Campus USO, Orebro University, 701 82 Orebro, Sweden.
+AD  - Nephrology Department, Karolinska University Hospital, 171 76 Solna, Sweden.
+AD  - Nephrology Department, Karolinska University Hospital, 141 86 Huddinge, Sweden.
+FAU - Kumawat, Ashok Kumar
+AU  - Kumawat AK
+AD  - School of Medical Sciences, Campus USO, Orebro University, 701 82 Orebro, Sweden.
+AD  - Cardiovascular Research Center, School of Medical Sciences, Orebro University, 
+      701 82 Orebro, Sweden.
+FAU - Persson, Katarina
+AU  - Persson K
+AD  - School of Medical Sciences, Campus USO, Orebro University, 701 82 Orebro, Sweden.
+AD  - iRiSC-Inflammatory Response and Infection Susceptibility Center, Faculty of 
+      Medicine and Health, Orebro University, 701 82 Orebro, Sweden.
+FAU - Demirel, Isak
+AU  - Demirel I
+AD  - School of Medical Sciences, Campus USO, Orebro University, 701 82 Orebro, Sweden.
+AD  - iRiSC-Inflammatory Response and Infection Susceptibility Center, Faculty of 
+      Medicine and Health, Orebro University, 701 82 Orebro, Sweden.
+LA  - eng
+GR  - Faculty of Medicine and Health at Orebro University/
+PT  - Journal Article
+DEP - 20211101
+PL  - Switzerland
+TA  - Int J Mol Sci
+JT  - International journal of molecular sciences
+JID - 101092791
+RN  - 0 (Methylamines)
+RN  - 0 (NLR Family, Pyrin Domain-Containing 3 Protein)
+RN  - 0 (NLRP3 protein, human)
+RN  - 9007-34-5 (Collagen)
+RN  - EC 2.7.1.1 (MTOR protein, human)
+RN  - EC 2.7.11.1 (AKT1 protein, human)
+RN  - EC 2.7.11.1 (EIF2AK3 protein, human)
+RN  - EC 2.7.11.1 (Proto-Oncogene Proteins c-akt)
+RN  - EC 2.7.11.1 (TOR Serine-Threonine Kinases)
+RN  - EC 2.7.11.1 (eIF-2 Kinase)
+RN  - EC 3.4.22.36 (Caspase 1)
+RN  - FLD0K1SJ1A (trimethyloxamine)
+SB  - IM
+MH  - Caspase 1/*metabolism
+MH  - Cell Line
+MH  - Cell Proliferation/drug effects
+MH  - Collagen/metabolism
+MH  - Fibroblasts/cytology/drug effects/metabolism
+MH  - Fibrosis
+MH  - Gene Expression Regulation/drug effects
+MH  - Humans
+MH  - Kidney/cytology/drug effects/metabolism/*pathology
+MH  - Methylamines/*toxicity
+MH  - Models, Biological
+MH  - NLR Family, Pyrin Domain-Containing 3 Protein/*metabolism
+MH  - Proto-Oncogene Proteins c-akt/metabolism
+MH  - Signal Transduction/*drug effects
+MH  - TOR Serine-Threonine Kinases/metabolism
+MH  - eIF-2 Kinase/metabolism
+PMC - PMC8584593
+OTO - NOTNLM
+OT  - TMAO
+OT  - chronic kidney disease
+OT  - collagen
+OT  - proliferation
+OT  - renal fibroblasts
+COIS- The authors declare no conflict of interest.
+EDAT- 2021/11/14 06:00
+MHDA- 2021/12/15 06:00
+PMCR- 2021/11/01
+CRDT- 2021/11/13 01:05
+PHST- 2021/10/07 00:00 [received]
+PHST- 2021/10/24 00:00 [revised]
+PHST- 2021/10/30 00:00 [accepted]
+PHST- 2021/11/13 01:05 [entrez]
+PHST- 2021/11/14 06:00 [pubmed]
+PHST- 2021/12/15 06:00 [medline]
+PHST- 2021/11/01 00:00 [pmc-release]
+AID - ijms222111864 [pii]
+AID - ijms-22-11864 [pii]
+AID - 10.3390/ijms222111864 [doi]
+PST - epublish
+SO  - Int J Mol Sci. 2021 Nov 1;22(21):11864. doi: 10.3390/ijms222111864.
+
+PMID- 35113194
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220715
+LR  - 20250728
+IS  - 1436-6215 (Electronic)
+IS  - 1436-6207 (Print)
+IS  - 1436-6207 (Linking)
+VI  - 61
+IP  - 5
+DP  - 2022 Aug
+TI  - Circulating trimethylamine N-oxide levels following fish or seafood consumption.
+PG  - 2357-2364
+LID - 10.1007/s00394-022-02803-4 [doi]
+AB  - PURPOSE: Some species of fish and seafood are high in trimethylamine N-oxide 
+      (TMAO), which accumulates in muscle where it protects against pressure and cold. 
+      Trimethylamine (TMA), the metabolic precursor to TMAO, is formed in fish during 
+      bacterial spoilage. Fish intake is promoted for its potential cardioprotective 
+      effects. However, numerous studies show TMAO has pro-atherothrombotic properties. 
+      Here, we determined the effects of fish or seafood consumption on circulating 
+      TMAO levels in participants with normal renal function. METHODS: TMAO and omega-3 
+      fatty acid content were quantified across multiple different fish or seafood 
+      species by mass spectrometry. Healthy volunteers (n = 50) were recruited for 
+      three studies. Participants in the first study consented to 5 consecutive weekly 
+      blood draws and provided dietary recall for the 24 h preceding each draw. In the 
+      second study, TMAO levels were determined following defined low and high TMAO 
+      diets. Finally, participants consumed test meals containing shrimp, tuna, fish 
+      sticks, salmon or cod. TMAO levels were quantified by mass spectrometry in blood 
+      collected before and after dietary challenge. RESULTS: TMAO + TMA content varied 
+      widely across fish and seafood species. Consumption of fish sticks, cod, and to a 
+      lesser extent salmon led to significant increases in circulating TMAO levels. 
+      Within 1 day, circulating TMAO concentrations in all participants returned to 
+      baseline levels. CONCLUSIONS: We conclude that some fish and seafood contain high 
+      levels of TMAO, and may induce a transient elevation in TMAO levels in some 
+      individuals. Selection of low TMAO content fish is prudent for subjects with 
+      elevated TMAO, cardiovascular disease or impaired renal function.
+CI  - (c) 2022. The Author(s), under exclusive licence to Springer-Verlag GmbH Germany.
+FAU - Wang, Zeneng
+AU  - Wang Z
+AD  - Department of Cardiovascular and Metabolic Sciences, Lerner Research Institute, 
+      Cleveland Clinic, 9500 Euclid Avenue, Mail Code NC10, Cleveland, OH, 44195, USA.
+FAU - Tang, W H Wilson
+AU  - Tang WHW
+AD  - Department of Cardiovascular and Metabolic Sciences, Lerner Research Institute, 
+      Cleveland Clinic, 9500 Euclid Avenue, Mail Code NC10, Cleveland, OH, 44195, USA.
+AD  - Department of Cardiovascular Medicine, Heart, Vascular and Thoracic Institute, 
+      Cleveland Clinic, Cleveland, OH, USA.
+FAU - O'Connell, Thomas
+AU  - O'Connell T
+AD  - LipoScience, Laboratory Corporation of America(R) Holdings, Raleigh, NC, 27616, 
+      USA.
+AD  - Department of Otolaryngology-Head and Neck Surgery, Indiana University School of 
+      Medicine, Indianapolis, IN, 46202, USA.
+FAU - Garcia, Erwin
+AU  - Garcia E
+AD  - LipoScience, Laboratory Corporation of America(R) Holdings, Raleigh, NC, 27616, 
+      USA.
+AD  - Laboratory Corporation of America Holdings (Labcorp), Morrisville, NC, 27560, 
+      USA.
+FAU - Jeyarajah, Elias J
+AU  - Jeyarajah EJ
+AD  - LipoScience, Laboratory Corporation of America(R) Holdings, Raleigh, NC, 27616, 
+      USA.
+FAU - Li, Xinmin S
+AU  - Li XS
+AD  - Department of Cardiovascular and Metabolic Sciences, Lerner Research Institute, 
+      Cleveland Clinic, 9500 Euclid Avenue, Mail Code NC10, Cleveland, OH, 44195, USA.
+FAU - Jia, Xun
+AU  - Jia X
+AD  - Department of Cardiovascular and Metabolic Sciences, Lerner Research Institute, 
+      Cleveland Clinic, 9500 Euclid Avenue, Mail Code NC10, Cleveland, OH, 44195, USA.
+FAU - Weeks, Taylor L
+AU  - Weeks TL
+AD  - Department of Cardiovascular and Metabolic Sciences, Lerner Research Institute, 
+      Cleveland Clinic, 9500 Euclid Avenue, Mail Code NC10, Cleveland, OH, 44195, USA.
+FAU - Hazen, Stanley L
+AU  - Hazen SL
+AUID- ORCID: 0000-0001-7124-6639
+AD  - Department of Cardiovascular and Metabolic Sciences, Lerner Research Institute, 
+      Cleveland Clinic, 9500 Euclid Avenue, Mail Code NC10, Cleveland, OH, 44195, USA. 
+      hazens@ccf.org.
+AD  - Department of Cardiovascular Medicine, Heart, Vascular and Thoracic Institute, 
+      Cleveland Clinic, Cleveland, OH, USA. hazens@ccf.org.
+LA  - eng
+GR  - P01 HL147823/HL/NHLBI NIH HHS/United States
+GR  - R01HL130819/NH/NIH HHS/United States
+GR  - R01HL103866/NH/NIH HHS/United States
+GR  - R01 HL130819/HL/NHLBI NIH HHS/United States
+GR  - R01 HL103866/HL/NHLBI NIH HHS/United States
+GR  - P01HL147823/NH/NIH HHS/United States
+GR  - R01HL130819/NH/NIH HHS/United States
+GR  - R01HL103866/NH/NIH HHS/United States
+GR  - P01HL147823/NH/NIH HHS/United States
+PT  - Journal Article
+DEP - 20220203
+PL  - Germany
+TA  - Eur J Nutr
+JT  - European journal of nutrition
+JID - 100888704
+RN  - 0 (Fatty Acids, Omega-3)
+RN  - 0 (Methylamines)
+RN  - FLD0K1SJ1A (trimethyloxamine)
+SB  - IM
+MH  - Animals
+MH  - Bacteria
+MH  - Diet
+MH  - Fatty Acids, Omega-3
+MH  - *Fishes/microbiology
+MH  - Humans
+MH  - Mass Spectrometry
+MH  - Methylamines/blood
+MH  - *Seafood/microbiology
+PMC - PMC9283263
+MID - NIHMS1783531
+OTO - NOTNLM
+OT  - Cardiovascular disease risk
+OT  - Fish consumption
+OT  - Gut microbiome
+OT  - Thrombosis
+OT  - Trimethylamine N-oxide
+COIS- Conflicts of interest Drs Hazen and Wang report being named as co-inventors on 
+      pending and issued patents held by the Cleveland Clinic relating to 
+      cardiovascular diagnostics and therapeutics. Drs Hazen and Wang report having 
+      received royalty payments for inventions or discoveries related to cardiovascular 
+      diagnostics or therapeutics from Cleveland Heart Lab, a fully owned subsidiary of 
+      Quest Diagnostics, and Procter & Gamble. Dr. Hazen is a paid consultant for Zehna 
+      Therapeutics and Proctor & Gamble, and has received research funds from Zehna 
+      Therapeutics, Proctor & Gamble, Pfizer Inc., and Roche Diagnostics. Dr. Garcia is 
+      a current employee of Labcorp, and Drs Jeyarajah and O'Connell are former 
+      employees of LipoScience. Dr. Tang is a consultant for Sequana Medical A.G., 
+      Owkin Inc, Relypsa Inc, preCARDIA Inc, and Cardiol Therapeutics Inc, Genomics 
+      plc, and has received honorarium from Springer Nature for authorship/editorship 
+      and American Board of Internal Medicine for exam writing committee participation 
+      - all unrelated to the subject and contents of this paper. The remaining authors 
+      have nothing to disclose.
+EDAT- 2022/02/04 06:00
+MHDA- 2022/07/16 06:00
+PMCR- 2023/08/01
+CRDT- 2022/02/03 12:16
+PHST- 2021/09/30 00:00 [received]
+PHST- 2022/01/06 00:00 [accepted]
+PHST- 2022/02/04 06:00 [pubmed]
+PHST- 2022/07/16 06:00 [medline]
+PHST- 2022/02/03 12:16 [entrez]
+PHST- 2023/08/01 00:00 [pmc-release]
+AID - 10.1007/s00394-022-02803-4 [pii]
+AID - 10.1007/s00394-022-02803-4 [doi]
+PST - ppublish
+SO  - Eur J Nutr. 2022 Aug;61(5):2357-2364. doi: 10.1007/s00394-022-02803-4. Epub 2022 
+      Feb 3.
+
+PMID- 35366920
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20220408
+IS  - 1743-7075 (Print)
+IS  - 1743-7075 (Electronic)
+IS  - 1743-7075 (Linking)
+VI  - 19
+IP  - 1
+DP  - 2022 Apr 2
+TI  - Progression of atherosclerosis with carnitine supplementation: a randomized 
+      controlled trial in the metabolic syndrome.
+PG  - 26
+LID - 10.1186/s12986-022-00661-9 [doi]
+LID - 26
+AB  - BACKGROUND: L-carnitine (L-C), a ubiquitous nutritional supplement, has been 
+      investigated as a potential therapy for cardiovascular disease, but its effects 
+      on human atherosclerosis are unknown. Clinical studies suggest improvement of 
+      some cardiovascular risk factors, whereas others show increased plasma levels of 
+      pro-atherogenic trimethylamine N-oxide. The primary aim was to determine whether 
+      L-C therapy led to progression or regression of carotid total plaque volume (TPV) 
+      in participants with metabolic syndrome (MetS). METHODS: This was a phase 2, 
+      prospective, double blinded, randomized, placebo-controlled, two-center trial. 
+      MetS was defined as >/= 3/5 cardiac risk factors: elevated waist circumference; 
+      elevated triglycerides; reduced HDL-cholesterol; elevated blood pressure; 
+      elevated glucose or HbA1c; or on treatment. Participants with a baseline 
+      TPV >/= 50 mm(3) were randomized to placebo or 2 g L-C daily for 6 months. RESULTS: 
+      The primary outcome was the percent change in TPV over 6 months. In 157 
+      participants (L-C N = 76, placebo N = 81), no difference in TPV change between 
+      arms was found. The L-C group had a greater increase in carotid atherosclerotic 
+      stenosis of 9.3% (p = 0.02) than the placebo group. There was a greater increase 
+      in total cholesterol and LDL-C levels in the L-C arm. CONCLUSIONS: Though total 
+      carotid plaque volume did not change in MetS participants taking L-C over 
+      6-months, there was a concerning progression of carotid plaque stenosis. The 
+      potential harm of L-C in MetS and its association with pro-atherogenic 
+      metabolites raises concerns for its further use as a potential therapy and its 
+      widespread availability as a nutritional supplement. TRIAL REGISTRATION: 
+      ClinicalTrials.gov, NCT02117661, Registered April 21, 2014, 
+      https://clinicaltrials.gov/ct2/show/NCT02117661 .
+CI  - (c) 2022. The Author(s).
+FAU - Johri, Amer M
+AU  - Johri AM
+AUID- ORCID: 0000-0001-7044-8212
+AD  - Department of Medicine, Cardiovascular Imaging Network at Queen's University, 
+      Kingston, ON, Canada. amerschedule@gmail.com.
+AD  - Department of Medicine, Queen's University, 76 Stuart Street, KGH FAPC 3, 
+      Kingston, ON, K7L 2V7, Canada. amerschedule@gmail.com.
+FAU - Hetu, Marie-France
+AU  - Hetu MF
+AD  - Department of Medicine, Cardiovascular Imaging Network at Queen's University, 
+      Kingston, ON, Canada.
+FAU - Heyland, Daren K
+AU  - Heyland DK
+AD  - Department of Critical Care Medicine, Clinical Evaluation Research Unit, 
+      Kingston, ON, Canada.
+FAU - Herr, Julia E
+AU  - Herr JE
+AD  - Department of Medicine, Cardiovascular Imaging Network at Queen's University, 
+      Kingston, ON, Canada.
+FAU - Korol, Jennifer
+AU  - Korol J
+AD  - Department of Critical Care Medicine, Clinical Evaluation Research Unit, 
+      Kingston, ON, Canada.
+FAU - Froese, Shawna
+AU  - Froese S
+AD  - Department of Critical Care Medicine, Clinical Evaluation Research Unit, 
+      Kingston, ON, Canada.
+FAU - Norman, Patrick A
+AU  - Norman PA
+AD  - Kingston Health Sciences Centre, Kingston, ON, Canada.
+FAU - Day, Andrew G
+AU  - Day AG
+AD  - Kingston Health Sciences Centre, Kingston, ON, Canada.
+FAU - Matangi, Murray F
+AU  - Matangi MF
+AD  - The Kingston Heart Clinic, Kingston, ON, Canada.
+FAU - Michos, Erin D
+AU  - Michos ED
+AD  - Division of Cardiology, Johns Hopkins University School of Medicine, Baltimore, 
+      USA.
+FAU - LaHaye, Stephen A
+AU  - LaHaye SA
+AD  - Department of Medicine, Queen's University, 76 Stuart Street, KGH FAPC 3, 
+      Kingston, ON, K7L 2V7, Canada.
+FAU - Saunders, Fraser W
+AU  - Saunders FW
+AD  - Southeastern Ontario Vascular Laboratory, Kingston Health Sciences Centre, 
+      Kingston, ON, Canada.
+FAU - Spence, J David
+AU  - Spence JD
+AD  - Stroke Prevention and Atherosclerosis Research Centre, University of Western 
+      Ontario, London, ON, Canada.
+LA  - eng
+SI  - ClinicalTrials.gov/NCT02117661
+GR  - G-14-0005706/Heart and Stroke Foundation of Canada/
+GR  - Phase I Career #7500/Heart and Stroke Foundation of Canada/
+GR  - Clinician Award/Southeastern Ontario Academic Medical Organization/
+GR  - DOM/Queen's University/
+PT  - Journal Article
+DEP - 20220402
+PL  - England
+TA  - Nutr Metab (Lond)
+JT  - Nutrition & metabolism
+JID - 101231644
+PMC - PMC8976995
+OTO - NOTNLM
+OT  - Cardiovascular
+OT  - Carotid
+OT  - L-carnitine
+OT  - Plaque
+OT  - Ultrasound
+COIS- The authors declare that they have no competing interests.
+EDAT- 2022/04/04 06:00
+MHDA- 2022/04/04 06:01
+PMCR- 2022/04/02
+CRDT- 2022/04/03 20:22
+PHST- 2021/11/19 00:00 [received]
+PHST- 2022/03/22 00:00 [accepted]
+PHST- 2022/04/03 20:22 [entrez]
+PHST- 2022/04/04 06:00 [pubmed]
+PHST- 2022/04/04 06:01 [medline]
+PHST- 2022/04/02 00:00 [pmc-release]
+AID - 10.1186/s12986-022-00661-9 [pii]
+AID - 661 [pii]
+AID - 10.1186/s12986-022-00661-9 [doi]
+PST - epublish
+SO  - Nutr Metab (Lond). 2022 Apr 2;19(1):26. doi: 10.1186/s12986-022-00661-9.
+
+PMID- 37915930
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20231103
+IS  - 2048-8505 (Print)
+IS  - 2048-8513 (Electronic)
+IS  - 2048-8505 (Linking)
+VI  - 16
+IP  - 11
+DP  - 2023 Nov
+TI  - The dietary source of trimethylamine N-oxide and clinical outcomes: an unexpected 
+      liaison.
+PG  - 1804-1812
+LID - 10.1093/ckj/sfad095 [doi]
+AB  - The profile of gut microbiota can vary according to host genetic and dietary 
+      characteristics, and be influenced by disease state and environmental stressors. 
+      The uremic dysbiosis results in a loss of biodiversity and overgrowth of 
+      microorganisms that may cause elevation of metabolic solutes such as 
+      trimethylamine N-oxide (TMAO), inducing pathogenic effects on its host. In 
+      patients with chronic kidney disease (CKD), TMAO levels are elevated because of a 
+      decreased clearance and an increased production from the uremic gut dysbiosis 
+      with a disrupted intestinal barrier and elevated enzymatic hepatic activity. 
+      Dietary precursors of TMAO are abundant in animal-derived foods such as red meat, 
+      egg yolk and other full-fat dietary products. TMAO is also found naturally in 
+      fish and certain types of seafood, with the TMAO content highly variable 
+      according to the depth of the sea where the fish is caught, as well as processing 
+      and storage. Although evidence points towards TMAO as being an important link to 
+      vascular damage and adverse cardiovascular outcomes, the evidence in CKD patients 
+      has not been consistent. In this review we discuss the potential dietary sources 
+      of TMAO and its actions on the intestinal microbiome as an explanation for the 
+      divergent results. We further highlight the potential of a healthy diet as one 
+      feasible therapeutic opportunity to prevent gut dysbiosis and reduce uremic toxin 
+      levels in patients with CKD.
+CI  - (c) The Author(s) 2023. Published by Oxford University Press on behalf of the ERA.
+FAU - Evans, Marie
+AU  - Evans M
+AUID- ORCID: 0000-0001-8650-5795
+AD  - Renal Unit, Department of Clinical Sciences and Technology (CLINTEC), Karolinska 
+      Institutet, Stockholm, Sweden.
+FAU - Dai, Lu
+AU  - Dai L
+AUID- ORCID: 0000-0001-9036-3857
+AD  - Aging Research Center, Department of Neurobiology, Care Sciences and Society, 
+      Karolinska Institutet, Stockholm, Sweden.
+FAU - Avesani, Carla Maria
+AU  - Avesani CM
+AD  - Renal Unit, Department of Clinical Sciences and Technology (CLINTEC), Karolinska 
+      Institutet, Stockholm, Sweden.
+FAU - Kublickiene, Karolina
+AU  - Kublickiene K
+AD  - Renal Unit, Department of Clinical Sciences and Technology (CLINTEC), Karolinska 
+      Institutet, Stockholm, Sweden.
+FAU - Stenvinkel, Peter
+AU  - Stenvinkel P
+AD  - Renal Unit, Department of Clinical Sciences and Technology (CLINTEC), Karolinska 
+      Institutet, Stockholm, Sweden.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20230421
+PL  - England
+TA  - Clin Kidney J
+JT  - Clinical kidney journal
+JID - 101579321
+PMC - PMC10616480
+OTO - NOTNLM
+OT  - chronic kidney disease
+OT  - diet
+OT  - gut microbiome
+OT  - trimethylamine-N-oxide
+OT  - uremic toxin
+COIS- None of the authors has any conflicts of interest to declare in relation to this 
+      manuscript.
+EDAT- 2023/11/02 06:42
+MHDA- 2023/11/02 06:43
+PMCR- 2023/04/21
+CRDT- 2023/11/02 04:09
+PHST- 2023/03/26 00:00 [received]
+PHST- 2023/11/02 06:43 [medline]
+PHST- 2023/11/02 06:42 [pubmed]
+PHST- 2023/11/02 04:09 [entrez]
+PHST- 2023/04/21 00:00 [pmc-release]
+AID - sfad095 [pii]
+AID - 10.1093/ckj/sfad095 [doi]
+PST - epublish
+SO  - Clin Kidney J. 2023 Apr 21;16(11):1804-1812. doi: 10.1093/ckj/sfad095. 
+      eCollection 2023 Nov.
+
+PMID- 38593157
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20240603
+LR  - 20260601
+IS  - 1533-3450 (Electronic)
+IS  - 1046-6673 (Print)
+IS  - 1046-6673 (Linking)
+VI  - 35
+IP  - 6
+DP  - 2024 Jun 1
+TI  - The Gut Microbial Metabolite Trimethylamine N -oxide, Incident CKD, and Kidney 
+      Function Decline.
+PG  - 749-760
+LID - 10.1681/ASN.0000000000000344 [doi]
+AB  - KEY POINTS: In community-based US adults, higher plasma trimethylamine N-oxide 
+      levels associated with higher risk of incident CKD and greater rate of kidney 
+      function decline. Findings from our study support future clinical trials to 
+      examine whether lowering plasma trimethylamine N-oxide levels may prevent CKD 
+      development and progression. BACKGROUND: Trimethylamine N-oxide (TMAO) is a gut 
+      microbiota-derived metabolite of dietary phosphatidylcholine and carnitine. 
+      Experimentally, TMAO causes kidney injury and tubulointerstitial fibrosis. Little 
+      is known about prospective associations between TMAO and kidney outcomes, 
+      especially incident CKD. We hypothesized that higher plasma TMAO levels would be 
+      associated with higher risk of incident CKD and greater rate of kidney function 
+      decline. METHODS: We included 10,564 participants from two community-based, 
+      prospective cohorts with eGFR >/=60 ml/min per 1.73 m(2) to assess incident CKD. 
+      TMAO was measured using targeted mass spectrometry at baseline and one follow-up 
+      visit. Creatinine and cystatin C were measured up to four times during follow-up 
+      and used to compute eGFR. Incident CKD was defined as an eGFR decline >/=30% from 
+      baseline and a resulting eGFR <60 ml/min per 1.73 m(2). Time-varying Cox models 
+      assessed the association of serial TMAO measures with incident CKD, adjusting for 
+      sociodemographic, lifestyle, diet, and cardiovascular disease risk factors. 
+      Linear mixed models assessed the association with annualized eGFR change in 
+      10,009 participants with at least one follow-up eGFR measure without exclusions 
+      for baseline eGFR levels. RESULTS: During a median follow-up of 9.4 years 
+      (interquartile range, 9.1-11.6 years), 979 incident CKD events occurred. Higher 
+      TMAO levels were associated with higher risk of incident CKD (second to fifth 
+      versus first quintile hazard ratio [95% confidence interval]=1.65 [1.22 to 2.23], 
+      1.68 [1.26 to 2.25], 2.28 [1.72 to 3.02], and 2.24 [1.68 to 2.98], respectively) 
+      and greater annualized eGFR decline (second to fifth versus first quintile 
+      annualized eGFR change=-0.21 [-0.32 to -0.09], -0.17 [-0.29 to -0.05], -0.35 
+      [-0.47 to -0.22], and -0.43 [-0.56 to -0.30] ml/min per 1.73 m(2), respectively) 
+      with monotonic dose-response relationships. These associations were consistent 
+      across different racial/ethnic groups examined. The association with eGFR decline 
+      was similar to or larger than that seen for established CKD risk factors, 
+      including diabetes, per 10 mm Hg of higher systolic BP, per 10 years of older 
+      age, and Black race. CONCLUSIONS: In community-based US adults, higher serial 
+      measures of plasma TMAO were associated with higher risk of incident CKD and 
+      greater annualized kidney function decline.
+FAU - Wang, Meng
+AU  - Wang M
+AUID- ORCID: 0000-0001-8345-9180
+AD  - Friedman School of Nutrition Science and Policy, Tufts University, Boston, 
+      Massachusetts.
+FAU - Tang, W H Wilson
+AU  - Tang WHW
+AUID- ORCID: 0000-0002-8335-735
+AD  - Department of Cardiovascular and Metabolic Sciences, Lerner Research Institute, 
+      Cleveland, Ohio.
+AD  - Center for Microbiome and Human Health, Lerner Research Institute, Cleveland, 
+      Ohio.
+AD  - Department of Cardiovascular Medicine, Heart, Vascular and Thoracic Institute, 
+      Cleveland Clinic, Cleveland, Ohio.
+FAU - Li, Xinmin S
+AU  - Li XS
+AUID- ORCID: 0000-0003-4946-4271
+AD  - Department of Cardiovascular and Metabolic Sciences, Lerner Research Institute, 
+      Cleveland, Ohio.
+AD  - Center for Microbiome and Human Health, Lerner Research Institute, Cleveland, 
+      Ohio.
+FAU - de Oliveira Otto, Marcia C
+AU  - de Oliveira Otto MC
+AUID- ORCID: 0000-0002-4585-0688
+AD  - Division of Epidemiology, Human Genetics and Environmental Sciences, The 
+      University of Texas Health Science Center at Houston (UTHealth) School of Public 
+      Health, Houston, Texas.
+FAU - Lee, Yujin
+AU  - Lee Y
+AD  - Department of Food and Nutrition, Myongji University, Yongin, South Korea.
+FAU - Lemaitre, Rozenn N
+AU  - Lemaitre RN
+AUID- ORCID: 0000-0002-7038-1844
+AD  - Cardiovascular Health Research Unit, Department of Medicine, University of 
+      Washington, Seattle, Washington.
+FAU - Fretts, Amanda
+AU  - Fretts A
+AUID- ORCID: 0000-0002-5358-2345
+AD  - Cardiovascular Health Research Unit, Department of Medicine, University of 
+      Washington, Seattle, Washington.
+AD  - Department of Epidemiology, University of Washington, Seattle, Washington.
+FAU - Nemet, Ina
+AU  - Nemet I
+AUID- ORCID: 0000-0002-0657-7121
+AD  - Department of Cardiovascular and Metabolic Sciences, Lerner Research Institute, 
+      Cleveland, Ohio.
+AD  - Center for Microbiome and Human Health, Lerner Research Institute, Cleveland, 
+      Ohio.
+FAU - Sotoodehnia, Nona
+AU  - Sotoodehnia N
+AD  - Cardiovascular Health Research Unit, Department of Medicine, University of 
+      Washington, Seattle, Washington.
+FAU - Sitlani, Colleen M
+AU  - Sitlani CM
+AD  - Cardiovascular Health Research Unit, Department of Medicine, University of 
+      Washington, Seattle, Washington.
+FAU - Budoff, Matthew
+AU  - Budoff M
+AUID- ORCID: 0000-0002-9616-1946
+AD  - Lundquist Institute at Harbor-UCLA Medical Center, Torrance, California.
+FAU - DiDonato, Joseph A
+AU  - DiDonato JA
+AUID- ORCID: 0000-0002-1641-1758
+AD  - Department of Cardiovascular and Metabolic Sciences, Lerner Research Institute, 
+      Cleveland, Ohio.
+AD  - Center for Microbiome and Human Health, Lerner Research Institute, Cleveland, 
+      Ohio.
+FAU - Wang, Zeneng
+AU  - Wang Z
+AUID- ORCID: 0000-0002-6455-8228
+AD  - Department of Cardiovascular and Metabolic Sciences, Lerner Research Institute, 
+      Cleveland, Ohio.
+AD  - Center for Microbiome and Human Health, Lerner Research Institute, Cleveland, 
+      Ohio.
+FAU - Bansal, Nisha
+AU  - Bansal N
+AUID- ORCID: 0000-0002-9583-8628
+AD  - Division of Nephrology, Department of Medicine, University of Washington, 
+      Seattle, Washington.
+FAU - Shlipak, Michael G
+AU  - Shlipak MG
+AUID- ORCID: 0000-0002-9559-204
+AD  - Kidney Health Research Collaborative and Department of Medicine, San Francisco 
+      Veterans Administration Medical Center and University of California-San 
+      Francisco, San Francisco, California.
+FAU - Psaty, Bruce M
+AU  - Psaty BM
+AD  - Cardiovascular Health Research Unit, Department of Medicine, University of 
+      Washington, Seattle, Washington.
+AD  - Department of Epidemiology, University of Washington, Seattle, Washington.
+AD  - Department of Health Systems and Population Health, University of Washington, 
+      Seattle, Washington.
+FAU - Siscovick, David S
+AU  - Siscovick DS
+AUID- ORCID: 0000-0003-0461-175
+AD  - The New York Academy of Medicine, New York, New York.
+FAU - Sarnak, Mark J
+AU  - Sarnak MJ
+AUID- ORCID: 0000-0003-1860-6302
+AD  - Department of Medicine (Nephrology), Tufts University School of Medicine, Boston, 
+      Massachusetts.
+FAU - Mozaffarian, Dariush
+AU  - Mozaffarian D
+AD  - Friedman School of Nutrition Science and Policy, Tufts University, Boston, 
+      Massachusetts.
+FAU - Hazen, Stanley L
+AU  - Hazen SL
+AUID- ORCID: 0000-0001-7124-6639
+AD  - Department of Cardiovascular and Metabolic Sciences, Lerner Research Institute, 
+      Cleveland, Ohio.
+AD  - Center for Microbiome and Human Health, Lerner Research Institute, Cleveland, 
+      Ohio.
+AD  - Department of Cardiovascular Medicine, Heart, Vascular and Thoracic Institute, 
+      Cleveland Clinic, Cleveland, Ohio.
+LA  - eng
+GR  - P01 HL147823/HL/NHLBI NIH HHS/United States
+GR  - R01 HL103866/HL/NHLBI NIH HHS/United States
+GR  - R01 HL135920/HL/NHLBI NIH HHS/United States
+GR  - 906562/American Heart Association/
+GR  - P01 HL147823/NH/NIH HHS/United States
+GR  - R01HL135920/NH/NIH HHS/United States
+GR  - K26 DK138333/DK/NIDDK NIH HHS/United States
+GR  - R01 HL103866/NH/NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20240509
+PL  - United States
+TA  - J Am Soc Nephrol
+JT  - Journal of the American Society of Nephrology : JASN
+JID - 9013836
+RN  - 0 (Methylamines)
+RN  - FLD0K1SJ1A (trimethyloxamine)
+SB  - IM
+MH  - *Methylamines/metabolism
+MH  - Humans
+MH  - *Gastrointestinal Microbiome
+MH  - *Renal Insufficiency, Chronic/metabolism
+MH  - Male
+MH  - Female
+MH  - Glomerular Filtration Rate
+MH  - Kidney/metabolism
+MH  - Middle Aged
+PMC - PMC11164118
+COIS- Disclosure forms, as provided by each author, are available with the online 
+      version of the article at http://links.lww.com/JSN/E625.
+EDAT- 2024/04/09 18:42
+MHDA- 2024/06/03 18:41
+PMCR- 2025/06/01
+CRDT- 2024/04/09 14:04
+PHST- 2023/11/26 00:00 [received]
+PHST- 2024/04/01 00:00 [accepted]
+PHST- 2024/06/03 18:41 [medline]
+PHST- 2024/04/09 18:42 [pubmed]
+PHST- 2024/04/09 14:04 [entrez]
+PHST- 2025/06/01 00:00 [pmc-release]
+AID - 00001751-202406000-00010 [pii]
+AID - JASN-2023-001569 [pii]
+AID - 10.1681/ASN.0000000000000344 [doi]
+PST - ppublish
+SO  - J Am Soc Nephrol. 2024 Jun 1;35(6):749-760. doi: 10.1681/ASN.0000000000000344. 
+      Epub 2024 May 9.
+
+PMID- 39683637
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20241217
+LR  - 20260923
+IS  - 2072-6643 (Electronic)
+IS  - 2072-6643 (Linking)
+VI  - 16
+IP  - 23
+DP  - 2024 Dec 9
+TI  - Revisiting the Role of Carnitine in Heart Disease Through the Lens of the Gut 
+      Microbiota.
+LID - 10.3390/nu16234244 [doi]
+LID - 4244
+AB  - L-Carnitine, sourced from red meat, dairy, and endogenous synthesis, plays a 
+      vital role in fatty acid metabolism and energy production. While beneficial for 
+      cardiovascular, muscular, and neural health, its interaction with the gut 
+      microbiota and conversion into trimethylamine (TMA) and trimethylamine N-oxide 
+      (TMAO) raise concerns about heart health. TMAO, produced through the 
+      gut-microbial metabolism of L-carnitine and subsequent liver oxidation, is 
+      associated with cardiovascular risks, including atherosclerosis, heart attacks, 
+      and stroke. It contributes to cholesterol deposition, vascular dysfunction, and 
+      platelet aggregation. Omnivorous diets, rich in L-carnitine, are associated with 
+      higher TMAO levels compared to plant-based diets, which are linked to lower 
+      cardiovascular disease risks. Dietary interventions, such as increasing fiber, 
+      polyphenols, and probiotics, can modulate the gut microbiota to reduce TMAO 
+      production. These strategies seek to balance L-carnitine's benefits with its 
+      potential risks related to TMAO production. Future research should focus on 
+      personalized approaches to optimize L-carnitine use while mitigating its 
+      cardiovascular impacts, exploring microbial modulation and dietary strategies to 
+      minimize the TMAO levels and associated risks.
+FAU - Demarquoy, Jean
+AU  - Demarquoy J
+AUID- ORCID: 0000-0002-0787-219X
+AD  - Unite Mixte de Recherche Procedes Alimentaires et Microbiologiques (UMR PAM), 
+      Institut Agro, Institut National de Recherche Pour L'agriculture, L'alimentation 
+      et L'environnement (INRAE), Universite de Bourgogne, 21000 Dijon, France.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20241209
+PL  - Switzerland
+TA  - Nutrients
+JT  - Nutrients
+JID - 101521595
+RN  - S7UI8SM58A (Carnitine)
+RN  - 0 (Methylamines)
+RN  - FLD0K1SJ1A (trimethyloxamine)
+RN  - LHH7G8O305 (trimethylamine)
+SB  - IM
+MH  - *Gastrointestinal Microbiome/physiology
+MH  - *Carnitine/metabolism
+MH  - Humans
+MH  - *Methylamines/metabolism
+MH  - Heart Diseases/prevention & control
+MH  - Diet/methods
+PMC - PMC11644639
+OTO - NOTNLM
+OT  - TMAO
+OT  - carnitine
+OT  - health
+OT  - heart
+OT  - microbiota
+COIS- The author declares no conflicts of interest.
+EDAT- 2024/12/17 11:48
+MHDA- 2024/12/17 11:49
+PMCR- 2024/12/09
+CRDT- 2024/12/17 01:08
+PHST- 2024/11/19 00:00 [received]
+PHST- 2024/11/30 00:00 [revised]
+PHST- 2024/12/06 00:00 [accepted]
+PHST- 2024/12/17 11:49 [medline]
+PHST- 2024/12/17 11:48 [pubmed]
+PHST- 2024/12/17 01:08 [entrez]
+PHST- 2024/12/09 00:00 [pmc-release]
+AID - nu16234244 [pii]
+AID - nutrients-16-04244 [pii]
+AID - 10.3390/nu16234244 [doi]
+PST - epublish
+SO  - Nutrients. 2024 Dec 9;16(23):4244. doi: 10.3390/nu16234244.
+
+PMID- 40603925
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250703
+LR  - 20250906
+IS  - 2045-2322 (Electronic)
+IS  - 2045-2322 (Linking)
+VI  - 15
+IP  - 1
+DP  - 2025 Jul 2
+TI  - Trimethylamine-N-oxide (TMAO) and risk of incident cardiovascular events in the 
+      multi ethnic study of Atherosclerosis.
+PG  - 23362
+LID - 10.1038/s41598-025-05903-3 [doi]
+LID - 23362
+AB  - Trimethylamine-N-oxide (TMAO) is a gut microbiome-derived metabolite of choline, 
+      L-carnitine and lecithin, abundant in animal source foods. In experimental 
+      models, higher blood TMAO levels enhance atherosclerotic cardiovascular disease 
+      (ASCVD). However in humans, most prior studies have evaluated high risk or 
+      secondary prevention populations, and no studies have investigated relationships 
+      in a diverse, multi-ethnic population. We evaluated 6,767 US adults free of ASCVD 
+      at baseline in the community-based Multi-Ethnic Study of Atherosclerosis (MESA), 
+      including 38% identifying as White; 28%, as Black; 22%, as Hispanic; and 12%, as 
+      Chinese adults. Plasma TMAO was measured serially at baseline and 5-years, and 
+      its time-varying association with incident ASCVD determined using Cox 
+      proportional hazards. Multivariate analyses adjusted for time-varying 
+      demographics, lifestyle factors, medical history, lipid measures, antibiotic use 
+      and dietary habits. During median 11.3 years follow-up, 852 ASCVD events 
+      occurred. After multivariate adjustment, TMAO associated with higher risk of 
+      ASCVD in a dose-dependent fashion, with hazard ratios across quintiles of 1.02, 
+      1.17, 1.23, and 1.33 (95% CI 1.02, 1.74), respectively, compared to the lowest 
+      quintile (P-trend = 0.01). Risk appeared possibly larger among Hispanic and 
+      Chinese adults; and among individuals with lower baseline renal function; 
+      although these interactions did not achieve statistical significance. Plasma 
+      concentrations of TMAO associated with higher risk of incident ASCVD in this 
+      multi-ethnic US cohort, supporting a need to test dietary and pharmacologic 
+      interventions targeting the diet-microbiome axis for potential cardiovascular 
+      risk prevention in diverse populations.
+CI  - (c) 2025. The Author(s).
+FAU - Budoff, Matthew J
+AU  - Budoff MJ
+AD  - Department of Medicine, Lundquist Institute at Harbor-UCLA, Torrance, CA, USA. 
+      mbudoff@lundquist.org.
+FAU - de Oliveira Otto, Marcia C
+AU  - de Oliveira Otto MC
+AD  - Department of Epidemiology, The University of Texas Health Science Center at 
+      Houston (UTHealth) School of Public Health, Houston, TX, USA.
+FAU - Li, Xinmin S
+AU  - Li XS
+AD  - Department of Cardiovascular and Metabolic Sciences, Lerner Research Institute, 
+      Cleveland, OH, USA.
+AD  - Center for Microbiome and Human Health, Lerner Research Institute, Cleveland, OH, 
+      USA.
+FAU - Lee, Yujin
+AU  - Lee Y
+AD  - Department of Food and Nutrition, Myongji University, Yongin, Korea.
+FAU - Wang, Meng
+AU  - Wang M
+AD  - Food is Medicine Institute, Tufts University, Boston, MA, USA.
+FAU - Lai, Heidi T M
+AU  - Lai HTM
+AD  - Department of Primary Care and Public Health, Imperial College London, London, 
+      UK.
+FAU - Lemaitre, Rozenn N
+AU  - Lemaitre RN
+AD  - Cardiovascular Health Research Unit, Department of Medicine, University of 
+      Washington, Seattle, WA, USA.
+FAU - Pratt, Alan
+AU  - Pratt A
+AD  - Department of Cardiovascular and Metabolic Sciences, Lerner Research Institute, 
+      Cleveland, OH, USA.
+AD  - Center for Microbiome and Human Health, Lerner Research Institute, Cleveland, OH, 
+      USA.
+FAU - Tang, Wai Hong Wilson
+AU  - Tang WHW
+AD  - Department of Cardiovascular and Metabolic Sciences, Lerner Research Institute, 
+      Cleveland, OH, USA.
+AD  - Center for Microbiome and Human Health, Lerner Research Institute, Cleveland, OH, 
+      USA.
+AD  - Department of Cardiovascular Medicine, Heart, Vascular and Thoracic Institute, 
+      Cleveland Clinic, Cleveland, OH, USA.
+FAU - Psaty, Bruce M
+AU  - Psaty BM
+AD  - Cardiovascular Health Research Unit, Department of Medicine, University of 
+      Washington, Seattle, WA, USA.
+AD  - Department of Epidemiology, University of Washington, Seattle, WA, USA.
+AD  - Department of Health Systems and Population Health, University of Washington, 
+      Seattle, WA, USA.
+FAU - Siscovick, David S
+AU  - Siscovick DS
+AD  - The New York Academy of Medicine, New York City, NY, USA.
+FAU - Hazen, Stanley L
+AU  - Hazen SL
+AD  - Department of Cardiovascular and Metabolic Sciences, Lerner Research Institute, 
+      Cleveland, OH, USA.
+AD  - Center for Microbiome and Human Health, Lerner Research Institute, Cleveland, OH, 
+      USA.
+AD  - Department of Cardiovascular Medicine, Heart, Vascular and Thoracic Institute, 
+      Cleveland Clinic, Cleveland, OH, USA.
+FAU - Mozaffarian, Dariush
+AU  - Mozaffarian D
+AD  - Food is Medicine Institute, Tufts University, Boston, MA, USA.
+LA  - eng
+GR  - P01 HL147823/HL/NHLBI NIH HHS/United States
+GR  - R01 HL103866/HL/NHLBI NIH HHS/United States
+GR  - R01 HL135920/HL/NHLBI NIH HHS/United States
+GR  - R01HL135920/NH/NIH HHS/United States
+PT  - Journal Article
+DEP - 20250702
+PL  - England
+TA  - Sci Rep
+JT  - Scientific reports
+JID - 101563288
+RN  - FLD0K1SJ1A (trimethyloxamine)
+RN  - 0 (Methylamines)
+SB  - IM
+MH  - Humans
+MH  - *Methylamines/blood
+MH  - Female
+MH  - Male
+MH  - *Atherosclerosis/blood/epidemiology/ethnology
+MH  - Middle Aged
+MH  - Aged
+MH  - Risk Factors
+MH  - Incidence
+MH  - Ethnicity
+MH  - *Cardiovascular Diseases/blood/epidemiology
+MH  - United States/epidemiology
+MH  - Proportional Hazards Models
+PMC - PMC12222875
+OTO - NOTNLM
+OT  - Cardiovascular disease (CVD)
+OT  - Major adverse cardiac events (MACE)
+OT  - Myocardial infarction
+OT  - Nutrition
+OT  - Trimethylamine N-oxide (TMAO)
+COIS- Declarations. Competing interests: The authors declare no competing interests. 
+      Disclosures: Dr. WHW Tang is a consultant for Sequana Medical A.V., Cardiol 
+      Therapeutics Inc, Genomics plc, Zehna Therapeutics Inc, and has received 
+      honorarium from Springer Nature for authorship/editorship and American Board of 
+      Internal Medicine for exam writing committee. Drs Hazen and Wang report being 
+      named as co-inventors on pending and issued patents held by the Cleveland Clinic 
+      relating to cardiovascular diagnostics and therapeutics. Drs SL Hazen and Z Wang 
+      report having received royalty payments for inventions or discoveries related to 
+      cardiovascular diagnostics or therapeutics from Cleveland Heart Lab, a fully 
+      owned subsidiary of Quest Diagnostics, and Procter & Gamble. Dr. Hazen is a paid 
+      consultant for Zehna Therapeutics, and has received research funds from Zehna 
+      Therapeutics, Proctor & Gamble, Pfizer Inc., and Roche Diagnostics. Dr Psaty 
+      reported serving on the Steering Committee of the Yale Open Data Access Project 
+      funded by Johnson & Johnson. Dr Mozaffarian reported receiving personal fees from 
+      Acasti Pharma Inc and Barilla; serving on the scientific advisory board for Beren 
+      Therapeutics, Brightseed, Calibrate, Elysium Health, Filtricine Inc, Foodome, 
+      HumanCo, Instacart, January, Inc, Perfect Day Inc, and (ended) Day Two, Discern 
+      Dx, Season Health, and Tiny Organics; and receiving chapter royalties from 
+      UpToDate outside the submitted work. No other disclosures were reported.
+EDAT- 2025/07/03 00:27
+MHDA- 2025/07/03 06:27
+PMCR- 2025/07/02
+CRDT- 2025/07/02 23:49
+PHST- 2024/12/27 00:00 [received]
+PHST- 2025/06/04 00:00 [accepted]
+PHST- 2025/07/03 06:27 [medline]
+PHST- 2025/07/03 00:27 [pubmed]
+PHST- 2025/07/02 23:49 [entrez]
+PHST- 2025/07/02 00:00 [pmc-release]
+AID - 10.1038/s41598-025-05903-3 [pii]
+AID - 5903 [pii]
+AID - 10.1038/s41598-025-05903-3 [doi]
+PST - epublish
+SO  - Sci Rep. 2025 Jul 2;15(1):23362. doi: 10.1038/s41598-025-05903-3.
+
+PMID- 42287393
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20260807
+LR  - 20260813
+IS  - 1439-6327 (Electronic)
+IS  - 1439-6319 (Print)
+IS  - 1439-6319 (Linking)
+VI  - 126
+IP  - 8
+DP  - 2026 Aug
+TI  - Trimethylamine N-oxide in exercise physiology: a gut microbiota-derived signal 
+      linking metabolic stress, redox balance and cardiometabolic health.
+PG  - 4229-4242
+LID - 10.1007/s00421-026-06297-4 [doi]
+AB  - Trimethylamine N-oxide (TMAO) is a gut microbiota-derived metabolite 
+      traditionally associated with cardiovascular and metabolic disease risk; however, 
+      emerging evidence from exercise physiology and metabolomics suggests a more 
+      complex and context-dependent biological role. This narrative review synthesizes 
+      findings from human observational studies, exercise interventions, 
+      supplementation trials, and animal models to examine TMAO metabolism, 
+      physiological functions, and its relationship with physical activity, training 
+      adaptations, and metabolic stress. Circulating TMAO concentrations are determined 
+      primarily by dietary precursor availability, gut microbial metabolism, hepatic 
+      flavin monooxygenase activity, and renal clearance. Across human studies, TMAO 
+      levels do not consistently correlate with aerobic fitness, habitual physical 
+      activity, or training status. Exercise-only interventions rarely produce 
+      significant changes in circulating TMAO concentrations, whereas dietary 
+      manipulation and precursor supplementation exert substantially stronger effects. 
+      Experimental evidence nevertheless suggests that TMAO may exert context-dependent 
+      biological actions related to protein stabilization, mitochondrial energy 
+      metabolism, redox regulation, and tolerance to physiological stress. Acute 
+      endurance exercise, high training load, and exercise-induced muscle damage have 
+      also been associated with transient alterations in circulating or urinary TMAO 
+      levels, although findings remain limited and heterogeneous. Collectively, current 
+      evidence does not support interpreting TMAO solely as a pathogenic metabolite. 
+      Instead, circulating TMAO may reflect interactions among diet, gut microbiota 
+      activity, metabolic stress, and host physiological status. However, the 
+      usefulness of TMAO or the TMAO/TMA ratio as biomarkers of exercise adaptation, 
+      training load, or recovery remains to be established in controlled longitudinal 
+      human studies.
+CI  - (c) 2026. The Author(s).
+FAU - Olek, Robert A
+AU  - Olek RA
+AUID- ORCID: 0000-0002-3714-7386
+AD  - Department of Athletics, Strength, and Conditioning, Poznan University of 
+      Physical Education, Krolowej Jadwigi 27/39, Poznan, 61-871, Poland. 
+      olek@awf.poznan.pl.
+FAU - Radak, Zsolt
+AU  - Radak Z
+AUID- ORCID: 0000-0003-1297-6804
+AD  - Research Center for Molecular Exercise Science, Hungarian University of Sport 
+      Science, Budapest, Hungary.
+AD  - Faculty of Sport Sciences, Waseda University, Tokorozawa, Japan.
+LA  - eng
+GR  - Regionalna Inicjatywa Doskonalosci/Minister of Science (PL)/
+PT  - Journal Article
+PT  - Review
+DEP - 20260613
+PL  - Germany
+TA  - Eur J Appl Physiol
+JT  - European journal of applied physiology
+JID - 100954790
+RN  - 0 (Methylamines)
+RN  - FLD0K1SJ1A (trimethyloxamine)
+SB  - IM
+MH  - Humans
+MH  - *Methylamines/metabolism
+MH  - *Exercise/physiology
+MH  - Oxidation-Reduction
+MH  - Animals
+MH  - *Gastrointestinal Microbiome/physiology
+MH  - *Stress, Physiological/physiology
+PMC - PMC13451258
+OTO - NOTNLM
+OT  - Biomarkers
+OT  - Exercise physiology
+OT  - Gut microbiota
+OT  - Metabolic stress
+OT  - Recovery
+OT  - Redox balance
+OT  - Training load
+OT  - Trimethylamine N-oxide
+COIS- Declarations. Conflict of interest: The authors declare no competing interests or 
+      personal relationships that could have appeared to influence the work reported in 
+      this paper. Ethical approval and consent to participate: Not applicable. Consent 
+      for publication: Not applicable.
+EDAT- 2026/06/15 11:32
+MHDA- 2026/08/07 12:39
+PMCR- 2026/06/13
+CRDT- 2026/06/13 11:14
+PHST- 2026/03/13 00:00 [received]
+PHST- 2026/05/30 00:00 [accepted]
+PHST- 2026/08/07 12:39 [medline]
+PHST- 2026/06/15 11:32 [pubmed]
+PHST- 2026/06/13 11:14 [entrez]
+PHST- 2026/06/13 00:00 [pmc-release]
+AID - 10.1007/s00421-026-06297-4 [pii]
+AID - 6297 [pii]
+AID - 10.1007/s00421-026-06297-4 [doi]
+PST - ppublish
+SO  - Eur J Appl Physiol. 2026 Aug;126(8):4229-4242. doi: 10.1007/s00421-026-06297-4. 
+      Epub 2026 Jun 13.

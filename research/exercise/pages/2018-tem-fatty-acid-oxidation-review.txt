@@ -1,0 +1,38 @@
+SOURCE: Molecular Regulation of Fatty Acid Oxidation in Skeletal Muscle during Aerobic Exercise.
+URL: https://pubmed.ncbi.nlm.nih.gov/29221849/
+FETCHED: 2026-11-15 via NCBI efetch (pubmed abstract, retmode=text)
+PMID: 29221849
+DOI: 10.1016/j.tem.2017.10.011
+------------------------------------------------------------------------
+3. Trends Endocrinol Metab. 2018 Jan;29(1):18-30. doi: 10.1016/j.tem.2017.10.011.
+ Epub 2017 Dec 5.
+
+Molecular Regulation of Fatty Acid Oxidation in Skeletal Muscle during Aerobic 
+Exercise.
+
+Lundsgaard AM(1), Fritzen AM(1), Kiens B(2).
+
+Author information:
+(1)Section of Molecular Physiology, Department of Nutrition, Exercise, and 
+Sports, Faculty of Science, University of Copenhagen, Copenhagen, Denmark.
+(2)Section of Molecular Physiology, Department of Nutrition, Exercise, and 
+Sports, Faculty of Science, University of Copenhagen, Copenhagen, Denmark. 
+Electronic address: bkiens@nexs.ku.dk.
+
+This review summarizes how fatty acid (FA) oxidation is regulated in skeletal 
+muscle during exercise. From the available evidence it seems that acetyl-CoA 
+availability in the mitochondrial matrix adjusts FA oxidation to exercise 
+intensity and duration. This is executed at the step of mitochondrial fatty acyl 
+import, as the extent of acetyl group sequestration by carnitine determines the 
+availability of carnitine for the carnitine palmitoyltransferase 1 (CPT1) 
+reaction. The rate of glycolysis seems therefore to be central to the amount of 
+β-oxidation-derived acetyl-CoA that is oxidized in the tricarboxylic acid (TCA) 
+cycle. FA oxidation during exercise is also determined by FA availability to 
+mitochondria, dependent on trans-sarcolemmal FA uptake via cluster of 
+differentiation 36/SR-B2 (CD36) and FAs mobilized from myocellular lipid 
+droplets.
+
+Copyright © 2017 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.tem.2017.10.011
+PMID: 29221849 [Indexed for MEDLINE]

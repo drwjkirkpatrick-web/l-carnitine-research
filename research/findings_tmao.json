@@ -1,0 +1,680 @@
+{
+ "sources": [
+  {
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3086762/",
+   "title": "Gut flora metabolism of phosphatidylcholine promotes cardiovascular disease",
+   "authors": "Wang Z; Klipfell E; Bennett BJ; Koeth R; Levison BS; Dugar B; Feldstein AE; Britt EB; Fu X; Chung YM; Wu Y; Schauer P; Smith JD; Allayee H; Tang WH; DiDonato JA; Lusis AJ; Hazen SL",
+   "year": "2011",
+   "journal_or_publisher": "Nature",
+   "vol_pages": "472(7341):57-63",
+   "doi": "10.1038/nature09922",
+   "pmid": "21475195",
+   "page_file": "research/tmao/pages/wang-2011-choline-tmao-pmc.txt",
+   "quotes": [
+    "Dietary supplementation of mice with choline, TMAO or betaine promoted up-regulation of multiple macrophage scavenger receptors linked to atherosclerosis, and supplementation with choline or TMAO promoted atherosclerosis.",
+    "Suppression of intestinal microflora in atherosclerosis-prone mice inhibited dietary choline-enhanced atherosclerosis."
+   ],
+   "notes": "Founding Nature study identifying choline/TMAO/betaine as gut-flora-dependent metabolites predicting CVD risk; macrophage scavenger-receptor mechanism and germ-free/antibiotic dependence in mice. PMC full text; PubMed abstract at PMID 21475195.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3650111/",
+   "title": "Intestinal microbiota metabolism of L-carnitine, a nutrient in red meat, promotes atherosclerosis",
+   "authors": "Koeth RA; Wang Z; Levison BS; Buffa JA; Org E; Sheehy BT; Britt EB; Fu X; Wu Y; Li L; Smith JD; DiDonato JA; Chen J; Li H; Wu GD; Lewis JD; Warrier M; Brown JM; Krauss RM; Tang WH; Bushman FD; Lusis AJ; Hazen SL",
+   "year": "2013",
+   "journal_or_publisher": "Nature medicine",
+   "vol_pages": "19(5):576-85",
+   "doi": "10.1038/nm.3145",
+   "pmid": "23563705",
+   "page_file": "research/tmao/pages/koeth-2013-carnitine-tmao-pmc.txt",
+   "quotes": [
+    "Omnivorous subjects are shown to produce significantly more TMAO than vegans/vegetarians following ingestion of L-carnitine through a microbiota-dependent mechanism.",
+    "After a 12 hour overnight fast, subjects received a capsule of d3-carnitine (250 mg) alone, or in some cases (as in data for subject shown) also an 8 ounce steak (estimated 180 mg L-carnitine), whereupon serial plasma and 24h urine collection was obtained for TMA and TMAO analyses.",
+    "Chronic dietary L-carnitine supplementation in mice significantly altered cecal microbial composition, markedly enhanced synthesis of TMA/TMAO, and increased atherosclerosis, but not following suppression of intestinal microbiota.",
+    "Aortic root atherosclerotic plaque quantification revealed approximately a doubling in disease burden compared to normal chow fed animals",
+    "Plasma L-carnitine levels in subjects undergoing cardiac evaluation ( _n_ = 2,595) predict increased risks for both prevalent cardiovascular disease (CVD) and incident major adverse cardiac events (MI, stroke or death), but only among subjects with concurrently high TMAO levels."
+   ],
+   "notes": "Landmark L-carnitine challenge study: omnivores vs vegans/vegetarians; microbiota dependence via antibiotics; mice supplementation atherosclerosis; plasma carnitine predicts MACE only with high TMAO (n=2,595). PMC full text; PubMed abstract at PMID 23563705.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/27190056/",
+   "title": "Trimethylamine and Trimethylamine N-Oxide, a Flavin-Containing Monooxygenase 3 (FMO3)-Mediated Host-Microbiome Metabolic Axis Implicated in Health and Disease",
+   "authors": "Fennema D; Phillips IR; Shephard EA",
+   "year": "2016",
+   "journal_or_publisher": "Drug metabolism and disposition: the biological fate of chemicals",
+   "vol_pages": "44(11):1839-1850",
+   "doi": "10.1124/dmd.116.070615",
+   "pmid": "27190056",
+   "page_file": "research/tmao/pages/fmo3-tma-2016.txt",
+   "quotes": [
+    "FMO3 converts the odorous TMA to nonodorous TMA N-oxide (TMAO), which is excreted in urine."
+   ],
+   "notes": "Review of the FMO3-mediated host step: hepatic oxidation of microbiota-derived TMA to TMAO, renal excretion, primary/secondary trimethylaminuria. Citation metadata from same-day NCBI efetch batch saved as research/tmao/pages/pubmed-efetch-medline-batch.txt (the PubMed HTML fetch carried the abstract but not the citation block).",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6307959/",
+   "title": "l-Carnitine in omnivorous diets induces an atherogenic gut microbial pathway in humans",
+   "authors": "Koeth RA; Lam-Galvez BR; Kirsop J; Wang Z; Levison BS; Gu X; Copeland MF; Bartlett D; Cody DB; Dai HJ; Culley MK; Li XS; Fu X; Wu Y; Li L; DiDonato JA; Tang WHW; Garcia-Garcia JC; Hazen SL",
+   "year": "2019",
+   "journal_or_publisher": "The Journal of clinical investigation",
+   "vol_pages": "129(1):373-387",
+   "doi": "10.1172/JCI94601",
+   "pmid": "30530985",
+   "page_file": "research/tmao/pages/koeth-2019-omnivore-pmc.txt",
+   "quotes": [
+    "Moreover, a striking increase in d3-TMAO generation was observed in omnivores over vegans/vegetarians (>20-fold; _P_ = 0.001) following oral d3-l-carnitine ingestion, whereas fasting endogenous plasma l-carnitine and γBB levels were similar in vegans/vegetarians ( _n_ = 32) versus omnivores ( _n_ = 40).",
+    "Continuation of daily l-carnitine supplementation for at least an additional month resulted in no further increase in d3-l-carnitine→d3-TMAO transformation in omnivores, but continued to increase d3-TMAO generation in vegans/vegetarians following oral d3-l-carnitine challenge ( [Figure 4A](https://pmc.ncbi.nlm.nih.gov/articles/PMC6307959/#F4)).",
+    "Gut microbiota γBB→TMA/TMAO transformation is induced by omnivorous dietary patterns and chronic l-carnitine exposure."
+   ],
+   "notes": "JCI isotope-tracer study mapping the human l-carnitine to gammaBB to TMA to TMAO pathway; >20-fold omnivore vs vegan d3-TMAO generation; diet-inducible microbial transformation; Emergencia timonensis. PMC full text; PubMed abstract at PMID 30530985.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6691853/",
+   "title": "Identification of TMAO-producer phenotype and host-diet-gut dysbiosis by carnitine challenge test in human and germ-free mice",
+   "authors": "Wu WK; Chen CC; Liu PY; Panyod S; Liao BY; Chen PC; Kao HL; Kuo HC; Kuo CH; Chiu THT; Chen RA; Chuang HL; Huang YT; Zou HB; Hsu CC; Chang TY; Lin CL; Ho CT; Yu HT; Sheen LY; Wu MS",
+   "year": "2019",
+   "journal_or_publisher": "Gut",
+   "vol_pages": "68(8):1439-1449",
+   "doi": "10.1136/gutjnl-2018-317155",
+   "pmid": "30377191",
+   "page_file": "research/tmao/pages/gut-2019-producer-pmc.txt",
+   "quotes": [
+    "The omnivores exhibited a 10-fold higher OR to be high TMAO producer than vegetarians."
+   ],
+   "notes": "Oral carnitine challenge test (OCCT) defining the TMAO-producer phenotype; omnivores 10-fold higher odds of high-producer status; urine TMAO tracks plasma (r=0.92). PMC full text; PubMed abstract at PMID 30377191.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7676756/",
+   "title": "Characterization of TMAO productivity from carnitine challenge facilitates personalized nutrition and microbiome signatures discovery",
+   "authors": "Wu WK; Panyod S; Liu PY; Chen CC; Kao HL; Chuang HL; Chen YH; Zou HB; Kuo HC; Kuo CH; Liao BY; Chiu THT; Chung CH; Lin AY; Lee YC; Tang SL; Wang JT; Wu YW; Hsu CC; Sheen LY; Orekhov AN; Wu MS",
+   "year": "2020",
+   "journal_or_publisher": "Microbiome",
+   "vol_pages": "8(1):162",
+   "doi": "10.1186/s40168-020-00912-y",
+   "pmid": "33213511",
+   "page_file": "research/tmao/pages/microbiome-2020-challenge-pmc.txt",
+   "quotes": [
+    "Production of atherogenic trimethylamine N-oxide (TMAO) from carnitine is a gut microbiota-directed pathway and varies widely among individuals.",
+    "A microbiome-based random forest classifier was therefore constructed to predict the TMAO producer phenotype (AUROC = 0.81) which was then validated with an external cohort (AUROC = 0.80)."
+   ],
+   "notes": "OCCT-based phenotyping plus microbiome machine learning: TMAO productivity varies widely; random-forest classifier AUROC 0.81; E. timonensis and I. massiliensis identify high producers. PMC full text; PubMed abstract at PMID 33213511.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/32958033/",
+   "title": "The bright and the dark sides of L-carnitine supplementation: a systematic review",
+   "authors": "Sawicka AK; Renzi G; Olek RA",
+   "year": "2020",
+   "journal_or_publisher": "Journal of the International Society of Sports Nutrition",
+   "vol_pages": "17(1):49",
+   "doi": "10.1186/s12970-020-00377-2",
+   "pmid": "32958033",
+   "page_file": "research/tmao/pages/issn-2020-carnitine-review.txt",
+   "quotes": [
+    "LC supplementation was also noted to induce an increase of fasting plasma trimethylamine-N-oxide (TMAO) levels, which was not associated with modification of determined inflammatory nor oxidative stress markers.",
+    "All the selected studies were conducted with healthy human subjects, with supplemented dose ranging from 1 g to 4 g per day for either 12 or 24 weeks.",
+    "Therefore, additional studies focusing on long-term supplementation and its longitudinal effect on the cardiovascular system are needed."
+   ],
+   "notes": "Systematic review (11 studies) of prolonged L-carnitine supplementation 1-4 g/day for 12-24 weeks in healthy subjects: raises fasting plasma TMAO without inflammatory/oxidative-stress changes. Citation metadata from same-day NCBI efetch batch saved as research/tmao/pages/pubmed-efetch-medline-batch.txt (the PubMed HTML fetch carried the abstract but not the citation block).",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/26751065/",
+   "title": "Serum Trimethylamine-N-Oxide Is Strongly Related to Renal Function and Predicts Outcome in Chronic Kidney Disease",
+   "authors": "Missailidis C; Hallqvist J; Qureshi AR; Barany P; Heimburger O; Lindholm B; Stenvinkel P; Bergman P",
+   "year": "2016",
+   "journal_or_publisher": "PloS one",
+   "vol_pages": "11(1):e0141738",
+   "doi": "10.1371/journal.pone.0141738",
+   "pmid": "26751065",
+   "page_file": "research/tmao/pages/tmao-renal-function-2016.txt",
+   "quotes": [
+    "GFR was the dominant variable affecting TMAO (β = -0.41; p<0.001), choline (β = -0.38; p<0.001), and betaine (β = 0.45; p<0.001) levels.",
+    "Elevated TMAO levels are strongly associated with degree of renal function in CKD and normalize after renal transplantation.",
+    "A longitudinal study of 74 CKD 5 patients starting renal replacement therapy demonstrated that whereas dialysis treatment did not affect TMAO, Rtx reduced levels of TMAO to that of controls (p<0.001)."
+   ],
+   "notes": "CKD 3-5 cohort: GFR is the dominant determinant of TMAO; dialysis does not lower TMAO but transplantation normalizes it; TMAO correlates with IL-6/fibrinogen and predicts mortality (HR 4.32). Citation metadata from same-day NCBI efetch batch saved as research/tmao/pages/pubmed-efetch-medline-batch.txt (the PubMed HTML fetch carried the abstract but not the citation block).",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/26229137/",
+   "title": "Serum Trimethylamine-N-Oxide is Elevated in CKD and Correlates with Coronary Atherosclerosis Burden",
+   "authors": "Stubbs JR; House JA; Ocque AJ; Zhang S; Johnson C; Kimber C; Schmidt K; Gupta A; Wetmore JB; Nolin TD; Spertus JA; Yu AS",
+   "year": "2016",
+   "journal_or_publisher": "Journal of the American Society of Nephrology : JASN",
+   "vol_pages": "27(1):305-13",
+   "doi": "10.1681/ASN.2014111063",
+   "pmid": "26229137",
+   "page_file": "research/tmao/pages/stubbs-2016-ckd-coronary.txt",
+   "quotes": [
+    "TMAO concentrations were markedly higher in patients receiving dialysis (median \\[interquartile range\\], 94.4 μM \\[54.8-133.0 μM\\] for dialysis-dependent patients versus 3.3 μM \\[3.1-6.0 μM\\] for healthy controls; P<0.001); whereas renal transplantation resulted in substantial reductions in TMAO concentrations (median \\[min-max\\] 71.2 μM \\[29.2-189.7 μM\\] pretransplant versus 11.4 μM \\[8.9-20.2 μM\\] post-transplant; P=0.03)."
+   ],
+   "notes": "JASN CKD cohorts: serum TMAO rises steeply as eGFR falls (dialysis median 94.4 uM vs 3.3 uM controls), transplantation reverses it, and TMAO independently predicts coronary atherosclerosis burden and mortality. Citation metadata from same-day NCBI efetch batch saved as research/tmao/pages/pubmed-efetch-medline-batch.txt (the PubMed HTML fetch carried the abstract but not the citation block).",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4312512/",
+   "title": "Gut microbiota-dependent trimethylamine N-oxide (TMAO) pathway contributes to both development of renal insufficiency and mortality risk in chronic kidney disease",
+   "authors": "Tang WH; Wang Z; Kennedy DJ; Wu Y; Buffa JA; Agatisa-Boyle B; Li XS; Levison BS; Hazen SL",
+   "year": "2015",
+   "journal_or_publisher": "Circulation research",
+   "vol_pages": "116(3):448-55",
+   "doi": "10.1161/CIRCRESAHA.116.305360",
+   "pmid": "25599331",
+   "page_file": "research/tmao/pages/circres-2015-ckd-mice-pmc.txt",
+   "quotes": [
+    "Within CKD subjects, higher (4th vs. 1st quartile) plasma TMAO level was associated with a 2.8-fold increased mortality risk. Following adjustments for traditional risk factors, hsCRP and eGFR, elevated TMAO levels remained predictive of 5-year mortality risk (HR 1.93 \\[95%CI 1.13–3.29\\], p<0.05).",
+    "In animal models, elevated dietary choline or TMAO directly led to progressive renal tubulointerstitial fibrosis and dysfunction."
+   ],
+   "notes": "Circulation Research: CKD mortality association (2.8-fold top quartile, adjusted HR 1.93) plus causal animal work showing dietary choline/TMAO drives progressive renal tubulointerstitial fibrosis and dysfunction. PMC full text; PubMed abstract at PMID 25599331.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/38593157/",
+   "title": "The Gut Microbial Metabolite Trimethylamine N -oxide, Incident CKD, and Kidney Function Decline",
+   "authors": "Wang M; Tang WHW; Li XS; de Oliveira Otto MC; Lee Y; Lemaitre RN; Fretts A; Nemet I; Sotoodehnia N; Sitlani CM; Budoff M; DiDonato JA; Wang Z; Bansal N; Shlipak MG; Psaty BM; Siscovick DS; Sarnak MJ; Mozaffarian D; Hazen SL",
+   "year": "2024",
+   "journal_or_publisher": "Journal of the American Society of Nephrology : JASN",
+   "vol_pages": "35(6):749-760",
+   "doi": "10.1681/ASN.0000000000000344",
+   "pmid": "38593157",
+   "page_file": "research/tmao/pages/jasn-2024-incident-ckd.txt",
+   "quotes": [
+    "Higher TMAO levels were associated with higher risk of incident CKD (second to fifth versus first quintile hazard ratio \\[95% confidence interval\\]=1.65 \\[1.22 to 2.23\\], 1.68 \\[1.26 to 2.25\\], 2.28 \\[1.72 to 3.02\\], and 2.24 \\[1.68 to 2.98\\], respectively) and greater annualized eGFR decline (second to fifth versus first quintile annualized eGFR change=−0.21 \\[−0.32 to −0.09\\], −0.17 \\[−0.29 to −0.05\\], −0.35 \\[−0.47 to −0.22\\], and −0.43 \\[−0.56 to −0.30\\] ml/min per 1.73 m2, respectively) with monotonic dose–response relationships."
+   ],
+   "notes": "JASN 2024: 10,564 community-based adults, serial TMAO measures, incident CKD HR up to 2.24 and faster annualized eGFR decline with monotonic dose-response. Citation metadata from same-day NCBI efetch batch saved as research/tmao/pages/pubmed-efetch-medline-batch.txt (the PubMed HTML fetch carried the abstract but not the citation block).",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/30665924/",
+   "title": "Trimethylamine N-Oxide and Cardiovascular Outcomes in Patients with ESKD Receiving Maintenance Hemodialysis",
+   "authors": "Stubbs JR; Stedman MR; Liu S; Long J; Franchetti Y; West RE 3rd; Prokopienko AJ; Mahnken JD; Chertow GM; Nolin TD",
+   "year": "2019",
+   "journal_or_publisher": "Clinical journal of the American Society of Nephrology : CJASN",
+   "vol_pages": "14(2):261-267",
+   "doi": "10.2215/CJN.06190518",
+   "pmid": "30665924",
+   "page_file": "research/tmao/pages/eskd-hemodialysis-2019.txt",
+   "quotes": [
+    "We observed a wide distribution of serum TMAO in our cohort, with approximately 80% of participants exhibiting TMAO concentrations ≥56 _µ_ M and a maximum TMAO concentration of 1103.1 _µ_ M.",
+    "We found no evidence linking TMAO to adverse clinical outcomes in patients receiving maintenance hemodialysis with moderate to severe secondary hyperparathyroidism."
+   ],
+   "notes": "EVOLVE trial sub-study (n=1243): in ESKD on hemodialysis, serum TMAO (up to 1103 uM) showed NO association with cardiovascular outcomes or all-cause mortality - the null extreme of the CKD literature. Citation metadata from same-day NCBI efetch batch saved as research/tmao/pages/pubmed-efetch-medline-batch.txt (the PubMed HTML fetch carried the abstract but not the citation block).",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/34769294/",
+   "title": "The Fibrotic Effects of TMAO on Human Renal Fibroblasts Is Mediated by NLRP3, Caspase-1 and the PERK/Akt/mTOR Pathway",
+   "authors": "Kapetanaki S; Kumawat AK; Persson K; Demirel I",
+   "year": "2021",
+   "journal_or_publisher": "International journal of molecular sciences",
+   "vol_pages": "22(21):",
+   "doi": "10.3390/ijms222111864",
+   "pmid": "34769294",
+   "page_file": "research/tmao/pages/fibroblasts-2021-nlrp3.txt",
+   "quotes": [
+    "We found that TMAO promoted renal fibroblast activation and fibroblast proliferation via the PERK/Akt/mTOR pathway, NLRP3, and caspase-1 signaling.",
+    "A high TMAO-containing diet has been found to cause tubulointerstitial renal fibrosis in mice."
+   ],
+   "notes": "In-vitro mechanistic renal work: TMAO activates human renal fibroblasts and collagen production via PERK/Akt/mTOR, NLRP3 and caspase-1. Citation metadata from same-day NCBI efetch batch saved as research/tmao/pages/pubmed-efetch-medline-batch.txt (the PubMed HTML fetch carried the abstract but not the citation block).",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/28807612/",
+   "title": "The role of trimethylamine N-oxide as a mediator of cardiovascular complications in chronic kidney disease",
+   "authors": "Tomlinson JAP; Wheeler DC",
+   "year": "2017",
+   "journal_or_publisher": "Kidney international",
+   "vol_pages": "92(4):809-815",
+   "doi": "10.1016/j.kint.2017.03.053",
+   "pmid": "28807612",
+   "page_file": "research/tmao/pages/kidneyint-2017-ckd-review.txt",
+   "quotes": [
+    "Plasma TMAO is cleared by the kidney, and TMAO levels are elevated in CKD."
+   ],
+   "notes": "Kidney International review: plasma TMAO is renally cleared and elevated in CKD; proposed mechanisms (foam-cell formation, platelet dysfunction); pre-/probiotics as intervention targets. Citation metadata from same-day NCBI efetch batch saved as research/tmao/pages/pubmed-efetch-medline-batch.txt (the PubMed HTML fetch carried the abstract but not the citation block).",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/37915930/",
+   "title": "The dietary source of trimethylamine N-oxide and clinical outcomes: an unexpected liaison",
+   "authors": "Evans M; Dai L; Avesani CM; Kublickiene K; Stenvinkel P",
+   "year": "2023",
+   "journal_or_publisher": "Clinical kidney journal",
+   "vol_pages": "16(11):1804-1812",
+   "doi": "10.1093/ckj/sfad095",
+   "pmid": "37915930",
+   "page_file": "research/tmao/pages/clinkidj-2023-tmao-source.txt",
+   "quotes": [
+    "TMAO is also found naturally in fish and certain types of seafood, with the TMAO content highly variable according to the depth of the sea where the fish is caught, as well as processing and storage.",
+    "Although evidence points towards TMAO as being an important link to vascular damage and adverse cardiovascular outcomes, the evidence in CKD patients has not been consistent."
+   ],
+   "notes": "Clinical Kidney Journal review: dietary SOURCE of TMAO (preformed in fish, variable by depth/processing) versus microbiota-generated; evidence in CKD patients is inconsistent. Citation metadata from same-day NCBI efetch batch saved as research/tmao/pages/pubmed-efetch-medline-batch.txt (the PubMed HTML fetch carried the abstract but not the citation block).",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/23614584/",
+   "title": "Intestinal microbial metabolism of phosphatidylcholine and cardiovascular risk",
+   "authors": "Tang WH; Wang Z; Levison BS; Koeth RA; Britt EB; Fu X; Wu Y; Hazen SL",
+   "year": "2013",
+   "journal_or_publisher": "The New England journal of medicine",
+   "vol_pages": "368(17):1575-84",
+   "doi": "10.1056/NEJMoa1109400",
+   "pmid": "23614584",
+   "page_file": "research/tmao/pages/tang-2013-choline-mace.txt",
+   "quotes": [
+    "Increased plasma levels of TMAO were associated with an increased risk of a major adverse cardiovascular event (hazard ratio for highest vs. lowest TMAO quartile, 2.54; 95% confidence interval, 1.96 to 3.28; P<0.001).",
+    "Plasma levels of TMAO were markedly suppressed after the administration of antibiotics and then reappeared after withdrawal of antibiotics."
+   ],
+   "notes": "NEJM: phosphatidylcholine-challenge TMAO rise is antibiotic-suppressible; fasting TMAO predicts incident MACE (HR 2.54) in 4,007 angiography patients over 3 years. Citation metadata from same-day NCBI efetch batch saved as research/tmao/pages/pubmed-efetch-medline-batch.txt (the PubMed HTML fetch carried the abstract but not the citation block).",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/29020409/",
+   "title": "Gut microbe-generated metabolite trimethylamine-N-oxide as cardiovascular risk biomarker: a systematic review and dose-response meta-analysis",
+   "authors": "Schiattarella GG; Sannino A; Toscano E; Giugliano G; Gargiulo G; Franzone A; Trimarco B; Esposito G; Perrino C",
+   "year": "2017",
+   "journal_or_publisher": "European heart journal",
+   "vol_pages": "38(39):2948-2956",
+   "doi": "10.1093/eurheartj/ehx342",
+   "pmid": "29020409",
+   "page_file": "research/tmao/pages/schiattarella-2017-meta.txt",
+   "quotes": [
+    "High TMAO plasma levels were associated with increased incidence of all-cause mortality \\[14 studies for 16 cohorts enrolling 15 662 subjects, hazard ratio (HR): 1.91; 95% confidence interval (CI): 1.40-2.61, P < 0.0001, I2 = 94%\\] and MACCE (5 studies for 6 cohorts enrolling 13 944 subjects, HR: 1.67, 95% CI: 1.33-2.11, P < 0.00001, I2 = 46%,). Dose-response meta-analysis revealed that the relative risk (RR) for all-cause mortality increased by 7.6% per each 10 μmol/L increment of TMAO \\[summary RR: 1.07, 95% CI (1.04-1.11), P < 0.0001; based on seven studies\\]."
+   ],
+   "notes": "Systematic review and dose-response meta-analysis (17 studies, 26,167 subjects): high TMAO associated with all-cause mortality (HR 1.91) and MACCE (HR 1.67); +7.6% mortality risk per 10 umol/L. Citation metadata from same-day NCBI efetch batch saved as research/tmao/pages/pubmed-efetch-medline-batch.txt (the PubMed HTML fetch carried the abstract but not the citation block).",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/40603925/",
+   "title": "Trimethylamine-N-oxide (TMAO) and risk of incident cardiovascular events in the multi ethnic study of Atherosclerosis",
+   "authors": "Budoff MJ; de Oliveira Otto MC; Li XS; Lee Y; Wang M; Lai HTM; Lemaitre RN; Pratt A; Tang WHW; Psaty BM; Siscovick DS; Hazen SL; Mozaffarian D",
+   "year": "2025",
+   "journal_or_publisher": "Scientific reports",
+   "vol_pages": "15(1):23362",
+   "doi": "10.1038/s41598-025-05903-3",
+   "pmid": "40603925",
+   "page_file": "research/tmao/pages/mesa-2025-tmao-cvd.txt",
+   "quotes": [
+    "After multivariate adjustment, TMAO associated with higher risk of ASCVD in a dose-dependent fashion, with hazard ratios across quintiles of 1.02, 1.17, 1.23, and 1.33 (95% CI 1.02, 1.74), respectively, compared to the lowest quintile (P-trend = 0.01).",
+    "Risk appeared possibly larger among Hispanic and Chinese adults; and among individuals with lower baseline renal function; although these interactions did not achieve statistical significance."
+   ],
+   "notes": "MESA cohort (6,767 adults free of ASCVD, median 11.3-year follow-up): time-varying plasma TMAO dose-dependently associated with incident ASCVD (top-quintile HR 1.33) after extensive adjustment. Citation metadata from same-day NCBI efetch batch saved as research/tmao/pages/pubmed-efetch-medline-batch.txt (the PubMed HTML fetch carried the abstract but not the citation block).",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/31167879/",
+   "title": "Assessment of Causal Direction Between Gut Microbiota-Dependent Metabolites and Cardiometabolic Health: A Bidirectional Mendelian Randomization Analysis",
+   "authors": "Jia J; Dou P; Gao M; Kong X; Li C; Liu Z; Huang T",
+   "year": "2019",
+   "journal_or_publisher": "Diabetes",
+   "vol_pages": "68(9):1747-1755",
+   "doi": "10.2337/db19-0153",
+   "pmid": "31167879",
+   "page_file": "research/tmao/pages/jia-2019-mr-diabetes.txt",
+   "quotes": [
+    "Genetically predicted higher TMAO and carnitine were not associated with higher odds of T2DM, AF, CAD, MI, stroke, and CKD after Bonferroni correction ( _P_ ≤ 0.0005).",
+    "We further found that T2DM (0.130 ± 0.036, _P_ < 0.0001) and CKD (0.483 ± 0.168, _P_ = 0.004) were causally associated with higher TMAO levels.",
+    "Our Mendelian randomization findings support that T2DM and kidney disease increase TMAO levels and that observational evidence for cardiovascular diseases may be due to confounding or reverse causality."
+   ],
+   "notes": "Bidirectional Mendelian randomization: genetically predicted TMAO and carnitine NOT associated with cardiometabolic outcomes; T2DM and CKD causally associated with HIGHER TMAO - observational links may be confounding/reverse causality. Citation metadata from same-day NCBI efetch batch saved as research/tmao/pages/pubmed-efetch-medline-batch.txt (the PubMed HTML fetch carried the abstract but not the citation block).",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/26584136/",
+   "title": "L-Carnitine intake and high trimethylamine N-oxide plasma levels correlate with low aortic lesions in ApoE(-/-) transgenic mice expressing CETP",
+   "authors": "Collins HL; Drazul-Schrader D; Sulpizio AC; Koster PD; Williamson Y; Adelman SJ; Owen K; Sanli T; Bellamine A",
+   "year": "2016",
+   "journal_or_publisher": "Atherosclerosis",
+   "vol_pages": "244:29-37",
+   "doi": "10.1016/j.atherosclerosis.2015.10.108",
+   "pmid": "26584136",
+   "page_file": "research/tmao/pages/apoe-2016-carnitine-low-lesions.txt",
+   "quotes": [
+    "Surprisingly, and independently from treatment group, TMAO levels inversely correlated with aortic lesion size in both aortic root and thoracic aorta. High TMAO levels were found to significantly correlate with smaller aortic lesion area. Plasma lipid and lipoprotein levels did not change with treatment nor with TMAO levels, suggesting that the observed effects on lesion area were independent from lipid changes. **Conclusion:** These findings suggest that TMAO slows aortic lesion formation in this mouse model and may have a protective effect against atherosclerosis development in humans."
+   ],
+   "notes": "Counter-evidence mouse study: chronic high-dose L-carnitine raised plasma TMAO in ApoE-/-CETP mice, yet higher TMAO correlated with SMALLER aortic lesions; authors suggest a protective effect in this model. Citation metadata from same-day NCBI efetch batch saved as research/tmao/pages/pubmed-efetch-medline-batch.txt (the PubMed HTML fetch carried the abstract but not the citation block).",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/35366920/",
+   "title": "Progression of atherosclerosis with carnitine supplementation: a randomized controlled trial in the metabolic syndrome",
+   "authors": "Johri AM; Hetu MF; Heyland DK; Herr JE; Korol J; Froese S; Norman PA; Day AG; Matangi MF; Michos ED; LaHaye SA; Saunders FW; Spence JD",
+   "year": "2022",
+   "journal_or_publisher": "Nutrition & metabolism",
+   "vol_pages": "19(1):26",
+   "doi": "10.1186/s12986-022-00661-9",
+   "pmid": "35366920",
+   "page_file": "research/tmao/pages/rct-2022-carnitine-cimt.txt",
+   "quotes": [
+    "In 157 participants (L-C N = 76, placebo N = 81), no difference in TPV change between arms was found. The L-C group had a greater increase in carotid atherosclerotic stenosis of 9.3% (p = 0.02) than the placebo group."
+   ],
+   "notes": "The only RCT of L-carnitine on human atherosclerosis imaging (2 g/day, 6 months, metabolic syndrome): no change in carotid total plaque volume, but 9.3% greater increase in carotid stenosis vs placebo. Citation metadata from same-day NCBI efetch batch saved as research/tmao/pages/pubmed-efetch-medline-batch.txt (the PubMed HTML fetch carried the abstract but not the citation block).",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8371342/",
+   "title": "Fasting and postprandial trimethylamine N-oxide in sedentary and endurance-trained males following a short-term high-fat diet",
+   "authors": "Steele CN; Baugh ME; Griffin LE; Neilson AP; Davy BM; Hulver MW; Davy KP",
+   "year": "2021",
+   "journal_or_publisher": "Physiological reports",
+   "vol_pages": "9(16):e14970",
+   "doi": "10.14814/phy2.14970",
+   "pmid": "34405585",
+   "page_file": "research/tmao/pages/trained-males-2021-pmc.txt",
+   "quotes": [
+    "Neither the HFC nor the HFD evoked a detectable change in plasma TMAO ( _p_ > 0.05) in either group.",
+    "There were no significant differences in fasting ( _p_ > 0.05) or postprandial TMAO ( _p_ > 0.05) between sedentary and endurance‐trained individuals before or following the high‐fat diet, despite the endurance‐trained group consuming more dietary precursors."
+   ],
+   "notes": "Controlled comparison of endurance-trained vs sedentary males: high-fat challenge and 5-day high-fat diet evoked NO detectable plasma TMAO change in either group. PMC full text; PubMed abstract at PMID 34405585.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9283263/",
+   "title": "Circulating trimethylamine N-oxide levels following fish or seafood consumption",
+   "authors": "Wang Z; Tang WHW; O'Connell T; Garcia E; Jeyarajah EJ; Li XS; Jia X; Weeks TL; Hazen SL",
+   "year": "2022",
+   "journal_or_publisher": "European journal of nutrition",
+   "vol_pages": "61(5):2357-2364",
+   "doi": "10.1007/s00394-022-02803-4",
+   "pmid": "35113194",
+   "page_file": "research/tmao/pages/eurjnutr-2022-fish-pmc.txt",
+   "quotes": [
+    "Consumption of fish sticks, cod, and to lesser extent, salmon, lead to significant increases in circulating TMAO levels. Within one day, circulating TMAO concentrations in all participants returned to baseline levels.",
+    "The likelihood of having an elevated (>6.4 μM) TMAO level the morning after eating either fish or red meat was 45% or 20%, respectively. Among participants that ate neither fish nor red meat the previous night, the likelihood of elevated TMAO level at blood draw was 7.4%.",
+    "We conclude that some fish and seafood contain high levels of TMAO, and may induce a transient elevation in TMAO levels in some individuals.",
+    "Here, we determined the effects of fish or seafood consumption on circulating TMAO levels in participants with normal renal function."
+   ],
+   "notes": "The fish problem quantified: fish/seafood test meals transiently raise circulating TMAO (return to baseline within a day); morning-after elevated TMAO more likely after fish (45%) than red meat (20%). PMC full text; PubMed abstract at PMID 35113194.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/34091663/",
+   "title": "Plasma TMAO increase after healthy diets: results from 2 randomized controlled trials with dietary fish, polyphenols, and whole-grain cereals",
+   "authors": "Costabile G; Vetrani C; Bozzetto L; Giacco R; Bresciani L; Del Rio D; Vitale M; Della Pepa G; Brighenti F; Riccardi G; Rivellese AA; Annuzzi G",
+   "year": "2021",
+   "journal_or_publisher": "The American journal of clinical nutrition",
+   "vol_pages": "114(4):1342-1350",
+   "doi": "10.1093/ajcn/nqab188",
+   "pmid": "34091663",
+   "page_file": "research/tmao/pages/ajcn-2021-fish-rct.txt",
+   "quotes": [
+    "Diets rich in LCn3 of marine origin or WGCs significantly increased plasma TMAO concentration. These changes mirrored the direct associations between TMAO concentrations and intakes of fish and WGCs, suggesting that TMAO reflects intakes of these healthy foods and, therefore, it is not a universally valid biomarker of cardiometabolic risk independent of the background diet.",
+    "Among food groups, TMAO directly correlated with the intake of fish, vegetables, and whole-grain products, but not meat, processed meat, and dairy products."
+   ],
+   "notes": "Two randomized trials: 'healthy' diets (marine omega-3, whole-grain cereals) significantly INCREASED plasma TMAO; TMAO correlated with fish/vegetable/whole-grain intake but not meat - not a diet-independent risk biomarker. Citation metadata from same-day NCBI efetch batch saved as research/tmao/pages/pubmed-efetch-medline-batch.txt (the PubMed HTML fetch carried the abstract but not the citation block).",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/30341034/",
+   "title": "The Renal Safety of L-Carnitine, L-Arginine, and Glutamine in Athletes and Bodybuilders",
+   "authors": "Davani-Davari D; Karimzadeh I; Sagheb MM; Khalili H",
+   "year": "2019",
+   "journal_or_publisher": "Journal of renal nutrition : the official journal of the Council on Renal Nutrition of the National Kidney Foundation",
+   "vol_pages": "29(3):221-234",
+   "doi": "10.1053/j.jrn.2018.08.014",
+   "pmid": "30341034",
+   "page_file": "research/tmao/pages/renal-safety-athletes-2019.txt",
+   "quotes": [
+    "The risks and benefits of L-carnitine on the athletes' and bodybuilders' kidney have not been evaluated yet. However, L-carnitine up to 6000 mg/day is generally considered to be a safe supplement at least in healthy adults."
+   ],
+   "notes": "Renal-safety review for athletes/bodybuilders: renal risks of L-carnitine in athletes have not been evaluated; up to 6,000 mg/day generally considered safe in healthy adults. Citation metadata from same-day NCBI efetch batch saved as research/tmao/pages/pubmed-efetch-medline-batch.txt (the PubMed HTML fetch carried the abstract but not the citation block).",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42287393/",
+   "title": "Trimethylamine N-oxide in exercise physiology: a gut microbiota-derived signal linking metabolic stress, redox balance and cardiometabolic health",
+   "authors": "Olek RA; Radak Z",
+   "year": "2026",
+   "journal_or_publisher": "European journal of applied physiology",
+   "vol_pages": "126(8):4229-4242",
+   "doi": "10.1007/s00421-026-06297-4",
+   "pmid": "42287393",
+   "page_file": "research/tmao/pages/tmao-exercise-2026.txt",
+   "quotes": [
+    "Across human studies, TMAO levels do not consistently correlate with aerobic fitness, habitual physical activity, or training status. Exercise-only interventions rarely produce significant changes in circulating TMAO concentrations, whereas dietary manipulation and precursor supplementation exert substantially stronger effects."
+   ],
+   "notes": "2026 narrative review of TMAO in exercise physiology: TMAO does not consistently track fitness or training status; exercise-only interventions rarely change it; context-dependent biology (protein stabilization, redox, stress tolerance). Citation metadata from same-day NCBI efetch batch saved as research/tmao/pages/pubmed-efetch-medline-batch.txt (the PubMed HTML fetch carried the abstract but not the citation block).",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/16901595/",
+   "title": "Risk assessment for carnitine",
+   "authors": "Hathcock JN; Shao A",
+   "year": "2006",
+   "journal_or_publisher": "Regulatory toxicology and pharmacology : RTP",
+   "vol_pages": "46(1):23-8",
+   "doi": "10.1016/j.yrtph.2006.06.007",
+   "pmid": "16901595",
+   "page_file": "research/tmao/pages/risk-assessment-carnitine-2006.txt",
+   "quotes": [
+    "The OSL risk assessment method indicates that the evidence of safety is strong at intakes up to 2000mg/day l-carnitine equivalents for chronic supplementation, and this level is identified as the OSL.",
+    "Although much higher levels have been tested without adverse effects and may be safe, the data for intakes above 2000mg/day are not sufficient for a confident conclusion of long-term safety."
+   ],
+   "notes": "Formal risk assessment: observed safe level (OSL) of 2,000 mg/day L-carnitine equivalents for chronic supplementation; higher intakes tested without adverse effects but insufficient for confident long-term conclusions. Citation metadata from same-day NCBI efetch batch saved as research/tmao/pages/pubmed-efetch-medline-batch.txt (the PubMed HTML fetch carried the abstract but not the citation block).",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/32392758/",
+   "title": "Trimethylamine N-Oxide in Relation to Cardiometabolic Health-Cause or Effect?",
+   "authors": "Papandreou C; More M; Bellamine A",
+   "year": "2020",
+   "journal_or_publisher": "Nutrients",
+   "vol_pages": "12(5):",
+   "doi": "10.3390/nu12051330",
+   "pmid": "32392758",
+   "page_file": "research/tmao/pages/cause-or-effect-2020.txt",
+   "quotes": [
+    "Several animal studies reported neutral or even beneficial effects of TMAO or its precursors in cardiovascular disease model systems, supporting the clinically proven beneficial effects of its precursor, L-carnitine, or a sea-food rich diet (naturally containing TMAO) on cardiometabolic health.",
+    "Fish intake provides a direct significant source of TMAO."
+   ],
+   "notes": "Nutrients review mapping cause-vs-effect: animal studies report neutral/beneficial TMAO effects; seafood-rich diets directly supply TMAO yet are cardioprotective; discrepancies question a causal role. Citation metadata from same-day NCBI efetch batch saved as research/tmao/pages/pubmed-efetch-medline-batch.txt (the PubMed HTML fetch carried the abstract but not the citation block).",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/29581220/",
+   "title": "Effect of Vegan Fecal Microbiota Transplantation on Carnitine- and Choline-Derived Trimethylamine-N-Oxide Production and Vascular Inflammation in Patients With Metabolic Syndrome",
+   "authors": "Smits LP; Kootte RS; Levin E; Prodan A; Fuentes S; Zoetendal EG; Wang Z; Levison BS; Cleophas MCP; Kemper EM; Dallinga-Thie GM; Groen AK; Joosten LAB; Netea MG; Stroes ESG; de Vos WM; Hazen SL; Nieuwdorp M",
+   "year": "2018",
+   "journal_or_publisher": "Journal of the American Heart Association",
+   "vol_pages": "7(7):",
+   "doi": "10.1161/JAHA.117.008342",
+   "pmid": "29581220",
+   "page_file": "research/tmao/pages/vegan-fmt-2018.txt",
+   "quotes": [
+    "With vegan-donor fecal microbiota transplantation, intestinal microbiota composition in metabolic syndrome patients, as monitored by global fecal microbial community structure, changed toward a vegan profile in some of the patients; however, no functional effects from vegan-donor fecal microbiota transplantation were seen on TMAO production, abdominal aortic 18F-fluorodeoxyglucose uptake, or ex vivo cytokine production from peripheral blood mononuclear cells."
+   ],
+   "notes": "Randomized pilot: lean-vegan-donor FMT shifted microbiota composition but produced NO functional change in carnitine/choline-derived TMAO production or vascular inflammation - short-term microbial manipulation does not reset the producer phenotype. Citation metadata from same-day NCBI efetch batch saved as research/tmao/pages/pubmed-efetch-medline-batch.txt (the PubMed HTML fetch carried the abstract but not the citation block).",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/26502377/",
+   "title": "Fish protein increases circulating levels of trimethylamine-N-oxide and accelerates aortic lesion formation in apoE null mice",
+   "authors": "Yazdekhasti N; Brandsch C; Schmidt N; Schloesser A; Huebbe P; Rimbach G; Stangl GI",
+   "year": "2016",
+   "journal_or_publisher": "Molecular nutrition & food research",
+   "vol_pages": "60(2):358-68",
+   "doi": "10.1002/mnfr.201500537",
+   "pmid": "26502377",
+   "page_file": "research/tmao/pages/fish-protein-apoe-2016.txt",
+   "quotes": [
+    "Fish protein intake was accompanied by increased serum concentrations of trimethylamine-N-oxide (7.03 ± 2.83 μmol/L), as compared with casein (0.92 ± 0.46 μmol/L) and soy protein (1.32 ± 0.54 μmol/L) intake.",
+    "Morphometric analysis of the aorta revealed that the atherosclerotic plaque area of fish protein fed mice was twofold larger than that in casein- or soy protein-fed mice."
+   ],
+   "notes": "ApoE-null mice: 16-week fish-protein Western diet raised serum TMAO ~7 uM (vs ~1 uM casein/soy) and doubled aortic plaque area - the animal-side counterpart of the fish paradox. Citation metadata from same-day NCBI efetch batch saved as research/tmao/pages/pubmed-efetch-medline-batch.txt (the PubMed HTML fetch carried the abstract but not the citation block).",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/39683637/",
+   "title": "Revisiting the Role of Carnitine in Heart Disease Through the Lens of the Gut Microbiota",
+   "authors": "Demarquoy J",
+   "year": "2024",
+   "journal_or_publisher": "Nutrients",
+   "vol_pages": "16(23):",
+   "doi": "10.3390/nu16234244",
+   "pmid": "39683637",
+   "page_file": "research/tmao/pages/carnitine-revisited-2024.txt",
+   "quotes": [
+    "Dietary interventions, such as increasing fiber, polyphenols, and probiotics, can modulate the gut microbiota to reduce TMAO production."
+   ],
+   "notes": "2024 review balancing carnitine's roles against the TMAO concern; fiber, polyphenols and probiotics as microbiota-modulating levers to reduce TMAO production. Citation metadata from same-day NCBI efetch batch saved as research/tmao/pages/pubmed-efetch-medline-batch.txt (the PubMed HTML fetch carried the abstract but not the citation block).",
+   "extract_status": "ok"
+  }
+ ],
+ "claims": [
+  {
+   "claim": "In the founding 2011 Nature study, dietary supplementation of mice with choline, TMAO or betaine promoted up-regulation of multiple macrophage scavenger receptors linked to atherosclerosis, and supplementation with choline or TMAO promoted atherosclerosis itself.",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3086762/",
+   "quote": "Dietary supplementation of mice with choline, TMAO or betaine promoted up-regulation of multiple macrophage scavenger receptors linked to atherosclerosis, and supplementation with choline or TMAO promoted atherosclerosis.",
+   "strength": "animal"
+  },
+  {
+   "claim": "Omnivorous human subjects produced significantly more TMAO than vegans or vegetarians following ingestion of L-carnitine, through a microbiota-dependent mechanism.",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3650111/",
+   "quote": "Omnivorous subjects are shown to produce significantly more TMAO than vegans/vegetarians following ingestion of L-carnitine through a microbiota-dependent mechanism.",
+   "strength": "human"
+  },
+  {
+   "claim": "Chronic dietary L-carnitine supplementation in mice altered cecal microbial composition, markedly enhanced TMA/TMAO synthesis and increased atherosclerosis, but none of this occurred when the intestinal microbiota was concurrently suppressed.",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3650111/",
+   "quote": "Chronic dietary L-carnitine supplementation in mice significantly altered cecal microbial composition, markedly enhanced synthesis of TMA/TMAO, and increased atherosclerosis, but not following suppression of intestinal microbiota.",
+   "strength": "animal"
+  },
+  {
+   "claim": "In the host step of the pathway, hepatic flavin-containing monooxygenase 3 converts gut-microbiota-derived trimethylamine to TMAO, which is then excreted in urine.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/27190056/",
+   "quote": "FMO3 converts the odorous TMA to nonodorous TMA N-oxide (TMAO), which is excreted in urine.",
+   "strength": "review"
+  },
+  {
+   "claim": "Following oral deuterium-labeled L-carnitine ingestion, omnivores showed a more than 20-fold greater generation of labelled TMAO than vegans/vegetarians, although fasting endogenous plasma L-carnitine and gamma-butyrobetaine levels were similar between diet groups.",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6307959/",
+   "quote": "Moreover, a striking increase in d3-TMAO generation was observed in omnivores over vegans/vegetarians (>20-fold; _P_ = 0.001) following oral d3-l-carnitine ingestion, whereas fasting endogenous plasma l-carnitine and γBB levels were similar in vegans/vegetarians ( _n_ = 32) versus omnivores ( _n_ = 40).",
+   "strength": "human"
+  },
+  {
+   "claim": "A systematic review of 11 trials found that prolonged oral L-carnitine supplementation (1-4 g/day for 12 or 24 weeks) in healthy subjects induces an increase of fasting plasma TMAO that was not associated with changes in inflammatory or oxidative-stress markers.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/32958033/",
+   "quote": "LC supplementation was also noted to induce an increase of fasting plasma trimethylamine-N-oxide (TMAO) levels, which was not associated with modification of determined inflammatory nor oxidative stress markers.",
+   "strength": "human"
+  },
+  {
+   "claim": "Serum TMAO is markedly higher in dialysis-dependent CKD patients than in healthy controls (median 94.4 uM vs 3.3 uM), and renal transplantation substantially reduces TMAO concentrations.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/26229137/",
+   "quote": "TMAO concentrations were markedly higher in patients receiving dialysis (median \\[interquartile range\\], 94.4 μM \\[54.8-133.0 μM\\] for dialysis-dependent patients versus 3.3 μM \\[3.1-6.0 μM\\] for healthy controls; P<0.001); whereas renal transplantation resulted in substantial reductions in TMAO concentrations (median \\[min-max\\] 71.2 μM \\[29.2-189.7 μM\\] pretransplant versus 11.4 μM \\[8.9-20.2 μM\\] post-transplant; P=0.03).",
+   "strength": "human"
+  },
+  {
+   "claim": "Among 521 stable CKD subjects, top-quartile plasma TMAO was associated with a 2.8-fold increased 5-year mortality risk, which remained significant after adjustment for traditional risk factors, hsCRP and eGFR (hazard ratio 1.93).",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4312512/",
+   "quote": "Within CKD subjects, higher (4th vs. 1st quartile) plasma TMAO level was associated with a 2.8-fold increased mortality risk. Following adjustments for traditional risk factors, hsCRP and eGFR, elevated TMAO levels remained predictive of 5-year mortality risk (HR 1.93 \\[95%CI 1.13–3.29\\], p<0.05).",
+   "strength": "human"
+  },
+  {
+   "claim": "In animal models, chronically elevated dietary choline or TMAO directly led to progressive renal tubulointerstitial fibrosis and dysfunction.",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4312512/",
+   "quote": "In animal models, elevated dietary choline or TMAO directly led to progressive renal tubulointerstitial fibrosis and dysfunction.",
+   "strength": "animal"
+  },
+  {
+   "claim": "In 10,564 community-based US adults, higher serial plasma TMAO was associated with higher incident-CKD risk (hazard ratios up to 2.24 across quintiles) and greater annualized eGFR decline, with monotonic dose-response relationships.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/38593157/",
+   "quote": "Higher TMAO levels were associated with higher risk of incident CKD (second to fifth versus first quintile hazard ratio \\[95% confidence interval\\]=1.65 \\[1.22 to 2.23\\], 1.68 \\[1.26 to 2.25\\], 2.28 \\[1.72 to 3.02\\], and 2.24 \\[1.68 to 2.98\\], respectively) and greater annualized eGFR decline (second to fifth versus first quintile annualized eGFR change=−0.21 \\[−0.32 to −0.09\\], −0.17 \\[−0.29 to −0.05\\], −0.35 \\[−0.47 to −0.22\\], and −0.43 \\[−0.56 to −0.30\\] ml/min per 1.73 m2, respectively) with monotonic dose–response relationships.",
+   "strength": "human"
+  },
+  {
+   "claim": "In a post hoc analysis of the EVOLVE trial (n=1243 maintenance hemodialysis patients), baseline serum TMAO showed no association with the composite cardiovascular outcome or all-cause mortality.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/30665924/",
+   "quote": "We found no evidence linking TMAO to adverse clinical outcomes in patients receiving maintenance hemodialysis with moderate to severe secondary hyperparathyroidism.",
+   "strength": "human"
+  },
+  {
+   "claim": "In 4,007 patients undergoing elective coronary angiography, increased fasting plasma TMAO was associated with an increased risk of incident major adverse cardiovascular events (hazard ratio 2.54 for highest vs lowest quartile).",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/23614584/",
+   "quote": "Increased plasma levels of TMAO were associated with an increased risk of a major adverse cardiovascular event (hazard ratio for highest vs. lowest TMAO quartile, 2.54; 95% confidence interval, 1.96 to 3.28; P<0.001).",
+   "strength": "human"
+  },
+  {
+   "claim": "A dose-response meta-analysis of 17 clinical studies found high plasma TMAO associated with all-cause mortality (hazard ratio 1.91) and major adverse cardio/cerebrovascular events (hazard ratio 1.67), with mortality risk increasing 7.6% per 10 umol/L of TMAO.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/29020409/",
+   "quote": "High TMAO plasma levels were associated with increased incidence of all-cause mortality \\[14 studies for 16 cohorts enrolling 15 662 subjects, hazard ratio (HR): 1.91; 95% confidence interval (CI): 1.40-2.61, P < 0.0001, I2 = 94%\\] and MACCE (5 studies for 6 cohorts enrolling 13 944 subjects, HR: 1.67, 95% CI: 1.33-2.11, P < 0.00001, I2 = 46%,). Dose-response meta-analysis revealed that the relative risk (RR) for all-cause mortality increased by 7.6% per each 10 μmol/L increment of TMAO \\[summary RR: 1.07, 95% CI (1.04-1.11), P < 0.0001; based on seven studies\\].",
+   "strength": "review"
+  },
+  {
+   "claim": "In the community-based MESA cohort (6,767 adults free of atherosclerotic cardiovascular disease at baseline), plasma TMAO was associated with incident ASCVD in a dose-dependent fashion (top-quintile hazard ratio 1.33) over a median 11.3-year follow-up.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/40603925/",
+   "quote": "After multivariate adjustment, TMAO associated with higher risk of ASCVD in a dose-dependent fashion, with hazard ratios across quintiles of 1.02, 1.17, 1.23, and 1.33 (95% CI 1.02, 1.74), respectively, compared to the lowest quintile (P-trend = 0.01).",
+   "strength": "human"
+  },
+  {
+   "claim": "In bidirectional Mendelian randomization analyses, genetically predicted higher TMAO and carnitine were not associated with cardiometabolic outcomes, and the authors conclude that observational TMAO-cardiovascular evidence may be due to confounding or reverse causality.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/31167879/",
+   "quote": "Our Mendelian randomization findings support that T2DM and kidney disease increase TMAO levels and that observational evidence for cardiovascular diseases may be due to confounding or reverse causality.",
+   "strength": "human"
+  },
+  {
+   "claim": "In ApoE-/- mice expressing human CETP and chronically fed high-dose L-carnitine, plasma TMAO levels inversely correlated with aortic lesion size, and high TMAO significantly correlated with smaller aortic lesion area.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/26584136/",
+   "quote": "Surprisingly, and independently from treatment group, TMAO levels inversely correlated with aortic lesion size in both aortic root and thoracic aorta. High TMAO levels were found to significantly correlate with smaller aortic lesion area. Plasma lipid and lipoprotein levels did not change with treatment nor with TMAO levels, suggesting that the observed effects on lesion area were independent from lipid changes. **Conclusion:** These findings suggest that TMAO slows aortic lesion formation in this mouse model and may have a protective effect against atherosclerosis development in humans.",
+   "strength": "animal"
+  },
+  {
+   "claim": "In a 6-month randomized placebo-controlled trial of 2 g/day L-carnitine in metabolic syndrome (n=157), carotid total plaque volume did not differ between arms, but the L-carnitine group showed a 9.3% greater increase in carotid atherosclerotic stenosis.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/35366920/",
+   "quote": "In 157 participants (L-C N = 76, placebo N = 81), no difference in TPV change between arms was found. The L-C group had a greater increase in carotid atherosclerotic stenosis of 9.3% (p = 0.02) than the placebo group.",
+   "strength": "human"
+  },
+  {
+   "claim": "In healthy sedentary and endurance-trained males, neither a 4-hour high-fat challenge meal nor a subsequent 5-day high-fat diet evoked a detectable change in plasma TMAO, and fasting and postprandial TMAO did not differ between training groups.",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8371342/",
+   "quote": "Neither the HFC nor the HFD evoked a detectable change in plasma TMAO ( _p_ > 0.05) in either group.",
+   "strength": "human"
+  },
+  {
+   "claim": "Consumption of fish meals (fish sticks, cod and, to a lesser extent, salmon) led to significant increases in circulating TMAO that returned to baseline within one day in all participants with normal renal function.",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9283263/",
+   "quote": "Consumption of fish sticks, cod, and to lesser extent, salmon, lead to significant increases in circulating TMAO levels. Within one day, circulating TMAO concentrations in all participants returned to baseline levels.",
+   "strength": "human"
+  },
+  {
+   "claim": "In two randomized controlled trials, diets naturally rich in marine omega-3 fatty acids or whole-grain cereals significantly increased plasma TMAO, leading the authors to conclude TMAO is not a universally valid biomarker of cardiometabolic risk independent of background diet.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/34091663/",
+   "quote": "Diets rich in LCn3 of marine origin or WGCs significantly increased plasma TMAO concentration. These changes mirrored the direct associations between TMAO concentrations and intakes of fish and WGCs, suggesting that TMAO reflects intakes of these healthy foods and, therefore, it is not a universally valid biomarker of cardiometabolic risk independent of the background diet.",
+   "strength": "human"
+  },
+  {
+   "claim": "The renal risks and benefits of L-carnitine in athletes and bodybuilders have not been evaluated in the literature, although L-carnitine up to 6,000 mg/day is generally considered a safe supplement in healthy adults.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/30341034/",
+   "quote": "The risks and benefits of L-carnitine on the athletes' and bodybuilders' kidney have not been evaluated yet. However, L-carnitine up to 6000 mg/day is generally considered to be a safe supplement at least in healthy adults.",
+   "strength": "review"
+  },
+  {
+   "claim": "Across human studies, TMAO levels do not consistently correlate with aerobic fitness, habitual physical activity or training status, and exercise-only interventions rarely produce significant changes in circulating TMAO while dietary manipulation exerts substantially stronger effects.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42287393/",
+   "quote": "Across human studies, TMAO levels do not consistently correlate with aerobic fitness, habitual physical activity, or training status. Exercise-only interventions rarely produce significant changes in circulating TMAO concentrations, whereas dietary manipulation and precursor supplementation exert substantially stronger effects.",
+   "strength": "review"
+  },
+  {
+   "claim": "A formal risk assessment identified 2,000 mg/day of L-carnitine equivalents as the observed safe level for chronic supplementation, while noting that data for intakes above this level are not sufficient for a confident conclusion of long-term safety.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/16901595/",
+   "quote": "The OSL risk assessment method indicates that the evidence of safety is strong at intakes up to 2000mg/day l-carnitine equivalents for chronic supplementation, and this level is identified as the OSL.",
+   "strength": "review"
+  },
+  {
+   "claim": "Several animal studies reported neutral or even beneficial effects of TMAO or its precursors in cardiovascular disease models, supporting the clinically proven beneficial effects of L-carnitine or a seafood-rich diet (naturally containing TMAO) on cardiometabolic health.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/32392758/",
+   "quote": "Several animal studies reported neutral or even beneficial effects of TMAO or its precursors in cardiovascular disease model systems, supporting the clinically proven beneficial effects of its precursor, L-carnitine, or a sea-food rich diet (naturally containing TMAO) on cardiometabolic health.",
+   "strength": "review"
+  },
+  {
+   "claim": "Single lean-vegan-donor fecal microbiota transplantation shifted gut microbiota composition toward a vegan profile but produced no functional change in TMAO production capacity or vascular inflammation parameters in metabolic syndrome patients.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/29581220/",
+   "quote": "With vegan-donor fecal microbiota transplantation, intestinal microbiota composition in metabolic syndrome patients, as monitored by global fecal microbial community structure, changed toward a vegan profile in some of the patients; however, no functional effects from vegan-donor fecal microbiota transplantation were seen on TMAO production, abdominal aortic 18F-fluorodeoxyglucose uptake, or ex vivo cytokine production from peripheral blood mononuclear cells.",
+   "strength": "human"
+  }
+ ]
+}

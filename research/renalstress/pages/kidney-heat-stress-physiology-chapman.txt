@@ -1,0 +1,12 @@
+PMID: 33997113
+URL: https://pubmed.ncbi.nlm.nih.gov/33997113/
+Title: Kidney physiology and pathophysiology during heat stress and the modification by exercise, dehydration, heat acclimation and aging.
+Authors: Chapman CL; Johnson BD; Parker MD; Hostler D; Pryor RR; Schlader Z
+Journal: Temperature (Austin, Tex.)
+Year: 2021
+Vol/Pages: 8(2):108-159
+DOI: 10.1080/23328940.2020.1826841
+Accessed: 2026-11-15 (NCBI PubMed efetch abstract)
+
+ABSTRACT
+The kidneys' integrative responses to heat stress aid thermoregulation, cardiovascular control, and water and electrolyte regulation. Recent evidence suggests the kidneys are at increased risk of pathological events during heat stress, namely acute kidney injury (AKI), and that this risk is compounded by dehydration and exercise. This heat stress related AKI is believed to contribute to the epidemic of chronic kidney disease (CKD) occurring in occupational settings. It is estimated that AKI and CKD affect upwards of 45 million individuals in the global workforce. Water and electrolyte disturbances and AKI, both of which are representative of kidney-related pathology, are the two leading causes of hospitalizations during heat waves in older adults. Structural and physiological alterations in aging kidneys likely contribute to this increased risk. With this background, this comprehensive narrative review will provide the first aggregation of research into the integrative physiological response of the kidneys to heat stress. While the focus of this review is on the human kidneys, we will utilize both human and animal data to describe these responses to passive and exercise heat stress, and how they are altered with heat acclimation. Additionally, we will discuss recent studies that indicate an increased risk of AKI due to exercise in the heat. Lastly, we will introduce the emerging public health crisis of older adults during extreme heat events and how the aging kidneys may be more susceptible to injury during heat stress.

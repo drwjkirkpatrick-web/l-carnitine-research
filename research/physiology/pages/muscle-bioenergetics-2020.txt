@@ -1,0 +1,46 @@
+PMID: 31906370
+PubMed URL: https://pubmed.ncbi.nlm.nih.gov/31906370/
+Fetched via NCBI eutils efetch, accessed 2026-11-15
+
+1. Molecules. 2020 Jan 1;25(1):182. doi: 10.3390/molecules25010182.
+
+Carnitine in Human Muscle Bioenergetics: Can Carnitine Supplementation Improve 
+Physical Exercise?
+
+Gnoni A(1), Longo S(2), Gnoni GV(2), Giudetti AM(2).
+
+Author information:
+(1)Department of Basic Medical Sciences, Neuroscience and Sense Organs, 
+University of Bari "Aldo Moro", 70124 Bari, Italy.
+(2)Department of Biological and Environmental Sciences and Technologies, 
+University of Salento, 73100 Lecce, Italy.
+
+l-Carnitine is an amino acid derivative widely known for its involvement in the 
+transport of long-chain fatty acids into the mitochondrial matrix, where fatty 
+acid oxidation occurs. Moreover, l-Carnitine protects the cell from acyl-CoA 
+accretion through the generation of acylcarnitines. Circulating carnitine is 
+mainly supplied by animal-based food products and to a lesser extent by 
+endogenous biosynthesis in the liver and kidney. Human muscle contains high 
+amounts of carnitine but it depends on the uptake of this compound from the 
+bloodstream, due to muscle inability to synthesize carnitine. Mitochondrial 
+fatty acid oxidation represents an important energy source for muscle metabolism 
+particularly during physical exercise. However, especially during high-intensity 
+exercise, this process seems to be limited by the mitochondrial availability of 
+free l-carnitine. Hence, fatty acid oxidation rapidly declines, increasing 
+exercise intensity from moderate to high. Considering the important role of 
+fatty acids in muscle bioenergetics, and the limiting effect of free carnitine 
+in fatty acid oxidation during endurance exercise, l-carnitine supplementation 
+has been hypothesized to improve exercise performance. So far, the question of 
+the role of l-carnitine supplementation on muscle performance has not 
+definitively been clarified. Differences in exercise intensity, training or 
+conditioning of the subjects, amount of l-carnitine administered, route and 
+timing of administration relative to the exercise led to different experimental 
+results. In this review, we will describe the role of l-carnitine in muscle 
+energetics and the main causes that led to conflicting data on the use of 
+l-carnitine as a supplement.
+
+DOI: 10.3390/molecules25010182
+PMCID: PMC6982879
+PMID: 31906370 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.

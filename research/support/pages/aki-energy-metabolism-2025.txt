@@ -1,0 +1,62 @@
+# Source: PubMed (NCBI E-utilities efetch)
+# URL: https://pubmed.ncbi.nlm.nih.gov/39986590/
+# Fetched: 2026-11-15
+# PMID: 39986590
+
+1. Clin Chim Acta. 2025 Mar 15;570:120208. doi: 10.1016/j.cca.2025.120208. Epub 
+2025 Feb 20.
+
+Acute kidney injury and energy metabolism.
+
+Zhang M(1), Ma Y(2), Jin Y(3), Wang Y(4), Wu X(5).
+
+Author information:
+(1)School of Pharmacy, Lanzhou University, Lanzhou 730000, China; Engineering 
+Research Centre of Prevention and Control for Clinical Medication Risk, Gansu 
+Province, China.
+(2)Department of Pharmacy, The First Hospital of Lanzhou University, Lanzhou 
+730000, China; School of Pharmacy, Lanzhou University, Lanzhou 730000, China; 
+Engineering Research Centre of Prevention and Control for Clinical Medication 
+Risk, Gansu Province, China.
+(3)Department of Pharmacy, The First Hospital of Lanzhou University, Lanzhou 
+730000, China; Engineering Research Centre of Prevention and Control for 
+Clinical Medication Risk, Gansu Province, China.
+(4)The Second School of Clinical Medicine, Lanzhou University, Lanzhou 730000, 
+China.
+(5)Department of Pharmacy, The First Hospital of Lanzhou University, Lanzhou 
+730000, China; School of Pharmacy, Lanzhou University, Lanzhou 730000, China; 
+Engineering Research Centre of Prevention and Control for Clinical Medication 
+Risk, Gansu Province, China. Electronic address: wuxa@lzu.edu.cn.
+
+Acute kidney injury (AKI) predominantly affects hospitalized patients, 
+particularly those in intensive care units, and has emerged as a significant 
+global public health concern. Several factors, including severe cardiovascular 
+disease, surgery-induced renal ischemia, nephrotoxic drugs, and sepsis, 
+contribute to the development of AKI. Despite the implementation of various 
+clinical strategies to prevent or treat AKI, its morbidity and mortality remain 
+high, and there are no clinically effective therapeutic agents available. The 
+limitations of traditional renal function markers (such as urine output, serum 
+creatinine, and urea nitrogen levels), including their delayed response and 
+insensitivity, underscore the urgent need for novel early biomarkers to 
+facilitate the timely diagnosis of AKI. The proximal tubular epithelial cells in 
+the kidney play a central role in both the onset and progression of AKI. These 
+cells are highly metabolically active and have a substantial energy demand, 
+primarily relying on fatty acid oxidation to meet their energy needs. 
+Acylcarnitines are crucial in transporting fatty acids from the cytoplasm into 
+the mitochondrial matrix for β-oxidation, which generates energy essential for 
+maintaining cellular function and viability. This review aims to summarize the 
+current understanding of AKI, including its triggers, classification, underlying 
+mechanisms, and potential biomarkers. Special emphasis is placed on the role of 
+fatty acid and carnitine metabolism in AKI, with the goal of providing a 
+theoretical foundation for future investigations into AKI mechanisms and the 
+identification of early diagnostic biomarkers.
+
+Copyright © 2025 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.cca.2025.120208
+PMID: 39986590 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.

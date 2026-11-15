@@ -1,0 +1,32 @@
+5. Ann N Y Acad Sci. 2004 Nov;1033:158-67. doi: 10.1196/annals.1320.015.
+
+Effects of carnitine on thyroid hormone action.
+
+Benvenga S(1), Amato A, Calvani M, Trimarchi F.
+
+Author information:
+(1)Sezione di Endocrinologia, Dipartimento Clinico Sperimentale di Medicina e 
+Farmacologia, University of Messina School of Medicine, 98125 Messina, Italy. 
+s.benvenga@me.nettuno.it
+
+By experiments on cells (neurons, hepatocytes, and fibroblasts) that are targets 
+for thyroid hormones and a randomized clinical trial on iatrogenic 
+hyperthyroidism, we validated the concept that L-carnitine is a peripheral 
+antagonist of thyroid hormone action. In particular, L-carnitine inhibits both 
+triiodothyronine (T3) and thyroxine (T4) entry into the cell nuclei. This is 
+relevant because thyroid hormone action is mainly mediated by specific nuclear 
+receptors. In the randomized trial, we showed that 2 and 4 grams per day of oral 
+L-carnitine are capable of reversing hyperthyroid symptoms (and biochemical 
+changes in the hyperthyroid direction) as well as preventing (or minimizing) the 
+appearance of hyperthyroid symptoms (or biochemical changes in the hyperthyroid 
+direction). It is noteworthy that some biochemical parameters (thyrotropin and 
+urine hydroxyproline) were refractory to the L-carnitine inhibition of thyroid 
+hormone action, while osteocalcin changed in the hyperthyroid direction, but 
+with a beneficial end result on bone. A very recent clinical observation proved 
+the usefulness of L-carnitine in the most serious form of hyperthyroidism: 
+thyroid storm. Since hyperthyroidism impoverishes the tissue deposits of 
+carnitine, there is a rationale for using L-carnitine at least in certain 
+clinical settings.
+
+DOI: 10.1196/annals.1320.015
+PMID: 15591013 [Indexed for MEDLINE]

@@ -1,0 +1,320 @@
+# URL: https://pubmed.ncbi.nlm.nih.gov/38593157/
+# Fetched via web_extract on 2026-11-15
+
+Clipboard, Search History, and several other advanced features are temporarily unavailable.
+
+
+[Skip to main page content](https://pubmed.ncbi.nlm.nih.gov/38593157/#article-details)
+
+![Dot gov](https://cdn.ncbi.nlm.nih.gov/coreutils/uswds/img/icon-dot-gov.svg)
+
+**The .gov means it’s official.**
+
+Federal government websites often end in .gov or .mil. Before
+sharing sensitive information, make sure you’re on a federal
+government site.
+
+
+![Https](https://cdn.ncbi.nlm.nih.gov/coreutils/uswds/img/icon-https.svg)
+
+**The site is secure.**
+
+The **https://** ensures that you are connecting to the
+official website and that any information you provide is encrypted
+and transmitted securely.
+
+
+[Access keys](https://www.ncbi.nlm.nih.gov/guide/browsers/#ncbi_accesskeys) [NCBI Homepage](https://www.ncbi.nlm.nih.gov/) [MyNCBI Homepage](https://pubmed.ncbi.nlm.nih.gov/myncbi/) [Main Content](https://pubmed.ncbi.nlm.nih.gov/38593157/#maincontent) [Main Navigation](https://pubmed.ncbi.nlm.nih.gov/38593157/#)
+
+[![pubmed logo](https://cdn.ncbi.nlm.nih.gov/pubmed/a447896c-976f-490b-b86b-2668b65114a8/core/images/pubmed-logo-blue.svg)](https://pubmed.ncbi.nlm.nih.gov/)[Show search bar](https://pubmed.ncbi.nlm.nih.gov/38593157/# "Show search bar")
+
+Search:
+[Clear search input](https://pubmed.ncbi.nlm.nih.gov/38593157/# "Clear search input") Search
+
+[Advanced](https://pubmed.ncbi.nlm.nih.gov/advanced/) [Clipboard](https://pubmed.ncbi.nlm.nih.gov/clipboard/)
+
+[User Guide](https://pubmed.ncbi.nlm.nih.gov/help/)
+
+Save
+
+Email
+
+
+Send to
+
+- [Clipboard](https://pubmed.ncbi.nlm.nih.gov/38593157/#)
+- [My Bibliography](https://account.ncbi.nlm.nih.gov/?back_url=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F38593157%2F%23open-bibliography-panel)
+- [Collections](https://account.ncbi.nlm.nih.gov/?back_url=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F38593157%2F%23open-collections-panel)
+- [Citation manager](https://pubmed.ncbi.nlm.nih.gov/38593157/#)
+
+Display options
+
+Display options
+
+
+Format
+AbstractPubMedPMID
+
+## Save citation to file
+
+Format:
+Summary (text)PubMedPMIDAbstract (text)CSV
+
+Create file
+
+Cancel
+
+
+## Email citation
+
+Email address has not been verified. Go to
+[My NCBI account settings](https://account.ncbi.nlm.nih.gov/settings/)
+to confirm your email and then refresh this page.
+
+
+To:
+
+
+Subject:
+
+
+Body:
+
+
+Format:
+SummarySummary (text)AbstractAbstract (text)
+
+MeSH and other data
+
+
+Send email
+
+Cancel
+
+
+### Add to Collections
+
+- Create a new collection
+- Add to an existing collection
+
+Name your collection:
+
+
+Name must be less than 100 characters
+
+
+Choose a collection:
+
+
+Unable to load your collection due to an error
+
+[Please try again](https://pubmed.ncbi.nlm.nih.gov/38593157/#)
+
+Add
+
+Cancel
+
+
+### Add to My Bibliography
+
+- My Bibliography
+
+Unable to load your delegates due to an error
+
+[Please try again](https://pubmed.ncbi.nlm.nih.gov/38593157/#)
+
+Add
+
+Cancel
+
+
+## Your saved search
+
+Name of saved search:
+
+
+Search terms:
+
+
+[Test search terms](https://pubmed.ncbi.nlm.nih.gov/38593157/#)
+
+Would you like email updates of new search results?
+Saved Search Alert Radio Buttons
+
+- Yes
+- No
+
+Email:
+( [change](https://www.ncbi.nlm.nih.gov/account/settings/))
+
+Frequency:
+MonthlyWeeklyDaily
+
+Which day?
+The first SundayThe first MondayThe first TuesdayThe first WednesdayThe first ThursdayThe first FridayThe first SaturdayThe first dayThe first weekday
+
+Which day?
+SundayMondayTuesdayWednesdayThursdayFridaySaturday
+
+Report format:
+SummarySummary (text)AbstractAbstract (text)PubMed
+
+Send at most:
+1 item5 items10 items20 items50 items100 items200 items
+
+Send even when there aren't any new results
+
+
+Optional text in email:
+
+
+Save
+
+Cancel
+
+
+## Create a file for external citation management software
+
+Create file
+
+Cancel
+
+
+## Your RSS Feed
+
+Name of RSS Feed:
+
+
+Number of items displayed:
+510152050100
+
+Create RSS
+
+Cancel
+
+
+RSS Link
+Copy
+
+
+Full text links
+Cite
+
+Display options
+
+Display options
+
+
+Format
+AbstractPubMedPMID
+
+Linked Discoveries
+
+## Abstract
+
+**Key Points:**
+
+1. In community-based US adults, higher plasma trimethylamine _N_-oxide levels associated with higher risk of incident CKD and greater rate of kidney function decline.
+
+2. Findings from our study support future clinical trials to examine whether lowering plasma trimethylamine _N_-oxide levels may prevent CKD development and progression.
+
+
+**Background:**
+
+Trimethylamine _N_-oxide (TMAO) is a gut microbiota–derived metabolite of dietary phosphatidylcholine and carnitine. Experimentally, TMAO causes kidney injury and tubulointerstitial fibrosis. Little is known about prospective associations between TMAO and kidney outcomes, especially incident CKD. We hypothesized that higher plasma TMAO levels would be associated with higher risk of incident CKD and greater rate of kidney function decline.
+
+
+**Methods:**
+
+We included 10,564 participants from two community-based, prospective cohorts with eGFR ≥60 ml/min per 1.73 m2 to assess incident CKD. TMAO was measured using targeted mass spectrometry at baseline and one follow-up visit. Creatinine and cystatin C were measured up to four times during follow-up and used to compute eGFR. Incident CKD was defined as an eGFR decline ≥30% from baseline and a resulting eGFR <60 ml/min per 1.73 m2. Time-varying Cox models assessed the association of serial TMAO measures with incident CKD, adjusting for sociodemographic, lifestyle, diet, and cardiovascular disease risk factors. Linear mixed models assessed the association with annualized eGFR change in 10,009 participants with at least one follow-up eGFR measure without exclusions for baseline eGFR levels.
+
+
+**Results:**
+
+During a median follow-up of 9.4 years (interquartile range, 9.1–11.6 years), 979 incident CKD events occurred. Higher TMAO levels were associated with higher risk of incident CKD (second to fifth versus first quintile hazard ratio \[95% confidence interval\]=1.65 \[1.22 to 2.23\], 1.68 \[1.26 to 2.25\], 2.28 \[1.72 to 3.02\], and 2.24 \[1.68 to 2.98\], respectively) and greater annualized eGFR decline (second to fifth versus first quintile annualized eGFR change=−0.21 \[−0.32 to −0.09\], −0.17 \[−0.29 to −0.05\], −0.35 \[−0.47 to −0.22\], and −0.43 \[−0.56 to −0.30\] ml/min per 1.73 m2, respectively) with monotonic dose–response relationships. These associations were consistent across different racial/ethnic groups examined. The association with eGFR decline was similar to or larger than that seen for established CKD risk factors, including diabetes, per 10 mm Hg of higher systolic BP, per 10 years of older age, and Black race.
+
+
+**Conclusions:**
+
+In community-based US adults, higher serial measures of plasma TMAO were associated with higher risk of incident CKD and greater annualized kidney function decline.
+
+
+[PubMed Disclaimer](https://pubmed.ncbi.nlm.nih.gov/disclaimer/)
+
+## Conflict of interest statement
+
+Disclosure forms, as provided by each author, are available with the online version of the article at http://links.lww.com/JSN/E625.
+
+## Figures
+
+[![None](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/2820/11164118/4aba33e5bc55/jasn-35-749-g001.gif)](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/2820/11164118/3d778fc7dbdb/jasn-35-749-g001.jpg)
+
+**Graphical abstract**
+
+**Graphical abstract**
+
+**Graphical abstract**[![Figure 1](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/2820/11164118/0e0f67af5068/jasn-35-749-g002.gif)](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/2820/11164118/8effdeb84407/jasn-35-749-g002.jpg)
+
+**Figure 1**
+
+**Multivariable-adjusted relationship of time-varying serial…**
+
+**Figure 1**
+
+**Multivariable-adjusted relationship of time-varying serial plasma TMAO levels with incident CKD (left) and…**
+
+**Figure 1**
+
+**Multivariable-adjusted relationship of time-varying serial plasma TMAO levels with incident CKD (left) and annualized eGFR change (right), evaluated using restricted cubic splines.** Incident CKD was assessed among 10,564 participants without CKD at baseline, and eGFR decline among 10,009 participants with or without CKD at baseline. Knots were evaluated at the 10th, 50th, and 90th percentiles. Participants in the top 1% of baseline TMAO levels were removed to minimize the influence of outliers. The solid line represents the central HR or annualized eGFR change using the 10th percentile of TMAO levels as the reference level; the shaded area, the 95% CI; and the dotted vertical lines, from left to right, the 10th, 25th, 50th, 75th, and 90th percentiles of TMAO levels. _P_ for linearity was the _P_ value for TMAO in a model with TMAO analyzed as a linear term. _P_ for nonlinearity was obtained by a likelihood ratio test comparing the model with linear TMAO versus the model with all spline terms for TMAO. Covariate adjustments represent the multivariable+CVD risk factor model in Table 1 (for incident CKD) and Table 2 (for annualized eGFR decline). CI, confidence interval; CVD, cardiovascular disease; HR, hazard ratio; TMAO, trimethylamine _N_-oxide.
+
+
+[... middle omitted — see footer ...]
+
+  - [Add to Search](https://pubmed.ncbi.nlm.nih.gov/38593157/#)
+
+## Grants and funding
+
+- [P01 HL147823/HL/NHLBI NIH HHS/United States](https://pubmed.ncbi.nlm.nih.gov/?term=P01+HL147823%2FHL%2FNHLBI+NIH+HHS%2FUnited+States%5BGrants+and+Funding%5D&sort=date&sort_order=desc "All articles for grant P01 HL147823/HL/NHLBI NIH HHS/United States")
+- [R01 HL103866/HL/NHLBI NIH HHS/United States](https://pubmed.ncbi.nlm.nih.gov/?term=R01+HL103866%2FHL%2FNHLBI+NIH+HHS%2FUnited+States%5BGrants+and+Funding%5D&sort=date&sort_order=desc "All articles for grant R01 HL103866/HL/NHLBI NIH HHS/United States")
+- [R01 HL135920/HL/NHLBI NIH HHS/United States](https://pubmed.ncbi.nlm.nih.gov/?term=R01+HL135920%2FHL%2FNHLBI+NIH+HHS%2FUnited+States%5BGrants+and+Funding%5D&sort=date&sort_order=desc "All articles for grant R01 HL135920/HL/NHLBI NIH HHS/United States")
+- [906562/American Heart Association](https://pubmed.ncbi.nlm.nih.gov/?term=906562%2FAmerican+Heart+Association%5BGrants+and+Funding%5D&sort=date&sort_order=desc "All articles for grant 906562/American Heart Association")
+- [P01 HL147823/NH/NIH HHS/United States](https://pubmed.ncbi.nlm.nih.gov/?term=P01+HL147823%2FNH%2FNIH+HHS%2FUnited+States%5BGrants+and+Funding%5D&sort=date&sort_order=desc "All articles for grant P01 HL147823/NH/NIH HHS/United States")
+
+- [R01HL135920/NH/NIH HHS/United States](https://pubmed.ncbi.nlm.nih.gov/?term=R01HL135920%2FNH%2FNIH+HHS%2FUnited+States%5BGrants+and+Funding%5D&sort=date&sort_order=desc "All articles for grant R01HL135920/NH/NIH HHS/United States")
+- [K26 DK138333/DK/NIDDK NIH HHS/United States](https://pubmed.ncbi.nlm.nih.gov/?term=K26+DK138333%2FDK%2FNIDDK+NIH+HHS%2FUnited+States%5BGrants+and+Funding%5D&sort=date&sort_order=desc "All articles for grant K26 DK138333/DK/NIDDK NIH HHS/United States")
+- [R01 HL103866/NH/NIH HHS/United States](https://pubmed.ncbi.nlm.nih.gov/?term=R01+HL103866%2FNH%2FNIH+HHS%2FUnited+States%5BGrants+and+Funding%5D&sort=date&sort_order=desc "All articles for grant R01 HL103866/NH/NIH HHS/United States")
+
+Show all 8 grants
+
+
+## LinkOut - more resources
+
+- ### Full Text Sources
+
+
+  - [PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/pmid/38593157/)
+  - [Wolters Kluwer](https://www.ovid.com/10.1681/ASN.0000000000000344)
+- ### Medical
+
+
+  - [MedlinePlus Health Information](https://medlineplus.gov/chronickidneydisease.html)
+- ### Research Materials
+
+
+  - [NCI CPTC Antibody Characterization Program](https://antibodies.cancer.gov/detail/CPTC-EGFR-8)
+- ### Miscellaneous
+
+
+  - [NCI CPTAC Assay Portal](https://assays.cancer.gov/CPTAC-802)
+
+NCBI Literature Resources
+
+[MeSH](https://www.ncbi.nlm.nih.gov/mesh/) [PMC](https://www.ncbi.nlm.nih.gov/pmc/) [Bookshelf](https://www.ncbi.nlm.nih.gov/books) [Disclaimer](https://pubmed.ncbi.nlm.nih.gov/disclaimer/)
+
+The PubMed wordmark and PubMed logo are registered trademarks of the U.S. Department of Health and Human Services (HHS). Unauthorized use of these marks is strictly prohibited.
+
+──────── [TRUNCATED] ────────
+Showing 8,920 chars (head) + 2,982 chars (tail) of 20,442 total clean characters.
+Full text saved to: /home/walker/.hermes/cache/web/pubmed.ncbi.nlm.nih.gov-7a970f37f0.md
+To read the omitted middle: read_file path="/home/walker/.hermes/cache/web/pubmed.ncbi.nlm.nih.gov-7a970f37f0.md" offset=267 limit=200  (the file is the complete page; raise/lower offset to page through it).
+─────────────────────────────

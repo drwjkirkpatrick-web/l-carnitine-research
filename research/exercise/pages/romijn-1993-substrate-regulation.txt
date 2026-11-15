@@ -1,0 +1,38 @@
+SOURCE: Regulation of endogenous fat and carbohydrate metabolism in relation to exercise intensity and duration.
+URL: https://pubmed.ncbi.nlm.nih.gov/8214047/
+FETCHED: 2026-11-15 via NCBI efetch (pubmed abstract, retmode=text)
+PMID: 8214047
+DOI: 10.1152/ajpendo.1993.265.3.E380
+------------------------------------------------------------------------
+9. Am J Physiol. 1993 Sep;265(3 Pt 1):E380-91. doi: 
+10.1152/ajpendo.1993.265.3.E380.
+
+Regulation of endogenous fat and carbohydrate metabolism in relation to exercise 
+intensity and duration.
+
+Romijn JA(1), Coyle EF, Sidossis LS, Gastaldelli A, Horowitz JF, Endert E, Wolfe 
+RR.
+
+Author information:
+(1)Metabolism Unit, Shriners Burns Institute, University of Texas Medical 
+Branch, Galveston 77550.
+
+Stable isotope tracers and indirect calorimetry were used to evaluate the 
+regulation of endogenous fat and glucose metabolism in relation to exercise 
+intensity and duration. Five trained subjects were studied during exercise 
+intensities of 25, 65, and 85% of maximal oxygen consumption (VO2max). Plasma 
+glucose tissue uptake and muscle glycogen oxidation increased in relation to 
+exercise intensity. In contrast, peripheral lipolysis was stimulated maximally 
+at the lowest exercise intensity, and fatty acid release into plasma decreased 
+with increasing exercise intensity. Muscle triglyceride lipolysis was stimulated 
+only at higher intensities. During 2 h of exercise at 65% VO2max plasma-derived 
+substrate oxidation progressively increased over time, whereas muscle glycogen 
+and triglyceride oxidation decreased. In recovery from high-intensity exercise, 
+although the rate of lipolysis immediately decreased, the rate of release of 
+fatty acids into plasma increased, indicating release of fatty acids from 
+previously hydrolyzed triglycerides. We conclude that, whereas carbohydrate 
+availability is regulated directly in relation to exercise intensity, the 
+regulation of lipid metabolism seems to be more complex.
+
+DOI: 10.1152/ajpendo.1993.265.3.E380
+PMID: 8214047 [Indexed for MEDLINE]

@@ -1,0 +1,403 @@
+# URL: https://pubmed.ncbi.nlm.nih.gov/34091663/
+# Fetched via web_extract on 2026-11-15
+
+Clipboard, Search History, and several other advanced features are temporarily unavailable.
+
+
+[Skip to main page content](https://pubmed.ncbi.nlm.nih.gov/34091663/#article-details)
+
+### NIH Websites Are Changing
+
+- [Get the Latest Updates and FAQs on the transition](https://www.nih.gov/web-modernization)
+- Per [Executive Order 14434](https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/), federal agencies are now using "Super Intelligence" (SI) in place of "Artificial Intelligence" (AI). You may see both terms across NIH content during this transition.
+
+![Dot gov](https://cdn.ncbi.nlm.nih.gov/coreutils/uswds/img/icon-dot-gov.svg)
+
+**The .gov means it’s official.**
+
+Federal government websites often end in .gov or .mil. Before
+sharing sensitive information, make sure you’re on a federal
+government site.
+
+
+![Https](https://cdn.ncbi.nlm.nih.gov/coreutils/uswds/img/icon-https.svg)
+
+**The site is secure.**
+
+The **https://** ensures that you are connecting to the
+official website and that any information you provide is encrypted
+and transmitted securely.
+
+
+[Access keys](https://www.ncbi.nlm.nih.gov/guide/browsers/#ncbi_accesskeys) [NCBI Homepage](https://www.ncbi.nlm.nih.gov/) [MyNCBI Homepage](https://pubmed.ncbi.nlm.nih.gov/myncbi/) [Main Content](https://pubmed.ncbi.nlm.nih.gov/34091663/#maincontent) [Main Navigation](https://pubmed.ncbi.nlm.nih.gov/34091663/#)
+
+[![pubmed logo](https://cdn.ncbi.nlm.nih.gov/pubmed/a447896c-976f-490b-b86b-2668b65114a8/core/images/pubmed-logo-blue.svg)](https://pubmed.ncbi.nlm.nih.gov/)[Show search bar](https://pubmed.ncbi.nlm.nih.gov/34091663/# "Show search bar")
+
+Search:
+
+
+```
+
+```
+
+[Clear search input](https://pubmed.ncbi.nlm.nih.gov/34091663/# "Clear search input") Search
+
+[Advanced](https://pubmed.ncbi.nlm.nih.gov/advanced/) [Clipboard](https://pubmed.ncbi.nlm.nih.gov/clipboard/)
+
+[User Guide](https://pubmed.ncbi.nlm.nih.gov/help/)
+
+Save
+
+Email
+
+
+Send to
+
+- [Clipboard](https://pubmed.ncbi.nlm.nih.gov/34091663/#)
+- [My Bibliography](https://account.ncbi.nlm.nih.gov/?back_url=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F34091663%2F%23open-bibliography-panel)
+- [Collections](https://account.ncbi.nlm.nih.gov/?back_url=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F34091663%2F%23open-collections-panel)
+- [Citation manager](https://pubmed.ncbi.nlm.nih.gov/34091663/#)
+
+Display options
+
+Display options
+
+
+Format
+AbstractPubMedPMID
+
+## Save citation to file
+
+Format:
+Summary (text)PubMedPMIDAbstract (text)CSV
+
+Create file
+
+Cancel
+
+
+## Email citation
+
+Email address has not been verified. Go to
+[My NCBI account settings](https://account.ncbi.nlm.nih.gov/settings/)
+to confirm your email and then refresh this page.
+
+
+To:
+
+
+Subject:
+
+
+Body:
+
+
+Format:
+SummarySummary (text)AbstractAbstract (text)
+
+MeSH and other data
+
+
+Send email
+
+Cancel
+
+
+### Add to Collections
+
+- Create a new collection
+- Add to an existing collection
+
+Name your collection:
+
+
+Name must be less than 100 characters
+
+
+Choose a collection:
+
+
+Unable to load your collection due to an error
+
+[Please try again](https://pubmed.ncbi.nlm.nih.gov/34091663/#)
+
+Add
+
+Cancel
+
+
+### Add to My Bibliography
+
+- My Bibliography
+
+Unable to load your delegates due to an error
+
+[Please try again](https://pubmed.ncbi.nlm.nih.gov/34091663/#)
+
+Add
+
+Cancel
+
+
+## Your saved search
+
+Name of saved search:
+
+
+Search terms:
+
+
+[Test search terms](https://pubmed.ncbi.nlm.nih.gov/34091663/#)
+
+Would you like email updates of new search results?
+Saved Search Alert Radio Buttons
+
+- Yes
+- No
+
+Email:
+( [change](https://www.ncbi.nlm.nih.gov/account/settings/))
+
+Frequency:
+MonthlyWeeklyDaily
+
+Which day?
+The first SundayThe first MondayThe first TuesdayThe first WednesdayThe first ThursdayThe first FridayThe first SaturdayThe first dayThe first weekday
+
+Which day?
+SundayMondayTuesdayWednesdayThursdayFridaySaturday
+
+Report format:
+SummarySummary (text)AbstractAbstract (text)PubMed
+
+Send at most:
+1 item5 items10 items20 items50 items100 items200 items
+
+Send even when there aren't any new results
+
+
+Optional text in email:
+
+
+Save
+
+Cancel
+
+
+## Create a file for external citation management software
+
+Create file
+
+Cancel
+
+
+## Your RSS Feed
+
+Name of RSS Feed:
+
+
+Number of items displayed:
+510152050100
+
+Create RSS
+
+Cancel
+
+
+RSS Link
+Copy
+
+
+Full text links
+Cite
+
+Display options
+
+Display options
+
+
+Format
+AbstractPubMedPMID
+
+Linked Discoveries
+
+## Abstract
+
+**Background:**
+
+Plasma trimethylamine N-oxide (TMAO) has drawn much attention as a marker of several chronic diseases. Data on the relation between diet and TMAO are discordant and few human intervention studies have assessed causality for this association.
+
+
+**Objectives:**
+
+We aimed to evaluate the effects on plasma TMAO of diets based on foods rich in polyphenols (PP) and/or long-chain n-3 fatty acids (LCn3) or whole-grain cereals (WGCs), in individuals at high cardiometabolic risk.
+
+
+**Methods:**
+
+An ancillary study was performed within 2 randomized controlled trials, aimed at evaluating the medium-term effects on cardiometabolic risk factors of diets naturally rich in PP and/or LCn3 (Etherpaths Project) or WGCs (HealthGrain Project).
+
+
+**Results:**
+
+In the Etherpaths study (n = 78), the changes in TMAO (8-wk minus baseline) were statistically significant for the diets rich in LCn3 (+1.15 ± 11.58 μmol/L) (P = 0.007), whereas they were not for the diets rich in PP (-0.14 ± 9.66 μmol/L) (P = 0.905) or their interaction (P = 0.655) (2-factor ANOVA). In the HealthGrain Study (n = 48), the TMAO change (12-wk minus baseline) in the WGC group (+0.94 ± 3.58 μmol/L) was significantly different from that in the Refined Cereal group (-1.29 ± 3.09 μmol/L) (P = 0.037). Considering the pooled baseline data of the participants in the 2 studies, TMAO concentrations directly correlated with LCn3, EPA (20:5n-3), and protein intake, but not SFAs, fiber, MUFAs, and PP intake. Among food groups, TMAO directly correlated with the intake of fish, vegetables, and whole-grain products, but not meat, processed meat, and dairy products.
+
+
+**Conclusions:**
+
+Diets rich in LCn3 of marine origin or WGCs significantly increased plasma TMAO concentration. These changes mirrored the direct associations between TMAO concentrations and intakes of fish and WGCs, suggesting that TMAO reflects intakes of these healthy foods and, therefore, it is not a universally valid biomarker of cardiometabolic risk independent of the background diet.These trials were registered at clinicaltrials.gov as [NCT01154478](http://clinicaltrials.gov/show/NCT01154478 "See in ClinicalTrials.gov") and [NCT00945854](http://clinicaltrials.gov/show/NCT00945854 "See in ClinicalTrials.gov").
+
+
+**Keywords:**
+
+TMAO; cardiometabolic risk factors; diet; dietary polyphenols; fish; long-chain n–3 fatty acids; whole-grain cereals.
+
+
+© The Author(s) 2021. Published by Oxford University Press on behalf of the American Society for Nutrition.
+
+
+[PubMed Disclaimer](https://pubmed.ncbi.nlm.nih.gov/disclaimer/)
+
+## Similar articles
+
+- [An Oily Fish Diet Improves Subclinical Inflammation in People at High Cardiovascular Risk: A Randomized Controlled Study.](https://pubmed.ncbi.nlm.nih.gov/34199645/)
+
+Costabile G, Della Pepa G, Vetrani C, Vitaglione P, Griffo E, Giacco R, Vitale M, Salamone D, Rivellese AA, Annuzzi G, Bozzetto L.Costabile G, et al.Molecules. 2021 Jun 2;26(11):3369. doi: 10.3390/molecules26113369.Molecules. 2021.PMID: 34199645Free PMC article.Clinical Trial.
+
+- [Association of diet with circulating trimethylamine-N-oxide concentration.](https://pubmed.ncbi.nlm.nih.gov/32936862/)
+
+Hamaya R, Ivey KL, Lee DH, Wang M, Li J, Franke A, Sun Q, Rimm EB.Hamaya R, et al.Am J Clin Nutr. 2020 Dec 10;112(6):1448-1455. doi: 10.1093/ajcn/nqaa225.Am J Clin Nutr. 2020.PMID: 32936862Free PMC article.
+
+- [Circulating trimethylamine N-oxide in association with diet and cardiometabolic biomarkers: an international pooled analysis.](https://pubmed.ncbi.nlm.nih.gov/33826706/)
+
+Yang JJ, Shu XO, Herrington DM, Moore SC, Meyer KA, Ose J, Menni C, Palmer ND, Eliassen H, Harada S, Tzoulaki I, Zhu H, Albanes D, Wang TJ, Zheng W, Cai H, Ulrich CM, Guasch-Ferré M, Karaman I, Fornage M, Cai Q, Matthews CE, Wagenknecht LE, Elliott P, Gerszten RE, Yu D.Yang JJ, et al.Am J Clin Nutr. 2021 May 8;113(5):1145-1156. doi: 10.1093/ajcn/nqaa430.Am J Clin Nutr. 2021.PMID: 33826706Free PMC article.
+
+- [Trimethylamine N-Oxide in Relation to Cardiometabolic Health-Cause or Effect?](https://pubmed.ncbi.nlm.nih.gov/32392758/)
+
+Papandreou C, Moré M, Bellamine A.Papandreou C, et al.Nutrients. 2020 May 7;12(5):1330. doi: 10.3390/nu12051330.Nutrients. 2020.PMID: 32392758Free PMC article.Review.
+
+- [Association of Urinary and Plasma Levels of Trimethylamine N-Oxide (TMAO) with Foods.](https://pubmed.ncbi.nlm.nih.gov/33922680/)
+
+
+[... middle omitted — see footer ...]
+
+
+
+
+
+
+  - [Search in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22Fatty+Acids%2C+Omega-3%22%5Bnm%5D&sort=date&sort_order=desc)
+  - [Search in MeSH](https://www.ncbi.nlm.nih.gov/mesh?term=%22Fatty+Acids%2C+Omega-3%22)
+  - [Add to Search](https://pubmed.ncbi.nlm.nih.gov/34091663/#)
+
+- Methylamines
+
+
+
+
+Actions
+
+
+
+
+
+  - [Search in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22Methylamines%22%5Bnm%5D&sort=date&sort_order=desc)
+  - [Search in MeSH](https://www.ncbi.nlm.nih.gov/mesh?term=%22Methylamines%22)
+  - [Add to Search](https://pubmed.ncbi.nlm.nih.gov/34091663/#)
+
+- Polyphenols
+
+
+
+
+Actions
+
+
+
+
+
+  - [Search in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22Polyphenols%22%5Bnm%5D&sort=date&sort_order=desc)
+  - [Search in MeSH](https://www.ncbi.nlm.nih.gov/mesh?term=%22Polyphenols%22)
+  - [Add to Search](https://pubmed.ncbi.nlm.nih.gov/34091663/#)
+
+- trimethyloxamine
+
+
+
+
+Actions
+
+
+
+
+
+  - [Search in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22trimethyloxamine%22%5Bnm%5D&sort=date&sort_order=desc)
+  - [Search in MeSH](https://www.ncbi.nlm.nih.gov/mesh?term=%22trimethyloxamine%22)
+  - [Add to Search](https://pubmed.ncbi.nlm.nih.gov/34091663/#)
+
+## Associated data
+
+- ClinicalTrials.gov/NCT01154478
+
+
+
+
+Actions
+
+
+
+
+
+  - [Search in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=NCT01154478%5BSecondary+Source+ID%5D "Search in PubMed")
+  - [Search in ClinicalTrials.gov](http://clinicaltrials.gov/show/NCT01154478 "Search in ClinicalTrials.gov")
+
+- ClinicalTrials.gov/NCT00945854
+
+
+
+
+Actions
+
+
+
+
+
+  - [Search in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=NCT00945854%5BSecondary+Source+ID%5D "Search in PubMed")
+  - [Search in ClinicalTrials.gov](http://clinicaltrials.gov/show/NCT00945854 "Search in ClinicalTrials.gov")
+
+## Related information
+
+- [MedGen](https://www.ncbi.nlm.nih.gov/medgen?linkname=pubmed_medgen&from_uid=34091663 "Related information in MedGen")
+- [PubChem Compound (MeSH Keyword)](https://www.ncbi.nlm.nih.gov/pccompound?linkname=pubmed_pccompound_mesh&from_uid=34091663 "Related PubChem Compound via MeSH")
+
+## LinkOut - more resources
+
+- ### Full Text Sources
+
+
+  - [Elsevier Science](https://linkinghub.elsevier.com/retrieve/pii/S0002-9165(22)00463-4)
+  - [Ovid Technologies, Inc.](https://www.ovid.com/34091663.pmid)
+- ### Medical
+
+
+  - [ClinicalTrials.gov](https://clinicaltrials.gov/search?term=AREA%5BReferencePMID%5D34091663)
+- ### Research Materials
+
+
+  - [NCI CPTC Antibody Characterization Program](https://antibodies.cancer.gov/detail/CPTC-TIMP1-1)
+- ### Miscellaneous
+
+
+  - [NCI CPTAC Assay Portal](https://assays.cancer.gov/non-CPTAC-3340)
+
+NCBI Literature Resources
+
+[MeSH](https://www.ncbi.nlm.nih.gov/mesh/) [PMC](https://www.ncbi.nlm.nih.gov/pmc/) [Bookshelf](https://www.ncbi.nlm.nih.gov/books) [Disclaimer](https://pubmed.ncbi.nlm.nih.gov/disclaimer/)
+
+The PubMed wordmark and PubMed logo are registered trademarks of the U.S. Department of Health and Human Services (HHS). Unauthorized use of these marks is strictly prohibited.
+
+──────── [TRUNCATED] ────────
+Showing 8,792 chars (head) + 2,997 chars (tail) of 19,568 total clean characters.
+Full text saved to: /home/walker/.hermes/cache/web/pubmed.ncbi.nlm.nih.gov-1a9c1d57fa.md
+To read the omitted middle: read_file path="/home/walker/.hermes/cache/web/pubmed.ncbi.nlm.nih.gov-1a9c1d57fa.md" offset=278 limit=200  (the file is the complete page; raise/lower offset to page through it).
+─────────────────────────────

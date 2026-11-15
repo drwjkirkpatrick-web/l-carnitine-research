@@ -1,0 +1,12 @@
+PMID: 32202487
+URL: https://pubmed.ncbi.nlm.nih.gov/32202487/
+Title: Exertional rhabdomyolysis and acute kidney injury in endurance sports: A systematic review.
+Authors: Rojas-Valverde D; Sánchez-Ureña B; Crowe J; Timón R; Olcina GJ
+Journal: European journal of sport science
+Year: 2021
+Vol/Pages: 21(2):261-274
+DOI: 10.1080/17461391.2020.1746837
+Accessed: 2026-11-15 (NCBI PubMed efetch abstract)
+
+ABSTRACT
+The increase of wide-spread participation in endurance events in sports such as open water swimming, cycling, running and triathlons, has given rise to a concern about potential implications for renal function and kidney health. This study aimed to delve into the findings on exertional rhabdomyolysis (ER) and acute kidney injury (AKI) in endurance sports, emphasizing the diagnostic criteria used, physical and environmental contextual conditions in which ER and AKI are reported. Following PRISMA guidelines for systematic reviews and meta-analysis, topic related studies were searched digital sources (from 2009 to 2020). Studies with biomarkers of ER and AKI reported in endurance or ultra-endurance events were included. A total of 43 publications (sample = 813) were extracted, and 345 (43.5%) individuals were diagnosed with ER (creatinine kinase > 5000 UI/L) and 130 (16.39%) with ER + AKI (creatinine ≥ 1.88 mg/dL). Out of the total cases of ER + AKI, 96.92% were in ultra-endurance runners. There were inconsistences between studies in diagnosis criteria for ER and AKI, which represented a difficulty in the interpretation of the data. Increased levels of muscle and kidney injury immediately after endurance events were reported, but after 5.86 days these levels usually returned to baseline. There is a lack of knowledge around the potential of repeated ER and AKI predisposing to long-term chronic kidney disease. More accurate markers for subclinical and functional AKI diagnosis are needed in the analysis of kidney health after endurance events. ER and AKI are serious clinical problems with significant morbidity. Further research may be in order to help define future prevention strategies.

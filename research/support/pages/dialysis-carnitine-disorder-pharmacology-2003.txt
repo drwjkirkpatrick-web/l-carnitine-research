@@ -1,0 +1,43 @@
+# Source: PubMed (NCBI E-utilities efetch)
+# URL: https://pubmed.ncbi.nlm.nih.gov/12751050/
+# Fetched: 2026-11-15
+# PMID: 12751050
+
+1. Am J Kidney Dis. 2003 Apr;41(4 Suppl 4):S13-26. doi: 
+10.1016/s0272-6386(03)00113-6.
+
+Dialysis-related carnitine disorder and levocarnitine pharmacology.
+
+Evans A(1).
+
+Author information:
+(1)Centre for Pharmaceutical Research, School of Pharmaceutical, Molecular and 
+Biomedical Sciences, University of South Australia, Adelaide, South Australia. 
+allan.evans@unisa.edu.au
+
+Among the homeostatic processes controlling the endogenous L-carnitine pool in 
+humans, the kidney has a vital role through extensive and adaptive tubular 
+reabsorption. Kidney disease can lead to disturbances in L-carnitine 
+homeostasis, and long-term hemodialysis therapy can lead to a significant 
+reduction in plasma and tissue L-carnitine levels and an increase in the ratio 
+of acyl-L-carnitine to free L-carnitine. These alterations may interfere with 
+the oxidation of fatty acids and removal from tissues of unwanted short-chain 
+acyl groups. A dialysis-related carnitine disorder (DCD) arises when these 
+biochemical abnormalities exist in association with such clinical symptoms as 
+muscle weakness, cardiomyopathy, intradialytic hypotension, or anemia that is 
+resistant to erythropoietin therapy. Exogenous L-carnitine, administered 
+intravenously, is approved for the treatment of secondary carnitine deficiency 
+caused by long-term hemodialysis. Although intravenous administration of 
+20-mg/kg doses at the end of each hemodialysis session leads to 
+supraphysiological levels of the compound in plasma, these levels do not appear 
+to be associated with adverse effects. Because more than 99% of the body's 
+carnitine pool is located outside of plasma, supraphysiological plasma levels 
+appear to be required to ensure that depleted muscle stores can be replenished. 
+Although oral L-carnitine has been used for the treatment of DCD, the 
+bioavailability of oral L-carnitine is low (<15%) in healthy subjects and 
+unknown in patients with end-stage renal disease. Moreover, gastrointestinal 
+degradation of L-carnitine to trimethylamine and other compounds might limit the 
+usefulness of long-term oral L-carnitine administration in this patient group.
+
+DOI: 10.1016/s0272-6386(03)00113-6
+PMID: 12751050 [Indexed for MEDLINE]

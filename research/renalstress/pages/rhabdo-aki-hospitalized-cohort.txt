@@ -1,0 +1,18 @@
+PMID: 39136944
+URL: https://pubmed.ncbi.nlm.nih.gov/39136944/
+Title: Acute Kidney Injury in Hospitalized Patients With Exertional Rhabdomyolysis.
+Authors: Sabouri AH; Yurgionas B; Khorasani S; Durant EJ; Kafaie J; Hung YY; Klingman JG; Nemazie S
+Journal: JAMA network open
+Year: 2024
+Vol/Pages: 7(8):e2427464
+DOI: 10.1001/jamanetworkopen.2024.27464
+Accessed: 2026-11-15 (NCBI PubMed efetch abstract)
+
+ABSTRACT
+IMPORTANCE: An association between serum creatine kinase (CK) levels and the risk of kidney failure in patients with exertional rhabdomyolysis (ERM) has been suggested. However, the actual incidence of AKI in hospitalized patients with ERM along with the contributing cofactors that may increase the risk of AKI have rarely been investigated.
+OBJECTIVES: To examine the incidence of kidney injury in hospitalized patients with ERM and to identify additional cofactors that might contribute to the development of kidney injury in patients with ERM.
+DESIGN, SETTING, AND PARTICIPANTS: This retrospective cohort study was conducted in a diverse community population of patients 18 years or older with ERM who were hospitalized across Kaiser Permanente Northern California between January 1, 2009, and December 31, 2019. Patients were initially identified through electronic screening for all-cause rhabdomyolysis admissions, followed by manual medical record reviews to verify their eligibility for the study. The diagnosis of AKI and chronic kidney disease (CKD) was determined using KDIGO (Kidney Disease Improving Global Outcomes) criteria and confirmed by medical record review. Data analysis was performed from October 1, 2023, to January 31, 2024.
+EXPOSURES: History of strenuous physical exercise before hospitalization for ERM.
+MAIN OUTCOME AND MEASURES: Development of AKI, CKD, and compartment syndrome and number of deaths.
+RESULTS: Among 3790 patients hospitalized for rhabdomyolysis between 2009 and 2019 in Kaiser Permanente Northern California, 200 (mean [SD] age, 30.5 [8.5] years; 145 [72.5%] male) were confirmed to have ERM via medical record review. Seventeen patients (8.5%) developed AKI, none developed CKD, 1 (0.5%) developed compartment syndrome, and there were no fatalities. There was no association between serum CK levels and the risk of AKI. However, the risk of AKI was significantly higher in patients with ERM who used nonsteroidal anti-inflammatory drugs (NSAIDs) before admission (11 of 17 with AKI [64.7%] vs 40 of 183 without AKI [21.9%], P < .001) or experienced dehydration (9 of 183 without AKI [52.9%] vs 9 of 17 with AKI [4.9%], P < .001). This analysis suggests that eliminating preadmission NSAID use and dehydration could reduce the risk of potential AKI in patients with ERM by 92.6% (95% CI, 85.7%-96.1%) in this population.
+CONCLUSIONS AND RELEVANCE: The findings of this cohort study of hospitalized patients with ERM suggest that serum CK elevation alone is insufficient as an indicator of AKI in patients with ERM. Concurrent risk factors, such as NSAID use or dehydration, may be associated with AKI development in patients with ERM.

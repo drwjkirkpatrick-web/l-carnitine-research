@@ -1,0 +1,397 @@
+# URL: https://pubmed.ncbi.nlm.nih.gov/29020409/
+# Fetched via web_extract on 2026-11-15
+
+Clipboard, Search History, and several other advanced features are temporarily unavailable.
+
+
+[Skip to main page content](https://pubmed.ncbi.nlm.nih.gov/29020409/#article-details)
+
+### NIH Websites Are Changing
+
+- [Get the Latest Updates and FAQs on the transition](https://www.nih.gov/web-modernization)
+- Per [Executive Order 14434](https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/), federal agencies are now using "Super Intelligence" (SI) in place of "Artificial Intelligence" (AI). You may see both terms across NIH content during this transition.
+
+![Dot gov](https://cdn.ncbi.nlm.nih.gov/coreutils/uswds/img/icon-dot-gov.svg)
+
+**The .gov means it’s official.**
+
+Federal government websites often end in .gov or .mil. Before
+sharing sensitive information, make sure you’re on a federal
+government site.
+
+
+![Https](https://cdn.ncbi.nlm.nih.gov/coreutils/uswds/img/icon-https.svg)
+
+**The site is secure.**
+
+The **https://** ensures that you are connecting to the
+official website and that any information you provide is encrypted
+and transmitted securely.
+
+
+[Access keys](https://www.ncbi.nlm.nih.gov/guide/browsers/#ncbi_accesskeys) [NCBI Homepage](https://www.ncbi.nlm.nih.gov/) [MyNCBI Homepage](https://pubmed.ncbi.nlm.nih.gov/myncbi/) [Main Content](https://pubmed.ncbi.nlm.nih.gov/29020409/#maincontent) [Main Navigation](https://pubmed.ncbi.nlm.nih.gov/29020409/#)
+
+[![pubmed logo](https://cdn.ncbi.nlm.nih.gov/pubmed/a447896c-976f-490b-b86b-2668b65114a8/core/images/pubmed-logo-blue.svg)](https://pubmed.ncbi.nlm.nih.gov/)[Show search bar](https://pubmed.ncbi.nlm.nih.gov/29020409/# "Show search bar")
+
+Search:
+
+
+```
+
+```
+
+[Clear search input](https://pubmed.ncbi.nlm.nih.gov/29020409/# "Clear search input") Search
+
+[Advanced](https://pubmed.ncbi.nlm.nih.gov/advanced/) [Clipboard](https://pubmed.ncbi.nlm.nih.gov/clipboard/)
+
+[User Guide](https://pubmed.ncbi.nlm.nih.gov/help/)
+
+Save
+
+Email
+
+
+Send to
+
+- [Clipboard](https://pubmed.ncbi.nlm.nih.gov/29020409/#)
+- [My Bibliography](https://account.ncbi.nlm.nih.gov/?back_url=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F29020409%2F%23open-bibliography-panel)
+- [Collections](https://account.ncbi.nlm.nih.gov/?back_url=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F29020409%2F%23open-collections-panel)
+- [Citation manager](https://pubmed.ncbi.nlm.nih.gov/29020409/#)
+
+Display options
+
+Display options
+
+
+Format
+AbstractPubMedPMID
+
+## Save citation to file
+
+Format:
+Summary (text)PubMedPMIDAbstract (text)CSV
+
+Create file
+
+Cancel
+
+
+## Email citation
+
+Email address has not been verified. Go to
+[My NCBI account settings](https://account.ncbi.nlm.nih.gov/settings/)
+to confirm your email and then refresh this page.
+
+
+To:
+
+
+Subject:
+
+
+Body:
+
+
+Format:
+SummarySummary (text)AbstractAbstract (text)
+
+MeSH and other data
+
+
+Send email
+
+Cancel
+
+
+### Add to Collections
+
+- Create a new collection
+- Add to an existing collection
+
+Name your collection:
+
+
+Name must be less than 100 characters
+
+
+Choose a collection:
+
+
+Unable to load your collection due to an error
+
+[Please try again](https://pubmed.ncbi.nlm.nih.gov/29020409/#)
+
+Add
+
+Cancel
+
+
+### Add to My Bibliography
+
+- My Bibliography
+
+Unable to load your delegates due to an error
+
+[Please try again](https://pubmed.ncbi.nlm.nih.gov/29020409/#)
+
+Add
+
+Cancel
+
+
+## Your saved search
+
+Name of saved search:
+
+
+Search terms:
+
+
+[Test search terms](https://pubmed.ncbi.nlm.nih.gov/29020409/#)
+
+Would you like email updates of new search results?
+Saved Search Alert Radio Buttons
+
+- Yes
+- No
+
+Email:
+( [change](https://www.ncbi.nlm.nih.gov/account/settings/))
+
+Frequency:
+MonthlyWeeklyDaily
+
+Which day?
+The first SundayThe first MondayThe first TuesdayThe first WednesdayThe first ThursdayThe first FridayThe first SaturdayThe first dayThe first weekday
+
+Which day?
+SundayMondayTuesdayWednesdayThursdayFridaySaturday
+
+Report format:
+SummarySummary (text)AbstractAbstract (text)PubMed
+
+Send at most:
+1 item5 items10 items20 items50 items100 items200 items
+
+Send even when there aren't any new results
+
+
+Optional text in email:
+
+
+Save
+
+Cancel
+
+
+## Create a file for external citation management software
+
+Create file
+
+Cancel
+
+
+## Your RSS Feed
+
+Name of RSS Feed:
+
+
+Number of items displayed:
+510152050100
+
+Create RSS
+
+Cancel
+
+
+RSS Link
+Copy
+
+
+Full text links
+Cite
+
+Display options
+
+Display options
+
+
+Format
+AbstractPubMedPMID
+
+Linked Discoveries
+
+## Abstract
+
+**Aims:**
+
+Gut microbiota-derived metabolite trimethylamine-N-oxide (TMAO) is emerging as a new potentially important cause of increased cardiovascular risk. The purpose of this meta-analysis was to systematically estimate and quantify the association between TMAO plasma levels, mortality, and major adverse cardio and cerebrovascular events (MACCE).
+
+
+**Methods and results:**
+
+MEDLINE, ISI Web of Science, and SCOPUS databases were searched for ad hoc studies published up to April 2017. Associations between TMAO plasma levels, all-cause mortality (primary outcome) and MACCE (secondary outcome) were systematically addressed. A total of 17 clinical studies were included in the analytic synthesis, enrolling 26 167 subjects. The mean follow-up in our study population was 4.3 ± 1.5 years. High TMAO plasma levels were associated with increased incidence of all-cause mortality \[14 studies for 16 cohorts enrolling 15 662 subjects, hazard ratio (HR): 1.91; 95% confidence interval (CI): 1.40-2.61, P < 0.0001, I2 = 94%\] and MACCE (5 studies for 6 cohorts enrolling 13 944 subjects, HR: 1.67, 95% CI: 1.33-2.11, P < 0.00001, I2 = 46%,). Dose-response meta-analysis revealed that the relative risk (RR) for all-cause mortality increased by 7.6% per each 10 μmol/L increment of TMAO \[summary RR: 1.07, 95% CI (1.04-1.11), P < 0.0001; based on seven studies\]. Association of TMAO and mortality persisted in all examined subgroups and across all subject populations.
+
+
+**Conclusions:**
+
+This is the first systematic review and meta-analysis demonstrating the positive dose-dependent association between TMAO plasma levels and increased cardiovascular risk and mortality.
+
+
+**Keywords:**
+
+Cardiovascular risk; Meta-analysis; Microbiota; Outcomes; Trimethylamine-N-oxide (TMAO).
+
+
+Published on behalf of the European Society of Cardiology. All rights reserved. © The Author 2017. For permissions, please email: journals.permissions@oup.com.
+
+
+[PubMed Disclaimer](https://pubmed.ncbi.nlm.nih.gov/disclaimer/)
+
+## Similar articles
+
+- [Gut microbial metabolite trimethylamine N-oxide as a novel predictor for adverse cardiovascular events after PCI: a systematic review and dose-response meta-analysis.](https://pubmed.ncbi.nlm.nih.gov/40524200/)
+
+Zhang C, He J, Huo Y, Liu L, Xie Y, Meng Y, Wei G, Deng L, Jiang Y, Feng J.Zhang C, et al.Nutr J. 2025 Jun 16;24(1):91. doi: 10.1186/s12937-025-01159-9.Nutr J. 2025.PMID: 40524200Free PMC article.
+
+- [Gut microbiota-dependent trimethylamine N-oxide in acute coronary syndromes: a prognostic marker for incident cardiovascular events beyond traditional risk factors.](https://pubmed.ncbi.nlm.nih.gov/28077467/)
+
+Li XS, Obeid S, Klingenberg R, Gencer B, Mach F, Räber L, Windecker S, Rodondi N, Nanchen D, Muller O, Miranda MX, Matter CM, Wu Y, Li L, Wang Z, Alamri HS, Gogonea V, Chung YM, Tang WH, Hazen SL, Lüscher TF.Li XS, et al.Eur Heart J. 2017 Mar 14;38(11):814-824. doi: 10.1093/eurheartj/ehw582.Eur Heart J. 2017.PMID: 28077467Free PMC article.
+
+- [The Gut Microbial Metabolite Trimethylamine N-Oxide and Hypertension Risk: A Systematic Review and Dose-Response Meta-analysis.](https://pubmed.ncbi.nlm.nih.gov/31269204/)
+
+Ge X, Zheng L, Zhuang R, Yu P, Xu Z, Liu G, Xi X, Zhou X, Fan H.Ge X, et al.Adv Nutr. 2020 Jan 1;11(1):66-76. doi: 10.1093/advances/nmz064.Adv Nutr. 2020.PMID: 31269204Free PMC article.
+
+- [Gut Microbiota-Dependent Trimethylamine N-oxide and Cardiovascular Outcomes in Patients With Prior Myocardial Infarction: A Nested Case Control Study From the PEGASUS-TIMI 54 Trial.](https://pubmed.ncbi.nlm.nih.gov/32366163/)
+
+Gencer B, Li XS, Gurmu Y, Bonaca MP, Morrow DA, Cohen M, Bhatt DL, Steg PG, Storey RF, Johanson P, Wang Z, Hazen SL, Sabatine MS.Gencer B, et al.J Am Heart Assoc. 2020 May 18;9(10):e015331. doi: 10.1161/JAHA.119.015331. Epub 2020 May 5.J Am Heart Assoc. 2020.PMID: 32366163Free PMC article.
+
+- [Gut Microbiota Metabolites and Risk of Major Adverse Cardiovascular Disease Events and Death: A Systematic Review and Meta-Analysis of Prospective Studies.](https://pubmed.ncbi.nlm.nih.gov/28663251/)
+
+Heianza Y, Ma W, Manson JE, Rexrode KM, Qi L.Heianza Y, et al.J Am Heart Assoc. 2017 Jun 29;6(7):e004947. doi: 10.1161/JAHA.116.004947.J Am Heart Assoc. 2017.PMID: 28663251Free PMC article.
+
+
+[See all similar articles](https://pubmed.ncbi.nlm.nih.gov/?linkname=pubmed_pubmed&from_uid=29020409)
+
+## Cited by
+
+
+[... middle omitted — see footer ...]
+
+  - [Search in MeSH](https://www.ncbi.nlm.nih.gov/mesh?term=Stroke)
+  - [Add to Search](https://pubmed.ncbi.nlm.nih.gov/29020409/#)
+
+- Stroke / etiology
+
+
+
+
+Actions
+
+
+
+
+
+  - [Search in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22Stroke%2Fetiology%22%5BMeSH%5D&sort=date&sort_order=desc)
+  - [Search in MeSH](https://www.ncbi.nlm.nih.gov/mesh?term=Stroke)
+  - [Add to Search](https://pubmed.ncbi.nlm.nih.gov/29020409/#)
+
+- Stroke / mortality
+
+
+
+
+Actions
+
+
+
+
+
+  - [Search in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22Stroke%2Fmortality%22%5BMeSH%5D&sort=date&sort_order=desc)
+  - [Search in MeSH](https://www.ncbi.nlm.nih.gov/mesh?term=Stroke)
+  - [Add to Search](https://pubmed.ncbi.nlm.nih.gov/29020409/#)
+
+## Substances
+
+- Biomarkers
+
+
+
+
+Actions
+
+
+
+
+
+  - [Search in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22Biomarkers%22%5Bnm%5D&sort=date&sort_order=desc)
+  - [Search in MeSH](https://www.ncbi.nlm.nih.gov/mesh?term=%22Biomarkers%22)
+  - [Add to Search](https://pubmed.ncbi.nlm.nih.gov/29020409/#)
+
+- Methylamines
+
+
+
+
+Actions
+
+
+
+
+
+  - [Search in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22Methylamines%22%5Bnm%5D&sort=date&sort_order=desc)
+  - [Search in MeSH](https://www.ncbi.nlm.nih.gov/mesh?term=%22Methylamines%22)
+  - [Add to Search](https://pubmed.ncbi.nlm.nih.gov/29020409/#)
+
+- trimethyloxamine
+
+
+
+
+Actions
+
+
+
+
+
+  - [Search in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22trimethyloxamine%22%5Bnm%5D&sort=date&sort_order=desc)
+  - [Search in MeSH](https://www.ncbi.nlm.nih.gov/mesh?term=%22trimethyloxamine%22)
+  - [Add to Search](https://pubmed.ncbi.nlm.nih.gov/29020409/#)
+
+## Related information
+
+- [MedGen](https://www.ncbi.nlm.nih.gov/medgen?linkname=pubmed_medgen&from_uid=29020409 "Related information in MedGen")
+- [PubChem Compound (MeSH Keyword)](https://www.ncbi.nlm.nih.gov/pccompound?linkname=pubmed_pccompound_mesh&from_uid=29020409 "Related PubChem Compound via MeSH")
+
+## LinkOut - more resources
+
+- ### Full Text Sources
+
+
+  - [Ovid Technologies, Inc.](https://www.ovid.com/29020409.pmid)
+  - [Silverchair Information Systems](https://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehx342)
+- ### Other Literature Sources
+
+
+  - [The Lens - Patent Citations Database](https://www.lens.org/lens/search/patent/list?q=reference_cited.npl.ids.pmid:29020409)
+  - [scite Smart Citations](https://scite.ai/reports/29020409)
+- ### Medical
+
+
+  - [ClinicalTrials.gov](https://clinicaltrials.gov/search?term=AREA%5BReferencePMID%5D29020409)
+- ### Miscellaneous
+
+
+  - [NCI CPTAC Assay Portal](https://assays.cancer.gov/CPTAC-1595)
+
+NCBI Literature Resources
+
+[MeSH](https://www.ncbi.nlm.nih.gov/mesh/) [PMC](https://www.ncbi.nlm.nih.gov/pmc/) [Bookshelf](https://www.ncbi.nlm.nih.gov/books) [Disclaimer](https://pubmed.ncbi.nlm.nih.gov/disclaimer/)
+
+The PubMed wordmark and PubMed logo are registered trademarks of the U.S. Department of Health and Human Services (HHS). Unauthorized use of these marks is strictly prohibited.
+
+──────── [TRUNCATED] ────────
+Showing 8,793 chars (head) + 2,986 chars (tail) of 20,072 total clean characters.
+Full text saved to: /home/walker/.hermes/cache/web/pubmed.ncbi.nlm.nih.gov-a7f33f52f7.md
+To read the omitted middle: read_file path="/home/walker/.hermes/cache/web/pubmed.ncbi.nlm.nih.gov-a7f33f52f7.md" offset=275 limit=200  (the file is the complete page; raise/lower offset to page through it).
+─────────────────────────────

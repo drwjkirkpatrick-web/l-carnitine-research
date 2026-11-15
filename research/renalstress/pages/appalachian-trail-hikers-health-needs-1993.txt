@@ -1,0 +1,213 @@
+Source: The Journal of Family Practice 1993;36(5):521-525
+URL: https://cdn.mdedge.com/files/s3fs-public/jfp-archived-issues/1993-volume_36-37/JFP_1993-05_v36_i5_health-care-needs-of-appalachian-trail-h.pdf
+Title: Health Care Needs of Appalachian Trail Hikers
+Authors: Crouse BJ; Josephs D
+Journal: The Journal of Family Practice
+Year: 1993
+Vol/Pages: 36(5):521-525
+DOI: 
+PMID: 8482936
+Accessed: 2026-11-15 (web_extract of journal PDF page)
+
+# Health Care Needs of Appalachian Trail Hikers
+
+Byron J. Crouse, MD, and David Josephs, MD
+Minneapolis and Duluth, Minnesota, and Crownpoint, New Mexico
+
+Background. With a growing interest and participation in hiking, predictions indicate that over 45 million Americans will participate in backpacking and day hiking in 1993. There has been very little assessment of the health care needs of this group. The purpose of this study was to assess the health care needs of Appalachian Trail backpackers.
+
+Methods. Backpackers who completed hiking the Appalachian Trail in 1987 or 1988 received a 3-page survey questionnaire. The survey contained questions to elicit demographic information, general health characteristics, and health care experiences during the hike. Information about injuries, medications carried and used during the backpacking activities, health care needs, and trail time lost because of health problems was also requested.
+
+Results. Injuries and illnesses were reported by 82% of the respondents, incurring an average loss of 4.7 days of hiking. Musculoskeletal complaints, traumatic injuries, and gastrointestinal complaints were most often reported. The severity of these problems was such that medical attention was sought in 25% of these events.
+
+Conclusions. Hikers need to anticipate that musculoskeletal, gastrointestinal, and skin problems may occur during hiking. It is prudent to carry medications such as analgesics in the form of aspirin or other nonsteroidal anti-inflammatory agents, topical antibiotics, and bandages. Methods to purify water need to be used regularly, and adequate preparation of food needs to be a priority.
+
+Key words. Appalachian region; athletic injuries; walking; first aid; water. (J Fam Pract 1993; 36:521-525)
+
+Participation in recreational activities has been steadily increasing in the United States. Results of the first nationwide recreational survey that included backpacking were published by the US Department of the Interior in 1983. At that time, 5% of the respondents participated in backpacking.<sup>1</sup> The President’s Commission on Americans Outdoors (1986) estimated that 35 million Americans were interested in backpacking and day hiking, and predicted an increase of 4% each year.<sup>2</sup> This suggests that over 45 million Americans will participate in backpacking and day hiking in 1993. These predictions are supported by the steady increase in national forest trail use reported by the US Forest Service. Hiking on national forest trails increased by over 600% between 1960 and 1980, and US forest trail use increased by 200% between 1970 and 1990.<sup>3</sup> While there has been a steady increase of people participating in backpacking and hiking, there has been very little assessment of the health care needs of this group.
+
+A computerized search of the medical literature revealed fairly extensive discussion of the conditioning effects of carrying backpacks$^4,5$ and of the metabolic effects of backpacking.<sup>6-10</sup> Other studies have evaluated the optimal boot and backpack weight, placement of the backpack on the body, and distribution of weight within the pack.<sup>11-15</sup> In addition there have been several reports of skin problems and injuries occurring from backpacking.<sup>16-21</sup> Nevertheless, little research has been done on the health needs and problems associated with hiking long distances over an extended period. The purpose of this study was to assess the health care needs of these backpackers.
+
+## Methods
+
+Backpackers who successfully completed hiking the entire Appalachian Trail, a 2100-mile mountainous trail stretching from Georgia to Maine, in 1987 or 1988 were identified and sent a 3-page survey questionnaire in February 1989. The names and addresses of the hikers were obtained from the Appalachian Trail Conference, the overseeing organization for this trail, which annually compiles a list of those participants who report completion of the entire trail. The questionnaire elicited demographic data and information on types of pre-hike conditioning, pre-hike general health characteristics, and health care experiences during the hike. In addition, specific questions focused on foot care and foot conditioning and medications carried and used during the backpacking activities. Information about injuries, health care needs, and trail time lost because of health problems was also requested.
+
+Of the 224 backpackers identified by the Appalachian Trail Conference, the addresses of 5 were inaccurate; 180 (82.2%) of the remaining 219 responded. Several of the questionnaires were incomplete. The information from the survey was analyzed in a tabular fashion. Discriminate analysis was then conducted, assessing the impact of conditioning practices on subsequent injuries and need for health care.
+
+Two categories of backpacker were identified. Those who had successfully hiked the Appalachian Trail in a single hiking season were classified as "thru hikers." Those who had hiked the Trail in segments over the course of more than 1 year, completing the entire Trail during the years surveyed, were classified as "section hikers." These hikers may have taken several years to complete the entire Appalachian Trail.
+
+## Results
+
+The sample was composed of 142 male and 36 female respondents; (two hikers did not identify their sex). This proportion was consistent among both thru hikers and section hikers. One hundred thirty-four （74%）respondents were thru hikers; 44 (24%) were section hikers (two respondents did not indicate their hiking status). The largest portion of the hikers (33.3%) were white-collar workers; the remainder were evenly distributed among blue-collar workers, professionals, students, retired persons, and others (miscellaneous). The thru hik-
+
+ers tended to be the youngest hikers, averaging 34 years old. Most of the students and blue-collar workers completed the Trail within 1 year. The section hikers tended to be older, average age of 51 years, and to identify themselves as professional or retired persons.
+
+The duration of the hike for the thru hikers averaged 163 days with a range of 82 to 252 days. On average, the section hikers completed the Trail over 8.8 years, with a range of 2 to 42 years. Backpackers reported an effect on body weight. The thru hikers reported the largest average weight loss (18 lb) during the course of their trek. The section hikers also tended to lose weight, averaging a weight loss of 11.8 lb over the duration of the hike. The weight of the packs carried ranged from 28 to 98 lb,the average being 45.6 lb. The pack weight was the same for the thru hikers and the section hikers.
+
+Correlations between pack weight and frequency of injury or duration of lost hiking time because of injury were not significant. This was also the case when hiker size was considered and the ratio of pack weight to body weight was used in place of pack weight.
+
+Backpacking, hiking, running, and jogging were the primary forms of physical conditioning employed before hiking. For conditioning the feet, the major method was merely wearing one's boots ahead of time. The results from discriminate analysis indicated that no form of conditioning resulted in significantly less injury or fewer foot problems.
+
+The medications carried and used by the hikers are listed in Table 1. There were no notable differences in the medications carried or used between the thru hikers and the section hikers. The majority of the analgesic medications were nonsteroidal, anti-inflammatory agents. There was very little use of analgesics such as acetaminophen with or without codeine. Medications for asthma, hypertension, and seizure disorders made up over 50% of the medications for chronic disease. The dermatologic med-
+
+Table 1. Medications Carried and Us Appalachian Trail (N=180)
+
+ed by Hikers of the
+
+| Medication | % of Hikers Who Carried Medications | Of Hikers Who Carried Medications, % Who Used Them |
+| --- | --- | --- |
+| Analgesic | 72.5 | 72.1 |
+| Gastrointestinal preparations | 24.2 | 39.5 |
+| Cold treatments | 22.5 | 47.5 |
+| Oral antibiotics | 10.7 | 36.8 |
+| Topical antibiotics | 24.7 | 29.5 |
+| Other dermatologic preparations | 7.3 | 61.5 |
+| Medications for chronic conditions | 10.1 | 83.3 |
+| First-aid kits | 4.5 | — |
+
+---
+
+Table 2. Incidents of Injuries and Illnesses Among 178 Section and Thru Hikers of the Appalachian Trail (in percents)
+
+| Injury or Illness | Incidents Among Thru Hikers* (n = 245) | Incidents Among Section Hikers† (n = 76) |
+| --- | --- | --- |
+| Musculoskeletal | 36.7 | 44.7 |
+| Fractures | 1.6 | 7.9 |
+| Minor trauma | 11.4 | 15.8 |
+| Gastrointestinal problems | 18.4 | 9.2 |
+| Foot complaints | 6.9 | 6.6 |
+| Skin problems | 5.3 | 3.9 |
+| Respiratory complaints | 10.6 | 2.6 |
+| Allergic reactions | 2.9 | 3.9 |
+| Miscellaneous | 6.2 | 5.4 |
+
+*The 134 thru hikers reported a total of 245 illnesses and injuries, an average of 1.8 health problems per hiker.
+
+The 44 section hikers reported a total of 76 illnesses and injuries, an average of 1.7 health problems per hiker.
+
+NOTE: Two respondents did not indicate whether they were thru or section hikers; therefore only 178 of 180 hikers are represented here.
+
+ications carried and used n antibiotics.
+
+ost frequently were topical
+
+The types of injuries experienced by hikers during the course of their trek are identified in Table 2. Of those responding, 82% reported experiencing injuries or illnesses during their trip. Musculoskeletal complaints were the most frequent; 62% of all hikers reported extremity or joint pain. Of 10 reported fractures, three were stress fractures, an overuse injury; the remainder were the result of trauma. Other minor trauma included lacerations or abrasions (17% of the reported problems), corneal abrasions, and one hiker reported being struck by lightning. The majority of the gastrointestinal complaints which affected 22% of the hikers, were general symptoms of gastroenteritis or diarrhea. Giardiasis was specifically identified by 3%. Skin complaints were equally divided between chafing and irritation, infections, and poison ivy. Seven percent (7%) of the respondents reported having foot blisters, making blisters the most common foot complaint. Upper respiratory tract infection symptoms were experienced by 10% of all hikers. The most frequent allergic reaction was to insect bites. The miscellaneous group included four hikers who reported health problems because of hypothermia or frostbite.
+
+Injuries and illnesses resulted in 55% of the hikers losing at least 1 day of hiking. The average number of days lost because of injuries was 4.7 with a range from 1 to 60 (Table 3). Medical attention was sought in 25% of the injuries reported, including three hikers who required hospitalization for their injuries. Those seeking medical attention did so primarily because of musculoskeletal injuries including sprains, contusions, fractures, and lacerations. Diarrhea was also a common problem, resulting in medical care being obtained for nonspecific causes as well as for giardiasis.
+
+Table 3. Hiking Days Lost Because of Injury and Illness Among Section and Thru Hikers of the Appalachian Trail
+
+| Days Lost* | Thru Hikers, % (n = 128) | Section Hikers, % (n = 39) | All Hikers, % (n = 167)† |
+| --- | --- | --- | --- |
+| 0 | 45.3 | 43.6 | 44.9 |
+| 1–2 | 23.4 | 12.8 | 21.0 |
+| 3–4 | 9.4 | 10.3 | 9.6 |
+| 5–10 | 11.8 | 12.8 | 12.0 |
+| 11–20 | 5.5 | 7.7 | 6.0 |
+| 21+ | 4.6 | 12.8 | 6.6 |
+
+*The average number of days lost by thru hikers was 4.0; by section hikers, 7.1; and by all hikers, 4.7.
+
+Total number of hikers is less than 180 because not all respondents answered this section of the survey.
+
+Sixty-three percent (63%) of the hikers experienced diarrhea at least one time during the course of their hiking. In 58% of these cases, the duration of the diarrhea was only 1 to 2 days. Only 7% drank exclusively from protected water during their travels, while the majority admitted consuming unprotected or untreated water approximately once a month. The majority used some form of treatment for their water supply such as filtering, boiling, or chemical sterilization of the water. There were no significant differences in the frequency of diarrhea between those who drank untreated water and those who treated their water.
+
+## Discussion
+
+This study documents injuries associated with serious hiking. Most problems were musculoskeletal in origin, resulting from overuse, abrasions, and contusions. The results from this study should be generalizable to other trails in the United States, as the terrain is similar. The one difference is that the maximum elevation of the Appalachian Trail is only 6000 feet; therefore, high altitude illness is less likely.
+
+Injuries requiring intervention did occur during the hike for a significant number of individuals. When involved in backpacking, hikers often find themselves in remote areas where no health care is available. Because of this, the majority of hikers carried a number of medications with them. Analgesics and nonsteroidal anti-inflammatory agents were frequently carried and used. Skin care preparations for topical infections and allergic or irritant reactions were also carried and used. Based on the finding of this study, it would seem prudent for backpackers to anticipate musculoskeletal and skin problems. Items such as aspirin or nonsteroidal anti-inflammatory agents, skin preparations such as hydrocortisone cream, topical antibiotic ointment, and bandaging materials are appropriate to pack.
+
+Previous studies have looked at the effect of pack weight on complaints or symptoms from carrying a heavy load. Other studies have identified the "optimal" pack weight as 55 to 65 lb for long-distance hikes. <sup>11,14</sup> Most (95%) hikers in this survey reported carrying packs weighing less; the lighter weights may explain the lack of correlation between pack weight and injury in this sample.
+
+Nearly 1 in 4 hikers reported being ill with symptoms of diarrhea or gastroenteritis. Gove and Slutkin <sup>22</sup> identify inadequately prepared or unrefrigerated food as a common cause of gastroenteritis in campers. Giardiasis is another cause of diarrhea and gastroenteritis symptoms affecting hikers. <sup>23</sup> Consumption of untreated mountain water has been shown to be an important source of infection. <sup>24</sup> Virtually all hikers in this study reported drinking untreated water on a monthly or more frequent basis. The frequency of diarrhea or gastroenteritis did not correlate with the type of water treatments used or the frequency of consuming untreated water in this study. The lack of correlation is likely because of the small size of the population in this study. Other possibilities for lack of correlation include incorrect use of filters or disinfectants by the hikers, resulting in a failure of purification methods.
+
+
+[... middle omitted — see footer ...]
+
+
+Medications Analgesics (NSAIDs/acetaminophen) Cold preparation (decongestant preparation of choice) Antacids Antidiarrheal
+
+Water Purification Filter or water treatment chemicals
+
+SPF denotes sun protective factor; NSAID, nonsteroidal anti-inflammatory drug.
+
+"successful" backpackers. Also, the information in this survey required self-report of injuries and problems, and this, too, may have biased the report of injuries, illnesses, and medications used.
+
+In this study there was little relationship between the conditioning done before the hike and the frequency or type of injuries that occurred while hiking. This is contrary to accepted recommendations about conditioning and training prior to athletic activities. One must keep in mind that this study was a survey of successful serious hikers (not casual day hikers). Further studies are warranted to evaluate the needs of novice backpackers.
+
+## Conclusions
+
+Injury and illness do occur during backpacking activities, and hikers need to anticipate musculoskeletal and skin problems during the course of their hiking. It is prudent to carry medications such as analgesics in the form of aspirin or other nonsteroidal anti-inflammatory agents. Simple first-aid kits containing topical antibiotics and bandages also match the needs of the hikers identified in this study. Methods to purify water need to be used regularly, and adequate preparation of food for meals needs to be a priority.
+
+## Acknowledgments
+
+The authors would like to thank B. Thomas Day, and Dennis Wesland ration of this manuscript.
+
+References
+
+1. US Department of the Interior,
+Nationwide Recreation Survey
+Printing Office: 20-30.
+
+National Park Service, 1982-1983 Washington, DC: Government
+
+## References
+
+---
+
+2. President’s Commission on Americans Outdoors. A literature review. Washington, DC: Government Printing Office, 1986: 152–3.
+
+3. Wyatt M. Song of the trail. Backpacker 1990; 18:20–6.
+
+4. Shoenfeld Y, Keren G, Shimoni T, et al. Walking: a method for rapid improvement of physical fitness. JAMA 1980; 243:2062–3.
+
+5. Schantz P, Henriksson J, Jansson E. Adaptation of human skeletal muscle to endurance training of long duration. Clin Physiol 1983; 3:141–51.
+
+6. Keren G, Epstein Y, Magazanik A, Sohar E. The energy cost of walking and running with and without a backpack load. Eur J Appl Physiol 1981; 46:317–24.
+
+7. Juhani I, Pekka S, Timo A. Strain while skiing and hauling a sledge or carrying a backpack. Eur J Appl Physiol 1986; 55:597–603.
+
+8. Webb P, Saris WHM, Schoffelen PFM, et al. The work of walking: a calorimetric study. Med Sci Sports Exerc 1988; 20:331–7.
+
+9. Epstein Y, Stroschein LA, Pandolf KB. Predicting metabolic cost of running with and without backpack loads. Eur J Appl Physiol 1987; 56:495–500.
+
+10. Legg SJ, Ramsey T, Knowles DJ. The metabolic cost of backpack and shoulder load carriage. Ergonomics 1992; 35:1063–8.
+
+11. Shoenfeld Y, Shapiro Y, Portugeeze D, et al. Maximal backpack load for long distance hiking. J Sports Med Phys Fitness 1977; 17:147–51.
+
+12. Bobet J, Norman RW. Effects of load placement on back muscle activity in load carriage. Eur J Appl Physiol 1984; 53:71–5.
+
+13. Legg SJ, Mahanty A. Energy cost of backpacking in heavy boots. Ergonomics 1986; 29:433–8.
+
+14. Shoenfeld Y, Udassin R, Shapiro Y, et al. Optimal back-pack load for short distance hiking. Arch Phys Med Rehabil 1978; 59:281–4.
+
+15. Kirk J, Schneider DA. Physiological and perceptual responses to load-carrying in female subjects using internal and external frame backpacks. Ergonomics 1992; 35:445–55.
+
+16. Glickman FS. Hikers hazards. Cutis 1977; 19:497–500.
+
+17. Johnson RJ. Anatomy of backpack-strap injury. N Engl J Med 1981; 305:1594.
+
+18. Corkill G, Lieberman JS, Taylor RG. Pack palsy in backpackers. West J Med 1980; 132:569–72.
+
+19. Goodson JD. Brachial plexus injury from tight backpack straps. N Engl J Med 1981; 305:524–5.
+
+20. Kolodinsky SD, Brandschwei FH. Axillary vein thrombosis in a female backpacker: Paget-Schroetter syndrome. J Can Assoc Radiol 1989; 40:230–1.
+
+21. Puretz SL. First-aid supplies for backpacking. Br J Sports Med 1992; 26:48–50.
+
+22. Gove S, Slutkin G. Infections acquired in the fields and forests of the United States. Emerg Med Clin North Am 1984; 2:623–33.
+
+23. Holtan NR. Giardiasis. Postgrad Med 1988; 83:54–61.
+
+24. Wright RA, Spencer HC, Brodsky RE, et al. Giardiasis in Colorado: an epidemiologic study. Am J Epidemiol 1977; 105:330–6.
+
+25. Ongerth JE, Johnson RL, MacDonald SC, et al. Backcountry water treatment to prevent Giardiasis. Am J Public Health 1989; 79:1633–7.
+
+26. Backer HD. Field water disinfection. In: Auerbach PS, Geahr EC, eds. Management of wilderness and environmental emergencies. 2nd ed. St Louis: CV Mosby, 1989.
+
+──────── [TRUNCATED] ────────
+Showing 14,946 chars (head) + 4,741 chars (tail) of 21,624 total clean characters.
+Full text saved to: /home/walker/.hermes/cache/web/cdn.mdedge.com-f7560a9c25.md
+To read the omitted middle: read_file path="/home/walker/.hermes/cache/web/cdn.mdedge.com-f7560a9c25.md" offset=114 limit=200  (the file is the complete page; raise/lower offset to page through it).
+─────────────────────────────

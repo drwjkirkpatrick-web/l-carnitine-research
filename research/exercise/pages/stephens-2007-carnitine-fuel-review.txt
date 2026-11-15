@@ -1,0 +1,42 @@
+SOURCE: New insights concerning the role of carnitine in the regulation of fuel metabolism in skeletal muscle.
+URL: https://pubmed.ncbi.nlm.nih.gov/17331998/
+FETCHED: 2026-11-15 via NCBI efetch (pubmed abstract, retmode=text)
+PMID: 17331998
+DOI: 10.1113/jphysiol.2006.125799
+------------------------------------------------------------------------
+1. J Physiol. 2007 Jun 1;581(Pt 2):431-44. doi: 10.1113/jphysiol.2006.125799.
+Epub  2007 Mar 1.
+
+New insights concerning the role of carnitine in the regulation of fuel 
+metabolism in skeletal muscle.
+
+Stephens FB(1), Constantin-Teodosiu D, Greenhaff PL.
+
+Author information:
+(1)Centre for Integrated Systems Biology and Medicine, School of Biomedical 
+Sciences, Queen's Medical Centre, University of Nottingham, Nottingham NG7 2UH, 
+UK. francis.stephens@nottingham.ac.uk
+
+In skeletal muscle, carnitine plays an essential role in the translocation of 
+long-chain fatty-acids into the mitochondrial matrix for subsequent 
+beta-oxidation, and in the regulation of the mitochondrial acetyl-CoA/CoASH 
+ratio. Interest in these vital metabolic roles of carnitine in skeletal muscle 
+appears to have waned over the past 25 years. However, recent research has shed 
+new light on the importance of carnitine as a regulator of muscle fuel 
+selection. It has been established that muscle free carnitine availability may 
+be limiting to fat oxidation during high intensity submaximal exercise. 
+Furthermore, increasing muscle total carnitine content in resting healthy humans 
+(via insulin-mediated stimulation of muscle carnitine transport) reduces muscle 
+glycolysis, increases glycogen storage and is accompanied by an apparent 
+increase in fat oxidation. By increasing muscle pyruvate dehydrogenase complex 
+(PDC) activity and acetylcarnitine content at rest, it has also been established 
+that PDC flux and acetyl group availability limits aerobic ATP re-synthesis at 
+the onset of exercise (the acetyl group deficit). Thus, carnitine plays a vital 
+role in the regulation of muscle fuel metabolism. The demonstration that its 
+availability can be readily manipulated in humans, and impacts on physiological 
+function, will result in renewed business and scientific interest in this 
+compound.
+
+DOI: 10.1113/jphysiol.2006.125799
+PMCID: PMC2075186
+PMID: 17331998 [Indexed for MEDLINE]

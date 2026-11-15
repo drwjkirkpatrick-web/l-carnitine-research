@@ -1,0 +1,58 @@
+# Source: PubMed (NCBI E-utilities efetch)
+# URL: https://pubmed.ncbi.nlm.nih.gov/29384504/
+# Fetched: 2026-11-15
+# PMID: 29384504
+
+1. Shock. 2018 Apr;49(4):412-419. doi: 10.1097/SHK.0000000000000997.
+
+Septic Shock Nonsurvivors Have Persistently Elevated Acylcarnitines Following 
+Carnitine Supplementation.
+
+Puskarich MA(1), Evans CR(2)(3), Karnovsky A(2)(4), Das AK(2)(3), Jones AE(1), 
+Stringer KA(3)(5)(6)(7).
+
+Author information:
+(1)Department of Emergency Medicine, University of Mississippi Medical Center, 
+Jackson, Mississippi.
+(2)Michigan Regional Comprehensive Metabolomics Resource Core (MRC).
+(3)Department of Internal Medicine.
+(4)Department of Computational Medicine and Bioinformatics.
+(5)Division of Pulmonary and Critical Care Medicine.
+(6)Department of Clinical Pharmacy, College of Pharmacy.
+(7)Michigan Center for Integrative Research in Critical Care, School of 
+Medicine, University of Michigan, Ann Arbor, Michigan.
+
+INTRODUCTION: Sepsis-induced metabolic disturbances include hyperlactatemia, 
+disruption of glycolysis, protein catabolism, and altered fatty acid metabolism. 
+It may also lower serum L-carnitine that supports the use of L-carnitine 
+supplementation as a treatment to ameliorate several of these metabolic 
+consequences.
+METHODS: To further understand the association between L-carnitine-induced 
+changes in serum acylcarnitines, fatty acid metabolism and survival, serum 
+samples from (T0), 12 hfollowing completion (T24) of L-carnitine (n = 16) or 
+placebo (n = 15) administration, and 48 h (T48) after enrollment from patients 
+with septic shock enrolled in a randomized control trial were assayed for 
+acylcarnitines, free fatty acids, and insulin. Data were analyzed comparing 
+1-year survivors and nonsurvivors within treatment groups.
+RESULTS: Mortality was 8 of 16 (50%) and 12 of 15 (80%) at 1 year for 
+L-carnitine and placebo-treated patients, respectively. Free carnitine, C2, C3, 
+and C8 acylcarnitines were higher among nonsurvivors at enrollment. L-Carnitine 
+treatment increased levels of all measured acylcarnitines; an effect that was 
+sustained for at least 36 h following completion of the infusion and was more 
+prominent among nonsurvivors. Several fatty acids followed a similar, though 
+less consistent pattern. Glucose, lactate, and insulin levels did not differ 
+based on survival or treatment arm.
+CONCLUSIONS: In human patients with septic shock, L-Carnitine supplementation 
+increases a broad range of acylcarnitine concentrations that persist after 
+cessation of infusion, demonstrating both immediate and sustained effects on the 
+serum metabolome. Nonsurvivors demonstrate a distinct metabolic response to 
+L-carnitine compared with survivors, which may indicate preexisting or more 
+profound metabolic derangement that constrains any beneficial response to 
+treatment.
+
+DOI: 10.1097/SHK.0000000000000997
+PMCID: PMC5847421
+PMID: 29384504 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflicts of interest: The authors have no 
+conflicts of interest to disclose.

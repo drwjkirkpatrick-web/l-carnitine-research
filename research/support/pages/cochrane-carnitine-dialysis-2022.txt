@@ -1,0 +1,105 @@
+# Source: PubMed (NCBI E-utilities efetch)
+# URL: https://pubmed.ncbi.nlm.nih.gov/36472884/
+# Fetched: 2026-11-15
+# PMID: 36472884
+
+1. Cochrane Database Syst Rev. 2022 Dec 6;12(12):CD013601. doi: 
+10.1002/14651858.CD013601.pub2.
+
+Carnitine supplements for people with chronic kidney disease requiring dialysis.
+
+Nishioka N(1), Luo Y(2), Taniguchi T(3), Ohnishi T(4)(5), Kimachi M(6), Ng 
+RC(7), Watanabe N(8).
+
+Author information:
+(1)Department of Preventive Services, Kyoto University Graduate School of 
+Medicine, Kyoto, Japan.
+(2)Department of Health Promotion and Human Behaviour, Kyoto University Graduate 
+School of Medicine/School of Public Health, Kyoto, Japan.
+(3)Department of Cardiovascular Medicine, Kyoto Prefectural University of 
+Medicine, Kyoto, Japan.
+(4)Department of Nephrology, Kasukabe Chuo General Hospital, Saitama, Japan.
+(5)Human Health Sciences, Kyoto University Graduate School of Medicine, Kyoto, 
+Japan.
+(6)Department of Healthcare Epidemiology, School of Public Health in the 
+Graduate School of Medicine, Kyoto University, Kyoto, Japan.
+(7)Department of Medicine, John A. Burns School of Medicine, University of 
+Hawaii, Honolulu, Hawaii, USA.
+(8)Department of Psychiatry, Soseikai General Hospital, Kyoto, Japan.
+
+Update of
+    doi: 10.1002/14651858.CD013601.
+
+BACKGROUND: Carnitine deficiency is common in patients with chronic kidney 
+disease (CKD) who require dialysis. Several clinical studies have suggested that 
+carnitine supplementation is beneficial for dialysis-related symptoms. However, 
+the clinical effectiveness and potential adverse effects of carnitine 
+supplementation in dialysis patients have not been determined.
+OBJECTIVES: This review aimed to evaluate the effectiveness and safety of 
+carnitine supplementation for the treatment of dialysis-related complications in 
+CKD patients requiring dialysis.
+SEARCH METHODS: We searched the Cochrane Kidney and Transplant Register of 
+Studies up to 16 August 2022 through contact with the Information Specialist 
+using search terms relevant to this review. Studies in the Register are 
+identified through searches of CENTRAL, MEDLINE, and EMBASE, conference 
+proceedings, the International Clinical Trials Register (ICTRP) Search Portal 
+and ClinicalTrials.gov.
+SELECTION CRITERIA: We included all randomised controlled trials (RCTs) and 
+quasi-RCTs (RCTs in which allocation to treatment was obtained by alternation, 
+use of alternate medical records, date of birth, or other predictable methods) 
+that compared carnitine supplements with placebo or standard care in people with 
+CKD requiring dialysis.
+DATA COLLECTION AND ANALYSIS: Two authors independently extracted study data and 
+assessed study quality. We used a random-effects model to perform a quantitative 
+synthesis of the data.  We used the I² statistic to measure heterogeneity 
+amongst the studies in each analysis. We indicated summary estimates as a risk 
+ratio (RR) for dichotomous outcomes, mean difference (MD) for continuous 
+outcomes, or standardised mean differences (SMD) if different scales were used, 
+with 95% confidence intervals (CI). We assessed the certainty of the evidence 
+for each of the main outcomes using the GRADE (Grades of Recommendation, 
+Assessment, Development, and Evaluation) approach.
+MAIN RESULTS: We included 52 studies (47 parallel RCTs and five cross-over RCTs) 
+(3398 randomised participants). All studies compared L-carnitine with a placebo, 
+other treatment, or no treatment. Standard care was continued as 
+co-interventions in each group. Most studies were judged to have an unclear or 
+high risk of bias. L-carnitine may have little or no effect on the quality of 
+life (QoL) SF-36 physical component score (PCS) (4 studies, 134 participants: 
+SMD 0.57, 95% CI -0.15 to 1.28; I² = 73%; low certainty of evidence), and the 
+total QoL score (Kidney Disease Quality of Life (KDQOL), VAS (general 
+well-being), or PedsQL) (3 studies, 230 participants: SMD -0.02, 95% CI -0.29 to 
+0.25; I² = 0%; low certainty of evidence). L-carnitine may improve SF-36 mental 
+component score (MCS) (4 studies, 134 participants: SMD 0.70, 95% CI 0.22 to 
+1.18; I² = 42%; low certainty of evidence). L-carnitine may have little or no 
+effect on fatigue score (2 studies, 353 participants: SMD 0.01, 95% CI -0.20 to 
+0.23; I² = 0%; low certainty of evidence), adverse events (12 studies, 1041 
+participants: RR, 1.14, 95% CI 0.86 to 1.51; I² = 0%; low certainty of 
+evidence), muscle cramps (2 studies, 102 participants: RR, 0.44, 95% CI 0.18 to 
+1.09; I² = 23%; low certainty of evidence), and intradialytic hypotension (3 
+studies, 128 participants: RR, 0.76, 95% CI 0.34 to 1.69; I² = 0%; low certainty 
+of evidence). L-carnitine may improve haemoglobin levels (26 studies, 1795 
+participants: MD 0.46 g/dL, 95% CI 0.18 to 0.74; I² = 86%; low certainty of 
+evidence) and haematocrit values (14 studies, 950 participants: MD 1.78%, 95% CI 
+0.38 to 3.18; I² = 84%; low certainty of evidence).
+AUTHORS' CONCLUSIONS: The available evidence does not currently support the use 
+of carnitine supplementation in the treatment of dialysis-related carnitine 
+deficiency. Although carnitine supplementation may slightly improve 
+anaemia-related markers, carnitine supplementation makes little or no difference 
+to adverse events. However, these conclusions are based on limited data and, 
+therefore, should be interpreted with caution.
+
+Copyright © 2022 The Cochrane Collaboration. Published by John Wiley & Sons, 
+Ltd.
+
+DOI: 10.1002/14651858.CD013601.pub2
+PMCID: PMC9724937
+PMID: 36472884 [Indexed for MEDLINE]
+
+Conflict of interest statement: Norihiro Nishioka: no relevant interests were 
+disclosed. Yan Luo: no relevant interests were disclosed. Takuya Taniguchi: no 
+relevant interests were disclosed. Tsuyoshi Ohnish: Astellas Pharma (Independent 
+Contractor ‐ Other), Mitsubishi Tanabe Pharma Corporation (Independent 
+Contractor ‐ Other). Miho Kimachi: no relevant interests were disclosed. Roland 
+CK Ng: stock interest in Liberty Dialysis Hawaii, Inc. However, his stock 
+interest is in a company that doesn't have a real or potential vested interest 
+in the findings of our review. Norio Watanabe: no relevant interests were 
+disclosed.

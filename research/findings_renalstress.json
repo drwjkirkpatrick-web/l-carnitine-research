@@ -1,0 +1,736 @@
+{
+ "sources": [
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/28363731/",
+   "title": "Kidney Injury and Repair Biomarkers in Marathon Runners.",
+   "authors": "Mansour SG; Verma G; Pata RW; Martin TG; Perazella MA; Parikh CR",
+   "year": "2017",
+   "journal_or_publisher": "American journal of kidney diseases : the official journal of the National Kidney Foundation",
+   "vol_pages": "70(2):252-261",
+   "doi": "10.1053/j.ajkd.2017.01.045",
+   "pmid": "28363731",
+   "page_file": "research/renalstress/pages/marathon-aki-repair-biomarkers-mansour.txt",
+   "quotes": [
+    "82% of runners developed an increase in creatinine level equivalent to AKIN-defined AKI stages 1 and 2. 73% had microscopy diagnoses of tubular injury.",
+    "An increase in injury and repair biomarker levels suggests structural damage to renal tubules occurring after marathon.",
+    "73% had microscopy diagnoses of tubular injury.",
+    "Serum creatine kinase levels continued to significantly increase from day 0 to day 2."
+   ],
+   "notes": "Landmark prospective study of AKI incidence plus injury/repair biomarkers after a marathon.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/26657822/",
+   "title": "Does Acute Kidney Injury From an Ultramarathon Increase the Risk for Greater Subsequent Injury?",
+   "authors": "Hoffman MD; Weiss RH",
+   "year": "2016",
+   "journal_or_publisher": "Clinical journal of sport medicine : official journal of the Canadian Academy of Sport Medicine",
+   "vol_pages": "26(5):417-22",
+   "doi": "10.1097/JSM.0000000000000277",
+   "pmid": "26657822",
+   "page_file": "research/renalstress/pages/ultra-aki-subsequent-injury-hoffman.txt",
+   "quotes": [
+    "Among 627 finishes in which serum creatinine values were known, 36.2% met \"risk\" or \"injury\" criterion with this group characterized by having faster finish times, greater body weight loss during the race, and higher postrace serum creatine kinase and urea nitrogen concentrations when compared with those not meeting the criteria.",
+    "Mild AKI is common in 161-km ultramarathons, but there was no evidence that previous AKI caused greater renal dysfunction from a subsequent exercise stimulus of similar magnitude.",
+    "For most (56.2%) of the 16 runners meeting the criteria at the first race, the subsequent race caused less increase in serum creatinine concentration and decrement in estimated glomerular filtration rate than the first race."
+   ],
+   "notes": "161-km Western States AKI incidence and repeat-exposure outcome.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/33344994/",
+   "title": "Ultramarathon and Renal Function: Does Exercise-Induced Acute Kidney Injury Really Exist in Common Conditions?",
+   "authors": "Poussel M; Touzé C; Allado E; Frimat L; Hily O; Thilly N; Rousseau H; Vauthier JC; Chenuel B",
+   "year": "2019",
+   "journal_or_publisher": "Frontiers in sports and active living",
+   "vol_pages": "1:71",
+   "doi": "10.3389/fspor.2019.00071",
+   "pmid": "33344994",
+   "page_file": "research/renalstress/pages/ultramarathon-renal-function-poussel.txt",
+   "quotes": [
+    "Depending the methodology used to calculate GFR, the prevalence of AKI was observed from 0 to 12.5%.",
+    "Our study showed a very low prevalence of AKI and no evidence that ultra-endurance running can cause important kidney damage in properly hydrated subjects with no use of NSAIDs.",
+    "Whether the increase in urinary biomarkers of kidney damage following the race reflects structural kidney injury or a simple metabolic adaptation to strenuous exercise needs to be clarified."
+   ],
+   "notes": "120-km ultra showing low AKI prevalence in hydrated, NSAID-free finishers; functional-vs-injury question.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/41155766/",
+   "title": "Acute Kidney Injury Biomarkers in Marathon Runners: Systematic Review and Meta-Analysis.",
+   "authors": "Leucuța DC; Trif LI; Almășan O; Popa ȘL; Ismaiel A",
+   "year": "2025",
+   "journal_or_publisher": "Medicina (Kaunas, Lithuania)",
+   "vol_pages": "61(10):",
+   "doi": "10.3390/medicina61101775",
+   "pmid": "41155766",
+   "page_file": "research/renalstress/pages/marathon-aki-biomarkers-metaanalysis.txt",
+   "quotes": [
+    "Marathon running causes significant increases in kidney injury biomarkers, with different patterns of evolution.",
+    "The largest increases were observed in Tissue Inhibitor of Metalloproteinases-2* Insulin-like Growth Factor Binding Protein-7 (TIMP-2*IGFBP), copeptin, urinary Liver-type Fatty Acid Binding Protein (L-FABP), urinary Monocyte Chemoattractant Protein-1 (MCP-1), IGFBP-7, urinary Chitinase 3-like Prote"
+   ],
+   "notes": "2025 systematic review and meta-analysis of marathon AKI biomarker kinetics.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/26513390/",
+   "title": "Incidence and Prevalence of Acute Kidney Injury During Multistage Ultramarathons.",
+   "authors": "Lipman GS; Krabak BJ; Rundell SD; Shea KM; Badowski N; Little C",
+   "year": "2016",
+   "journal_or_publisher": "Clinical journal of sport medicine : official journal of the Canadian Academy of Sport Medicine",
+   "vol_pages": "26(4):314-9",
+   "doi": "10.1097/JSM.0000000000000253",
+   "pmid": "26513390",
+   "page_file": "research/renalstress/pages/multistage-ultramarathon-aki-incidence.txt",
+   "quotes": [
+    "Stage 1 had 56 (43.8%) with risk of AKI and 24 (18.8%) with injury; in stage 3, 61 (47.7%) were at risk, 41 (32%) had injury; in stage 5, 62 (48.4%) runners were at risk and 36 (28.1%) had injury.",
+    "Cumulative incidence of AKI was 41.4%.",
+    "Female sex, lower pack weight, and greater weight loss were associated with renal impairment."
+   ],
+   "notes": "Desert multistage 250-km RacingThePlanet AKI incidence and prevalence; closest published analogue to thru-hiking.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/24650338/",
+   "title": "A prospective cohort study of acute kidney injury in multi-stage ultramarathon runners: the Biochemistry in Endurance Runner Study (BIERS).",
+   "authors": "Lipman GS; Krabak BJ; Waite BL; Logan SB; Menon A; Chan GK",
+   "year": "2014",
+   "journal_or_publisher": "Research in sports medicine (Print)",
+   "vol_pages": "22(2):185-92",
+   "doi": "10.1080/15438627.2014.881824",
+   "pmid": "24650338",
+   "page_file": "research/renalstress/pages/multistage-ultra-aki-biers-cohort.txt",
+   "quotes": [
+    "no apparent cumulative effect was observed, with resolution of renal function to near baseline levels between stages.",
+    "the majority of participants (55-80%) incurring AKI."
+   ],
+   "notes": "Multistage desert ultra cohort; between-stage resolution of renal impairment.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/33997113/",
+   "title": "Kidney physiology and pathophysiology during heat stress and the modification by exercise, dehydration, heat acclimation and aging.",
+   "authors": "Chapman CL; Johnson BD; Parker MD; Hostler D; Pryor RR; Schlader Z",
+   "year": "2021",
+   "journal_or_publisher": "Temperature (Austin, Tex.)",
+   "vol_pages": "8(2):108-159",
+   "doi": "10.1080/23328940.2020.1826841",
+   "pmid": "33997113",
+   "page_file": "research/renalstress/pages/kidney-heat-stress-physiology-chapman.txt",
+   "quotes": [
+    "Recent evidence suggests the kidneys are at increased risk of pathological events during heat stress, namely acute kidney injury (AKI), and that this risk is compounded by dehydration and exercise.",
+    "This heat stress related AKI is believed to contribute to the epidemic of chronic kidney disease (CKD) occurring in occupational settings."
+   ],
+   "notes": "Comprehensive review of renal physiology during heat stress modified by exercise, dehydration and acclimation.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/26209462/",
+   "title": "Heat stress, dehydration, and kidney function in sugarcane cutters in El Salvador--A cross-shift study of workers at risk of Mesoamerican nephropathy.",
+   "authors": "García-Trabanino R; Jarquín E; Wesseling C; Johnson RJ; González-Quiroz M; Weiss I; Glaser J; José Vindell J; Stockfelt L; Roncal C; Harra T; Barregard L",
+   "year": "2015",
+   "journal_or_publisher": "Environmental research",
+   "vol_pages": "142:746-55",
+   "doi": "10.1016/j.envres.2015.07.007",
+   "pmid": "26209462",
+   "page_file": "research/renalstress/pages/sugarcane-heat-dehydration-kidney.txt",
+   "quotes": [
+    "Serum creatinine, uric acid and urea nitrogen increased, while chloride and potassium decreased.",
+    "Mean workday temperature was 34-36 °C before noon, and 39-42 °C at noon.",
+    "The high prevalence of reduced eGFR, and the cross-shift changes are consistent with recurrent dehydration from strenuous work in a hot and humid environment as an important causal factor."
+   ],
+   "notes": "Cross-shift field study of renal function in hot-weather sugarcane work (Mesoamerican nephropathy region).",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/26455995/",
+   "title": "Heat Stress Nephropathy From Exercise-Induced Uric Acid Crystalluria: A Perspective on Mesoamerican Nephropathy.",
+   "authors": "Roncal-Jimenez C; García-Trabanino R; Barregard L; Lanaspa MA; Wesseling C; Harra T; Aragón A; Grases F; Jarquin ER; González MA; Weiss I; Glaser J; Sánchez-Lozada LG; Johnson RJ",
+   "year": "2016",
+   "journal_or_publisher": "American journal of kidney diseases : the official journal of the National Kidney Foundation",
+   "vol_pages": "67(1):20-30",
+   "doi": "10.1053/j.ajkd.2015.08.021",
+   "pmid": "26455995",
+   "page_file": "research/renalstress/pages/heat-stress-nephropathy-uric-acid.txt",
+   "quotes": [
+    "Increased hydration with water and salt, urinary alkalinization, reduction in sugary beverage intake, and inhibitors of uric acid synthesis should be tested for disease prevention.",
+    "Individuals at risk for developing the disease are primarily male workers exposed to heat stress and physical exertion that predisposes to recurrent water and volume depletion, often accompanied by urinary concentration and acidification.",
+    "Uric acid is generated during heat stress, in part consequent to nucleotide release from muscles."
+   ],
+   "notes": "Heat stress nephropathy / uric acid crystalluria mechanism with prevention proposals.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/39688252/",
+   "title": "The kidney under heat stress: a vulnerable state.",
+   "authors": "Amorim F; Schlader Z",
+   "year": "2025",
+   "journal_or_publisher": "Current opinion in nephrology and hypertension",
+   "vol_pages": "34(2):170-176",
+   "doi": "10.1097/MNH.0000000000001050",
+   "pmid": "39688252",
+   "page_file": "research/renalstress/pages/kidney-under-heat-stress-review.txt",
+   "quotes": [
+    "As body temperature increases, blood flow is directed toward the skin to aid in cooling, diverting it away from internal organs like the kidneys to support blood pressure regulation.",
+    "Collectively, this can create a localized supply-demand mismatch, resulting in tissue hypoxia that can damage kidney tissues."
+   ],
+   "notes": "2025 review of hyperthermia renal mechanisms and progression to CKDnt.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42694931/",
+   "title": "Acute kidney injury and liver damage are the most common forms of end organ damage in exertional heat illness in otherwise healthy young adults.",
+   "authors": "DeGroot DW; Goodwin KC; Giersch GEW; Charkoudian N",
+   "year": "2026",
+   "journal_or_publisher": "Temperature (Austin, Tex.)",
+   "vol_pages": "13(3):264-274",
+   "doi": "10.1080/23328940.2026.2680846",
+   "pmid": "42694931",
+   "page_file": "research/renalstress/pages/military-ehs-organ-damage.txt",
+   "quotes": [
+    "Acute kidney injury was the most common form of end organ damage observed (73-86%) followed closely by liver damage (59-73%).",
+    "EHS cases had higher peak damage levels for Cr, CK, AST, and ALT compared to either HI or HE."
+   ],
+   "notes": "US Army exertional heat illness admissions; AKI the most common end-organ damage.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/9349646/",
+   "title": "Effects of hydration state on hormonal and renal responses during moderate exercise in the heat.",
+   "authors": "Melin B; Jimenez C; Savourey G; Bittel J; Cottet-Emard JM; Pequignot JM; Allevard AM; Gharib C",
+   "year": "1997",
+   "journal_or_publisher": "European journal of applied physiology and occupational physiology",
+   "vol_pages": "76(4):320-7",
+   "doi": "10.1007/s004210050255",
+   "pmid": "9349646",
+   "page_file": "research/renalstress/pages/dehydration-hormonal-renal-exercise-heat.txt",
+   "quotes": [
+    "During exercise in the Dh compared to C state, plasma renin, aldosterone, arginine vasopressin (AVP), noradrenaline and adrenaline concentrations were increased (P < 0.05).",
+    "A reduction in creatinine clearance and urine flow was also observed (P < 0.05) together with a decrease in",
+    "Rehydration, by reducing this activation, could partially restore the renal concentrating ability despite the lowered plasma AVP."
+   ],
+   "notes": "Experimental hydration-state manipulation: RAAS, vasopressin and renal responses in heat exercise.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/41389078/",
+   "title": "Exercise and Kidney Health: Core Curriculum 2026.",
+   "authors": "Becerra LA; Mansour SG",
+   "year": "2026",
+   "journal_or_publisher": "American journal of kidney diseases : the official journal of the National Kidney Foundation",
+   "vol_pages": "87(2):246-259",
+   "doi": "10.1053/j.ajkd.2025.09.014",
+   "pmid": "41389078",
+   "page_file": "research/renalstress/pages/exercise-kidney-health-core-curriculum.txt",
+   "quotes": [
+    "Prevention strategies include individualized hydration plans, electrolyte replacement, and avoidance of nonsteroidal anti-inflammatory drugs.",
+    "Adaptations in kidney physiology during exercise include reduced plasma flow, altered glomerular filtration, and hormone-mediated fluid retention.",
+    "These changes are protective but may become maladaptive with dehydration, heat stress, or excessive fluid intake."
+   ],
+   "notes": "2026 AJKD core curriculum on exercise kidney physiology, risk and prevention.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/32202487/",
+   "title": "Exertional rhabdomyolysis and acute kidney injury in endurance sports: A systematic review.",
+   "authors": "Rojas-Valverde D; Sánchez-Ureña B; Crowe J; Timón R; Olcina GJ",
+   "year": "2021",
+   "journal_or_publisher": "European journal of sport science",
+   "vol_pages": "21(2):261-274",
+   "doi": "10.1080/17461391.2020.1746837",
+   "pmid": "32202487",
+   "page_file": "research/renalstress/pages/exertional-rhabdo-aki-endurance-review.txt",
+   "quotes": [
+    "345 (43.5%) individuals were diagnosed with ER (creatinine kinase > 5000 UI/L) and 130 (16.39%) with ER + AKI (creatinine ≥ 1.88 mg/dL).",
+    "Out of the total cases of ER + AKI, 96.92% were in ultra-endurance runners.",
+    "Increased levels of muscle and kidney injury immediately after endurance events were reported, but after 5.86 days these levels usually returned to baseline."
+   ],
+   "notes": "Systematic review of exertional rhabdomyolysis and AKI across endurance sports.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/39136944/",
+   "title": "Acute Kidney Injury in Hospitalized Patients With Exertional Rhabdomyolysis.",
+   "authors": "Sabouri AH; Yurgionas B; Khorasani S; Durant EJ; Kafaie J; Hung YY; Klingman JG; Nemazie S",
+   "year": "2024",
+   "journal_or_publisher": "JAMA network open",
+   "vol_pages": "7(8):e2427464",
+   "doi": "10.1001/jamanetworkopen.2024.27464",
+   "pmid": "39136944",
+   "page_file": "research/renalstress/pages/rhabdo-aki-hospitalized-cohort.txt",
+   "quotes": [
+    "the risk of AKI was significantly higher in patients with ERM who used nonsteroidal anti-inflammatory drugs (NSAIDs) before admission (11 of 17 with AKI [64.7%] vs 40 of 183 without AKI [21.9%], P < .001) or experienced dehydration (9 of 183 without AKI [52.9%] vs 9 of 17 with AKI [4.9%], P < .001).",
+    "Seventeen patients (8.5%) developed AKI, none developed CKD, 1 (0.5%) developed compartment syndrome, and there were no fatalities.",
+    "There was no association between serum CK levels and the risk of AKI.",
+    "eliminating preadmission NSAID use and dehydration could reduce the risk of potential AKI in patients with ERM by 92.6% (95% CI, 85.7%-96.1%) in this population."
+   ],
+   "notes": "Kaiser Permanente hospitalized exertional rhabdomyolysis cohort; AKI incidence and NSAID/dehydration cofactors.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/22334169/",
+   "title": "Serum creatine kinase after exercise: drawing the line between physiological response and exertional rhabdomyolysis.",
+   "authors": "Kenney K; Landau ME; Gonzalez RS; Hundertmark J; O'Brien K; Campbell WW",
+   "year": "2012",
+   "journal_or_publisher": "Muscle & nerve",
+   "vol_pages": "45(3):356-62",
+   "doi": "10.1002/mus.22317",
+   "pmid": "22334169",
+   "page_file": "research/renalstress/pages/ck-after-exercise-kenney.txt",
+   "quotes": [
+    "CK elevations and muscle pain are common during basic training.",
+    "suggesting that CK levels >50 times the upper limit of normal are more specific."
+   ],
+   "notes": "Military recruit CK distribution; separating physiological CK rise from exertional rhabdomyolysis.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/39444363/",
+   "title": "Exercise-Associated Hyponatremic Encephalopathy, Rhabdomyolysis, and Acute Kidney Injury While Hiking in the Grand Canyon.",
+   "authors": "Myers TM; Bennett BL; Myers W",
+   "year": "2024",
+   "journal_or_publisher": "Wilderness & environmental medicine",
+   "vol_pages": "35(4):484-489",
+   "doi": "10.1177/10806032241286487",
+   "pmid": "39444363",
+   "page_file": "research/renalstress/pages/grand-canyon-eah-rhabdo-aki-case.txt",
+   "quotes": [
+    "We present an unusual case of concomitant exercise-associated hyponatremic encephalopathy (EAHE), exertional rhabdomyolysis (ER), and acute kidney injury (AKI) in a Grand Canyon hiker.",
+    "consumed an excessive amount of water during his descent into the Canyon during hot weather.",
+    "This case demonstrates the seriousness of overconsumption of water, as well as the potential complications of muscle damage when a deconditioned person does prolonged, strenuous exercise."
+   ],
+   "notes": "Desert hiking case: concomitant EAH encephalopathy, rhabdomyolysis and AKI.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/28288187/",
+   "title": "Prevention of downhill walking-induced muscle damage by non-damaging downhill walking.",
+   "authors": "Maeo S; Yamamoto M; Kanehisa H; Nosaka K",
+   "year": "2017",
+   "journal_or_publisher": "PloS one",
+   "vol_pages": "12(3):e0173909",
+   "doi": "10.1371/journal.pone.0173909",
+   "pmid": "28288187",
+   "page_file": "research/renalstress/pages/downhill-walking-muscle-damage.txt",
+   "quotes": [
+    "These changes were significantly (P<0.05) attenuated (47-64%) for the PRE-DW group (-9.9 ± 9.6%, 339.3 ± 148.4 U/L, 27.8 ± 16.8 mm).",
+    "Prolonged DW induces damage to leg muscles, reducing force generating ability and muscle coordination.",
+    "40-min DW (-28%, 5 km/h, 10% load)."
+   ],
+   "notes": "Loaded downhill walking (eccentric) muscle damage and repeated-bout preconditioning protection.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/28679502/",
+   "title": "Ibuprofen versus placebo effect on acute kidney injury in ultramarathons: a randomised controlled trial.",
+   "authors": "Lipman GS; Shea K; Christensen M; Phillips C; Burns P; Higbee R; Koskenoja V; Eifling K; Krabak BJ",
+   "year": "2017",
+   "journal_or_publisher": "Emergency medicine journal : EMJ",
+   "vol_pages": "34(10):637-642",
+   "doi": "10.1136/emermed-2016-206353",
+   "pmid": "28679502",
+   "page_file": "research/renalstress/pages/ibuprofen-aki-ultramarathon-rct.txt",
+   "quotes": [
+    "Intent-to-treat analysis found 22 (52%) ibuprofen versus 16 (34%) placebo users developed AKI (18% difference, 95% CI -4% to 41%; OR 2.1, 95% CI 0.9 to 5.1) with a number needed to harm of 5.5.",
+    "up to 75% of ultramarathon runners ingest these during competition",
+    "The overall incidence of AKI was 44%.",
+    "Consideration should therefore be taken before ingesting NSAID during endurance running as it could exacerbate renal injury."
+   ],
+   "notes": "Randomised controlled trial of ibuprofen vs placebo on AKI at desert 50-mile ultramarathons.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/40947642/",
+   "title": "The prevalence and perceptions of non-steroidal anti-inflammatory drug use among ultra-endurance runners.",
+   "authors": "Cole PL; Bontemps B; Pugh J; Owens DJ",
+   "year": "2026",
+   "journal_or_publisher": "Research in sports medicine (Print)",
+   "vol_pages": "34(3):257-275",
+   "doi": "10.1080/15438627.2025.2561040",
+   "pmid": "40947642",
+   "page_file": "research/renalstress/pages/nsaid-prevalence-ultrarunners.txt",
+   "quotes": [
+    "Over half (53%) reported NSAID use, with ibuprofen most common.",
+    "This mixed-methods, cross-sectional survey included 167 ultra-endurance runners across five self-reported performance tiers.",
+    "Despite 77% being aware of potential harms, most often renal and gastrointestinal (GI), usage remained high due to perceived benefits.",
+    "Information sources were largely informal, reflecting entrenched norms around pain management."
+   ],
+   "notes": "2026 mixed-methods survey of NSAID prevalence and perceptions in ultra-endurance runners.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/29784554/",
+   "title": "Renal stress and kidney injury biomarkers in response to endurance cycling in the heat with and without ibuprofen.",
+   "authors": "McDermott BP; Smith CR; Butts CL; Caldwell AR; Lee EC; Vingren JL; Munoz CX; Kunces LJ; Williamson K; Ganio MS; Armstrong LE",
+   "year": "2018",
+   "journal_or_publisher": "Journal of science and medicine in sport",
+   "vol_pages": "21(12):1180-1184",
+   "doi": "10.1016/j.jsams.2018.05.003",
+   "pmid": "29784554",
+   "page_file": "research/renalstress/pages/ibuprofen-cycling-heat-renal.txt",
+   "quotes": [
+    "Changes in renal biomarkers suggest mild acute kidney injury and reduced kidney function during a single bout of endurance cycling in the heat, without influence from moderate ibuprofen ingestion.",
+    "Serum creatinine significantly increased from pre- (0.52±0.14mg/dL) to post-event (0.88±0.21mg/dL; p<0.001)."
+   ],
+   "notes": "Endurance cycling in heat trial; single 600-mg ibuprofen dose without added renal effect.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/39876077/",
+   "title": "Effect of Ibuprofen on Markers of Acute Kidney Injury, Intestinal Injury, and Endotoxemia after Running in the Heat.",
+   "authors": "Specht JW; Bailly AR; Garcia S; Klepacz S; Andrade DE Oliveira S; Lucero D; McKenna ZJ; Schlader ZJ; Amorim FT",
+   "year": "2025",
+   "journal_or_publisher": "Medicine and science in sports and exercise",
+   "vol_pages": "57(6):1092-1102",
+   "doi": "10.1249/MSS.0000000000003659",
+   "pmid": "39876077",
+   "page_file": "research/renalstress/pages/ibuprofen-running-heat-aki.txt",
+   "quotes": [
+    "These findings indicate that ibuprofen ingestion does not worsen intestinal or renal injury experienced during 1 h of exercise in the heat, but increases pro-inflammatory IL-8."
+   ],
+   "notes": "1-h heat-run crossover; ibuprofen did not worsen AKI markers.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/16679974/",
+   "title": "NSAID use increases the risk of developing hyponatremia during an Ironman triathlon.",
+   "authors": "Wharam PC; Speedy DB; Noakes TD; Thompson JM; Reid SA; Holtzhausen LM",
+   "year": "2006",
+   "journal_or_publisher": "Medicine and science in sports and exercise",
+   "vol_pages": "38(4):618-22",
+   "doi": "10.1249/01.mss.0000210209.40694.09",
+   "pmid": "16679974",
+   "page_file": "research/renalstress/pages/nsaid-hyponatremia-ironman.txt",
+   "quotes": [
+    "The incidence of NSAID use was 30%, whereas the overall incidence of hyponatremia was 1.8%.",
+    "The NSAID group had lower plasma Na (P = 0.02) and higher plasma K (P = 0.002), urea (P = 0.05), and creatinine (P = 0.01)."
+   ],
+   "notes": "Ironman cohort; NSAID use related to hyponatremia and renal function changes.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/29308843/",
+   "title": "Associations between recreational runners' anti-inflammatory drug use, coping strategies, and time loss due to injury and illness during preparations for a marathon event.",
+   "authors": "Tillander B; Gauffin H; Dahlström Ö; Timpka T",
+   "year": "2018",
+   "journal_or_publisher": "The Journal of sports medicine and physical fitness",
+   "vol_pages": "58(12):1839-1843",
+   "doi": "10.23736/S0022-4707.18.07747-2",
+   "pmid": "29308843",
+   "page_file": "research/renalstress/pages/runners-nsaid-use-coping.txt",
+   "quotes": [
+    "42% reported NSAID use."
+   ],
+   "notes": "Recreational marathon runners survey; 42% past-year NSAID use.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://cdn.mdedge.com/files/s3fs-public/jfp-archived-issues/1993-volume_36-37/JFP_1993-05_v36_i5_health-care-needs-of-appalachian-trail-h.pdf",
+   "title": "Health Care Needs of Appalachian Trail Hikers",
+   "authors": "Crouse BJ; Josephs D",
+   "year": "1993",
+   "journal_or_publisher": "The Journal of Family Practice",
+   "vol_pages": "36(5):521-525",
+   "doi": "",
+   "pmid": "8482936",
+   "page_file": "research/renalstress/pages/appalachian-trail-hikers-health-needs-1993.txt",
+   "quotes": [
+    "Analgesics and nonsteroidal anti-inflammatory agents were frequently carried and used.",
+    "The majority of the analgesic medications were nonsteroidal, anti-inflammatory agents.",
+    "Injuries and illnesses were reported by 82% of the respondents, incurring an average loss of 4.7 days of hiking."
+   ],
+   "notes": "Survey of Appalachian Trail long-distance hikers; analgesics (mostly NSAIDs) frequently carried and used.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/29804621/",
+   "title": "The Epidemiology and Medical Morbidity of Long-Distance Backpackers on the John Muir Trail in the Sierra Nevada.",
+   "authors": "Spano SJ; Hile AG; Jain R; Stalcup PR",
+   "year": "2018",
+   "journal_or_publisher": "Wilderness & environmental medicine",
+   "vol_pages": "29(2):203-210",
+   "doi": "10.1016/j.wem.2018.02.006",
+   "pmid": "29804621",
+   "page_file": "research/renalstress/pages/john-muir-trail-backpackers-morbidity.txt",
+   "quotes": [
+    "Backpackers lost 3.5±2.6 (+3.6 to -18.2) kg (7.7±5.8 [+8 to -40] lbs).",
+    "Over half (57%) of respondents reported illness or injury, with blisters (57%), sleep problems (57%), and pack strap pain (46%) most prevalent."
+   ],
+   "notes": "John Muir Trail thru-hiker morbidity and body-weight survey.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/15829535/",
+   "title": "Hyponatremia among runners in the Boston Marathon.",
+   "authors": "Almond CS; Shin AY; Fortescue EB; Mannix RC; Wypij D; Binstadt BA; Duncan CN; Olson DP; Salerno AE; Newburger JW; Greenes DS",
+   "year": "2005",
+   "journal_or_publisher": "The New England journal of medicine",
+   "vol_pages": "352(15):1550-6",
+   "doi": "10.1056/NEJMoa043901",
+   "pmid": "15829535",
+   "page_file": "research/renalstress/pages/boston-marathon-hyponatremia-almond.txt",
+   "quotes": [
+    "On multivariate analysis, hyponatremia was associated with weight gain (odds ratio, 4.2; 95 percent confidence interval, 2.2 to 8.2), a racing time of >4:00 hours (odds ratio for the comparison with a time of <3:30 hours, 7.4; 95 percent confidence interval, 2.9 to 23.1), and body-mass-index extremes.",
+    "Thirteen percent had hyponatremia (a serum sodium concentration of 135 mmol per liter or less); 0.6 percent had critical hyponatremia (120 mmol per liter or less)."
+   ],
+   "notes": "Seminal Boston Marathon exercise-associated hyponatremia cohort.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/32044213/",
+   "title": "Wilderness Medical Society Clinical Practice Guidelines for the Management of Exercise-Associated Hyponatremia: 2019 Update.",
+   "authors": "Bennett BL; Hew-Butler T; Rosner MH; Myers T; Lipman GS",
+   "year": "2020",
+   "journal_or_publisher": "Wilderness & environmental medicine",
+   "vol_pages": "31(1):50-62",
+   "doi": "10.1016/j.wem.2019.11.003",
+   "pmid": "32044213",
+   "page_file": "research/renalstress/pages/wms-eah-guidelines-2020.txt",
+   "quotes": [
+    "Exercise-associated hyponatremia (EAH) is defined by a serum or plasma sodium concentration below the normal reference range of 135 mmol·L-1 that occurs during or up to 24 h after prolonged physical activity.",
+    "EAH most commonly has overlapping signs and symptoms with heat exhaustion and exertional heat stroke."
+   ],
+   "notes": "Wilderness Medical Society clinical practice guidelines for EAH management (2019 update).",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/10530529/",
+   "title": "Exertional heat illness and hyponatremia in hikers.",
+   "authors": "Backer HD; Shopes E; Collins SL; Barkan H",
+   "year": "1999",
+   "journal_or_publisher": "The American journal of emergency medicine",
+   "vol_pages": "17(6):532-9",
+   "doi": "10.1016/s0735-6757(99)90191-2",
+   "pmid": "10530529",
+   "page_file": "research/renalstress/pages/hikers-heat-illness-hyponatremia-backer.txt",
+   "quotes": [
+    "Of 44 patients who had serum samples analyzed, 7 had hyponatremia with clinically significant symptoms and serum sodium levels <130 mmol/L: 3 had grand mal seizures, 2 had other major central nervous system disorders, and 2 had minor neurological symptoms.",
+    "Indirect evidence suggests that hyponatremic patients were hyperhydrated.",
+    "When exercise in the heat is prolonged, hyponatremia is suggested either by altered mental status or by seizures without hyperpyrexia or hypoglycemia."
+   ],
+   "notes": "Grand Canyon hikers; distinguishing hyponatremia from heat exhaustion in the field.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/24119571/",
+   "title": "Exertional heat-related illnesses at the Grand Canyon National Park, 2004-2009.",
+   "authors": "Noe RS; Choudhary E; Cheng-Dobson J; Wolkin AF; Newman SB",
+   "year": "2013",
+   "journal_or_publisher": "Wilderness & environmental medicine",
+   "vol_pages": "24(4):422-8",
+   "doi": "10.1016/j.wem.2013.06.008",
+   "pmid": "24119571",
+   "page_file": "research/renalstress/pages/grand-canyon-heat-illness-2004-2009.txt",
+   "quotes": [
+    "Clinical HRI assessments included dehydration (25%), heat exhaustion (23%), and suspected hyponatremia (19%).",
+    "Grand Canyon EMS responded to 474 nonfatal and 6 fatal HRI cases, with the majority",
+    "Almost all (90%) were hiking; 40% required helicopter evacuation."
+   ],
+   "notes": "Grand Canyon heat-related illness epidemiology 2004-2009.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/38425235/",
+   "title": "Wilderness Medical Society Clinical Practice Guidelines for the Prevention and Treatment of Heat Illness: 2024 Update.",
+   "authors": "Eifling KP; Gaudio FG; Dumke C; Lipman GS; Otten EM; Martin AD; Grissom CK",
+   "year": "2024",
+   "journal_or_publisher": "Wilderness & environmental medicine",
+   "vol_pages": "35(1_suppl):112S-127S",
+   "doi": "10.1177/10806032241227924",
+   "pmid": "38425235",
+   "page_file": "research/renalstress/pages/wms-heat-illness-guidelines-2024.txt",
+   "quotes": [
+    "updated review of the classifications, pathophysiology, evidence-based guidelines for planning and preventive measures, and recommendations for field- and hospital-based therapeutic management of heat illness."
+   ],
+   "notes": "Wilderness Medical Society heat illness prevention and treatment guidelines 2024 update.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/41247794/",
+   "title": "Heat acclimation alters the relation between hyperthermia and biomarkers of kidney function during exercise heat stress.",
+   "authors": "Connor KR; Brazelton SC; Greenfield AM; Charkoudian N; Chapman CL; Giersch GEW",
+   "year": "2025",
+   "journal_or_publisher": "American journal of physiology. Regulatory, integrative and comparative physiology",
+   "vol_pages": "329(6):R995-R1001",
+   "doi": "10.1152/ajpregu.00215.2025",
+   "pmid": "41247794",
+   "page_file": "research/renalstress/pages/heat-acclimation-kidney-biomarkers.txt",
+   "quotes": [
+    "Heat acclimation did not alter the increase in ΔCr and ΔNGAL to exercise heat stress (P ≥ 0.325).",
+    "the kidneys may exhibit increased sensitivity to hyperthermia in heat-acclimated individuals.NEW & NOTEWORTHY He"
+   ],
+   "notes": "Heat acclimation blunted hyperthermia but not renal biomarker rises.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/31085130/",
+   "title": "Variation in renal responses to exercise in the heat with progressive acclimatisation.",
+   "authors": "Omassoli J; Hill NE; Woods DR; Delves SK; Fallowfield JL; Brett SJ; Wilson D; Corbett RW; Allsopp AJ; Stacey MJ",
+   "year": "2019",
+   "journal_or_publisher": "Journal of science and medicine in sport",
+   "vol_pages": "22(9):1004-1009",
+   "doi": "10.1016/j.jsams.2019.04.010",
+   "pmid": "31085130",
+   "page_file": "research/renalstress/pages/acclimatisation-renal-responses.txt",
+   "quotes": [
+    "Heat acclimatization is associated with reduced markers of renal stress and AKI incidence, perhaps due to improved regional perfusion.",
+    "Acute Kidney Injury was common (26/100 exposures) and occurred most frequently in the unacclimatised state.",
+    "Acclimatisation and monitoring Ratings of Perceived Exertion are practical, non-invasive measures that could help to reduce renal injury from exercise in the heat."
+   ],
+   "notes": "Progressive heat acclimatisation reduced renal stress markers and AKI incidence.",
+   "extract_status": "ok"
+  }
+ ],
+ "claims": [
+  {
+   "claim": "In a prospective observational study of 22 Hartford Marathon finishers, 82% of runners developed a creatinine increase equivalent to AKIN-defined stage 1 to 2 acute kidney injury.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/28363731/",
+   "quote": "82% of runners developed an increase in creatinine level equivalent to AKIN-defined AKI stages 1 and 2. 73% had microscopy diagnoses of tubular injury.",
+   "strength": "human"
+  },
+  {
+   "claim": "In marathon runners, elevations of injury and repair biomarkers suggested structural damage to renal tubules occurring after the race.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/28363731/",
+   "quote": "An increase in injury and repair biomarker levels suggests structural damage to renal tubules occurring after marathon.",
+   "strength": "human"
+  },
+  {
+   "claim": "Among 627 finishes with postrace blood studies at the 161-km Western States Endurance Run, 36.2% met RIFLE risk or injury criteria for acute kidney injury.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/26657822/",
+   "quote": "Among 627 finishes in which serum creatinine values were known, 36.2% met \"risk\" or \"injury\" criterion with this group characterized by having faster finish times, greater body weight loss during the race, and higher postrace serum creatine kinase and urea nitrogen concentrations when compared with those not meeting the criteria.",
+   "strength": "human"
+  },
+  {
+   "claim": "Mild acute kidney injury from a 161-km ultramarathon showed no evidence of causing greater renal dysfunction from a subsequent exercise stimulus of similar magnitude, arguing against cumulative injury.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/26657822/",
+   "quote": "Mild AKI is common in 161-km ultramarathons, but there was no evidence that previous AKI caused greater renal dysfunction from a subsequent exercise stimulus of similar magnitude.",
+   "strength": "human"
+  },
+  {
+   "claim": "In finishers of a 120-km ultramarathon, prevalence of acute kidney injury by GFR-based RIFLE criteria ranged from 0 to 12.5% depending on the estimation method used.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/33344994/",
+   "quote": "Depending the methodology used to calculate GFR, the prevalence of AKI was observed from 0 to 12.5%.",
+   "strength": "human"
+  },
+  {
+   "claim": "A systematic review and meta-analysis concluded that marathon running causes significant increases in kidney injury biomarkers, with different patterns of evolution after the race.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/41155766/",
+   "quote": "Marathon running causes significant increases in kidney injury biomarkers, with different patterns of evolution.",
+   "strength": "review"
+  },
+  {
+   "claim": "The kidneys are at increased risk of pathological events during heat stress, and that risk is compounded by dehydration and exercise.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/33997113/",
+   "quote": "Recent evidence suggests the kidneys are at increased risk of pathological events during heat stress, namely acute kidney injury (AKI), and that this risk is compounded by dehydration and exercise.",
+   "strength": "review"
+  },
+  {
+   "claim": "Sugarcane cutters at risk of Mesoamerican nephropathy showed significant cross-shift increases in serum creatinine, uric acid and urea nitrogen during hot-weather work.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/26209462/",
+   "quote": "Serum creatinine, uric acid and urea nitrogen increased, while chloride and potassium decreased.",
+   "strength": "human"
+  },
+  {
+   "claim": "Prevention of heat stress nephropathy is proposed to include increased hydration with water and salt, urinary alkalinization and reduction of sugary beverage intake.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/26455995/",
+   "quote": "Increased hydration with water and salt, urinary alkalinization, reduction in sugary beverage intake, and inhibitors of uric acid synthesis should be tested for disease prevention.",
+   "strength": "review"
+  },
+  {
+   "claim": "Acute kidney injury was the most common form of end-organ damage, observed in 73-86% of young military service members admitted for exertional heat illness, followed by liver damage in 59-73%.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42694931/",
+   "quote": "Acute kidney injury was the most common form of end organ damage observed (73-86%) followed closely by liver damage (59-73%).",
+   "strength": "human"
+  },
+  {
+   "claim": "During moderate exercise in the heat, prior dehydration significantly increased plasma renin, aldosterone, arginine vasopressin, noradrenaline and adrenaline concentrations.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/9349646/",
+   "quote": "During exercise in the Dh compared to C state, plasma renin, aldosterone, arginine vasopressin (AVP), noradrenaline and adrenaline concentrations were increased (P < 0.05).",
+   "strength": "human"
+  },
+  {
+   "claim": "In a systematic review of endurance events, 43.5% of participants were diagnosed with exertional rhabdomyolysis using a creatine kinase threshold above 5000 U/L, and 16.4% had rhabdomyolysis with acute kidney injury.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/32202487/",
+   "quote": "345 (43.5%) individuals were diagnosed with ER (creatinine kinase > 5000 UI/L) and 130 (16.39%) with ER + AKI (creatinine ≥ 1.88 mg/dL).",
+   "strength": "review"
+  },
+  {
+   "claim": "In hospitalized patients with exertional rhabdomyolysis, the risk of acute kidney injury was significantly higher in those who used nonsteroidal anti-inflammatory drugs before admission (64.7% of AKI cases vs 21.9% without AKI) or experienced dehydration.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/39136944/",
+   "quote": "the risk of AKI was significantly higher in patients with ERM who used nonsteroidal anti-inflammatory drugs (NSAIDs) before admission (11 of 17 with AKI [64.7%] vs 40 of 183 without AKI [21.9%], P < .001) or experienced dehydration (9 of 183 without AKI [52.9%] vs 9 of 17 with AKI [4.9%], P < .001).",
+   "strength": "human"
+  },
+  {
+   "claim": "During 250-km six-stage desert ultramarathons, 43.8% to 48.4% of runners met risk criteria and 18.8% to 32% met injury criteria for acute kidney injury across stages 1, 3 and 5.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/26513390/",
+   "quote": "Stage 1 had 56 (43.8%) with risk of AKI and 24 (18.8%) with injury; in stage 3, 61 (47.7%) were at risk, 41 (32%) had injury; in stage 5, 62 (48.4%) runners were at risk and 36 (28.1%) had injury.",
+   "strength": "human"
+  },
+  {
+   "claim": "A 40-minute bout of downhill walking at -28% grade with a 10% body-mass load induced significant muscle damage, and these changes were attenuated 47-64% by a small prior bout of non-damaging downhill walking.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/28288187/",
+   "quote": "These changes were significantly (P<0.05) attenuated (47-64%) for the PRE-DW group (-9.9 ± 9.6%, 339.3 ± 148.4 U/L, 27.8 ± 16.8 mm).",
+   "strength": "human"
+  },
+  {
+   "claim": "In a randomised double-blind placebo-controlled trial at 50-mile desert ultramarathons, 52% of ibuprofen users versus 34% of placebo users developed acute kidney injury, a number needed to harm of 5.5.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/28679502/",
+   "quote": "Intent-to-treat analysis found 22 (52%) ibuprofen versus 16 (34%) placebo users developed AKI (18% difference, 95% CI -4% to 41%; OR 2.1, 95% CI 0.9 to 5.1) with a number needed to harm of 5.5.",
+   "strength": "human"
+  },
+  {
+   "claim": "In a mixed-methods survey of 167 ultra-endurance runners, over half (53%) reported NSAID use, with ibuprofen the most common.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/40947642/",
+   "quote": "Over half (53%) reported NSAID use, with ibuprofen most common.",
+   "strength": "human"
+  },
+  {
+   "claim": "Changes in renal biomarkers suggest mild acute kidney injury and reduced kidney function during a single bout of endurance cycling in the heat, without influence from moderate ibuprofen ingestion.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/29784554/",
+   "quote": "Changes in renal biomarkers suggest mild acute kidney injury and reduced kidney function during a single bout of endurance cycling in the heat, without influence from moderate ibuprofen ingestion.",
+   "strength": "human"
+  },
+  {
+   "claim": "In an Ironman triathlon cohort, 30% of athletes used NSAIDs while overall hyponatremia incidence was 1.8%, and NSAID use was significantly related to the incidence of hyponatremia.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/16679974/",
+   "quote": "The incidence of NSAID use was 30%, whereas the overall incidence of hyponatremia was 1.8%.",
+   "strength": "human"
+  },
+  {
+   "claim": "On multivariate analysis, hyponatremia in marathon runners was associated with weight gain during the race (odds ratio 4.2) and a racing time over 4 hours (odds ratio 7.4).",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/15829535/",
+   "quote": "On multivariate analysis, hyponatremia was associated with weight gain (odds ratio, 4.2; 95 percent confidence interval, 2.2 to 8.2), a racing time of >4:00 hours (odds ratio for the comparison with a time of <3:30 hours, 7.4; 95 percent confidence interval, 2.9 to 23.1), and body-mass-index extremes.",
+   "strength": "human"
+  },
+  {
+   "claim": "Among heat-ill summertime hikers in Grand Canyon National Park, 7 of 44 patients with serum analyses had clinically significant hyponatremia with sodium below 130 mmol/L, including three with grand mal seizures.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/10530529/",
+   "quote": "Of 44 patients who had serum samples analyzed, 7 had hyponatremia with clinically significant symptoms and serum sodium levels <130 mmol/L: 3 had grand mal seizures, 2 had other major central nervous system disorders, and 2 had minor neurological symptoms.",
+   "strength": "human"
+  },
+  {
+   "claim": "A Grand Canyon hiker developed concomitant exercise-associated hyponatremic encephalopathy, exertional rhabdomyolysis and acute kidney injury after overconsuming water during a hot-weather hike.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/39444363/",
+   "quote": "We present an unusual case of concomitant exercise-associated hyponatremic encephalopathy (EAHE), exertional rhabdomyolysis (ER), and acute kidney injury (AKI) in a Grand Canyon hiker.",
+   "strength": "human"
+  },
+  {
+   "claim": "Among heat-related illness cases at Grand Canyon National Park in 2004-2009, clinical assessments included dehydration (25%), heat exhaustion (23%) and suspected hyponatremia (19%).",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/24119571/",
+   "quote": "Clinical HRI assessments included dehydration (25%), heat exhaustion (23%), and suspected hyponatremia (19%).",
+   "strength": "human"
+  },
+  {
+   "claim": "Heat acclimatisation was associated with reduced markers of renal stress and a lower incidence of acute kidney injury during standardized exercise in the heat.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/31085130/",
+   "quote": "Heat acclimatization is associated with reduced markers of renal stress and AKI incidence, perhaps due to improved regional perfusion.",
+   "strength": "human"
+  },
+  {
+   "claim": "Recommended preventive strategies against exercise-related kidney injury include individualized hydration plans, electrolyte replacement and avoidance of nonsteroidal anti-inflammatory drugs.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/41389078/",
+   "quote": "Prevention strategies include individualized hydration plans, electrolyte replacement, and avoidance of nonsteroidal anti-inflammatory drugs.",
+   "strength": "review"
+  }
+ ]
+}

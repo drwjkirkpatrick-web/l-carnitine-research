@@ -1,0 +1,28 @@
+13. J Clin Pharmacol. 2006 Oct;46(10):1163-70. doi: 10.1177/0091270006292851.
+
+Disposition and metabolite kinetics of oral L-carnitine in humans.
+
+Bain MA(1), Milne RW, Evans AM.
+
+Author information:
+(1)Sansom Institute, School of Pharmacy and Medical Sciences, University of 
+South Australia, Adelaide, SA 5000, Australia.
+
+The pharmacokinetics of L-carnitine and its metabolites were investigated in 7 
+healthy subjects following the oral administration of 0, 0.5, 1, and 2 g 3 times 
+a day for 7 days. Mean plasma concentrations of L-carnitine across an 8-hour 
+dose interval increased significantly (P < .05) from a baseline of 54.2 +/- 9.3 
+microM to 80.5 +/- 12.5 microM following the 0.5-g dose; there was no further 
+increase at higher doses. There was a significant increase (P < .001) in the 
+renal clearance of L-carnitine indicating saturation of tubular reabsorption. 
+Trimethylamine plasma levels increased proportionately with L-carnitine dose, 
+but there was no change in renal clearance. A significant increase in the plasma 
+concentrations of trimethylamine-N-oxide from baseline was evident only for the 
+2-g dose of L-carnitine (from 34.5 +/- 2.0 to 149 +/- 145 microM), and its renal 
+clearance decreased with increasing dose (P < .05). There was no evidence for 
+nonlinearity in the metabolism of trimethylamine to trimethylamine-N-oxide. In 
+conclusion, the pharmacokinetics of oral L-carnitine display nonlinearity above 
+a dose of 0.5 g 3 times a day.
+
+DOI: 10.1177/0091270006292851
+PMID: 16988205 [Indexed for MEDLINE]

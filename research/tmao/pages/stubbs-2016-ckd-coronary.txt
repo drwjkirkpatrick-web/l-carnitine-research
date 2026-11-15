@@ -1,0 +1,370 @@
+# URL: https://pubmed.ncbi.nlm.nih.gov/26229137/
+# Fetched via web_extract on 2026-11-15
+
+Clipboard, Search History, and several other advanced features are temporarily unavailable.
+
+
+[Skip to main page content](https://pubmed.ncbi.nlm.nih.gov/26229137/#article-details)
+
+### NIH Websites Are Changing
+
+- [Get the Latest Updates and FAQs on the transition](https://www.nih.gov/web-modernization)
+- Per [Executive Order 14434](https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/), federal agencies are now using "Super Intelligence" (SI) in place of "Artificial Intelligence" (AI). You may see both terms across NIH content during this transition.
+
+![Dot gov](https://cdn.ncbi.nlm.nih.gov/coreutils/uswds/img/icon-dot-gov.svg)
+
+**The .gov means it’s official.**
+
+Federal government websites often end in .gov or .mil. Before
+sharing sensitive information, make sure you’re on a federal
+government site.
+
+
+![Https](https://cdn.ncbi.nlm.nih.gov/coreutils/uswds/img/icon-https.svg)
+
+**The site is secure.**
+
+The **https://** ensures that you are connecting to the
+official website and that any information you provide is encrypted
+and transmitted securely.
+
+
+[Access keys](https://www.ncbi.nlm.nih.gov/guide/browsers/#ncbi_accesskeys) [NCBI Homepage](https://www.ncbi.nlm.nih.gov/) [MyNCBI Homepage](https://pubmed.ncbi.nlm.nih.gov/myncbi/) [Main Content](https://pubmed.ncbi.nlm.nih.gov/26229137/#maincontent) [Main Navigation](https://pubmed.ncbi.nlm.nih.gov/26229137/#)
+
+[![pubmed logo](https://cdn.ncbi.nlm.nih.gov/pubmed/a447896c-976f-490b-b86b-2668b65114a8/core/images/pubmed-logo-blue.svg)](https://pubmed.ncbi.nlm.nih.gov/)[Show search bar](https://pubmed.ncbi.nlm.nih.gov/26229137/# "Show search bar")
+
+Search:
+
+
+```
+
+```
+
+[Clear search input](https://pubmed.ncbi.nlm.nih.gov/26229137/# "Clear search input") Search
+
+[Advanced](https://pubmed.ncbi.nlm.nih.gov/advanced/) [Clipboard](https://pubmed.ncbi.nlm.nih.gov/clipboard/)
+
+[User Guide](https://pubmed.ncbi.nlm.nih.gov/help/)
+
+Save
+
+Email
+
+
+Send to
+
+- [Clipboard](https://pubmed.ncbi.nlm.nih.gov/26229137/#)
+- [My Bibliography](https://account.ncbi.nlm.nih.gov/?back_url=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F26229137%2F%23open-bibliography-panel)
+- [Collections](https://account.ncbi.nlm.nih.gov/?back_url=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F26229137%2F%23open-collections-panel)
+- [Citation manager](https://pubmed.ncbi.nlm.nih.gov/26229137/#)
+
+Display options
+
+Display options
+
+
+Format
+AbstractPubMedPMID
+
+## Save citation to file
+
+Format:
+Summary (text)PubMedPMIDAbstract (text)CSV
+
+Create file
+
+Cancel
+
+
+## Email citation
+
+Email address has not been verified. Go to
+[My NCBI account settings](https://account.ncbi.nlm.nih.gov/settings/)
+to confirm your email and then refresh this page.
+
+
+To:
+
+
+Subject:
+
+
+Body:
+
+
+Format:
+SummarySummary (text)AbstractAbstract (text)
+
+MeSH and other data
+
+
+Send email
+
+Cancel
+
+
+### Add to Collections
+
+- Create a new collection
+- Add to an existing collection
+
+Name your collection:
+
+
+Name must be less than 100 characters
+
+
+Choose a collection:
+
+
+Unable to load your collection due to an error
+
+[Please try again](https://pubmed.ncbi.nlm.nih.gov/26229137/#)
+
+Add
+
+Cancel
+
+
+### Add to My Bibliography
+
+- My Bibliography
+
+Unable to load your delegates due to an error
+
+[Please try again](https://pubmed.ncbi.nlm.nih.gov/26229137/#)
+
+Add
+
+Cancel
+
+
+## Your saved search
+
+Name of saved search:
+
+
+Search terms:
+
+
+[Test search terms](https://pubmed.ncbi.nlm.nih.gov/26229137/#)
+
+Would you like email updates of new search results?
+Saved Search Alert Radio Buttons
+
+- Yes
+- No
+
+Email:
+( [change](https://www.ncbi.nlm.nih.gov/account/settings/))
+
+Frequency:
+MonthlyWeeklyDaily
+
+Which day?
+The first SundayThe first MondayThe first TuesdayThe first WednesdayThe first ThursdayThe first FridayThe first SaturdayThe first dayThe first weekday
+
+Which day?
+SundayMondayTuesdayWednesdayThursdayFridaySaturday
+
+Report format:
+SummarySummary (text)AbstractAbstract (text)PubMed
+
+Send at most:
+1 item5 items10 items20 items50 items100 items200 items
+
+Send even when there aren't any new results
+
+
+Optional text in email:
+
+
+Save
+
+Cancel
+
+
+## Create a file for external citation management software
+
+Create file
+
+Cancel
+
+
+## Your RSS Feed
+
+Name of RSS Feed:
+
+
+Number of items displayed:
+510152050100
+
+Create RSS
+
+Cancel
+
+
+RSS Link
+Copy
+
+
+Full text links
+Cite
+
+Display options
+
+Display options
+
+
+Format
+AbstractPubMedPMID
+
+Linked Discoveries
+
+## Abstract
+
+
+Trimethlyamine-N-oxide (TMAO) was recently identified as a promoter of atherosclerosis. Patients with CKD exhibit accelerated development of atherosclerosis; however, no studies have explored the relationship between TMAO and atherosclerosis formation in this group. This study measured serum concentrations and urinary excretion of TMAO in a CKD cohort (n=104), identified the effect of renal transplant on serum TMAO concentration in a subset of these patients (n=6), and explored the cross-sectional relationship between serum TMAO and coronary atherosclerosis burden in a separate CKD cohort (n=220) undergoing coronary angiography. Additional exploratory analyses examined the relationship between baseline serum TMAO and long-term survival after coronary angiography. Serum TMAO concentrations demonstrated a strong inverse association with eGFR (r(2)=0.31, P<0.001). TMAO concentrations were markedly higher in patients receiving dialysis (median \[interquartile range\], 94.4 μM \[54.8-133.0 μM\] for dialysis-dependent patients versus 3.3 μM \[3.1-6.0 μM\] for healthy controls; P<0.001); whereas renal transplantation resulted in substantial reductions in TMAO concentrations (median \[min-max\] 71.2 μM \[29.2-189.7 μM\] pretransplant versus 11.4 μM \[8.9-20.2 μM\] post-transplant; P=0.03). TMAO concentration was an independent predictor for coronary atherosclerosis burden (P=0.02) and predicted long-term mortality independent of traditional cardiac risk factors (hazard ratio, 1.26 per 10 μM increment in TMAO concentration; 95% confidence interval, 1.13 to 1.40; P<0.001). In conclusion, serum TMAO concentrations substantially increase with decrements in kidney function, and this effect is reversed by renal transplantation. Increased TMAO concentrations correlate with coronary atherosclerosis burden and may associate with long-term mortality in patients with CKD undergoing coronary angiography.
+
+
+**Keywords:**
+
+CKD; ESRD; atherosclerosis; cardiovascular disease; coronary artery disease; mortality.
+
+
+Copyright © 2016 by the American Society of Nephrology.
+
+
+[PubMed Disclaimer](https://pubmed.ncbi.nlm.nih.gov/disclaimer/)
+
+## Figures
+
+[![Figure 1.](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/1627/4696571/d00f480ebc48/ASN.2014111063f1.gif)](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/1627/4696571/e58385286811/ASN.2014111063f1.jpg)
+
+**Figure 1.**
+
+Cross-sectional analysis of serum TMAO…
+
+**Figure 1.**
+
+Cross-sectional analysis of serum TMAO concentrations by CKD stage. Serum TMAO concentrations were…
+
+**Figure 1.**
+
+Cross-sectional analysis of serum TMAO concentrations by CKD stage. Serum TMAO concentrations were measured in a cohort of patients ( _n_ =104) with varying severity of kidney disease, ranging from normal kidney function (controls) to dialysis-dependent ESRD. Patients were grouped according to CKD staging: controls (eGFR≥60 ml/min per 1.73 m2), stage IIIA (eGFR 45–59 ml/min per 1.73 m2), stage IIIB (eGFR 30–44 ml/min per 1.73 m2), stage IV/V (eGFR<30 and not dialysis-dependent), and ESRD (receiving chronic hemodialysis therapy) \* _P_ <0.05; # _P_ <0.001 compared with control group.
+
+[![Figure 2.](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/1627/4696571/7bec72c0e11b/ASN.2014111063f2.gif)](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/1627/4696571/8b88a3726d37/ASN.2014111063f2.jpg)
+
+**Figure 2.**
+
+Relationship between serum and urine…
+
+**Figure 2.**
+
+Relationship between serum and urine TMAO concentrations in CKD. (A) Linear regression analysis…
+
+**Figure 2.**
+
+Relationship between serum and urine TMAO concentrations in CKD. (A) Linear regression analysis depicting the relationship between serum TMAO and eGFR in CKD patients from a cross-sectional cohort (excluding patients with ESRD). (B) Comparison of the spot urine TMAO to creatinine ratio (TMAO:Cr) in controls and CKD patients with residual kidney function. (C) Comparison of the spot fractional excretion of TMAO (FETMAO) in controls and patients with CKD with residual kidney function (box plots depict median + interquartile range and whiskers illustrate minimum-maximum values).
+
+[![Figure 3.](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/1627/4696571/277bd24308d1/ASN.2014111063f3.gif)](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/1627/4696571/1fab33f2106c/ASN.2014111063f3.jpg)
+
+**Figure 3.**
+
+Characterization of serum TMAO changes…
+
+**Figure 3.**
+
+Characterization of serum TMAO changes following renal transplantation. Serum TMAO concentrations in six…
+
+**Figure 3.**
+
+
+[... middle omitted — see footer ...]
+
+
+Actions
+
+
+
+
+
+  - [Search in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22Renal+Insufficiency%2C+Chronic%2Fsurgery%22%5BMAJR%5D&sort=date&sort_order=desc)
+  - [Search in MeSH](https://www.ncbi.nlm.nih.gov/mesh?term=Renal+Insufficiency%2C+Chronic)
+  - [Add to Search](https://pubmed.ncbi.nlm.nih.gov/26229137/#)
+
+## Substances
+
+- Methylamines
+
+
+
+
+Actions
+
+
+
+
+
+  - [Search in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22Methylamines%22%5Bnm%5D&sort=date&sort_order=desc)
+  - [Search in MeSH](https://www.ncbi.nlm.nih.gov/mesh?term=%22Methylamines%22)
+  - [Add to Search](https://pubmed.ncbi.nlm.nih.gov/26229137/#)
+
+- trimethyloxamine
+
+
+
+
+Actions
+
+
+
+
+
+  - [Search in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22trimethyloxamine%22%5Bnm%5D&sort=date&sort_order=desc)
+  - [Search in MeSH](https://www.ncbi.nlm.nih.gov/mesh?term=%22trimethyloxamine%22)
+  - [Add to Search](https://pubmed.ncbi.nlm.nih.gov/26229137/#)
+
+## Related information
+
+- [MedGen](https://www.ncbi.nlm.nih.gov/medgen?linkname=pubmed_medgen&from_uid=26229137 "Related information in MedGen")
+- [PubChem Compound (MeSH Keyword)](https://www.ncbi.nlm.nih.gov/pccompound?linkname=pubmed_pccompound_mesh&from_uid=26229137 "Related PubChem Compound via MeSH")
+
+## Grants and funding
+
+- [T32 DK071496/DK/NIDDK NIH HHS/United States](https://pubmed.ncbi.nlm.nih.gov/?term=T32+DK071496%2FDK%2FNIDDK+NIH+HHS%2FUnited+States%5BGrants+and+Funding%5D&sort=date&sort_order=desc "All articles for grant T32 DK071496/DK/NIDDK NIH HHS/United States")
+- [UL1 TR000001/TR/NCATS NIH HHS/United States](https://pubmed.ncbi.nlm.nih.gov/?term=UL1+TR000001%2FTR%2FNCATS+NIH+HHS%2FUnited+States%5BGrants+and+Funding%5D&sort=date&sort_order=desc "All articles for grant UL1 TR000001/TR/NCATS NIH HHS/United States")
+- [UL1-TR000001/TR/NCATS NIH HHS/United States](https://pubmed.ncbi.nlm.nih.gov/?term=UL1-TR000001%2FTR%2FNCATS+NIH+HHS%2FUnited+States%5BGrants+and+Funding%5D&sort=date&sort_order=desc "All articles for grant UL1-TR000001/TR/NCATS NIH HHS/United States")
+
+## LinkOut - more resources
+
+- ### Full Text Sources
+
+
+  - [Europe PMC](https://europepmc.org/abstract/MED/26229137)
+  - [PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/pmid/26229137/)
+  - [Wolters Kluwer](https://www.ovid.com/10.1681/ASN.2014111063)
+- ### Medical
+
+
+  - [MedlinePlus Health Information](https://medlineplus.gov/chronickidneydisease.html)
+- ### Research Materials
+
+
+  - [NCI CPTC Antibody Characterization Program](https://antibodies.cancer.gov/detail/CPTC-EGFR-8)
+- ### Miscellaneous
+
+
+  - [NCI CPTAC Assay Portal](https://assays.cancer.gov/CPTAC-802)
+
+NCBI Literature Resources
+
+[MeSH](https://www.ncbi.nlm.nih.gov/mesh/) [PMC](https://www.ncbi.nlm.nih.gov/pmc/) [Bookshelf](https://www.ncbi.nlm.nih.gov/books) [Disclaimer](https://pubmed.ncbi.nlm.nih.gov/disclaimer/)
+
+The PubMed wordmark and PubMed logo are registered trademarks of the U.S. Department of Health and Human Services (HHS). Unauthorized use of these marks is strictly prohibited.
+
+──────── [TRUNCATED] ────────
+Showing 8,864 chars (head) + 2,999 chars (tail) of 23,057 total clean characters.
+Full text saved to: /home/walker/.hermes/cache/web/pubmed.ncbi.nlm.nih.gov-24ff7d5d1e.md
+To read the omitted middle: read_file path="/home/walker/.hermes/cache/web/pubmed.ncbi.nlm.nih.gov-24ff7d5d1e.md" offset=279 limit=200  (the file is the complete page; raise/lower offset to page through it).
+─────────────────────────────

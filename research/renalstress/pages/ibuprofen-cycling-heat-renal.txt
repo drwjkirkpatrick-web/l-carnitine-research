@@ -1,0 +1,17 @@
+PMID: 29784554
+URL: https://pubmed.ncbi.nlm.nih.gov/29784554/
+Title: Renal stress and kidney injury biomarkers in response to endurance cycling in the heat with and without ibuprofen.
+Authors: McDermott BP; Smith CR; Butts CL; Caldwell AR; Lee EC; Vingren JL; Munoz CX; Kunces LJ; Williamson K; Ganio MS; Armstrong LE
+Journal: Journal of science and medicine in sport
+Year: 2018
+Vol/Pages: 21(12):1180-1184
+DOI: 10.1016/j.jsams.2018.05.003
+Accessed: 2026-11-15 (NCBI PubMed efetch abstract)
+
+ABSTRACT
+UNLABELLED: Exercise, especially in the heat, can contribute to acute kidney injury, which can expedite chronic kidney disease onset. The additional stress of ibuprofen use is hypothesized to increase renal stress.
+OBJECTIVES: To observe the effects of endurance cycling in the heat on renal function. Secondarily, we investigated the effect of ibuprofen ingestion on kidney stress.
+DESIGN: Randomized, placebo controlled and observational methods were utilized.
+METHODS: Forty cyclists (52±9y, 21.7±6.5% body fat) volunteered and completed an endurance cycling event (5.7±1.2h) in the heat (33.2±5.0°C, 38.4±10.7% RH). Thirty-five participants were randomized to ingest a placebo (n=17) or 600mg ibuprofen (n=18) pre-event. A blood sample was drawn before and following the event. Serum creatinine was assessed by colorimetric assay. An ELISA was used to measure serum neutrophil gelatinase-associated lipocalin. Fractional excretion of sodium was calculated after urinary and serum electrolyte analyses.
+RESULTS: Placebo versus ibuprofen groups contributed no significant difference in any variable (p>0.05). Serum creatinine significantly increased from pre- (0.52±0.14mg/dL) to post-event (0.88±0.21mg/dL; p<0.001). Serum neutrophil gelatinase-associated lipocalin significantly increased (pre: 68.51±17.54ng/mL; post: 139.12±36.52ng/mL; p<0.001) and fractional excretion of sodium was significantly reduced from pre- (0.52±0.24%) to post-event (0.27±0.18%; p<0.001).
+CONCLUSIONS: Changes in renal biomarkers suggest mild acute kidney injury and reduced kidney function during a single bout of endurance cycling in the heat, without influence from moderate ibuprofen ingestion.

@@ -1,0 +1,56 @@
+# Source: PubMed (NCBI E-utilities efetch)
+# URL: https://pubmed.ncbi.nlm.nih.gov/34383825/
+# Fetched: 2026-11-15
+# PMID: 34383825
+
+1. PLoS One. 2021 Aug 12;16(8):e0256009. doi: 10.1371/journal.pone.0256009. 
+eCollection 2021.
+
+Acylcarnitine profile in Alaskan sled dogs during submaximal multiday exercise 
+points out metabolic flexibility and liver role in energy metabolism.
+
+Tosi I(1), Art T(1), Boemer F(2), Votion DM(3), Davis MS(4).
+
+Author information:
+(1)Department of Functional Sciences, Fundamental and Applied Research for 
+Animals & Health (FARAH), Faculty of Veterinary Medicine, University of Liège, 
+Liège, Belgium.
+(2)Biochemical Genetics Laboratory, CHU Sart-Tilman, University of Liège, Liège, 
+Belgium.
+(3)Equine pole, Fundamental and Applied Research for Animals & Health (FARAH), 
+Faculty of Veterinary Medicine, University of Liège, Liège, Belgium.
+(4)Department of Physiological Sciences, Oklahoma State University, Stillwater, 
+Oklahoma, United States of America.
+
+Alaskan sled dogs develop a particular metabolic strategy during multiday 
+submaximal exercise, allowing them to switch from intra-muscular to 
+extra-muscular energy substrates thus postponing fatigue. Specifically, a 
+progressively increasing stimulus for hepatic glycogenolysis and gluconeogenesis 
+provides glucose for both fueling exercise and replenishing the depleted muscle 
+glycogen. Moreover, recent studies have shown that with continuation of exercise 
+sled dogs increase their insulin-sensitivity and their capacity to transport and 
+oxidize glucose and carbohydrates rather than oxidizing fatty acids. Carnitine 
+and acylcarnitines (AC) play an essential role as metabolic regulators in both 
+fat and glucose metabolism; they serve as biomarkers in different species in 
+both physiologic and pathologic conditions. We assessed the effect of multiday 
+exercise in conditioned sled dogs on plasma short (SC), medium (MC) and long 
+(LC) chain AC by tandem mass spectrometry (MS/MS). Our results show 
+chain-specific modification of AC profiles during the exercise challenge: LCACs 
+maintained a steady increase throughout exercise, some SCACs increased during 
+the last phase of exercise and acetylcarnitine (C2) initially increased before 
+decreasing during the later phase of exercise. We speculated that SCACs kinetics 
+could reflect an increased protein catabolism and C2 pattern could reflect its 
+hepatic uptake for energy-generating purposes to sustain gluconeogenesis. LCACs 
+may be exported by muscle to avoid their accumulation to preserve glucose 
+oxidation and insulin-sensitivity or they could be distributed by liver as 
+energy substrates. These findings, although representing a "snapshot" of blood 
+as a crossing point between different organs, shed further light on sled dogs 
+metabolism that is liver-centric and more carbohydrate-dependent than 
+fat-dependent and during prolonged submaximal exercise.
+
+DOI: 10.1371/journal.pone.0256009
+PMCID: PMC8360531
+PMID: 34383825 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.

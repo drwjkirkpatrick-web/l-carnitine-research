@@ -1,0 +1,58 @@
+SOURCE: Carnitine and sports medicine: use or abuse?
+URL: https://pubmed.ncbi.nlm.nih.gov/15591004/
+FETCHED: 2026-11-15 via NCBI efetch (pubmed abstract, retmode=text)
+PMID: 15591004
+DOI: 10.1196/annals.1320.006
+------------------------------------------------------------------------
+2. Ann N Y Acad Sci. 2004 Nov;1033:67-78. doi: 10.1196/annals.1320.006.
+
+Carnitine and sports medicine: use or abuse?
+
+Brass EP(1).
+
+Author information:
+(1)Harbor-UCLA Center for Clinical Pharmacology, 1124 West Carson Street, 
+Building J2, Torrance, CA 90502, USA. ebrass@ucla.edu
+
+Carnitine has important roles in skeletal muscle bioenergetics. Skeletal muscle 
+carnitine deficiency is associated with profound impairment of muscle function. 
+It has thus been natural to ask if carnitine supplementation can improve 
+skeletal muscle function and athletic performance in healthy individuals. Oral 
+carnitine doses of several grams cause no significant clinical toxicity, further 
+encouraging the use of carnitine as a supplement. Despite this strong foundation 
+and 20 years of research, no compelling evidence exists that carnitine 
+supplementation can improve physical performance in healthy subjects. The 
+available data have been reviewed in recent publications. Several key issues are 
+relevant to a potential therapeutic benefit of carnitine supplementation, and 
+addressing these may provide insight into trials of carnitine therapy in healthy 
+subjects: (1) Can carnitine supplementation increase skeletal muscle carnitine 
+content in healthy subjects? Muscle carnitine content is not easily increased 
+with carnitine supplementation. This reflects both the systemic pharmacokinetics 
+of carnitine and the systems controlling transmembrane transport of carnitine in 
+skeletal muscle. (2) How much carnitine is required to support optimal 
+metabolism in skeletal muscle? Data are not available to definitively define the 
+relationship between muscle carnitine content and muscle metabolic function. 
+Extrapolation of data from several models suggests that very low amounts of 
+carnitine are required to support muscle function. (3) Does carnitine 
+supplementation alter energy homeostasis in healthy subjects? Several, but not 
+all, studies suggest that subjects on carnitine supplementation have altered 
+regulation of fuel homeostasis. However, the mechanisms of these changes, the 
+tissues affected, and the relevance of these phenomena to exercise performance 
+are all ill defined. (4) How can changes in performance be assessed in healthy 
+subjects? Most studies have failed to demonstrate an objective performance 
+improvement in healthy subjects taking carnitine. However, these negative 
+studies must be interpreted with caution. Performance studies in athletes are 
+conducted against a background of aggressive training regimens and nutritional 
+interventions. Small changes, which may be very important to the athlete, may be 
+very hard to objectify in the laboratory. Assessments must differentiate between 
+changes in maximal aerobic capacity, ability to sustain effort at varied 
+workloads, and the subject's perception of exertion. The interaction of 
+carnitine supplementation with exercise training may be particularly important 
+on theoretical and experimental bases. Systematic research in each of these 
+areas is required to better understand the physiology, biochemistry, and 
+pharmacology of carnitine supplementation. While data do not allow a conclusion 
+to be drawn that carnitine is beneficial, the negative has not been proven 
+either.
+
+DOI: 10.1196/annals.1320.006
+PMID: 15591004 [Indexed for MEDLINE]

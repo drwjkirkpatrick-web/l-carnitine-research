@@ -1,0 +1,36 @@
+4. Clin Invest Med. 2009 Feb 1;32(1):E13-9. doi: 10.25011/cim.v32i1.5082.
+
+Comparison of pharmacokinetics of L-carnitine, acetyl-L-carnitine and 
+propionyl-L-carnitine after single oral administration of L-carnitine in healthy 
+volunteers.
+
+Cao Y(1), Wang YX, Liu CJ, Wang LX, Han ZW, Wang CB.
+
+Author information:
+(1)The Affiliated Hospital of Medical College, Qingdao University, Qingdao, 
+China.
+
+PURPOSE: To investigate the pharmacokinetics of L-carnitine (LC) and its 
+analogues, acetyl-L-carnitine (ALC) and propionyl-L-carnitine (PLC) in healthy 
+volunteers after single L-carnitine administration.
+METHODS: Liquid L-carnitine (2.0 g) was administered orally as a single dose in 
+12 healthy subjects. Plasma and urine concentrations of L-carnitine, ALC and PLC 
+were detected by HPLC.
+RESULTS: The maximum plasma concentration (Cmax) and area under the curve (AUC 
+0-infinity) of L-carnitine was 84.7+/-25.2 micromol x L(-1) x h and 
+2676.4+/-708.3 micromol x L(-1) x h, respectively. The elimination half-life of 
+L-carnitine and the time required to reach the Cmax (Tmax) was 60.3+/-15.0 and 
+3.4+/-0.46 h, respectively. The Cmax of ALC (12.9+/-5.5 micromol x L(-1)) and 
+PLC (5.08+/-3.08 micromol x L(-1)) was lower than L-carnitine (P < 0.01), so as 
+the AUC 0-infinity (166.2+/-77.4 and 155.6+/-264.2 micromol x L(-1) x h, 
+respectively, P < 0.01). The half-life of ALC (35.9+/-28.9h) and PLC 
+(25.7+/-30.3 h) was also shorter than L-carnitine (P < 0.01). The 24h 
+accumulated urinary excretion of L-carnitine, ALC and PLC were 613.5+/-161.7, 
+368.3+/-134.8 and 61.3+/-37.8 micromol, respectively.
+CONCLUSION: L-carnitine has a greater maximum plasma concentration than ALC and 
+PLC. L-carnitine also has a longer half-life than ALC and PLC. These data may 
+have important implications in the designing of dosing regimens for L-carnitine 
+or its analogues, such as ALC or PLC.
+
+DOI: 10.25011/cim.v32i1.5082
+PMID: 19178874 [Indexed for MEDLINE]

@@ -1,0 +1,40 @@
+PMID: 40647189
+PubMed URL: https://pubmed.ncbi.nlm.nih.gov/40647189/
+Fetched via NCBI eutils efetch, accessed 2026-11-15
+
+1. Nutrients. 2025 Jun 23;17(13):2084. doi: 10.3390/nu17132084.
+
+Carnitine Deficiency in Chronic Kidney Disease: Pathophysiology, Clinical 
+Implications, and Therapeutic Perspectives.
+
+Kaida Y(1), Taguchi K(1)(2), Fukami K(1).
+
+Author information:
+(1)Division of Nephrology, Department of Medicine, Kurume University School of 
+Medicine, Kurume 830-0011, Japan.
+(2)Research Institute of Medical Mass Spectrometry, Kurume University School of 
+Medicine, Kurume 830-0011, Japan.
+
+Carnitine is essential for the mitochondrial transport of long-chain fatty acids 
+and thus plays a pivotal role in energy metabolism, particularly in 
+metabolically active organs, such as skeletal and cardiac muscle. In patients 
+with dialysis, carnitine homeostasis is disrupted because of the reduced 
+synthesis, impaired renal reabsorption, and carnitine loss during extracorporeal 
+procedures. Carnitine deficiency is linked to a wide range of clinical 
+manifestations, including muscle weakness, treatment-resistant anemia, 
+intradialytic hypotension, mental disorder, and cardiovascular disease. This 
+review provides a comprehensive overview of the physiological function of 
+carnitine, elucidates the underlying mechanisms of carnitine deficiency in 
+patients with dialysis, and explores the clinical consequences. Furthermore, the 
+efficacy and limitations of L-carnitine supplementation in clinical practice are 
+discussed based on the current literature. A better understanding of the 
+pathophysiological and clinical relevance of carnitine deficiency may help 
+facilitate personalized therapeutic strategies for patients with kidney 
+diseases.
+
+DOI: 10.3390/nu17132084
+PMCID: PMC12251438
+PMID: 40647189 [Indexed for MEDLINE]
+
+Conflict of interest statement: K.F. has received lecture fees from Otsuka 
+Pharmaceutical Co., Ltd. Y.K. and K.T declare no conflict of interest.

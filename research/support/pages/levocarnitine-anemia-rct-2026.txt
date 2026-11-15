@@ -1,0 +1,57 @@
+# Source: PubMed (NCBI E-utilities efetch)
+# URL: https://pubmed.ncbi.nlm.nih.gov/41644022/
+# Fetched: 2026-11-15
+# PMID: 41644022
+
+1. J Ren Nutr. 2026 May;36(3):491-501. doi: 10.1053/j.jrn.2026.01.008. Epub 2026 
+Feb 3.
+
+Effectiveness of L-Carnitine for the Treatment of Erythropoietin-Resistant Renal 
+Anemia: A Randomized, Double-Blind, Placebo-Controlled Pilot Trial.
+
+Reuter SE(1), Steiber AL(2), Faull RJ(3), Evans AM(4).
+
+Author information:
+(1)School of Pharmacy and Biomedical Science, Adelaide University, Adelaide, 
+South Australia, Australia. Electronic address: 
+stephanie.reuterlange@adelaide.edu.au.
+(2)Department of Nutrition, Case Western Reserve University, Cleveland, Ohio; 
+Academy of Nutrition and Dietetics, Chicago, Illinois.
+(3)Central Northern Adelaide Renal and Transplantation Service, Adelaide, South 
+Australia, Australia; School of Medicine, Adelaide University, Adelaide, South 
+Australia, Australia.
+(4)School of Pharmacy and Biomedical Science, Adelaide University, Adelaide, 
+South Australia, Australia.
+
+OBJECTIVE: Despite its use in the treatment of renal anemia, no adequately 
+controlled studies have examined the impact of L-carnitine administration in the 
+patient population for which it is indicated (i.e., those hyporesponsive to 
+erythropoiesis-stimulating agents [ESAs]). This randomized, double-blind, 
+placebo-controlled pilot study evaluated the potential benefit of L-carnitine 
+supplementation for the treatment of renal anemia in chronic hemodialysis 
+patients who were hyporesponsive to ESA treatment.
+METHODS: Patients shown to be hyporesponsive to ESA treatment were administered 
+intravenous L-carnitine (10-20 mg/kg/dialysis session) or placebo for 3 months, 
+during which erythropoietin resistance index (ERI) was measured as an indicator 
+of treatment effectiveness. Secondary validation was conducted using an 
+independent dataset.
+RESULTS: L-carnitine supplementation was associated with a 25% reduction in ERI, 
+significantly greater than that seen in placebo-treated patients (3% reduction). 
+This was supported by a 42% reduction after 6 months of treatment in the 
+validation dataset. Overall, 88% of L-carnitine-treated patients had a 
+clinically significant improvement in ERI, compared to 0% of placebo-treated 
+patients.
+CONCLUSIONS: These findings provide evidence to support the National Kidney 
+Foundation's practice recommendations with respect to the clinical use of 
+L-carnitine for renal anemia. While the exact mechanism is yet to be elucidated, 
+it is proposed that L-carnitine treatment improves carnitine 
+palmitoyltransferase activity via carnitine pool normalization, thereby 
+resulting in stabilization of the erythrocyte membrane. If this is the case, 
+then it is feasible that a dual approach to increase erythrocyte production and 
+lifespan through co-administration of ESA and L-carnitine provides a viable 
+treatment option for ESA-resistant patients.
+
+Copyright © 2026 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1053/j.jrn.2026.01.008
+PMID: 41644022 [Indexed for MEDLINE]

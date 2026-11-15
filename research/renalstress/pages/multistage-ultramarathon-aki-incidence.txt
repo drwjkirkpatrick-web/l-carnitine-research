@@ -1,0 +1,19 @@
+PMID: 26513390
+URL: https://pubmed.ncbi.nlm.nih.gov/26513390/
+Title: Incidence and Prevalence of Acute Kidney Injury During Multistage Ultramarathons.
+Authors: Lipman GS; Krabak BJ; Rundell SD; Shea KM; Badowski N; Little C
+Journal: Clinical journal of sport medicine : official journal of the Canadian Academy of Sport Medicine
+Year: 2016
+Vol/Pages: 26(4):314-9
+DOI: 10.1097/JSM.0000000000000253
+Accessed: 2026-11-15 (NCBI PubMed efetch abstract)
+
+ABSTRACT
+OBJECTIVE: Determine prevalence, incidence, and risk factors of acute kidney injury (AKI) during multistage ultramarathons.
+DESIGN: Prospective observational cohort study.
+SETTING: Jordanian Desert 2012; Atacama Desert, Chile 2012 and 2013; and Gobi Desert 2013 RacingThePlanet 250 km, 6-stage, ultramarathons.
+PARTICIPANTS: One hundred twenty-eight participants (384 measurements) from the Jordan (25, 19.5%), Gobi (35, 27.3%), 2012 Atacama (24, 18.8%), and 2013 Atacama (44, 34.4%) races.
+INTERVENTIONS: Blood samples and weights were gathered and analyzed immediately after stage 1 (40 km), 3 (120 km), and 5 (225 km).
+MAIN OUTCOME MEASURES: Changes in serum creatinine (Cr), cumulative incidence, and prevalence of AKI were calculated for each stage with "risk of injury" defined as 1.5 × baseline Cr and "injury" defined as 2 × Cr.
+RESULTS: Cumulative incidence of AKI was 41.4%. Stage 1 had 56 (43.8%) with risk of AKI and 24 (18.8%) with injury; in stage 3, 61 (47.7%) were at risk, 41 (32%) had injury; in stage 5, 62 (48.4%) runners were at risk and 36 (28.1%) had injury. Acute kidney injury was significantly associated with females [odds ratio (OR), 4.64; 95% confidence interval (CI), 2.07-10.37; P < 0.001], lower pack weight (OR, 0.71; 95% CI, 0.56-0.91; P < 0.007), and percentage weight loss (OR, 0.87; 95% CI, 0.78-0.97; P < 0.015). Lowest quintile of finishers was less likely to develop AKI (OR, 0.18; 95% CI, 0.04-0.78; P < 0.022).
+CONCLUSIONS: Prevalence of AKI was 63%-78% during multistage ultramarathons. Female sex, lower pack weight, and greater weight loss were associated with renal impairment.

@@ -1,0 +1,50 @@
+SOURCE: Increasing skeletal muscle carnitine availability does not alter the adaptations to high-intensity interval training.
+URL: https://pubmed.ncbi.nlm.nih.gov/28345160/
+FETCHED: 2026-11-15 via NCBI efetch (pubmed abstract, retmode=text)
+PMID: 28345160
+DOI: 10.1111/sms.12885
+------------------------------------------------------------------------
+17. Scand J Med Sci Sports. 2018 Jan;28(1):107-115. doi: 10.1111/sms.12885. Epub 
+2017 May 12.
+
+Increasing skeletal muscle carnitine availability does not alter the adaptations 
+to high-intensity interval training.
+
+Shannon CE(1)(2), Ghasemi R(1), Greenhaff PL(1), Stephens FB(1)(3).
+
+Author information:
+(1)MRC/ARUK Centre for Musculoskeletal Ageing Research, School of Life Sciences, 
+University of Nottingham, Nottingham, UK.
+(2)Diabetes Division, University of Texas Health Science Centre, San Antonio, 
+TX, USA.
+(3)Sport and Health Sciences, University of Exeter, Exeter, UK.
+
+Increasing skeletal muscle carnitine availability alters muscle metabolism 
+during steady-state exercise in healthy humans. We investigated whether 
+elevating muscle carnitine, and thereby the acetyl-group buffering capacity, 
+altered the metabolic and physiological adaptations to 24 weeks of 
+high-intensity interval training (HIIT) at 100% maximal exercise capacity 
+(Wattmax ). Twenty-one healthy male volunteers (age 23±2 years; BMI 
+24.2±1.1 kg/m2 ) performed 2 × 3 minute bouts of cycling exercise at 100% 
+Wattmax , separated by 5 minutes of rest. Fourteen volunteers repeated this 
+protocol following 24 weeks of HIIT and twice-daily consumption of 80 g 
+carbohydrate (CON) or 3 g l-carnitine+carbohydrate (CARN). Before HIIT, muscle 
+phosphocreatine (PCr) degradation (P<.0001), glycogenolysis (P<.0005), PDC 
+activation (P<.05), and acetylcarnitine (P<.005) were 2.3-, 2.1-, 1.5-, and 
+1.5-fold greater, respectively, in exercise bout two compared to bout 1, while 
+lactate accumulation tended (P<.07) to be 1.5-fold greater. Following HIIT, 
+muscle free carnitine was 30% greater in CARN vs CON at rest and remained 40% 
+elevated prior to the start of bout 2 (P<.05). Following bout 2, free carnitine 
+content, PCr degradation, glycogenolysis, lactate accumulation, and PDC 
+activation were all similar between CON and CARN, albeit markedly lower than 
+before HIIT. VO2max , Wattmax , and work output were similarly increased in CON 
+and CARN, by 9, 15, and 23% (P<.001). In summary, increased reliance on 
+non-mitochondrial ATP resynthesis during a second bout of intense exercise is 
+accompanied by increased carnitine acetylation. Augmenting muscle carnitine 
+during 24 weeks of HIIT did not alter this, nor did it enhance muscle metabolic 
+adaptations or performance gains beyond those with HIIT alone.
+
+© 2017 John Wiley & Sons A/S. Published by John Wiley & Sons Ltd.
+
+DOI: 10.1111/sms.12885
+PMID: 28345160 [Indexed for MEDLINE]

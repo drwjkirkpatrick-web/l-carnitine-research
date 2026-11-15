@@ -1,0 +1,36 @@
+18. J Appl Physiol (1985). 2007 Mar;102(3):1065-70. doi: 
+10.1152/japplphysiol.01011.2006. Epub 2006 Nov 30.
+
+Carbohydrate ingestion augments L-carnitine retention in humans.
+
+Stephens FB(1), Evans CE, Constantin-Teodosiu D, Greenhaff PL.
+
+Author information:
+(1)School of Biomedical Sciences, Queen's Medical Centre, University of 
+Nottingham, Nottingham, NG7 2UH, UK. francis.stephens@nottingham.ac.uk
+
+Maintaining hyperinsulinemia (approximately 150 mU/l) during steady-state 
+hypercarnitinemia (approximately 550 micromol/l) increases skeletal muscle total 
+carnitine (TC) content by approximately 15% within 5 h. The present study aimed 
+to investigate whether an increase in whole body carnitine retention can be 
+achieved through L-carnitine feeding in conjunction with a dietary-induced 
+elevation in circulating insulin. On two randomized visits (study A), eight men 
+ingested 3 g/day L-carnitine followed by 4 x 500-ml solutions, each containing 
+flavored water (Con) or 94 g simple sugars (glucose syrup; CHO). In addition, 14 
+men ingested 3 g/day L-carnitine followed by 2 x 500 ml of either Con or CHO for 
+2 wk (study B). Carbohydrate ingestion in study A resulted in a fourfold greater 
+serum insulin area under the curve when compared with Con (P < 0.001) and in a 
+lower plasma TC concentration throughout the CHO visit (P < 0.05). 
+Twenty-four-hour urinary TC excretion in the CHO visit was lower than in the Con 
+visit in study A (155.0 +/- 10.7 vs. 212.1 +/- 17.2 mg; P < 0.05). In study B, 
+daily urinary TC excretion increased after 3 days (65.9 +/- 18.0 to 281.0 +/- 
+35.0 mg; P < 0.001) and remained elevated throughout the Con trial. During the 
+CHO trial, daily urinary TC excretion increased from a similar basal value of 
+53.8 +/- 9.2 to 166.8 +/- 17.3 mg after 3 days (P < 0.01), which was less than 
+during the Con trial (P < 0.01), and it remained lower over the course of the 
+study (P < 0.001). The difference in plasma TC concentration in study A and 24-h 
+urinary TC excretion in both studies suggests that insulin augmented the 
+retention of carnitine in the CHO trials.
+
+DOI: 10.1152/japplphysiol.01011.2006
+PMID: 17138832 [Indexed for MEDLINE]

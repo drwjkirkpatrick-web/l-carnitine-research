@@ -1,0 +1,386 @@
+# URL: https://pubmed.ncbi.nlm.nih.gov/28807612/
+# Fetched via web_extract on 2026-11-15
+
+Clipboard, Search History, and several other advanced features are temporarily unavailable.
+
+
+[Skip to main page content](https://pubmed.ncbi.nlm.nih.gov/28807612/#article-details)
+
+### NIH Websites Are Changing
+
+- [Get the Latest Updates and FAQs on the transition](https://www.nih.gov/web-modernization)
+- Per [Executive Order 14434](https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/), federal agencies are now using "Super Intelligence" (SI) in place of "Artificial Intelligence" (AI). You may see both terms across NIH content during this transition.
+
+![Dot gov](https://cdn.ncbi.nlm.nih.gov/coreutils/uswds/img/icon-dot-gov.svg)
+
+**The .gov means it’s official.**
+
+Federal government websites often end in .gov or .mil. Before
+sharing sensitive information, make sure you’re on a federal
+government site.
+
+
+![Https](https://cdn.ncbi.nlm.nih.gov/coreutils/uswds/img/icon-https.svg)
+
+**The site is secure.**
+
+The **https://** ensures that you are connecting to the
+official website and that any information you provide is encrypted
+and transmitted securely.
+
+
+[Access keys](https://www.ncbi.nlm.nih.gov/guide/browsers/#ncbi_accesskeys) [NCBI Homepage](https://www.ncbi.nlm.nih.gov/) [MyNCBI Homepage](https://pubmed.ncbi.nlm.nih.gov/myncbi/) [Main Content](https://pubmed.ncbi.nlm.nih.gov/28807612/#maincontent) [Main Navigation](https://pubmed.ncbi.nlm.nih.gov/28807612/#)
+
+[![pubmed logo](https://cdn.ncbi.nlm.nih.gov/pubmed/a447896c-976f-490b-b86b-2668b65114a8/core/images/pubmed-logo-blue.svg)](https://pubmed.ncbi.nlm.nih.gov/)[Show search bar](https://pubmed.ncbi.nlm.nih.gov/28807612/# "Show search bar")
+
+Search:
+
+
+```
+
+```
+
+[Clear search input](https://pubmed.ncbi.nlm.nih.gov/28807612/# "Clear search input") Search
+
+[Advanced](https://pubmed.ncbi.nlm.nih.gov/advanced/) [Clipboard](https://pubmed.ncbi.nlm.nih.gov/clipboard/)
+
+[User Guide](https://pubmed.ncbi.nlm.nih.gov/help/)
+
+Save
+
+Email
+
+
+Send to
+
+- [Clipboard](https://pubmed.ncbi.nlm.nih.gov/28807612/#)
+- [My Bibliography](https://account.ncbi.nlm.nih.gov/?back_url=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F28807612%2F%23open-bibliography-panel)
+- [Collections](https://account.ncbi.nlm.nih.gov/?back_url=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F28807612%2F%23open-collections-panel)
+- [Citation manager](https://pubmed.ncbi.nlm.nih.gov/28807612/#)
+
+Display options
+
+Display options
+
+
+Format
+AbstractPubMedPMID
+
+## Save citation to file
+
+Format:
+Summary (text)PubMedPMIDAbstract (text)CSV
+
+Create file
+
+Cancel
+
+
+## Email citation
+
+Email address has not been verified. Go to
+[My NCBI account settings](https://account.ncbi.nlm.nih.gov/settings/)
+to confirm your email and then refresh this page.
+
+
+To:
+
+
+Subject:
+
+
+Body:
+
+
+Format:
+SummarySummary (text)AbstractAbstract (text)
+
+MeSH and other data
+
+
+Send email
+
+Cancel
+
+
+### Add to Collections
+
+- Create a new collection
+- Add to an existing collection
+
+Name your collection:
+
+
+Name must be less than 100 characters
+
+
+Choose a collection:
+
+
+Unable to load your collection due to an error
+
+[Please try again](https://pubmed.ncbi.nlm.nih.gov/28807612/#)
+
+Add
+
+Cancel
+
+
+### Add to My Bibliography
+
+- My Bibliography
+
+Unable to load your delegates due to an error
+
+[Please try again](https://pubmed.ncbi.nlm.nih.gov/28807612/#)
+
+Add
+
+Cancel
+
+
+## Your saved search
+
+Name of saved search:
+
+
+Search terms:
+
+
+[Test search terms](https://pubmed.ncbi.nlm.nih.gov/28807612/#)
+
+Would you like email updates of new search results?
+Saved Search Alert Radio Buttons
+
+- Yes
+- No
+
+Email:
+( [change](https://www.ncbi.nlm.nih.gov/account/settings/))
+
+Frequency:
+MonthlyWeeklyDaily
+
+Which day?
+The first SundayThe first MondayThe first TuesdayThe first WednesdayThe first ThursdayThe first FridayThe first SaturdayThe first dayThe first weekday
+
+Which day?
+SundayMondayTuesdayWednesdayThursdayFridaySaturday
+
+Report format:
+SummarySummary (text)AbstractAbstract (text)PubMed
+
+Send at most:
+1 item5 items10 items20 items50 items100 items200 items
+
+Send even when there aren't any new results
+
+
+Optional text in email:
+
+
+Save
+
+Cancel
+
+
+## Create a file for external citation management software
+
+Create file
+
+Cancel
+
+
+## Your RSS Feed
+
+Name of RSS Feed:
+
+
+Number of items displayed:
+510152050100
+
+Create RSS
+
+Cancel
+
+
+RSS Link
+Copy
+
+
+Full text links
+Cite
+
+Display options
+
+Display options
+
+
+Format
+AbstractPubMedPMID
+
+Linked Discoveries
+
+## Abstract
+
+
+Patients with chronic kidney disease (CKD) have an enhanced risk of cardiovascular (CV) morbidity and mortality when compared with age- and gender-matched individuals with normal kidney function. Trimethlyamine N-oxide (TMAO) is a gut-derived amine oxide that has been implicated in the causation of CV diseases. Plasma TMAO is cleared by the kidney, and TMAO levels are elevated in CKD. Experimental studies have identified pathogenic mechanisms by which TMAO may contribute to CV disease through dysregulation of lipid metabolism, enhanced macrophage foam cell formation, and platelet dysfunction. Safe and well-tolerated therapeutic interventions such as pre- and probiotics, which modify the gut microbiome, offer the opportunity for interventional studies. This review examines the pathogenicity of TMAO, its value as a biomarker, and its potential as a therapeutic target in the context of CKD.
+
+
+**Keywords:**
+
+cardiovascular disease; chronic kidney disease; microbiome.
+
+
+Copyright © 2017 International Society of Nephrology. Published by Elsevier Inc. All rights reserved.
+
+
+[PubMed Disclaimer](https://pubmed.ncbi.nlm.nih.gov/disclaimer/)
+
+## Similar articles
+
+- [Serum Trimethylamine-N-Oxide Is Strongly Related to Renal Function and Predicts Outcome in Chronic Kidney Disease.](https://pubmed.ncbi.nlm.nih.gov/26751065/)
+
+Missailidis C, Hällqvist J, Qureshi AR, Barany P, Heimbürger O, Lindholm B, Stenvinkel P, Bergman P.Missailidis C, et al.PLoS One. 2016 Jan 11;11(1):e0141738. doi: 10.1371/journal.pone.0141738. eCollection 2016.PLoS One. 2016.PMID: 26751065Free PMC article.
+
+- [Elevation of Trimethylamine-N-Oxide in Chronic Kidney Disease: Contribution of Decreased Glomerular Filtration Rate.](https://pubmed.ncbi.nlm.nih.gov/31683880/)
+
+Pelletier CC, Croyal M, Ene L, Aguesse A, Billon-Crossouard S, Krempf M, Lemoine S, Guebre-Egziabher F, Juillard L, Soulage CO.Pelletier CC, et al.Toxins (Basel). 2019 Nov 1;11(11):635. doi: 10.3390/toxins11110635.Toxins (Basel). 2019.PMID: 31683880Free PMC article.
+
+- [Targeted Inhibition of Gut Microbial Trimethylamine N-Oxide Production Reduces Renal Tubulointerstitial Fibrosis and Functional Impairment in a Murine Model of Chronic Kidney Disease.](https://pubmed.ncbi.nlm.nih.gov/32212854/)
+
+Gupta N, Buffa JA, Roberts AB, Sangwan N, Skye SM, Li L, Ho KJ, Varga J, DiDonato JA, Tang WHW, Hazen SL.Gupta N, et al.Arterioscler Thromb Vasc Biol. 2020 May;40(5):1239-1255. doi: 10.1161/ATVBAHA.120.314139. Epub 2020 Mar 26.Arterioscler Thromb Vasc Biol. 2020.PMID: 32212854Free PMC article.
+
+- [Trimethylamine N-Oxide: The Good, the Bad and the Unknown.](https://pubmed.ncbi.nlm.nih.gov/27834801/)
+
+Velasquez MT, Ramezani A, Manal A, Raj DS.Velasquez MT, et al.Toxins (Basel). 2016 Nov 8;8(11):326. doi: 10.3390/toxins8110326.Toxins (Basel). 2016.PMID: 27834801Free PMC article.Review.
+
+- [Gut microbiota-derived trimethylamine N-oxide is associated with the risk of all-cause and cardiovascular mortality in patients with chronic kidney disease: a systematic review and dose-response meta-analysis.](https://pubmed.ncbi.nlm.nih.gov/37246850/)
+
+Li Y, Lu H, Guo J, Zhang M, Zheng H, Liu Y, Liu W.Li Y, et al.Ann Med. 2023 Dec;55(1):2215542. doi: 10.1080/07853890.2023.2215542.Ann Med. 2023.PMID: 37246850Free PMC article.
+
+
+[See all similar articles](https://pubmed.ncbi.nlm.nih.gov/?linkname=pubmed_pubmed&from_uid=28807612)
+
+## Cited by
+
+- [Associations Between Inflammatory and Bone Turnover Markers and Mortality in Hemodialysis Patients.](https://pubmed.ncbi.nlm.nih.gov/40426990/)
+
+Sircuța AF, Grosu ID, Schiller A, Petrica L, Ivan V, Schiller O, Maralescu FM, Palamar M, Mircea MN, Nișulescu D, Goleț I, Bob F.Sircuța AF, et al.Biomedicines. 2025 May 10;13(5):1163. doi: 10.3390/biomedicines13051163.Biomedicines. 2025.PMID: 40426990Free PMC article.
+
+- [Optimization of enzyme-linked immunosorbent assay kit protocol to detect trimethylamine N-oxide levels in humans.](https://pubmed.ncbi.nlm.nih.gov/37575362/)
+
+Aksoyalp ZS, Erdogan BR, Aksun S.Aksoyalp ZS, et al.EXCLI J. 2023 Feb 20;22:263-273. doi: 10.17179/excli2022-5617. eCollection 2023.EXCLI J. 2023.PMID: 37575362Free PMC article.
+
+- [Circulating Bacterial Fragments as Cardiovascular Risk Factors in CKD.](https://pubmed.ncbi.nlm.nih.gov/29666156/)
+
+Szeto CC, McIntyre CW, Li PK.Szeto CC, et al.J Am Soc Nephrol. 2018 Jun;29(6):1601-1608. doi: 10.1681/ASN.2018010068. Epub 2018 Apr 17.J Am Soc Nephrol. 2018.PMID: 29666156Free PMC article.
+
+
+[... middle omitted — see footer ...]
+
+
+
+
+  - [Search in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22Renal+Insufficiency%2C+Chronic%2Ftherapy%22%5BMeSH%5D&sort=date&sort_order=desc)
+  - [Search in MeSH](https://www.ncbi.nlm.nih.gov/mesh?term=Renal+Insufficiency%2C+Chronic)
+  - [Add to Search](https://pubmed.ncbi.nlm.nih.gov/28807612/#)
+
+- Risk Factors
+
+
+
+
+Actions
+
+
+
+
+
+  - [Search in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22Risk+Factors%22%5BMeSH%5D&sort=date&sort_order=desc)
+  - [Search in MeSH](https://www.ncbi.nlm.nih.gov/mesh?term=Risk+Factors)
+  - [Add to Search](https://pubmed.ncbi.nlm.nih.gov/28807612/#)
+
+## Substances
+
+- Biomarkers
+
+
+
+
+Actions
+
+
+
+
+
+  - [Search in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22Biomarkers%22%5Bnm%5D&sort=date&sort_order=desc)
+  - [Search in MeSH](https://www.ncbi.nlm.nih.gov/mesh?term=%22Biomarkers%22)
+  - [Add to Search](https://pubmed.ncbi.nlm.nih.gov/28807612/#)
+
+- Methylamines
+
+
+
+
+Actions
+
+
+
+
+
+  - [Search in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22Methylamines%22%5Bnm%5D&sort=date&sort_order=desc)
+  - [Search in MeSH](https://www.ncbi.nlm.nih.gov/mesh?term=%22Methylamines%22)
+  - [Add to Search](https://pubmed.ncbi.nlm.nih.gov/28807612/#)
+
+- trimethyloxamine
+
+
+
+
+Actions
+
+
+
+
+
+  - [Search in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22trimethyloxamine%22%5Bnm%5D&sort=date&sort_order=desc)
+  - [Search in MeSH](https://www.ncbi.nlm.nih.gov/mesh?term=%22trimethyloxamine%22)
+  - [Add to Search](https://pubmed.ncbi.nlm.nih.gov/28807612/#)
+
+## Related information
+
+- [MedGen](https://www.ncbi.nlm.nih.gov/medgen?linkname=pubmed_medgen&from_uid=28807612 "Related information in MedGen")
+- [PubChem Compound (MeSH Keyword)](https://www.ncbi.nlm.nih.gov/pccompound?linkname=pubmed_pccompound_mesh&from_uid=28807612 "Related PubChem Compound via MeSH")
+
+## Grants and funding
+
+- [MC\_UP\_1102/12/MRC\_/Medical Research Council/United Kingdom](https://pubmed.ncbi.nlm.nih.gov/?term=MC_UP_1102%2F12%2FMRC_%2FMedical+Research+Council%2FUnited+Kingdom%5BGrants+and+Funding%5D&sort=date&sort_order=desc "All articles for grant MC_UP_1102/12/MRC_/Medical Research Council/United Kingdom")
+
+## LinkOut - more resources
+
+- ### Full Text Sources
+
+
+  - [Elsevier Science](https://linkinghub.elsevier.com/retrieve/pii/S0085-2538(17)30397-6)
+- ### Other Literature Sources
+
+
+  - [The Lens - Patent Citations Database](https://www.lens.org/lens/search/patent/list?q=reference_cited.npl.ids.pmid:28807612)
+  - [scite Smart Citations](https://scite.ai/reports/28807612)
+- ### Medical
+
+
+  - [MedlinePlus Health Information](https://medlineplus.gov/chronickidneydisease.html)
+
+NCBI Literature Resources
+
+[MeSH](https://www.ncbi.nlm.nih.gov/mesh/) [PMC](https://www.ncbi.nlm.nih.gov/pmc/) [Bookshelf](https://www.ncbi.nlm.nih.gov/books) [Disclaimer](https://pubmed.ncbi.nlm.nih.gov/disclaimer/)
+
+The PubMed wordmark and PubMed logo are registered trademarks of the U.S. Department of Health and Human Services (HHS). Unauthorized use of these marks is strictly prohibited.
+
+──────── [TRUNCATED] ────────
+Showing 8,868 chars (head) + 2,999 chars (tail) of 19,986 total clean characters.
+Full text saved to: /home/walker/.hermes/cache/web/pubmed.ncbi.nlm.nih.gov-328538651c.md
+To read the omitted middle: read_file path="/home/walker/.hermes/cache/web/pubmed.ncbi.nlm.nih.gov-328538651c.md" offset=276 limit=200  (the file is the complete page; raise/lower offset to page through it).
+─────────────────────────────

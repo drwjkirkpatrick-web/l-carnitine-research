@@ -1,0 +1,46 @@
+PMID: 20722056
+PubMed URL: https://pubmed.ncbi.nlm.nih.gov/20722056/
+Fetched via NCBI eutils efetch, accessed 2026-11-15
+
+1. Inflamm Bowel Dis. 2011 Apr;17(4):907-16. doi: 10.1002/ibd.21444. Epub 2010
+Aug  18.
+
+Cytokine regulation of OCTN2 expression and activity in small and large 
+intestine.
+
+Fujiya M(1), Inaba Y, Musch MW, Hu S, Kohgo Y, Chang EB.
+
+Author information:
+(1)Department of Gastroenterology, Asahikawa Medical School, Asahikawa, Japan.
+
+BACKGROUND: The organic cation transporter OCTN2 is located on the IBD5 risk 
+allele and has been implicated in the pathogenesis of inflammatory bowel 
+diseases (IBD). OCTN2 is expressed in the apical membrane and transports many 
+solutes including bacteria-derived mediators that may be involved in 
+host-microbial interactions. To explore its role further, we examined potential 
+regulatory factors in human IBD and in experimental models of OCTN2 expression.
+METHODS: Human colonic epithelial cells (Caco2BBE) were used to investigate the 
+effects of inflammatory mediators on OCTN2 activity and expression. Apical 
+membrane expression of OCTN2 was assessed by surface biotinylation. Rag-1(-/-) 
+-deficient mice were used to determine the potential role of adaptive immune 
+cells in the regulation of OCTN2 expression. C57Bl/6 mice were treated with the 
+cytokines interferon-gamma (IFN-γ) and tumor necrosis factor-alpha (TNF-α) to 
+determine the effects on OCTN2 expression and activity. OCTN2 expression in 
+human IBD specimens was assessed by Western blotting and immunohistochemistry.
+RESULTS: OCTN2 activity and expression are regulated by the state of intestinal 
+inflammation. OCTN2 expression in colonic tissues of Rag-1(-/-) -deficient mice 
+was reduced. Treatment with IFN-γ and TNF-α increased intestinal OCTN2 
+expression, particularly in the colon. IFN-γ increased both total and apical 
+membrane expression of Caco2BBE OCTN2, whereas TNF-α stimulated apical 
+expression. Colonic epithelial OCTN2 expression was increased in actively 
+inflamed areas of both Crohn's disease and ulcerative colitis.
+CONCLUSIONS: Intestinal epithelial OCTN2 expression is increased by intestinal 
+inflammation, most likely through increased levels of proinflammatory cytokines. 
+These findings suggest that OCTN2 may participate to restoration of intestinal 
+homeostasis under conditions of inflammation-associated stress.
+
+Copyright © 2010 Crohn's & Crohn's & Colitis Foundation of America, Inc.
+
+DOI: 10.1002/ibd.21444
+PMCID: PMC2990793
+PMID: 20722056 [Indexed for MEDLINE]

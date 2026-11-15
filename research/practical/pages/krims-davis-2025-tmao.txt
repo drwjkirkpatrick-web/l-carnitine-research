@@ -1,0 +1,42 @@
+14. Mol Nutr Food Res. 2025 Dec;69(24):e70316. doi: 10.1002/mnfr.70316. Epub 2025
+ Nov 16.
+
+Low Bioavailability and High TMAO Production: Novel Insights Into 
+Acetylcarnitine and Carnitine Metabolism.
+
+Krims-Davis K(1)(2), Ozola M(1), Razzivina V(1)(2), Gukalova B(1)(2), Konrade 
+I(2)(3), Dambrova M(1)(2), Liepinsh E(1)(2).
+
+Author information:
+(1)Latvian Institute of Organic Synthesis, Riga, Latvia.
+(2)Riga Stradiņš University, Riga, Latvia.
+(3)Riga East Clinical Hospital, Riga, Latvia.
+
+The food supplement acetylcarnitine is marketed for use in neurological support; 
+however, research on its bioavailability and metabolic fate has been limited. 
+This study investigated the absorption, metabolism, and excretion of 
+acetylcarnitine compared with those of carnitine. Healthy volunteers received 
+either carnitine or an acetylcarnitine supplement (0.5 or 1.5 g). Plasma and 
+urine samples were collected at baseline and at multiple time points (1-48 h) 
+post intake and analyzed using LC‒MS/MS. Both carnitine and acetylcarnitine 
+exhibited low intestinal absorption and renal reabsorption. The peak plasma 
+concentrations increased over the baseline values by 48% (acetylcarnitine) and 
+43% (carnitine) following a 1.5 g dose. However, the increase in area under the 
+curve (ΔAUC) from acetylcarnitine was 7.7-fold lower than that from carnitine. 
+Elevated plasma levels of carnitine and acetylcarnitine led to a 5-fold increase 
+in clearance, and a substantial portion of the supplements were excreted via 
+urine. The acetylcarnitine supplement was mostly eliminated in the form of 
+carnitine. Approximately 90% of both supplements were metabolized to TMAO, 
+reaching 50 µM in plasma-levels previously found to be associated with adverse 
+health outcomes. Acetylcarnitine has significantly lower bioavailability than 
+carnitine. The intake of both supplements resulted in substantial TMAO 
+production, raising potential health concerns.
+
+© 2025 The Author(s). Molecular Nutrition & Food Research published by Wiley‐VCH 
+GmbH.
+
+DOI: 10.1002/mnfr.70316
+PMCID: PMC12700042
+PMID: 41243468 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflicts of interest.

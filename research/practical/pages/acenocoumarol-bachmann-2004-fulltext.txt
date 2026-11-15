@@ -1,0 +1,234 @@
+URL: https://smw.ch/index.php/smw/article/download/389/386/766
+TITLE: Interaction of food supplement L-carnitine with oral anticoagulant acenocoumarol (Swiss Med Wkly 2004;134:385, PMID 15340883)
+
+# Interaction of food supplement L-carnitine with oral anticoagulant acenocoumarol
+
+#### Hans Ulrich Bachmann, Andreas Hoffmann
+
+#### Case report
+
+A 33 year old man had a St Jude mechanical aortic valve prosthesis inserted for
+severe aortic valve regurgitation. He was on
+oral anticoagulation for one year without any
+further medication with stable INR values between 1.99 and 2.94 on a mean dose of acenocoumarol of 3.4 mg/d.
+
+An unexpected rise of INR to 4.65 which
+was observed again despite a dose correction
+was the reason for a detailed questioning on
+food intake. There was no change of the anticoagulant dose. Apart from his normal and
+unchanged diet the patient reported taking a
+formula drink containing pure L-carnitine
+(Maximize<sup>®</sup>, advanced nutrition technology)
+
+an OTC product recommended to complement bodybuilding and fitness training
+(www.sportfitness.ch). The patient had been
+taking 1000 mg/d of carnitine for a period 
+of ten weeks. The timing of carnitine intake
+and INR destabilisation was parallel and after
+the product was omitted the INR values returned to a stable range (2.4–2.8) for over 
+4 months.
+
+#### Carnitine
+
+Carnitine is a trimethylamine molecule
+that occurs naturally and plays a major role in
+cell energy metabolism [1]. Fatty acid oxidation is dependent on carnitine. Fatty acid
+usage as well as insulin regulation are determinants of fat and glucose metabolism in
+skeletal muscle [2]. Food typically contains
+one to several dozen mg carnitine per kg.
+Products containing carnitine are recommended not only for fitness training (www.
+ernaehrungsmed.de) but are beginning to be
+used in clinical medicine as well. There are reports on the use of carnitine for maintaining
+functional capacity in dialysis patients [3], in
+the treatment of anaemia [4] and peripheral
+arterial occlusive disorders [5]. Typical doses
+
+**Figure 1**
+Timing 
+of carnitine-intake 
+and INR values.
+
+**Carnitine-intake**
+
+| weeks | INR |
+| --- | --- |
+| 2 | 2.9 |
+| 6 | 2.5 |
+| 11 | 2.7 |
+| 14 | 2.6 |
+| 18 | 2.7 |
+| 26 | 2.7 |
+| 32 | 3.5 |
+| 36 | 4.7 |
+| 38 | 3.2 |
+| 43 | 4.7 |
+| 44 | 3.9 |
+| 48 | 2.4 |
+| 52 | 2.4 |
+| 58 | 2.8 |
+
+for exogenous carnitine supplementation are
+between 1 and several g/day.
+
+There is one earlier report of potentiation of acenocoumarol by carnitine in the literature [6], thus confirmed by our observation
+10 years later. The mechanism of interaction
+is still unknown. A clinical study in healthy
+volunteers is now clearly indicated. According to further findings it may be justified to
+press manufacturers of products containing
+carnitine to place an appropriate warning in
+their package inserts, as well as to spread the
+information among medical practitioners caring for patients on anticoagulant therapy.
+
+*Correspondence:*
+*Prof. Dr. med. Andreas Hoffmann*
+*FMH Kardiologie*
+*Lange Gasse 78*
+*4052 Basel*
+*E-mail: andihoffmann@swissonline.ch*
+
+#### References
+
+1 Reda E, D’Iddio S, Nicolai R, Benatti P, Calvani
+M. The carnitine system and body composition.
+Acta Diabetol 2003; 40 suppl 1: S 106–113.
+
+2 Evans AM, Fornasini G. Pharamcokinetics of Lcarnitine. Clin Pharmacokinet 2003; 42: 941–67.
+
+3 Miller B, Ahmad S. A review of the impact of Lcarnitine therapy on patient functionality in maintenance hemodialysis. Am J Kidney Dis 2003; 41
+suppl4: S44–48.
+
+4 Golper TA, Goral S, Becker BN, Langman CB. 
+L-carnitine treatment of anemia. Am J Kidney Dis
+2003; 41 suppl 4: S27–34.
+
+5 Doggrell SA. Pharmacotherapy of intermittent
+claudication. Expert Opin Pharmacother 2001; 2:
+1725–36.
+
+6 Martinez E, Domingo P, Roca-Cusachs A. Potentiation of acenocoumarol action by L-carnitine. 
+J Intern Med 1993; 233: 94.
+
+---
+
+## Swiss Medical Weekly: Call for papers
+
+Official journal of
+the Swiss Society of Infectious disease
+the Swiss Society of Internal Medicine
+the Swiss Respiratory Society
+
+## The many reasons why you should choose SMW to publish your research
+
+### What Swiss Medical Weekly has to offer:
+
+• SMW’s impact factor has been steadily 
+rising, to the current 1.537
+
+• Open access to the publication via
+the Internet, therefore wide audience 
+and impact
+
+• Rapid listing in Medline
+
+• LinkOut-button from PubMed 
+with link to the full text 
+website http://www.smw.ch (direct link
+from each SMW record in PubMed)
+
+• No-nonsense submission – you submit 
+a single copy of your manuscript by 
+e-mail attachment
+
+• Peer review based on a broad spectrum 
+of international academic referees
+
+• Assistance of our professional statistician
+for every article with statistical analyses
+
+• Fast peer review, by e-mail exchange with
+the referees
+
+• Prompt decisions based on weekly conferences of the Editorial Board
+
+• Prompt notification on the status of your
+manuscript by e-mail
+
+• Professional English copy editing
+
+• No page charges and attractive colour 
+offprints at no extra cost
+
+**Impact factor Swiss Medical Weekly**
+
+| Category | Schweiz Med Wochenschr (1871–2000) | Swiss Med Wkly (continues Schweiz Med Wochenschr from 2001) |
+| --- | --- | --- |
+| 1995 | 0.26 |  |
+| 1996 | 0.33 |  |
+| 1997 | 0.32 |  |
+| 1998 | 0.31 |  |
+| 1999 | 0.33 |  |
+| 2000 | 0.27 |  |
+| 2002 |  | 0.770 |
+| 2003 |  | 1.162 |
+| 2004 |  | 1.537 |
+
+### Editorial Board
+
+Prof. Jean-Michel Dayer, Geneva
+
+Prof. Peter Gehr, Berne
+
+Prof. André P. Perruchoud, Basel
+
+Prof. Andreas Schaffner, Zurich 
+(Editor in chief)
+
+Prof. Werner Straub, Berne
+
+Prof. Ludwig von Segesser, Lausanne
+
+### International Advisory Committee
+
+Prof. K. E. Juhani Airaksinen, Turku, Finland
+
+Prof. Anthony Bayes de Luna, Barcelona, Spain
+
+Prof. Hubert E. Blum, Freiburg, Germany
+
+Prof. Walter E. Haefeli, Heidelberg, Germany
+
+Prof. Nino Kuenzli, Los Angeles, USA
+
+Prof. René Lutter, Amsterdam, 
+The Netherlands
+
+Prof. Claude Martin, Marseille, France
+Prof. Josef Patsch, Innsbruck, Austria
+Prof. Luigi Tavazzi, Pavia, Italy
+
+We evaluate manuscripts of broad clinical
+interest from all specialities, including experimental medicine and clinical investigation.
+
+We look forward to receiving your paper!
+
+Guidelines for authors:
+http://www.smw.ch/set_authors.html
+
+Editores Medicorum Helveticorum
+
+### All manuscripts should be sent in electronic form, to:
+
+EMH Swiss Medical Publishers Ltd.
+SMW Editorial Secretariat
+Farnsburgerstrasse 8
+CH-4132 Muttenz
+
+Manuscripts: 
+Letters to the editor:
+Editorial Board:
+Internet:
+
+submission@smw.ch
+letters@smw.ch
+red@smw.ch
+http://www.smw.ch

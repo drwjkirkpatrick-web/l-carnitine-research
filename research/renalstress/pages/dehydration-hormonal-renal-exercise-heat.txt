@@ -1,0 +1,12 @@
+PMID: 9349646
+URL: https://pubmed.ncbi.nlm.nih.gov/9349646/
+Title: Effects of hydration state on hormonal and renal responses during moderate exercise in the heat.
+Authors: Melin B; Jimenez C; Savourey G; Bittel J; Cottet-Emard JM; Pequignot JM; Allevard AM; Gharib C
+Journal: European journal of applied physiology and occupational physiology
+Year: 1997
+Vol/Pages: 76(4):320-7
+DOI: 10.1007/s004210050255
+Accessed: 2026-11-15 (NCBI PubMed efetch abstract)
+
+ABSTRACT
+The effects of hydromineral hormones and catecholamines on renal concentrating ability at different hydration states were examined in five male volunteers while they performed three trials. Each of these trials comprised a 60-min exercise bout on a treadmill (at 50% of maximal oxygen uptake) in a warm environment (dry bulb temperature, 35 degrees C; relative humidity, 20-30%). In one session, subjects were euhydrated before exercise (C). In the two other sessions, after thermal dehydration (loss of 3% body mass) which markedly reduced plasma volume (PV) and increased plasma osmolality (osm[pl]), the subjects exercised either not rehydrated (Dh) or rehydrated (Rh) by drinking 600 ml of mineral water before and 40 min after the onset of exercise. During exercise in the Dh compared to C state, plasma renin, aldosterone, arginine vasopressin (AVP), noradrenaline and adrenaline concentrations were increased (P < 0.05). A reduction in creatinine clearance and urine flow was also observed (P < 0.05) together with a decrease in urine osmolality, osmolar clearance and sodium excretion, while free water clearance increased (P < 0.05). However, compared to Dh, Rh partially restored PV and osm(pl) and induced a marked reduction in the time courses of both the plasma AVP and catecholamine responses (P < 0.05). Values for renal water and electrolyte excretion were intermediate between those of Dh and C. Plasma atrial natriuretic peptide presented similar changes whatever the hydration state. These results demonstrate that during moderate exercise in the heat, renal concentrating ability is paradoxically reduced by prior dehydration in spite of high plasma AVP levels, and might be the result of marked activation of the sympatho-adrenal system. Rehydration, by reducing this activation, could partially restore the renal concentrating ability despite the lowered plasma AVP.

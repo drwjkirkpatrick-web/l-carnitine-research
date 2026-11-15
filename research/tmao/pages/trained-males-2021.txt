@@ -1,0 +1,403 @@
+# URL: https://pubmed.ncbi.nlm.nih.gov/34405585/
+# Fetched via web_extract on 2026-11-15
+
+Clipboard, Search History, and several other advanced features are temporarily unavailable.
+
+
+[Skip to main page content](https://pubmed.ncbi.nlm.nih.gov/34405585/#article-details)
+
+### NIH Websites Are Changing
+
+- [Get the Latest Updates and FAQs on the transition](https://www.nih.gov/web-modernization)
+- Per [Executive Order 14434](https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/), federal agencies are now using "Super Intelligence" (SI) in place of "Artificial Intelligence" (AI). You may see both terms across NIH content during this transition.
+
+![Dot gov](https://cdn.ncbi.nlm.nih.gov/coreutils/uswds/img/icon-dot-gov.svg)
+
+**The .gov means it’s official.**
+
+Federal government websites often end in .gov or .mil. Before
+sharing sensitive information, make sure you’re on a federal
+government site.
+
+
+![Https](https://cdn.ncbi.nlm.nih.gov/coreutils/uswds/img/icon-https.svg)
+
+**The site is secure.**
+
+The **https://** ensures that you are connecting to the
+official website and that any information you provide is encrypted
+and transmitted securely.
+
+
+[Access keys](https://www.ncbi.nlm.nih.gov/guide/browsers/#ncbi_accesskeys) [NCBI Homepage](https://www.ncbi.nlm.nih.gov/) [MyNCBI Homepage](https://pubmed.ncbi.nlm.nih.gov/myncbi/) [Main Content](https://pubmed.ncbi.nlm.nih.gov/34405585/#maincontent) [Main Navigation](https://pubmed.ncbi.nlm.nih.gov/34405585/#)
+
+[![pubmed logo](https://cdn.ncbi.nlm.nih.gov/pubmed/a447896c-976f-490b-b86b-2668b65114a8/core/images/pubmed-logo-blue.svg)](https://pubmed.ncbi.nlm.nih.gov/)[Show search bar](https://pubmed.ncbi.nlm.nih.gov/34405585/# "Show search bar")
+
+Search:
+
+
+```
+
+```
+
+[Clear search input](https://pubmed.ncbi.nlm.nih.gov/34405585/# "Clear search input") Search
+
+[Advanced](https://pubmed.ncbi.nlm.nih.gov/advanced/) [Clipboard](https://pubmed.ncbi.nlm.nih.gov/clipboard/)
+
+[User Guide](https://pubmed.ncbi.nlm.nih.gov/help/)
+
+Save
+
+Email
+
+
+Send to
+
+- [Clipboard](https://pubmed.ncbi.nlm.nih.gov/34405585/#)
+- [My Bibliography](https://account.ncbi.nlm.nih.gov/?back_url=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F34405585%2F%23open-bibliography-panel)
+- [Collections](https://account.ncbi.nlm.nih.gov/?back_url=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F34405585%2F%23open-collections-panel)
+- [Citation manager](https://pubmed.ncbi.nlm.nih.gov/34405585/#)
+
+Display options
+
+Display options
+
+
+Format
+AbstractPubMedPMID
+
+## Save citation to file
+
+Format:
+Summary (text)PubMedPMIDAbstract (text)CSV
+
+Create file
+
+Cancel
+
+
+## Email citation
+
+Email address has not been verified. Go to
+[My NCBI account settings](https://account.ncbi.nlm.nih.gov/settings/)
+to confirm your email and then refresh this page.
+
+
+To:
+
+
+Subject:
+
+
+Body:
+
+
+Format:
+SummarySummary (text)AbstractAbstract (text)
+
+MeSH and other data
+
+
+Send email
+
+Cancel
+
+
+### Add to Collections
+
+- Create a new collection
+- Add to an existing collection
+
+Name your collection:
+
+
+Name must be less than 100 characters
+
+
+Choose a collection:
+
+
+Unable to load your collection due to an error
+
+[Please try again](https://pubmed.ncbi.nlm.nih.gov/34405585/#)
+
+Add
+
+Cancel
+
+
+### Add to My Bibliography
+
+- My Bibliography
+
+Unable to load your delegates due to an error
+
+[Please try again](https://pubmed.ncbi.nlm.nih.gov/34405585/#)
+
+Add
+
+Cancel
+
+
+## Your saved search
+
+Name of saved search:
+
+
+Search terms:
+
+
+[Test search terms](https://pubmed.ncbi.nlm.nih.gov/34405585/#)
+
+Would you like email updates of new search results?
+Saved Search Alert Radio Buttons
+
+- Yes
+- No
+
+Email:
+( [change](https://www.ncbi.nlm.nih.gov/account/settings/))
+
+Frequency:
+MonthlyWeeklyDaily
+
+Which day?
+The first SundayThe first MondayThe first TuesdayThe first WednesdayThe first ThursdayThe first FridayThe first SaturdayThe first dayThe first weekday
+
+Which day?
+SundayMondayTuesdayWednesdayThursdayFridaySaturday
+
+Report format:
+SummarySummary (text)AbstractAbstract (text)PubMed
+
+Send at most:
+1 item5 items10 items20 items50 items100 items200 items
+
+Send even when there aren't any new results
+
+
+Optional text in email:
+
+
+Save
+
+Cancel
+
+
+## Create a file for external citation management software
+
+Create file
+
+Cancel
+
+
+## Your RSS Feed
+
+Name of RSS Feed:
+
+
+Number of items displayed:
+510152050100
+
+Create RSS
+
+Cancel
+
+
+RSS Link
+Copy
+
+
+Full text links
+Cite
+
+Display options
+
+Display options
+
+
+Format
+AbstractPubMedPMID
+
+Linked Discoveries
+
+## Abstract
+
+
+Gut bacteria release trimethylamine (TMA) from dietary substrates. TMA is absorbed and is subsequently oxidized in the liver to produce trimethylamine N-oxide (TMAO). Plasma TMAO levels are positively correlated with risk for type 2 diabetes (T2D) and cardiovascular disease (CVD). High-fat diet (HFD) consumption has been reported to increase fasting and postprandial TMAO in sedentary individuals. However, whether the increase in TMAO with consumption of an HFD is observed in endurance-trained males is unknown. Healthy, sedentary (n = 17), and endurance-trained (n = 7) males consumed a 10-day eucaloric diet comprised of 55% carbohydrate, 30% total fat, and <10% saturated fat prior to baseline testing. Blood samples were obtained in a fasted state and for a 4-hour high-fat challenge (HFC) meal at baseline and then again following 5-day HFD (30% carbohydrate, 55% total fat, and 25% saturated fat). Plasma TMAO and TMA-moiety (choline, betaine, L-carnitine) concentrations were measured using isocratic ultraperformance liquid chromatography-tandem mass spectrometry. Age (23 ±3 vs. 22 ± 2 years) and body mass index (23.0 ± 3.0 vs. 23.5 ± 2.1 kg/m2 ) were similar (both p > 0.05) in the sedentary and endurance-trained group, respectively. VO2max was significantly higher in the endurance-trained compared with sedentary males (56.7 ± 8.2 vs. 39.9 ± 6.0 ml/kg/min). Neither the HFC nor the HFD evoked a detectable change in plasma TMAO (p > 0.05) in either group. Future studies are needed to identify the effects of endurance training on TMAO production.
+
+
+**Keywords:**
+
+endurance-trained; high-fat diet; sedentary; trimethylamine N-oxide.
+
+
+© 2021 The Authors. Physiological Reports published by Wiley Periodicals LLC on behalf of The Physiological Society and the American Physiological Society.
+
+
+[PubMed Disclaimer](https://pubmed.ncbi.nlm.nih.gov/disclaimer/)
+
+## Conflict of interest statement
+
+No conflicts of interest, financial or otherwise are declared by the authors.
+
+AUTHOR CONTRIBUTIONS
+
+Conceptualization, M.W.H., B.M.D., and K.P.D.; Methodology, M.W.H. A.P.N., B.M.D., and K.P.D.; Formal Analysis, C.N.S., L.E.G., A.P.N., and K.P.D.; Data Curation, C.N.S. and M.E.B.; Writing—Original Draft Preparation, C.N.S. and K.P.D.; Writing—Reviewing and Editing, C.N.S., M.E.B., L.E.G., A.P.N., B.M.D., M.W.H., and K.P.D.
+
+## Figures
+
+[![FIGURE 1](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/5499/8371342/d634c326930a/PHY2-9-e14970-g001.gif)](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/5499/8371342/b40a5372049c/PHY2-9-e14970-g001.jpg)
+
+**FIGURE 1**
+
+Study timeline
+
+**FIGURE 1**
+
+Study timeline
+
+**FIGURE 1**
+
+Study timeline
+
+[![FIGURE 2](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/5499/8371342/53b52aae9ae6/PHY2-9-e14970-g004.gif)](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/5499/8371342/5a36e96f31aa/PHY2-9-e14970-g004.jpg)
+
+**FIGURE 2**
+
+Fasting plasma TMAO concentration in…
+
+**FIGURE 2**
+
+Fasting plasma TMAO concentration in SED and ET before and followeing the high‐fat…
+
+**FIGURE 2**
+
+Fasting plasma TMAO concentration in SED and ET before and followeing the high‐fat diet. Values are expressed as mean ± SD. ET, endurance‐trained group; SED, sedentary group; TMAO, trimethylamine _N‐_ oxide
+
+[![FIGURE 3](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/5499/8371342/6cc599674a9b/PHY2-9-e14970-g003.gif)](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/5499/8371342/306232621c4b/PHY2-9-e14970-g003.jpg)
+
+**FIGURE 3**
+
+Fasting and postprandial plasma TMAO…
+
+**FIGURE 3**
+
+Fasting and postprandial plasma TMAO (panel a), Choline (panel b), Betaine (panel c),…
+
+**FIGURE 3**
+
+Fasting and postprandial plasma TMAO (panel a), Choline (panel b), Betaine (panel c), L‐carnitine (panel d) baseline and post‐ high fat diet. Values are expressed as mean ± SD. ET, endurance‐trained group; TMAO, trimethylamine _N‐_ oxide; HFD, high fat diet; SED, sedentary group
+
+[See this image and copyright information in PMC](https://pubmed.ncbi.nlm.nih.gov/34405585/#)
+
+## Similar articles
+
+- [Probiotic supplementation and trimethylamine-N-oxide production following a high-fat diet.](https://pubmed.ncbi.nlm.nih.gov/26465927/)
+
+Boutagy NE, Neilson AP, Osterberg KL, Smithson AT, Englund TR, Davy BM, Hulver MW, Davy KP.Boutagy NE, et al.Obesity (Silver Spring). 2015 Dec;23(12):2357-63. doi: 10.1002/oby.21212. Epub 2015 Oct 14.Obesity (Silver Spring). 2015.PMID: 26465927Clinical Trial.
+
+- [Postprandial skeletal muscle metabolism following a high-fat diet in sedentary and endurance-trained males.](https://pubmed.ncbi.nlm.nih.gov/32163335/)
+
+
+[... middle omitted — see footer ...]
+
+  - [Search in MeSH](https://www.ncbi.nlm.nih.gov/mesh?term=Postprandial+Period)
+  - [Add to Search](https://pubmed.ncbi.nlm.nih.gov/34405585/#)
+
+- Sedentary Behavior
+
+
+
+
+Actions
+
+
+
+
+
+  - [Search in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22Sedentary+Behavior%22%5BMeSH%5D&sort=date&sort_order=desc)
+  - [Search in MeSH](https://www.ncbi.nlm.nih.gov/mesh?term=Sedentary+Behavior)
+  - [Add to Search](https://pubmed.ncbi.nlm.nih.gov/34405585/#)
+
+## Substances
+
+- Dietary Fats
+
+
+
+
+Actions
+
+
+
+
+
+  - [Search in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22Dietary+Fats%22%5Bnm%5D&sort=date&sort_order=desc)
+  - [Search in MeSH](https://www.ncbi.nlm.nih.gov/mesh?term=%22Dietary+Fats%22)
+  - [Add to Search](https://pubmed.ncbi.nlm.nih.gov/34405585/#)
+
+- Methylamines
+
+
+
+
+Actions
+
+
+
+
+
+  - [Search in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22Methylamines%22%5Bnm%5D&sort=date&sort_order=desc)
+  - [Search in MeSH](https://www.ncbi.nlm.nih.gov/mesh?term=%22Methylamines%22)
+  - [Add to Search](https://pubmed.ncbi.nlm.nih.gov/34405585/#)
+
+- trimethyloxamine
+
+
+
+
+Actions
+
+
+
+
+
+  - [Search in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22trimethyloxamine%22%5Bnm%5D&sort=date&sort_order=desc)
+  - [Search in MeSH](https://www.ncbi.nlm.nih.gov/mesh?term=%22trimethyloxamine%22)
+  - [Add to Search](https://pubmed.ncbi.nlm.nih.gov/34405585/#)
+
+## Related information
+
+- [MedGen](https://www.ncbi.nlm.nih.gov/medgen?linkname=pubmed_medgen&from_uid=34405585 "Related information in MedGen")
+- [PubChem Compound (MeSH Keyword)](https://www.ncbi.nlm.nih.gov/pccompound?linkname=pubmed_pccompound_mesh&from_uid=34405585 "Related PubChem Compound via MeSH")
+
+## Grants and funding
+
+- [R21 AG058931/AG/NIA NIH HHS/United States](https://pubmed.ncbi.nlm.nih.gov/?term=R21+AG058931%2FAG%2FNIA+NIH+HHS%2FUnited+States%5BGrants+and+Funding%5D&sort=date&sort_order=desc "All articles for grant R21 AG058931/AG/NIA NIH HHS/United States")
+- [T32 DK007135/DK/NIDDK NIH HHS/United States](https://pubmed.ncbi.nlm.nih.gov/?term=T32+DK007135%2FDK%2FNIDDK+NIH+HHS%2FUnited+States%5BGrants+and+Funding%5D&sort=date&sort_order=desc "All articles for grant T32 DK007135/DK/NIDDK NIH HHS/United States")
+
+## LinkOut - more resources
+
+- ### Full Text Sources
+
+
+  - [Europe PMC](https://europepmc.org/abstract/MED/34405585)
+  - [PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/pmid/34405585/)
+  - [Wiley](https://onlinelibrary.wiley.com/doi/10.14814/phy2.14970)
+- ### Medical
+
+
+  - [MedlinePlus Health Information](https://medlineplus.gov/dietaryfats.html)
+
+NCBI Literature Resources
+
+[MeSH](https://www.ncbi.nlm.nih.gov/mesh/) [PMC](https://www.ncbi.nlm.nih.gov/pmc/) [Bookshelf](https://www.ncbi.nlm.nih.gov/books) [Disclaimer](https://pubmed.ncbi.nlm.nih.gov/disclaimer/)
+
+The PubMed wordmark and PubMed logo are registered trademarks of the U.S. Department of Health and Human Services (HHS). Unauthorized use of these marks is strictly prohibited.
+
+──────── [TRUNCATED] ────────
+Showing 8,916 chars (head) + 2,945 chars (tail) of 21,173 total clean characters.
+Full text saved to: /home/walker/.hermes/cache/web/pubmed.ncbi.nlm.nih.gov-fe3981d656.md
+To read the omitted middle: read_file path="/home/walker/.hermes/cache/web/pubmed.ncbi.nlm.nih.gov-fe3981d656.md" offset=299 limit=200  (the file is the complete page; raise/lower offset to page through it).
+─────────────────────────────

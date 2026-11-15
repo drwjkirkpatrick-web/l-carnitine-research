@@ -1,0 +1,59 @@
+PMID: 28298333
+PubMed URL: https://pubmed.ncbi.nlm.nih.gov/28298333/
+Fetched via NCBI eutils efetch, accessed 2026-11-15
+
+1. Am J Physiol Cell Physiol. 2017 Jun 1;312(6):C689-C696. doi: 
+10.1152/ajpcell.00026.2016. Epub 2017 Mar 15.
+
+Multiple AMPK activators inhibit l-carnitine uptake in C2C12 skeletal muscle 
+myotubes.
+
+Shaw A(1), Jeromson S(1), Watterson KR(2), Pediani JD(2), Gallagher IJ(1), 
+Whalley T(3), Dreczkowski G(1), Brooks N(1), Galloway SD(1), Hamilton DL(4).
+
+Author information:
+(1)Physiology, Exercise and Nutrition Research Group, Faculty of Health Sciences 
+and Sport, University of Stirling, Stirling, United Kingdom.
+(2)Molecular Pharmacology Group, Institute of Molecular, Cell and Systems 
+Biology, College of Medical, Veterinary and Life Sciences, University of 
+Glasgow, Glasgow, United Kingdom; and.
+(3)Biological and Environmental Sciences, School of Natural Sciences, University 
+of Stirling, Stirling, United Kingdom.
+(4)Physiology, Exercise and Nutrition Research Group, Faculty of Health Sciences 
+and Sport, University of Stirling, Stirling, United Kingdom; 
+d.l.hamilton@stir.ac.uk.
+
+Comment in
+    Am J Physiol Cell Physiol. 2017 Jun 1;312(6):C687-C688. doi: 
+10.1152/ajpcell.00093.2017.
+
+Mutations in the gene that encodes the principal l-carnitine transporter, OCTN2, 
+can lead to a reduced intracellular l-carnitine pool and the disease Primary 
+Carnitine Deficiency. l-Carnitine supplementation is used therapeutically to 
+increase intracellular l-carnitine. As AMPK and insulin regulate fat metabolism 
+and substrate uptake, we hypothesized that AMPK-activating compounds and insulin 
+would increase l-carnitine uptake in C2C12 myotubes. The cells express all three 
+OCTN transporters at the mRNA level, and immunohistochemistry confirmed 
+expression at the protein level. Contrary to our hypothesis, despite significant 
+activation of PKB and 2DG uptake, insulin did not increase l-carnitine uptake at 
+100 nM. However, l-carnitine uptake was modestly increased at a dose of 150 nM 
+insulin. A range of AMPK activators that increase intracellular calcium content 
+[caffeine (10 mM, 5 mM, 1 mM, 0.5 mM), A23187 (10 μM)], inhibit mitochondrial 
+function [sodium azide (75 μM), rotenone (1 μM), berberine (100 μM), DNP (500 
+μM)], or directly activate AMPK [AICAR (250 μM)] were assessed for their ability 
+to regulate l-carnitine uptake. All compounds tested significantly inhibited 
+l-carnitine uptake. Inhibition by caffeine was not dantrolene (10 μM) sensitive 
+despite dantrolene inhibiting caffeine-mediated calcium release. Saturation 
+curve analysis suggested that caffeine did not competitively inhibit l-carnitine 
+transport. To assess the potential role of AMPK in this process, we assessed the 
+ability of the AMPK inhibitor Compound C (10 μM) to rescue the effect of 
+caffeine. Compound C offered a partial rescue of l-carnitine uptake with 0.5 mM 
+caffeine, suggesting that AMPK may play a role in the inhibitory effects of 
+caffeine. However, caffeine likely inhibits l-carnitine uptake by alternative 
+mechanisms independently of calcium release. PKA activation or direct 
+interference with transporter function may play a role.
+
+Copyright © 2017 the American Physiological Society.
+
+DOI: 10.1152/ajpcell.00026.2016
+PMID: 28298333 [Indexed for MEDLINE]

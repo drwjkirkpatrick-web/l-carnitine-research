@@ -1,0 +1,65 @@
+# Source: PubMed (NCBI E-utilities efetch)
+# URL: https://pubmed.ncbi.nlm.nih.gov/38586373/
+# Fetched: 2026-11-15
+# PMID: 38586373
+
+1. Heliyon. 2024 Feb 22;10(7):e26791. doi: 10.1016/j.heliyon.2024.e26791. 
+eCollection 2024 Apr 15.
+
+Targeting SLC22A5 fosters mitophagy inhibition-mediated macrophage immunity 
+against septic acute kidney injury upon CD47-SIRPα axis blockade.
+
+Jia Y(1), Li JH(1), Hu BC(2), Huang X(3), Yang X(1), Liu YY(1), Cai JJ(4), Yang 
+X(5), Lai JM(6), Shen Y(6), Liu JQ(2), Zhu HP(7), Ye XM(6)(8), Mo SJ(2)(6).
+
+Author information:
+(1)Department of Nephrology, Tongji Hospital, Tongji Medical College, Huazhong 
+University of Science and Technology, Wuhan, 430030, Hubei, PR China.
+(2)Emergency and Intensive Care Unit Center, Intensive Care Unit, Zhejiang 
+Provincial People's Hospital (Affiliated People's Hospital), Hangzhou Medical 
+College, Hangzhou, 310014, Zhejiang, PR China.
+(3)Institute of Organ Transplantation, Tongji Hospital, Tongji Medical College, 
+Huazhong University of Science and Technology, Wuhan, 430030, Hubei, PR China.
+(4)Department of Pathology, Zhejiang Provincial People's Hospital (Affiliated 
+People's Hospital), Hangzhou Medical College, Hangzhou, 310014, Zhejiang, PR 
+China.
+(5)Clinical Research Institute, Zhejiang Provincial People's Hospital 
+(Affiliated People's Hospital), Hangzhou Medical College, Hangzhou, 310014, 
+Zhejiang, PR China.
+(6)Center for Rehabilitation Medicine, Department of Intensive Rehabilitation 
+Care Unit, Zhejiang Provincial People's Hospital (Affiliated People's Hospital), 
+Hangzhou Medical College, Hangzhou 310014, Zhejiang, P.R.China.
+(7)Department of Intensive Care Unit, The First Affiliated Hospital, Wenzhou 
+Medical University, Wenzhou, 325000, Zhejiang, PR China.
+(8)Center for Rehabilitation Medicine, Rehabilitation & Sports Medicine Research 
+Institute of Zhejiang Province, Department of Rehabilitation Medicine, Zhejiang 
+Provincial People's Hospital (Affiliated People's Hospital), Hangzhou Medical 
+College, Hangzhou, 310014, Zhejiang, PR China.
+
+Efferocytosis of apoptotic neutrophils (PMNs) by macrophages is helpful for 
+inflammation resolution and injury repair, but the role of efferocytosis in 
+intrinsic nature of macrophages during septic acute kidney injury (AKI) remains 
+unknown. Here we report that CD47 and signal regulatory protein alpha 
+(SIRPα)-the anti-efferocytotic 'don't eat me' signals-are highly expressed in 
+peripheral blood mononuclear cells (PBMCs) from patients with septic AKI and 
+kidney samples from mice with polymicrobial sepsis and endotoxin shock. 
+Conditional knockout (CKO) of SIRPA in macrophages ameliorates AKI and systemic 
+inflammation response in septic mice, accompanied by an escalation in mitophagy 
+inhibition of macrophages. Ablation of SIRPA transcriptionally downregulates 
+solute carrier family 22 member 5 (SLC22A5) in the lipopolysaccharide 
+(LPS)-stimulated macrophages that efferocytose apoptotic neutrophils (PMNs). 
+Targeting SLC22A5 renders mitophagy inhibition of macrophages in response to LPS 
+stimuli, improves survival and deters development of septic AKI. Our study 
+supports further clinical investigation of CD47-SIRPα signalling in sepsis and 
+proposes that SLC22A5 might be a promising immunotherapeutic target for septic 
+AKI.
+
+© 2024 The Authors.
+
+DOI: 10.1016/j.heliyon.2024.e26791
+PMCID: PMC10998134
+PMID: 38586373
+
+Conflict of interest statement: The authors declare that they have no known 
+competing financial interests or personal relationships that could have appeared 
+to influence the work reported in this paper.

@@ -1,0 +1,44 @@
+PMID: 28841266
+PubMed URL: https://pubmed.ncbi.nlm.nih.gov/28841266/
+Fetched via NCBI eutils efetch, accessed 2026-11-15
+
+1. Hum Mutat. 2017 Dec;38(12):1684-1699. doi: 10.1002/humu.23315. Epub 2017 Sep
+14.
+
+Functional and molecular studies in primary carnitine deficiency.
+
+Frigeni M(1), Balakrishnan B(1), Yin X(1), Calderon FRO(2)(3), Mao R(2)(3), 
+Pasquali M(1)(2)(3), Longo N(1)(2)(3).
+
+Author information:
+(1)Division of Medical Genetics/Pediatrics, University of Utah, Salt Lake City, 
+Utah.
+(2)ARUP Institute for Clinical and Experimental Pathology®, ARUP Laboratories, 
+Salt Lake City, Utah.
+(3)Department of Pathology, University of Utah, Salt Lake City, Utah.
+
+Primary carnitine deficiency is caused by a defect in the OCTN2 carnitine 
+transporter encoded by the SLC22A5 gene. It can cause hypoketotic hypoglycemia 
+or cardiomyopathy in children, and sudden death in children and adults. 
+Fibroblasts from affected patients have reduced carnitine transport. We 
+evaluated carnitine transport in fibroblasts from 358 subjects referred for 
+possible carnitine deficiency. Carnitine transport was reduced to 20% or less of 
+normal in fibroblasts of 140 out of 358 subjects. Sequencing of the 10 exons and 
+flanking regions of the SLC22A5 gene in 95 out of 140 subjects identified 
+causative variants in 84% of the alleles. The missense variants identified in 
+our patients and others previously reported (n = 92) were expressed in CHO 
+cells. Carnitine transport was impaired by 73 out of 92 variants expressed. 
+Prediction algorithms (Polyphen-2, SIFT) correctly predicted the functional 
+effects of expressed variants in about 80% of cases. These results indicate that 
+mutations in the coding region of the SLC22A5 gene cannot be identified in about 
+16% of the alleles causing primary carnitine deficiency. Prediction algorithms 
+failed to determine the functional effects of amino acid substitutions in this 
+transmembrane protein in about 20% of cases. Therefore, functional studies in 
+fibroblasts remain the best strategy to confirm or exclude a diagnosis of 
+primary carnitine deficiency.
+
+© 2017 Wiley Periodicals, Inc.
+
+DOI: 10.1002/humu.23315
+PMCID: PMC5665702
+PMID: 28841266 [Indexed for MEDLINE]

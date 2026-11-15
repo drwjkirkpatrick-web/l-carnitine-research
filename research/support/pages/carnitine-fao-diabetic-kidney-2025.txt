@@ -1,0 +1,52 @@
+# Source: PubMed (NCBI E-utilities efetch)
+# URL: https://pubmed.ncbi.nlm.nih.gov/40402578/
+# Fetched: 2026-11-15
+# PMID: 40402578
+
+1. JCI Insight. 2025 May 22;10(13):e179362. doi: 10.1172/jci.insight.179362. 
+eCollection 2025 Jul 8.
+
+Involvement of impaired carnitine-induced fatty acid oxidation in experimental 
+and human diabetic kidney disease.
+
+Ito S(1), Taguchi K(1)(2), Kodama G(1), Kubo S(1), Moriyama T(1), Yamashita 
+Y(1), Yokota Y(1), Nakayama Y(1), Kaida Y(1), Shinohara M(3), Tashiro K(2), Ohta 
+K(4), Yamagishi SI(5), Fukami K(1).
+
+Author information:
+(1)Division of Nephrology, Department of Medicine, and.
+(2)Research Institute of Medical Mass Spectrometry, Kurume University School of 
+Medicine, Kurume, Japan.
+(3)Tokyo Animal & Diet Department, CLEA Japan, Inc., Osaka, Japan.
+(4)Advanced Imaging Research Center, Kurume University School of Medicine, 
+Kurume, Japan.
+(5)Division of Diabetes, Metabolism, and Endocrinology, Department of Medicine, 
+Showa University Graduate School of Medicine, Tokyo, Japan.
+
+Diabetic kidney disease (DKD) is the leading cause of end-stage kidney disease. 
+Kidney tubular cells have a high energy demand, dependent on fatty acid 
+oxidation (FAO). Although carnitine is indispensable for FAO, the pathological 
+role of carnitine deficiency in DKD is not fully understood. We showed here that 
+ectopic lipid accumulation owing to impaired FAO increased in patients with DKD 
+and inversely correlated with kidney function. Organic cation/carnitine 
+transporter 2-deficient (OCTN2-deficient) mice exhibited systemic carnitine 
+deficiency with increased renal lipid accumulation. Cell death and inflammation 
+were induced in OCTN2-deficient, but not wild-type, tubular cells exposed to 
+high salt and high glucose. Compared with Spontaneously Diabetic Torii (SDT) 
+fatty rats, uninephrectomized SDT fatty rats fed with 0.3% NaCl showed higher 
+lipid accumulation and increased urinary albumin excretion with kidney 
+dysfunction and tubulointerstitial injury, all of which were ameliorated by 
+l-carnitine supplementation via stimulating FAO and mitochondrial biogenesis. In 
+our single-center randomized control trial with patients undergoing peritoneal 
+dialysis, l-carnitine supplementation preserved residual renal function and 
+increased urine volume, the latter of which was correlated with improvement of 
+tubular injury. The present study demonstrates the pathological role of 
+impairment of carnitine-induced FAO in DKD, suggesting that l-carnitine 
+supplementation is a potent therapeutic strategy for this devastating disorder.
+
+DOI: 10.1172/jci.insight.179362
+PMCID: PMC12288908
+PMID: 40402578 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of interest: The authors have declared 
+that no conflict of interest exists.

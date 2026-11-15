@@ -1,0 +1,54 @@
+PMID: 39261302
+PubMed URL: https://pubmed.ncbi.nlm.nih.gov/39261302/
+Fetched via NCBI eutils efetch, accessed 2026-11-15
+
+1. Br J Clin Pharmacol. 2025 Mar;91(3):636-647. doi: 10.1111/bcp.16233. Epub 2024
+ Sep 11.
+
+L-carnitine for valproic acid-induced toxicity.
+
+Gziut T(1), Thanacoody R(1)(2).
+
+Author information:
+(1)National Poisons Information Service (Newcastle unit), Newcastle-upon-Tyne 
+Hospitals NHS Foundation Trust, UK.
+(2)Translational and Clinical Research Institute, Newcastle University, 
+Newcastle-upon-Tyne, UK.
+
+AIMS: Review the effectiveness and dosing of L-carnitine for valproic-acid 
+induced toxicity.
+METHODS: A literature review of the pharmacokinetics and clinical use of 
+L-carnitine was performed.
+RESULTS: Valproic acid is a fatty acid used for numerous therapeutic indications 
+ranging from epilepsy to bipolar disorder. The metabolism of valproic acid 
+produces both therapeutic and toxic metabolites. Whilst it has a good safety 
+profile, adverse effects of valproic acid in chronic use include hepatotoxicity 
+ranging from transient elevation of liver enzymes to fulminant liver failure and 
+hyperammonaemia with resultant encephalopathy. L-carnitine is an essential 
+cofactor for mitochondrial fatty acid metabolism, which is an important source 
+of energy in cardiac and skeletal muscle. Physiological concentrations of 
+L-carnitine are maintained in man by exogenous dietary intake and endogenous 
+synthesis. Following exogenous oral administration of L-carnitine, the 
+bioavailability ranges from 14% to 18%. After bolus intravenous administration 
+of L-carnitine in doses ranging from 20 to 100 mg/kg, the volume of distribution 
+is 0.2-0.3 L/kg, and the fraction excreted unchanged in urine is 0.73-0.95, 
+suggesting that renal clearance of L-carnitine is dose dependent due to 
+saturable renal reabsorption at supraphysiological concentrations.
+CONCLUSIONS: There is evidence supporting the use of L-carnitine in treating 
+hyperammonaemia and hepatotoxicity following chronic therapeutic use and after 
+acute overdose of valproic acid, but the optimal dose and route of 
+administration is unknown. Based on the pharmacokinetics of L-carnitine, we 
+advocate the administration of L-carnitine for valproic-acid induced 
+hyperammonaemia or hepatotoxicity as an intravenous loading dose of 5 mg/kg 
+followed by a continuous intravenous infusion instead of the oral or intravenous 
+boluses that are currently advocated.
+
+© 2024 The Author(s). British Journal of Clinical Pharmacology published by John 
+Wiley & Sons Ltd on behalf of British Pharmacological Society.
+
+DOI: 10.1111/bcp.16233
+PMCID: PMC11862789
+PMID: 39261302 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have no conflict of interest to 
+declare.

@@ -1,0 +1,54 @@
+PMID: 34436463
+PubMed URL: https://pubmed.ncbi.nlm.nih.gov/34436463/
+Fetched via NCBI eutils efetch, accessed 2026-11-15
+
+1. Metabolites. 2021 Aug 6;11(8):522. doi: 10.3390/metabo11080522.
+
+N-acetyltaurine and Acetylcarnitine Production for the Mitochondrial Acetyl-CoA 
+Regulation in Skeletal Muscles during Endurance Exercises.
+
+Miyazaki T(1), Nakamura-Shinya Y(2), Ebina K(3), Komine S(4)(5), Ra SG(6), 
+Ishikura K(7), Ohmori H(8), Honda A(1)(9).
+
+Author information:
+(1)Joint Research Center, Tokyo Medical University Ibaraki Medical Center, Ami, 
+Tokyo 300-0395, Japan.
+(2)Department of Immunology, Faculty of Medicine, University of Tsukuba, Tsukuba 
+305-8575, Japan.
+(3)Department of Health and Nutrition, Tsukuba International University, 
+Tsuchiura 300-0051, Japan.
+(4)Department of Acupuncture and Moxibustion, Faculty of Human Care, Teikyo 
+Heisei University, Toshima-ku, Tokyo 170-8445, Japan.
+(5)Faculty of Medicine, University of Tsukuba, Tsukuba 305-0821, Japan.
+(6)Institute of Liberal Arts and Sciences, Tokushima University, Tokushima 
+770-8502, Japan.
+(7)Faculty of Management, Josai University, Sakado 350-0295, Japan.
+(8)Faculty of Health and Sport Sciences, University of Tsukuba, Tsukuba 
+305-8574, Japan.
+(9)Department of Gastroenterology and Hepatology, Tokyo Medical University 
+Ibaraki Medical Center, Ami, Tokyo 300-0395, Japan.
+
+During endurance exercises, a large amount of mitochondrial acetyl-CoA is 
+produced in skeletal muscles from lipids, and the excess acetyl-CoA suppresses 
+the metabolic flux from glycolysis to the TCA cycle. This study evaluated the 
+hypothesis that taurine and carnitine act as a buffer of the acetyl moiety of 
+mitochondrial acetyl-CoA derived from the short- and long-chain fatty acids of 
+skeletal muscles during endurance exercises. In human subjects, the serum 
+concentrations of acetylated forms of taurine (NAT) and carnitine (ACT), which 
+are the metabolites of acetyl-CoA buffering, significantly increased after a 
+full marathon. In the culture medium of primary human skeletal muscle cells, NAT 
+and ACT concentrations significantly increased when they were cultured with 
+taurine and acetate or with carnitine and palmitic acid, respectively. The 
+increase in the mitochondrial acetyl-CoA/free CoA ratio induced by acetate and 
+palmitic acid was suppressed by taurine and carnitine, respectively. Elevations 
+of NAT and ACT in the blood of humans during endurance exercises might serve the 
+buffering of the acetyl-moiety in mitochondria by taurine and carnitine, 
+respectively. The results suggest that blood levels of NAT and ACT indicate 
+energy production status from fatty acids in the skeletal muscles of humans 
+undergoing endurance exercise.
+
+DOI: 10.3390/metabo11080522
+PMCID: PMC8401229
+PMID: 34436463
+
+Conflict of interest statement: The authors declare no competing interest.

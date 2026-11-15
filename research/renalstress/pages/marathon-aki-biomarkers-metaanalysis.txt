@@ -1,0 +1,12 @@
+PMID: 41155766
+URL: https://pubmed.ncbi.nlm.nih.gov/41155766/
+Title: Acute Kidney Injury Biomarkers in Marathon Runners: Systematic Review and Meta-Analysis.
+Authors: Leucuța DC; Trif LI; Almășan O; Popa ȘL; Ismaiel A
+Journal: Medicina (Kaunas, Lithuania)
+Year: 2025
+Vol/Pages: 61(10):
+DOI: 10.3390/medicina61101775
+Accessed: 2026-11-15 (NCBI PubMed efetch abstract)
+
+ABSTRACT
+Background and Objectives: The objectives of this review were as follows: to measure changes in renal biomarker levels before, immediately after, and 24 h post-marathon; to identify promising biomarkers for the diagnosis of acute kidney injury; and to describe the temporal patterns of biomarker dynamics in relation to the marathon. Materials and Methods: Studies of marathon runners reporting AKI-related biomarkers were included. Four databases (PubMed, EMBASE, Web of Science, and LILACS) were searched. Data on study design, participant characteristics, and biomarker values (pre-, post-, and 24 h post-race) were extracted, and a random effects meta-analysis was performed. Risk of bias was assessed with the National Heart, Lung, and Blood Institute pre-post tool. Results: The study showed significant increases in most biomarkers immediately after the marathon compared to baseline values. The largest increases were observed in Tissue Inhibitor of Metalloproteinases-2* Insulin-like Growth Factor Binding Protein-7 (TIMP-2*IGFBP), copeptin, urinary Liver-type Fatty Acid Binding Protein (L-FABP), urinary Monocyte Chemoattractant Protein-1 (MCP-1), IGFBP-7, urinary Chitinase 3-like Protein 1 (YKL-40), and TIMP-2, suggesting that these biomarkers are promising candidates for future research. Several patterns of biomarker evolution were observed: some increased without decreasing even at 24 h after the marathon; others increased post-marathon and decreased at 24 h while remaining above baseline; some increased after the marathon and then fell below baseline at 24 h. Conclusions: Marathon running causes significant increases in kidney injury biomarkers, with different patterns of evolution.

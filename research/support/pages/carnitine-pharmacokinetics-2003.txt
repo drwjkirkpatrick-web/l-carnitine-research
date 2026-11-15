@@ -1,0 +1,57 @@
+# Source: PubMed (NCBI E-utilities efetch)
+# URL: https://pubmed.ncbi.nlm.nih.gov/12908852/
+# Fetched: 2026-11-15
+# PMID: 12908852
+
+1. Clin Pharmacokinet. 2003;42(11):941-67. doi: 10.2165/00003088-200342110-00002.
+
+Pharmacokinetics of L-carnitine.
+
+Evans AM(1), Fornasini G.
+
+Author information:
+(1)Centre for Pharmaceutical Research, School of Pharmaceutical, Molecular and 
+Biomedical Sciences, University of South Australia, Adelaide, South Australia, 
+Australia. allan.evans@unisa.edu.au
+
+L-Carnitine is a naturally occurring compound that facilitates the transport of 
+fatty acids into mitochondria for beta-oxidation. Exogenous L-carnitine is used 
+clinically for the treatment of carnitine deficiency disorders and a range of 
+other conditions. In humans, the endogenous carnitine pool, which comprises free 
+L-carnitine and a range of short-, medium- and long-chain esters, is maintained 
+by absorption of L-carnitine from dietary sources, biosynthesis within the body 
+and extensive renal tubular reabsorption from glomerular filtrate. In addition, 
+carrier-mediated transport ensures high tissue-to-plasma concentration ratios in 
+tissues that depend critically on fatty acid oxidation. The absorption of 
+L-carnitine after oral administration occurs partly via carrier-mediated 
+transport and partly by passive diffusion. After oral doses of 1-6g, the 
+absolute bioavailability is 5-18%. In contrast, the bioavailability of dietary 
+L-carnitine may be as high as 75%. Therefore, pharmacological or supplemental 
+doses of L-carnitine are absorbed less efficiently than the relatively smaller 
+amounts present within a normal diet.L-Carnitine and its short-chain esters do 
+not bind to plasma proteins and, although blood cells contain L-carnitine, the 
+rate of distribution between erythrocytes and plasma is extremely slow in whole 
+blood. After intravenous administration, the initial distribution volume of 
+L-carnitine is typically about 0.2-0.3 L/kg, which corresponds to extracellular 
+fluid volume. There are at least three distinct pharmacokinetic compartments for 
+L-carnitine, with the slowest equilibrating pool comprising skeletal and cardiac 
+muscle.L-Carnitine is eliminated from the body mainly via urinary excretion. 
+Under baseline conditions, the renal clearance of L-carnitine (1-3 mL/min) is 
+substantially less than glomerular filtration rate (GFR), indicating extensive 
+(98-99%) tubular reabsorption. The threshold concentration for tubular 
+reabsorption (above which the fractional reabsorption begins to decline) is 
+about 40-60 micromol/L, which is similar to the endogenous plasma L-carnitine 
+level. Therefore, the renal clearance of L-carnitine increases after exogenous 
+administration, approaching GFR after high intravenous doses. Patients with 
+primary carnitine deficiency display alterations in the renal handling of 
+L-carnitine and/or the transport of the compound into muscle tissue. Similarly, 
+many forms of secondary carnitine deficiency, including some drug-induced 
+disorders, arise from impaired renal tubular reabsorption. Patients with 
+end-stage renal disease undergoing dialysis can develop a secondary carnitine 
+deficiency due to the unrestricted loss of L-carnitine through the dialyser, and 
+L-carnitine has been used for treatment of some patients during long-term 
+haemodialysis. Recent studies have started to shed light on the pharmacokinetics 
+of L-carnitine when used in haemodialysis patients.
+
+DOI: 10.2165/00003088-200342110-00002
+PMID: 12908852 [Indexed for MEDLINE]

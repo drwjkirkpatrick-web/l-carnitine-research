@@ -1,0 +1,61 @@
+PMID: 34997761
+PubMed URL: https://pubmed.ncbi.nlm.nih.gov/34997761/
+Fetched via NCBI eutils efetch, accessed 2026-11-15
+
+1. J Inherit Metab Dis. 2022 May;45(3):386-405. doi: 10.1002/jimd.12475. Epub
+2022  Feb 3.
+
+Clinical characteristics of primary carnitine deficiency: A structured review 
+using a case-by-case approach.
+
+Crefcoeur LL(1)(2), Visser G(1)(2), Ferdinandusse S(2), Wijburg FA(3), Langeveld 
+M(4), Sjouke B(4).
+
+Author information:
+(1)Department of Metabolic Diseases, Wilhelmina Children's Hospital, University 
+Medical Center Utrecht, Utrecht, The Netherlands.
+(2)Laboratory Genetic Metabolic Diseases, Amsterdam UMC location Academic 
+Medical Center, University of Amsterdam, Amsterdam Gastroenterology and 
+Metabolism, Amsterdam, The Netherlands.
+(3)Emma's Children's Hospital, Amsterdam UMC location Academic Medical Center, 
+University of Amsterdam, Amsterdam, The Netherlands.
+(4)Department of Endocrinology and Metabolism, Amsterdam UMC location Academic 
+Medical Center, University of Amsterdam, Amsterdam, The Netherlands.
+
+A broad spectrum of signs and symptoms has been attributed to primary carnitine 
+deficiency (PCD) since its first description in 1973. Advances in diagnostic 
+procedures have improved diagnostic accuracy and the introduction of PCD in 
+newborn screening (NBS) programs has led to the identification of an increasing 
+number of PCD patients, including mothers of screened newborns, who may show a 
+different phenotype compared to clinically diagnosed patients. To elucidate the 
+spectrum of signs and symptoms in PCD patients, we performed a structured 
+literature review. Using a case-by-case approach, clinical characteristics, 
+diagnostic data, and mode of patient identification were recorded. Signs and 
+symptoms were categorized by organ involvement. In total, 166 articles were 
+included, reporting data on 757 individual patients. In almost 20% (N = 136) of 
+the cases, the diagnosis was based solely on low carnitine concentration which 
+we considered an uncertain diagnosis of PCD. The remaining 621 cases had a 
+diagnosis based on genetic and/or functional (ie, carnitine transporter 
+activity) test results. In these 621 cases, cardiac symptoms (predominantly 
+cardiomyopathy) were the most prevalent (23.8%). Neurological (7.1%), hepatic 
+(8.4%), and metabolic (9.2%) symptoms occurred mainly in early childhood. Adult 
+onset of symptoms occurred in 16 of 194 adult patients, of whom 6 (3.1%) 
+patients suffered a severe event without any preceding symptom (five cardiac 
+events and one coma). In conclusion, symptoms in PCD predominantly develop in 
+early childhood. Most newborns and mothers of newborns detected through NBS 
+remain asymptomatic. However, though rarely, severe complications do occur in 
+both groups.
+
+© 2022 The Authors. Journal of Inherited Metabolic Disease published by John 
+Wiley & Sons Ltd on behalf of SSIEM.
+
+DOI: 10.1002/jimd.12475
+PMCID: PMC9305179
+PMID: 34997761 [Indexed for MEDLINE]
+
+Conflict of interest statement: Mirjam Langeveld is involved in premarketing 
+studies with Sanofi‐Genzyme, Protalix BioTherapeutics, and Idorsia. Financial 
+arrangements are made through AMC Research BV. No fees, travel support, or 
+grants were obtained from pharmaceutical industry. Loek L. Crefcoeur, Gepke 
+Visser, Sacha Ferdinandusse, Frits A. Wijburg, and Barbara Sjouke declare that 
+they have no potential conflicts of interest.

@@ -1,0 +1,65 @@
+PMID: 36343260
+PubMed URL: https://pubmed.ncbi.nlm.nih.gov/36343260/
+Fetched via NCBI eutils efetch, accessed 2026-11-15
+
+1. Proc Natl Acad Sci U S A. 2022 Nov 16;119(46):e2210247119. doi: 
+10.1073/pnas.2210247119. Epub 2022 Nov 7.
+
+Functional genomics of OCTN2 variants informs protein-specific variant effect 
+predictor for Carnitine Transporter Deficiency.
+
+Koleske ML(1), McInnes G(2)(3), Brown JEH(4)(5), Thomas N(6), Hutchinson K(7), 
+Chin MY(8), Koehl A(9), Arkin MR(8), Schlessinger A(7), Gallagher RC(10)(11), 
+Song YS(6)(9), Altman RB(12)(13), Giacomini KM(1).
+
+Author information:
+(1)Department of Bioengineering and Therapeutic Sciences, University of 
+California, San Francisco, CA 94143.
+(2)Biomedical Informatics Training Program, Stanford University, Stanford, CA 
+94305.
+(3)Empirico Inc., San Diego, CA 92122.
+(4)Program in Bioethics, University of California, San Francisco, CA 94143.
+(5)Institute for Health &amp; Aging, University of California, San Francisco, CA 
+94143.
+(6)Computer Science Division, University of California, Berkeley, CA 94720.
+(7)Department of Pharmacological Sciences, Icahn School of Medicine at Mt. 
+Sinai, New York, NY 10029.
+(8)Small Molecule Discovery Center, Department of Pharmaceutical Chemistry, 
+University of California, San Francisco, CA 94143.
+(9)Department of Statistics, University of California, Berkeley, CA 94720.
+(10)Institute for Human Genetics, University of California, San Francisco, CA 
+94143.
+(11)Department of Pediatrics, University of California, San Francisco, CA 94143.
+(12)Department of Bioengineering, Stanford University, Stanford, CA 94305.
+(13)Department of Genetics, Stanford University, Stanford, CA 94305.
+
+Genetic variants in SLC22A5, encoding the membrane carnitine transporter OCTN2, 
+cause the rare metabolic disorder Carnitine Transporter Deficiency (CTD). CTD is 
+potentially lethal but actionable if detected early, with confirmatory diagnosis 
+involving sequencing of SLC22A5. Interpretation of missense variants of 
+uncertain significance (VUSs) is a major challenge. In this study, we sought to 
+characterize the largest set to date (n = 150) of OCTN2 variants identified in 
+diverse ancestral populations, with the goals of furthering our understanding of 
+the mechanisms leading to OCTN2 loss-of-function (LOF) and creating a 
+protein-specific variant effect prediction model for OCTN2 function. Uptake 
+assays with 14C-carnitine revealed that 105 variants (70%) significantly reduced 
+transport of carnitine compared to wild-type OCTN2, and 37 variants (25%) 
+severely reduced function to less than 20%. All ancestral populations harbored 
+LOF variants; 62% of green fluorescent protein (GFP)-tagged variants impaired 
+OCTN2 localization to the plasma membrane of human embryonic kidney (HEK293T) 
+cells, and subcellular localization significantly associated with function, 
+revealing a major LOF mechanism of interest for CTD. With these data, we trained 
+a model to classify variants as functional (>20% function) or LOF (<20% 
+function). Our model outperformed existing state-of-the-art methods as evaluated 
+by multiple performance metrics, with mean area under the receiver operating 
+characteristic curve (AUROC) of 0.895 ± 0.025. In summary, in this study we 
+generated a rich dataset of OCTN2 variant function and localization, revealed 
+important disease-causing mechanisms, and improved upon machine learning-based 
+prediction of OCTN2 variant function to aid in variant interpretation in the 
+diagnosis and treatment of CTD.
+
+DOI: 10.1073/pnas.2210247119
+PMCID: PMC9674959
+PMID: 36343260 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interest.

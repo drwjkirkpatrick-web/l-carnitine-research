@@ -1,0 +1,37 @@
+# Source: PubMed (NCBI E-utilities efetch)
+# URL: https://pubmed.ncbi.nlm.nih.gov/34065078/
+# Fetched: 2026-11-15
+# PMID: 34065078
+
+1. Nutrients. 2021 May 9;13(5):1580. doi: 10.3390/nu13051580.
+
+Sugar or Fat? Renal Tubular Metabolism Reviewed in Health and Disease.
+
+Gewin LS(1)(2)(3).
+
+Author information:
+(1)Division of Nephrology and Hypertension, Department of Medicine, Vanderbilt 
+University Medical Center (VUMC), Nashville, TN 37232, USA.
+(2)Department of Medicine, Veterans Affairs Hospital, Tennessee Valley 
+Healthcare System, Nashville, TN 37212, USA.
+(3)Department of Cell and Developmental Biology, Vanderbilt University, 
+Nashville, TN 37212, USA.
+
+The kidney is a highly metabolically active organ that relies on specialized 
+epithelial cells comprising the renal tubules to reabsorb most of the filtered 
+water and solutes. Most of this reabsorption is mediated by the proximal 
+tubules, and high amounts of energy are needed to facilitate solute movement. 
+Thus, proximal tubules use fatty acid oxidation, which generates more adenosine 
+triphosphate (ATP) than glucose metabolism, as its preferred metabolic pathway. 
+After kidney injury, metabolism is altered, leading to decreased fatty acid 
+oxidation and increased lactic acid generation. This review discusses how 
+metabolism differs between the proximal and more distal tubular segments of the 
+healthy nephron. In addition, metabolic changes in acute kidney injury and 
+chronic kidney disease are discussed, as well as how these changes in metabolism 
+may impact tubule repair and chronic kidney disease progression.
+
+DOI: 10.3390/nu13051580
+PMCID: PMC8151053
+PMID: 34065078 [Indexed for MEDLINE]
+
+Conflict of interest statement: L.S.G. is a consultant for Surrozen and Morphic.

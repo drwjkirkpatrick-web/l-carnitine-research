@@ -1,0 +1,839 @@
+{
+  "sources": [
+    {
+      "url": "https://smw.ch/index.php/smw/article/download/389/386/766",
+      "title": "Interaction of food supplement L-carnitine with oral anticoagulant acenocoumarol",
+      "authors": "Bachmann HU; Hoffmann A",
+      "year": "2004",
+      "journal_or_publisher": "Swiss Med Wkly",
+      "vol_pages": "134(25-26):385",
+      "doi": "10.4414/smw.2004.10631",
+      "pmid": "15340883",
+      "page_file": "research/practical/pages/acenocoumarol-bachmann-2004-fulltext.txt",
+      "quotes": [
+        "An unexpected rise of INR to 4.65 which was observed again despite a dose correction was the reason for a detailed questioning on food intake.",
+        "The patient had been taking 1000 mg/d of carnitine for a period of ten weeks.",
+        "after the product was omitted the INR values returned to a stable range (2.4–2.8) for over 4 months.",
+        "There is one earlier report of potentiation of acenocoumarol by carnitine in the literature [6], thus confirmed by our observation 10 years later.",
+        "The mechanism of interaction is still unknown."
+      ],
+      "notes": "Case report: 1000 mg/d L-carnitine destabilized acenocoumarol INR; full text (scope c)",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15340883/",
+      "title": "Interaction of food supplement L-carnitine with oral anticoagulant acenocoumarol.",
+      "authors": "Bachmann HU; Hoffmann A",
+      "year": "2004",
+      "journal_or_publisher": "Swiss Med Wkly",
+      "vol_pages": "134(25-26):385",
+      "doi": "10.4414/smw.2004.10631",
+      "pmid": "15340883",
+      "page_file": "research/practical/pages/acenocoumarol-bachmann-2004.txt",
+      "quotes": [
+        "Interaction of food supplement L-carnitine with oral anticoagulant acenocoumarol."
+      ],
+      "notes": "PubMed citation stub for the same case report (scope c)",
+      "extract_status": "stub"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8429297/",
+      "title": "Potentiation of acenocoumarol action by L-carnitine.",
+      "authors": "Martinez E; Domingo P; Roca-Cusachs A",
+      "year": "1993",
+      "journal_or_publisher": "J Intern Med",
+      "vol_pages": "233(1):94",
+      "doi": "",
+      "pmid": "8429297",
+      "page_file": "research/practical/pages/acenocoumarol-martinez-1993.txt",
+      "quotes": [
+        "Potentiation of acenocoumarol action by L-carnitine."
+      ],
+      "notes": "First published acenocoumarol-L-carnitine potentiation report (letter); citation stub (scope c)",
+      "extract_status": "stub"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29076953/",
+      "title": "Acetyl-L-Carnitine Supplementation and the Treatment of Depressive Symptoms: A Systematic Review and Meta-Analysis.",
+      "authors": "Veronese N; Stubbs B; Solmi M; Ajnakina O; Carvalho AF; Maggi S",
+      "year": "2018",
+      "journal_or_publisher": "Psychosom Med",
+      "vol_pages": "80(2):154-159",
+      "doi": "10.1097/PSY.0000000000000537",
+      "pmid": "29076953",
+      "page_file": "research/practical/pages/alcar-veronese-2018.txt",
+      "quotes": [
+        "ALC supplementation significantly decreases depressive symptoms compared with placebo/no intervention, while offering a comparable effect with that of established antidepressant agents with fewer adverse effects.",
+        "Twelve RCTs (11 of which were ALC monotherapy) with a total of 791 participants",
+        "the incidence of adverse effects was significantly lower in the ALC group than in the antidepressant group."
+      ],
+      "notes": "Meta-analysis of 12 RCTs: acetyl-L-carnitine for CNS (depressive symptoms) endpoints (scope a)",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/86768/",
+      "title": "Myasthenia-like syndrome associated with carnitine in patients on long-term haemodialysis.",
+      "authors": "Bazzato G; Mezzina C; Ciman M; Guarnieri G",
+      "year": "1979",
+      "journal_or_publisher": "Lancet",
+      "vol_pages": "1(8124):1041-2",
+      "doi": "10.1016/s0140-6736(79)92804-6",
+      "pmid": "86768",
+      "page_file": "research/practical/pages/bazzato-1979-myasthenia.txt",
+      "quotes": [
+        "Myasthenia-like syndrome associated with carnitine in patients on long-term haemodialysis."
+      ],
+      "notes": "Original 1979 dialysis myasthenia-like syndrome report; citation stub (scope b)",
+      "extract_status": "stub"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11502782/",
+      "title": "Usefulness of L-carnitine, a naturally occurring peripheral antagonist of thyroid hormone action, in iatrogenic hyperthyroidism: a randomized, double-blind, placebo-controlled clinical trial.",
+      "authors": "Benvenga S; Ruggeri RM; Russo A; Lapa D; Campenni A; Trimarchi F",
+      "year": "2001",
+      "journal_or_publisher": "J Clin Endocrinol Metab",
+      "vol_pages": "86(8):3579-94",
+      "doi": "10.1210/jcem.86.8.7747",
+      "pmid": "11502782",
+      "page_file": "research/practical/pages/benvenga-2001-hyperthyroid.txt",
+      "quotes": [
+        "In conclusion, L-carnitine is effective in both reversing and preventing symptoms of hyperthyroidism and has a beneficial effect on bone mineralization.",
+        "we assessed whether 2 or 4 g/d oral L-carnitine were able to both reverse and prevent/minimize nine hyperthyroidism- related symptoms",
+        "Because hyperthyroidism depletes the body deposits of carnitine and since carnitine has no toxicity, teratogenicity, contraindications and interactions with drugs, carnitine can be of clinical use."
+      ],
+      "notes": "Randomized double-blind trial, 50 TSH-suppressed women, 2 or 4 g/d L-carnitine (scope c)",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15591013/",
+      "title": "Effects of carnitine on thyroid hormone action.",
+      "authors": "Benvenga S; Amato A; Calvani M; Trimarchi F",
+      "year": "2004",
+      "journal_or_publisher": "Ann N Y Acad Sci",
+      "vol_pages": "1033:158-67",
+      "doi": "10.1196/annals.1320.015",
+      "pmid": "15591013",
+      "page_file": "research/practical/pages/benvenga-2004-thyroid.txt",
+      "quotes": [
+        "In particular, L-carnitine inhibits both triiodothyronine (T3) and thyroxine (T4) entry into the cell nuclei.",
+        "we showed that 2 and 4 grams per day of oral L-carnitine are capable of reversing hyperthyroid symptoms (and biochemical changes in the hyperthyroid direction) as well as preventing (or minimizing) the appearance of hyperthyroid symptoms"
+      ],
+      "notes": "Mechanism + trial review: peripheral antagonism of thyroid hormone action (scope c)",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38377965/",
+      "title": "Musculoskeletal Health Worsened from Carnitine Supplementation and Not Impacted by a Novel Individualized Treadmill Training Protocol.",
+      "authors": "Troutman AD; Srinivasan S; Metzger CE; Fallen PB; Chen N; O'Neill KD; Allen MR; Biruete A; Moe SM; Avin KG",
+      "year": "2024",
+      "journal_or_publisher": "Am J Nephrol",
+      "vol_pages": "55(3):369-379",
+      "doi": "10.1159/000537827",
+      "pmid": "38377965",
+      "page_file": "research/practical/pages/ckd-troutman-2024.txt",
+      "quotes": [
+        "Carnitine supplementation worsened CKD progression, mineral metabolism biochemistries, and cortical porosity and did not have an impact on physical function.",
+        "Future studies should seek to better understand carnitine doses in conditions of compromised renal function to prevent toxicity which may result from elevated carnitine levels"
+      ],
+      "notes": "CKD rat model (Cy/+), 250 mg/kg/day carnitine x 10 weeks: harm signal (scope c)",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/6232557/",
+      "title": "[Myasthenic syndrome induced by D,L-carnitine in a chronic hemodialysis patient].",
+      "authors": "Clair F; Caillat S; Soufir JC; Lafforgue B; Drüeke T; Saïd G",
+      "year": "1984",
+      "journal_or_publisher": "Presse Med",
+      "vol_pages": "13(18):1154-5",
+      "doi": "",
+      "pmid": "6232557",
+      "page_file": "research/practical/pages/clair-1984-dlcarnitine.txt",
+      "quotes": [
+        "[Myasthenic syndrome induced by D,L-carnitine in a chronic hemodialysis patient]."
+      ],
+      "notes": "French case: D,L-carnitine myasthenic syndrome in hemodialysis; citation stub (scope b)",
+      "extract_status": "stub"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36472884/",
+      "title": "Carnitine supplements for people with chronic kidney disease requiring dialysis.",
+      "authors": "Nishioka N; Luo Y; Taniguchi T; Ohnishi T; Kimachi M; Ng RC; Watanabe N",
+      "year": "2022",
+      "journal_or_publisher": "Cochrane Database Syst Rev",
+      "vol_pages": "12(12):CD013601",
+      "doi": "10.1002/14651858.CD013601.pub2",
+      "pmid": "36472884",
+      "page_file": "research/practical/pages/cochrane-ckd-dialysis-2022.txt",
+      "quotes": [
+        "The available evidence does not currently support the use of carnitine supplementation in the treatment of dialysis-related carnitine deficiency.",
+        "Although carnitine supplementation may slightly improve anaemia-related markers, carnitine supplementation makes little or no difference to adverse events.",
+        "adverse events (12 studies, 1041 participants: RR, 1.14, 95% CI 0.86 to 1.51; I² = 0%; low certainty of evidence)"
+      ],
+      "notes": "Cochrane review, 52 RCTs / 3398 dialysis participants: efficacy and safety (scope c)",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://www.dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=2685d8da-010e-40d7-914f-80546634888d",
+      "title": "DailyMed - LEVOCARNITINE injection, solution",
+      "authors": "",
+      "year": "",
+      "journal_or_publisher": "U.S. National Library of Medicine (DailyMed)",
+      "vol_pages": "",
+      "doi": "",
+      "pmid": "",
+      "page_file": "research/practical/pages/dailymed-levocarnitine-injection.txt",
+      "quotes": [
+        "The recommended starting dose is 10 to 20 mg/kg dry body weight as a slow 2 to 3 minute bolus injection into the venous return line after each dialysis session.",
+        "Initiation of therapy may be prompted by trough (pre-dialysis) plasma levocarnitine concentrations that are below normal (40 to 50 µmol/L).",
+        "Seizures have been reported to occur in patients, with or without pre-existing seizure activity, receiving either oral or intravenous levocarnitine.",
+        "The recommended dose is 50 mg/kg given as a slow 2 to 3 minute bolus injection or by infusion."
+      ],
+      "notes": "FDA levocarnitine injection label: dialysis dosing 10-20 mg/kg post-session, seizure warning (scopes b, c)",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://www.dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0f749812-8f02-4eeb-91d9-5dd6fc9fa159",
+      "title": "DailyMed - LEVOCARNITINE tablet",
+      "authors": "",
+      "year": "",
+      "journal_or_publisher": "U.S. National Library of Medicine (DailyMed)",
+      "vol_pages": "",
+      "doi": "",
+      "pmid": "",
+      "page_file": "research/practical/pages/dailymed-levocarnitine-tablet.txt",
+      "quotes": [
+        "Various mild gastrointestinal complaints have been reported during the long-term administration of oral L- or D,L-carnitine; these include transient nausea and vomiting, abdominal cramps, and diarrhea.",
+        "Decreasing the dosage often diminishes or eliminates drug-related patient body odor or gastrointestinal symptoms when present.",
+        "Tolerance should be monitored very closely during the first week of administration, and after any dosage increases.",
+        "Seizures have been reported to occur in patients with or without pre-existing seizure activity receiving either oral or intravenous levocarnitine.",
+        "In patients with pre-existing seizure activity, an increase in seizure frequency and/or severity has been reported.",
+        "Mild myasthenia has been described only in uremic patients receiving D,L-carnitine.",
+        "Reports of INR increase with the use of warfarin have been observed. It is recommended that INR levels be monitored in patients on warfarin therapy after the initiation of treatment with levocarnitine or after dose adjustments.",
+        "The safety and efficacy of oral levocarnitine has not been evaluated in patients with renal insufficiency.",
+        "may result in accumulation of the potentially toxic metabolites, trimethylamine (TMA) and trimethylamine-N-oxide (TMAO), since these metabolites are normally excreted in the urine.",
+        "The recommended oral dosage for adults is 990 mg two or three times a day using the 330 mg tablets, depending on clinical response.",
+        "The recommended oral dosage for infants and children is between 50 and 100 mg/kg/day in divided doses, with a maximum of 3 g/day.",
+        "There are, however, no adequate and well controlled studies in pregnant women.",
+        "this drug should be used during pregnancy only if clearly needed.",
+        "Levocarnitine supplementation in nursing mothers has not been specifically studied.",
+        "There have been no reports of toxicity from levocarnitine overdosage.",
+        "Large doses of levocarnitine may cause diarrhea."
+      ],
+      "notes": "FDA levocarnitine tablet label: GI tolerability, seizures, D,L-myasthenia note, warfarin/INR, renal precaution, pregnancy/nursing, dosing (scopes a, b, c, e)",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7381520/",
+      "title": "Myasthenia due to carnitine treatment.",
+      "authors": "De Grandis D; Mezzina C; Fiaschi A; Pinelli P; Bazzato G; Morachiello M",
+      "year": "1980",
+      "journal_or_publisher": "J Neurol Sci",
+      "vol_pages": "46(3):365-71",
+      "doi": "10.1016/0022-510x(80)90061-1",
+      "pmid": "7381520",
+      "page_file": "research/practical/pages/degrandis-1980-myasthenia.txt",
+      "quotes": [
+        "Severe weakness of lower cranial and girdle muscles has been found in 4 subjects among 20 dialysis patients treated with carnitine in order to correct their high plasma triglyceride level.",
+        "These findings suggest a hemicholinium activity of carnitine at synaptic level."
+      ],
+      "notes": "Contamination-era (D,L-carnitine) dialysis myasthenia series, 4/20 patients (scope b)",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://www.drugs.com/drug-interactions/levocarnitine-with-warfarin-1454-0-2311-0.html?professional=1",
+      "title": "Drug Interactions between levocarnitine and warfarin (Drugs.com)",
+      "authors": "",
+      "year": "",
+      "journal_or_publisher": "Drugs.com",
+      "vol_pages": "",
+      "doi": "",
+      "pmid": "",
+      "page_file": "research/practical/pages/drugscom-warfarin-interaction.txt",
+      "quotes": [
+        "Limited data suggest that levocarnitine may potentiate the hypoprothrombinemic effects of warfarin and other coumarin anticoagulants.",
+        "There have been isolated case reports of INR increase and/or bleeding in patients treated with warfarin or acenocoumarol following the addition of levocarnitine therapy.",
+        "INR levels returned to normal after discontinuation of levocarnitine.",
+        "The INR should be checked frequently and anticoagulant dosage adjusted accordingly, particularly following initiation, discontinuation, or change of dosage of levocarnitine."
+      ],
+      "notes": "Professional drug-interaction monograph summarizing the warfarin/coumarin signal (scope c)",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19178874/",
+      "title": "Comparison of pharmacokinetics of L-carnitine, acetyl-L-carnitine and propionyl-L-carnitine after single oral administration of L-carnitine in healthy volunteers.",
+      "authors": "Cao Y; Wang YX; Liu CJ; Wang LX; Han ZW; Wang CB",
+      "year": "2009",
+      "journal_or_publisher": "Clin Invest Med",
+      "vol_pages": "32(1):E13-9",
+      "doi": "10.25011/cim.v32i1.5082",
+      "pmid": "19178874",
+      "page_file": "research/practical/pages/forms-pk-cao-2009.txt",
+      "quotes": [
+        "Liquid L-carnitine (2.0 g) was administered orally as a single dose in 12 healthy subjects.",
+        "L-carnitine has a greater maximum plasma concentration than ALC and PLC.",
+        "These data may have important implications in the designing of dosing regimens for L-carnitine or its analogues, such as ALC or PLC."
+      ],
+      "notes": "Single-dose 2 g PK comparison of L-carnitine vs ALC vs PLC (scope a)",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19341458/",
+      "title": "Glycine propionyl-L-carnitine produces enhanced anaerobic work capacity with reduced lactate accumulation in resistance trained males.",
+      "authors": "Jacobs PL; Goldstein ER; Blackburn W; Orem I; Hughes JJ",
+      "year": "2009",
+      "journal_or_publisher": "J Int Soc Sports Nutr",
+      "vol_pages": "6:9",
+      "doi": "10.1186/1550-2783-6-9",
+      "pmid": "19341458",
+      "page_file": "research/practical/pages/gplc-jacobs-2009.txt",
+      "quotes": [
+        "Testing was performed 90 minutes following oral ingestion of either 4.5 grams GPLC or 4.5 grams cellulose (PL), in randomized order.",
+        "These findings indicate that short-term oral supplementation of GPLC can enhance peak power production in resistance trained males with significantly less LAC accumulation."
+      ],
+      "notes": "Double-blind crossover trial: acute 4.5 g glycine propionyl-L-carnitine (scope a)",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36597167/",
+      "title": "The effects of adjunctive treatment with L-carnitine on monitoring laboratory variables in ICU patients: a double-blinded randomized controlled clinical trial.",
+      "authors": "Yahyapoor F; Keshani M; Sedaghat A; Feizi A; Clark CCT; Bagherniya M; Safarian M; Badpeyma M; Norouzy A",
+      "year": "2023",
+      "journal_or_publisher": "Trials",
+      "vol_pages": "24(1):3",
+      "doi": "10.1186/s13063-022-07010-4",
+      "pmid": "36597167",
+      "page_file": "research/practical/pages/icu-inr-carnitine-2023.txt",
+      "quotes": [
+        "Alanine transaminase (ALT) (0.022), lactate (<0.001), creatinine (Cr) (0.005), and international normalized ratio (INR) (0.049) decreased meaningfully in the intervention vs. control group.",
+        "Participants were 54 patients, aged > 18 years, with multiple conditions, randomly assigned to receive 3 g L-carnitine per day or placebo, along with enteral feeding, for 1 week."
+      ],
+      "notes": "RCT counterpoint: 3 g/day enteral L-carnitine in ICU patients lowered INR (scope c)",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41243468/",
+      "title": "Low Bioavailability and High TMAO Production: Novel Insights Into Acetylcarnitine and Carnitine Metabolism.",
+      "authors": "Krims-Davis K; Ozola M; Razzivina V; Gukalova B; Konrade I; Dambrova M; Liepinsh E",
+      "year": "2025",
+      "journal_or_publisher": "Mol Nutr Food Res",
+      "vol_pages": "69(24):e70316",
+      "doi": "10.1002/mnfr.70316",
+      "pmid": "41243468",
+      "page_file": "research/practical/pages/krims-davis-2025-tmao.txt",
+      "quotes": [
+        "Healthy volunteers received either carnitine or an acetylcarnitine supplement (0.5 or 1.5 g).",
+        "Acetylcarnitine has significantly lower bioavailability than carnitine.",
+        "Approximately 90% of both supplements were metabolized to TMAO, reaching 50 µM in plasma-levels previously found to be associated with adverse health outcomes.",
+        "The intake of both supplements resulted in substantial TMAO production, raising potential health concerns."
+      ],
+      "notes": "Human volunteer PK/metabolism study, 0.5 and 1.5 g doses: ALC bioavailability and TMAO (scopes a, b)",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20045157/",
+      "title": "l-Carnitine l-tartrate supplementation favorably affects biochemical markers of recovery from physical exertion in middle-aged men and women.",
+      "authors": "Ho JY; Kraemer WJ; Volek JS; Fragala MS; Thomas GA; Dunn-Lewis C; Coday M; Häkkinen K; Maresh CM",
+      "year": "2010",
+      "journal_or_publisher": "Metabolism",
+      "vol_pages": "59(8):1190-9",
+      "doi": "10.1016/j.metabol.2009.11.012",
+      "pmid": "20045157",
+      "page_file": "research/practical/pages/lclt-ho-2010.txt",
+      "quotes": [
+        "the effects of Carnipure tartrate (Lonza, Allendale, NJ) supplementation (total dose of 2 g/d of l-carnitine) on markers of performance and recovery from physical exertion in middle-aged men and women.",
+        "Two grams of l-carnitine supplementation had positive effects and significantly (P < or = .05) attenuated biochemical markers of purine metabolism (ie, hypoxanthine, xanthine oxidase), free radical formation (malondialdehyde), muscle tissue disruption (myoglobin, creatine kinase), and muscle soreness after physical exertion.",
+        "However, markers of physical performance (ie, strength, power, get up and go) were not affected by supplementation."
+      ],
+      "notes": "RCT crossover, middle-aged adults: 2 g/d LCLT for recovery/damage markers (scope a)",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12930169/",
+      "title": "The effects of L-carnitine L-tartrate supplementation on hormonal responses to resistance exercise and recovery.",
+      "authors": "Kraemer WJ; Volek JS; French DN; Rubin MR; Sharman MJ; Gómez AL; Ratamess NA; Newton RU; Jemiolo B; Craig BW; Häkkinen K",
+      "year": "2003",
+      "journal_or_publisher": "J Strength Cond Res",
+      "vol_pages": "17(3):455-62",
+      "doi": "10.1519/1533-4287(2003)017<0455:teolls>2.0.co;2",
+      "pmid": "12930169",
+      "page_file": "research/practical/pages/lclt-kraemer-2003.txt",
+      "quotes": [
+        "after 3 weeks of supplementation (2 g LCLT per day), fasting morning blood samples were obtained on six consecutive days",
+        "Over the recovery period, LCLT reduced the amount of exercise-induced muscle tissue damage, which was assessed via magnetic resonance imaging scans of the thigh."
+      ],
+      "notes": "RCT crossover, resistance-trained men: 2 g/d LCLT reduced MRI-assessed muscle damage (scope a)",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28537653/",
+      "title": "A novel treatment for subclinical hyperthyroidism: a pilot study on the beneficial effects of l-carnitine and selenium.",
+      "authors": "Nordio M",
+      "year": "2017",
+      "journal_or_publisher": "Eur Rev Med Pharmacol Sci",
+      "vol_pages": "21(9):2268-2273",
+      "doi": "",
+      "pmid": "28537653",
+      "page_file": "research/practical/pages/nordio-2017-subclinical.txt",
+      "quotes": [
+        "Subjects received orally one tablet containing 500 mg of l-carnitine and 83 mcg of selenium (L-Carn + Se), daily for 1 month.",
+        "After 1-month treatment, the subjective symptomatology significantly dropped from 25.61 ± 1.19 to 12.11 ± 1.15 (p < 0.05).",
+        "it is noteworthy that the extension of treatment seems necessary to prevent symptoms reappearance."
+      ],
+      "notes": "Observational pilot: 500 mg/d l-carnitine + selenium in subclinical hyperthyroidism (scope c)",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://ods.od.nih.gov/factsheets/carnitine-HealthProfessional/",
+      "title": "Carnitine - Health Professional Fact Sheet",
+      "authors": "",
+      "year": "",
+      "journal_or_publisher": "NIH Office of Dietary Supplements",
+      "vol_pages": "",
+      "doi": "",
+      "pmid": "",
+      "page_file": "research/practical/pages/ods-carnitine-hp.txt",
+      "quotes": [
+        "Healthy children and adults do not need to consume carnitine from food or supplements because the liver and kidneys synthesize sufficient amounts to meet daily needs",
+        "Dietary carnitine has a bioavailability of about 63% to 75%",
+        "Absorption of supplemental L-carnitine is about 14% to 18%, much less than that of dietary L-carnitine",
+        "Carnitine does not have an established tolerable upper intake level. However, doses of approximately 3 g/day of carnitine supplements can cause nausea, vomiting, abdominal cramps, diarrhea, and a fishy body odor",
+        "The clinical trials assessed the effectiveness of 1 to 3 g/day acetyl-L-carnitine supplementation or placebo over 12 to 52 weeks in participants with mild to moderate dementia or cognitive decline.",
+        "It can also cause muscle weakness in people with uremia and seizures in those with seizure disorders.",
+        "Treatment with the anticonvulsants valproic acid, phenobarbital, phenytoin, and carbamazepine reduces blood levels of carnitine",
+        "Intravenous L-carnitine administration might help treat valproic acid toxicity in children and adults, although the optimal regimen has not been identified"
+      ],
+      "notes": "NIH ODS Health Professional fact sheet: intake, absorption, safety ceiling, interactions (scopes a, b, c, e)",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16988205/",
+      "title": "Disposition and metabolite kinetics of oral L-carnitine in humans.",
+      "authors": "Bain MA; Milne RW; Evans AM",
+      "year": "2006",
+      "journal_or_publisher": "J Clin Pharmacol",
+      "vol_pages": "46(10):1163-70",
+      "doi": "10.1177/0091270006292851",
+      "pmid": "16988205",
+      "page_file": "research/practical/pages/pk-bain-2006.txt",
+      "quotes": [
+        "The pharmacokinetics of L-carnitine and its metabolites were investigated in 7 healthy subjects following the oral administration of 0, 0.5, 1, and 2 g 3 times a day for 7 days.",
+        "Mean plasma concentrations of L-carnitine across an 8-hour dose interval increased significantly (P < .05) from a baseline of 54.2 +/- 9.3 microM to 80.5 +/- 12.5 microM following the 0.5-g dose; there was no further increase at higher doses.",
+        "In conclusion, the pharmacokinetics of oral L-carnitine display nonlinearity above a dose of 0.5 g 3 times a day."
+      ],
+      "notes": "Human dose-escalation PK: nonlinearity above 0.5 g TID; split-dose rationale (scope a)",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22804748/",
+      "title": "Carnitine and acylcarnitines: pharmacokinetic, pharmacological and clinical aspects.",
+      "authors": "Reuter SE; Evans AM",
+      "year": "2012",
+      "journal_or_publisher": "Clin Pharmacokinet",
+      "vol_pages": "51(9):553-72",
+      "doi": "10.1007/BF03261931",
+      "pmid": "22804748",
+      "page_file": "research/practical/pages/pk-review-reuter-2012.txt",
+      "quotes": [
+        "The homeostasis of carnitine is multifaceted with concentrations achieved and maintained by a combination of oral absorption, de novo biosynthesis, carrier-mediated distribution into tissues and extensive, but saturable, renal tubular reabsorption."
+      ],
+      "notes": "PK review: saturable renal tubular reabsorption as the determinant of dose-fractionation behavior (scope a)",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41692009/",
+      "title": "L-Carnitine and Acetyl-L-Carnitine in Drug Poisonings: A Systematic Review of Clinical and Experimental Evidence.",
+      "authors": "Rezaee H; Abbasgholizadeh F",
+      "year": "2026",
+      "journal_or_publisher": "J Appl Toxicol",
+      "vol_pages": "46(5):1447-1459",
+      "doi": "10.1002/jat.70095",
+      "pmid": "41692009",
+      "page_file": "research/practical/pages/poisonings-review-2026.txt",
+      "quotes": [
+        "In general, LC/ALC was well tolerated.",
+        "a retrospective cohort in valproate toxicity revealed no kinetic or survival advantage"
+      ],
+      "notes": "2026 systematic review of LC/ALC in poisonings incl. valproate: tolerability and mixed valproate signal (scopes b, c)",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://www.bulksupplements.com/products/l-carnitine-l-tartrate-powder",
+      "title": "L-Carnitine L-Tartrate Powder (LCLT) | Amino Acid Supplement Powder (BulkSupplements)",
+      "authors": "",
+      "year": "",
+      "journal_or_publisher": "BulkSupplements.com",
+      "vol_pages": "",
+      "doi": "",
+      "pmid": "",
+      "page_file": "research/practical/pages/retail-lclt-powder-bulksupplements.txt",
+      "quotes": [
+        "1 Kilogram (2.2 lbs)",
+        "One-time purchase $65.97 USD",
+        "25 Kilograms (55 lbs)360 Capsules"
+      ],
+      "notes": "Retail LCLT bulk powder listing: sizes incl. 1 kg at $65.97 (scope d)",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://www.target.com/p/bulksupplements-l-carnitine-l-tartrate-powder-1-kilogram-2-2-lbs/-/A-1004332178",
+      "title": "BulkSupplements L-Carnitine L-Tartrate Powder 1 Kilogram - Target",
+      "authors": "",
+      "year": "",
+      "journal_or_publisher": "Target",
+      "vol_pages": "",
+      "doi": "",
+      "pmid": "",
+      "page_file": "research/practical/pages/retail-lclt-target-1kg.txt",
+      "quotes": [
+        "BulkSupplements L-Carnitine L-Tartrate Powder 1 Kilogram 0 out of 5 stars be the first! $65.97"
+      ],
+      "notes": "Retail confirmation: 1 kg BulkSupplements LCLT powder listed at $65.97 (scope d)",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://nutricost.com/products/nutricost-l-carnitine-tartrate-500mg-240-capsules",
+      "title": "Nutricost L-Carnitine Tartrate Capsules",
+      "authors": "",
+      "year": "",
+      "journal_or_publisher": "Nutricost",
+      "vol_pages": "",
+      "doi": "",
+      "pmid": "",
+      "page_file": "research/practical/pages/retail-lct-capsules-nutricost.txt",
+      "quotes": [
+        "120/240 Capsules, Each With 500mg of L-Carnitine Tartrate",
+        "1000mg Per Serving & 60/120 Servings Per Bottle"
+      ],
+      "notes": "Retail capsule listing: 500 mg/capsule, 1000 mg serving = capsule cost comparator (scope d)",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40871722/",
+      "title": "Adding L-Carnitine and Selenium to Methimazole in Graves' Disease: A Prospective Randomized Trial on Thyroid Markers and Quality of Life.",
+      "authors": "Rossi M; Meomartino L; Zavattaro M; Selvatico G; Rossetto Giaccherino R; Pagano L",
+      "year": "2025",
+      "journal_or_publisher": "Nutrients",
+      "vol_pages": "17(16):2693",
+      "doi": "10.3390/nu17162693",
+      "pmid": "40871722",
+      "page_file": "research/practical/pages/rossi-2025-graves.txt",
+      "quotes": [
+        "the Intervention Group reached TRAb negativity significantly earlier (HR = 2.35 (1.14-4.81), p = 0.016)",
+        "MMI requirements were consistently lower in the Intervention Group, both in average dosage (p = 0.013) and cumulative dose (p = 0.020).",
+        "the supplement exerted an independent effect in reducing the severity of tremor, irritability, mood lability, heat intolerance, and exertional dyspnea."
+      ],
+      "notes": "RCT, 60 Graves' patients: LCT+Se adjunct to methimazole (scope c)",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32958033/",
+      "title": "The bright and the dark sides of L-carnitine supplementation: a systematic review.",
+      "authors": "Sawicka AK; Renzi G; Olek RA",
+      "year": "2020",
+      "journal_or_publisher": "J Int Soc Sports Nutr",
+      "vol_pages": "17(1):49",
+      "doi": "10.1186/s12970-020-00377-2",
+      "pmid": "32958033",
+      "page_file": "research/practical/pages/sawicka-2020-safety.txt",
+      "quotes": [
+        "All the selected studies were conducted with healthy human subjects, with supplemented dose ranging from 1 g to 4 g per day for either 12 or 24 weeks.",
+        "LC supplementation, in combination with carbohydrates (CHO) effectively elevated total carnitine content in skeletal muscle.",
+        "LC supplementation was also noted to induce an increase of fasting plasma trimethylamine-N-oxide (TMAO) levels, which was not associated with modification of determined inflammatory nor oxidative stress markers."
+      ],
+      "notes": "Systematic review of 11 studies >=12 weeks: CHO-dependent loading and TMAO elevation (scopes a, b)",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33147805/",
+      "title": "Instability of Acylcarnitines in Stored Dried Blood Spots: The Impact on Retrospective Analysis of Biomarkers for Inborn Errors of Metabolism.",
+      "authors": "van Rijt WJ; Schielen PCJI; Özer Y; Bijsterveld K; van der Sluijs FH; Derks TGJ; Heiner-Fokkema MR",
+      "year": "2020",
+      "journal_or_publisher": "Int J Neonatal Screen",
+      "vol_pages": "6(4):83",
+      "doi": "10.3390/ijns6040083",
+      "pmid": "33147805",
+      "page_file": "research/practical/pages/stability-acylcarnitine-dbs-2020.txt",
+      "quotes": [
+        "Acylcarnitine species are subject to degradation upon long-term storage at room temperature, but limited data are available on the stability in original samples and the impact on acylcarnitine ratios."
+      ],
+      "notes": "Stability data point: acylcarnitines degrade at room temperature in dried samples (scope d)",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23050330/",
+      "title": "Stability of acetyl-1-carnitine in 5% dextrose using a high-performance liquid chromatography-mass spectrometry times 2 method.",
+      "authors": "Zhang Y; Jiang H; Hutson P",
+      "year": "2012",
+      "journal_or_publisher": "Int J Pharm Compd",
+      "vol_pages": "16(2):170-3",
+      "doi": "",
+      "pmid": "23050330",
+      "page_file": "research/practical/pages/stability-alcar-dextrose-2012.txt",
+      "quotes": [
+        "Acetyl-l-carnitine dissolved in aqueous solutions is stable at neutral to acidic pH, but unstable at pH > 9.",
+        "Acetyl-l-carnitine dissolved in water (pH 5.2) at concentrations of 1 and 10 mg/mL was found stable at room temperature or refrigerated for at least 33 days using the established stability-indicating method."
+      ],
+      "notes": "Nearest on-disk stability analog: ALC in aqueous solution, stable ~33 days at room temperature (scope d)",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17138832/",
+      "title": "Carbohydrate ingestion augments L-carnitine retention in humans.",
+      "authors": "Stephens FB; Evans CE; Constantin-Teodosiu D; Greenhaff PL",
+      "year": "2007",
+      "journal_or_publisher": "J Appl Physiol (1985)",
+      "vol_pages": "102(3):1065-70",
+      "doi": "10.1152/japplphysiol.01011.2006",
+      "pmid": "17138832",
+      "page_file": "research/practical/pages/stephens-2007-retention.txt",
+      "quotes": [
+        "eight men ingested 3 g/day L-carnitine followed by 4 x 500-ml solutions, each containing flavored water (Con) or 94 g simple sugars (glucose syrup; CHO).",
+        "The difference in plasma TC concentration in study A and 24-h urinary TC excretion in both studies suggests that insulin augmented the retention of carnitine in the CHO trials."
+      ],
+      "notes": "Randomized feeding study: insulin/carbohydrate co-ingestion augments carnitine retention (scope a)",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27126549/",
+      "title": "The complex metabolism of trimethylamine in humans: endogenous and exogenous sources.",
+      "authors": "Chhibber-Goel J; Gaur A; Singhal V; Parakh N; Bhargava B; Sharma A",
+      "year": "2016",
+      "journal_or_publisher": "Expert Rev Mol Med",
+      "vol_pages": "18:e8",
+      "doi": "10.1017/erm.2016.6",
+      "pmid": "27126549",
+      "page_file": "research/practical/pages/tma-review-2016.txt",
+      "quotes": [
+        "Trimethylamine (TMA) is a tertiary amine with a characteristic fishy odour.",
+        "Trimethylaminuria (TMAU) is a disease typified by its association with the characteristic fishy odour because of decreased TMA metabolism and excessive TMA excretion."
+      ],
+      "notes": "Review: TMA (fishy odour) metabolism and carnitine as exogenous source (scope b)",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39261302/",
+      "title": "L-carnitine for valproic acid-induced toxicity.",
+      "authors": "Gziut T; Thanacoody R",
+      "year": "2025",
+      "journal_or_publisher": "Br J Clin Pharmacol",
+      "vol_pages": "91(3):636-647",
+      "doi": "10.1111/bcp.16233",
+      "pmid": "39261302",
+      "page_file": "research/practical/pages/valproate-gziut-2025.txt",
+      "quotes": [
+        "Following exogenous oral administration of L-carnitine, the bioavailability ranges from 14% to 18%.",
+        "the fraction excreted unchanged in urine is 0.73-0.95, suggesting that renal clearance of L-carnitine is dose dependent due to saturable renal reabsorption at supraphysiological concentrations",
+        "we advocate the administration of L-carnitine for valproic-acid induced hyperammonaemia or hepatotoxicity as an intravenous loading dose of 5 mg/kg followed by a continuous intravenous infusion"
+      ],
+      "notes": "2025 clinical review: L-carnitine dosing for valproate toxicity (scope c)",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19280426/",
+      "title": "Carnitine in the treatment of valproic acid-induced toxicity.",
+      "authors": "Lheureux PE; Hantson P",
+      "year": "2009",
+      "journal_or_publisher": "Clin Toxicol (Phila)",
+      "vol_pages": "47(2):101-11",
+      "doi": "10.1080/15563650902752376",
+      "pmid": "19280426",
+      "page_file": "research/practical/pages/valproate-lheureux-2009.txt",
+      "quotes": [
+        "As it does not appear to be harmful, l-carnitine is commonly recommended in severe VPA poisoning, especially in children, although the clinical benefit in terms of liver protection or hastening of recovery from unconsciousness has not been established clearly.",
+        "Prophylactic carnitine supplementation is also advocated during VPA therapy in high-risk pediatric patients."
+      ],
+      "notes": "Review: carnitine for VPA-induced hyperammonemia/hepatotoxicity (scope c)",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35879038/",
+      "title": "Blood Levels of Ammonia and Carnitine in Patients Treated with Valproic Acid: A Meta-analysis.",
+      "authors": "Yokoyama S; Sugawara N; Maruo K; Yasui-Furukori N; Shimoda K",
+      "year": "2022",
+      "journal_or_publisher": "Clin Psychopharmacol Neurosci",
+      "vol_pages": "20(3):536-547",
+      "doi": "10.9758/cpn.2022.20.3.536",
+      "pmid": "35879038",
+      "page_file": "research/practical/pages/valproate-yokoyama-2022.txt",
+      "quotes": [
+        "the blood ammonia level in the VPA group was significantly higher than that in the non-VPA group.",
+        "Compared to that in the non-VPA group, the blood carnitine level in the VPA group was significantly lower.",
+        "Clinicians should measure both blood ammonia and free carnitine levels, especially in patients receiving high dosages of VPA."
+      ],
+      "notes": "Meta-analysis: VPA raises ammonia and lowers blood carnitine (scope c)",
+      "extract_status": "ok"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21224234/",
+      "title": "Chronic oral ingestion of L-carnitine and carbohydrate increases muscle carnitine content and alters muscle fuel metabolism during exercise in humans.",
+      "authors": "Wall BT; Stephens FB; Constantin-Teodosiu D; Marimuthu K; Macdonald IA; Greenhaff PL",
+      "year": "2011",
+      "journal_or_publisher": "J Physiol",
+      "vol_pages": "589(Pt 4):963-73",
+      "doi": "10.1113/jphysiol.2010.201343",
+      "pmid": "21224234",
+      "page_file": "research/practical/pages/wall-2011-loading.txt",
+      "quotes": [
+        "volunteers ingested either 80 g of CHO (Control) or 2 g of l-carnitine-l-tartrate and 80 g of CHO (Carnitine) twice daily for 24 weeks in a randomised, double blind manner.",
+        "All significant effects reported occurred after 24 weeks.",
+        "Muscle TC increased from basal by 21% in Carnitine (P < 0.05), and was unchanged in Control.",
+        "The Carnitine group increased work output 11% from baseline in the performance trial, while Control showed no change.",
+        "This is the first demonstration that human muscle TC can be increased by dietary means"
+      ],
+      "notes": "RCT: 2 g LCLT + 80 g CHO twice daily x 24 weeks loads muscle carnitine 21% (scope a)",
+      "extract_status": "ok"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "The exercise-recovery dose in the human L-carnitine L-tartrate trials is 2 g/day: three weeks of 2 g/day LCLT reduced exercise-induced muscle tissue damage assessed by MRI in resistance-trained men.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12930169/",
+      "quote": "Over the recovery period, LCLT reduced the amount of exercise-induced muscle tissue damage, which was assessed via magnetic resonance imaging scans of the thigh.",
+      "strength": "human"
+    },
+    {
+      "claim": "Two grams/day of L-carnitine as LCLT attenuated post-exercise damage and stress markers (hypoxanthine, xanthine oxidase, malondialdehyde, myoglobin, creatine kinase) and muscle soreness in middle-aged adults, without improving performance.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20045157/",
+      "quote": "Two grams of l-carnitine supplementation had positive effects and significantly (P < or = .05) attenuated biochemical markers of purine metabolism (ie, hypoxanthine, xanthine oxidase), free radical formation (malondialdehyde), muscle tissue disruption (myoglobin, creatine kinase), and muscle soreness after physical exertion.",
+      "strength": "human"
+    },
+    {
+      "claim": "Raising muscle carnitine by mouth requires chronic carbohydrate co-ingestion: 2 g LCLT plus 80 g carbohydrate twice daily for 24 weeks increased muscle total carnitine by 21% and work output by 11%.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21224234/",
+      "quote": "Muscle TC increased from basal by 21% in Carnitine (P < 0.05), and was unchanged in Control.",
+      "strength": "human"
+    },
+    {
+      "claim": "The muscle-loading effect is chronic, not acute: in the successful loading trial all significant effects occurred only after 24 weeks of twice-daily ingestion.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21224234/",
+      "quote": "All significant effects reported occurred after 24 weeks.",
+      "strength": "human"
+    },
+    {
+      "claim": "Insulin/carbohydrate co-ingestion is the operative context for muscle loading: carbohydrate ingestion augmented L-carnitine retention, with insulin implicated as the retention signal.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17138832/",
+      "quote": "The difference in plasma TC concentration in study A and 24-h urinary TC excretion in both studies suggests that insulin augmented the retention of carnitine in the CHO trials.",
+      "strength": "human"
+    },
+    {
+      "claim": "Oral L-carnitine pharmacokinetics are nonlinear at trail-relevant boluses: plasma carnitine rose from 0.5 g three times daily but showed no further increase at higher doses, so fraction absorbed falls as the single dose grows.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16988205/",
+      "quote": "In conclusion, the pharmacokinetics of oral L-carnitine display nonlinearity above a dose of 0.5 g 3 times a day.",
+      "strength": "human"
+    },
+    {
+      "claim": "Absorption of supplemental L-carnitine is only about 14-18% of an oral dose, far below the 63-75% bioavailability of carnitine from food.",
+      "url": "https://ods.od.nih.gov/factsheets/carnitine-HealthProfessional/",
+      "quote": "Absorption of supplemental L-carnitine is about 14% to 18%, much less than that of dietary L-carnitine",
+      "strength": "review"
+    },
+    {
+      "claim": "Acetyl-L-carnitine has significantly lower bioavailability than carnitine, and roughly 90% of both supplements is metabolized to TMAO, reaching plasma levels previously associated with adverse health outcomes.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41243468/",
+      "quote": "Acetylcarnitine has significantly lower bioavailability than carnitine.",
+      "strength": "human"
+    },
+    {
+      "claim": "For CNS endpoints, acetyl-L-carnitine supplementation significantly decreases depressive symptoms versus placebo/no intervention, with an effect comparable to established antidepressants but fewer adverse effects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29076953/",
+      "quote": "ALC supplementation significantly decreases depressive symptoms compared with placebo/no intervention, while offering a comparable effect with that of established antidepressant agents with fewer adverse effects.",
+      "strength": "review"
+    },
+    {
+      "claim": "Glycine propionyl-L-carnitine is the one form with an acute ergogenic signal: a single 4.5 g dose taken 90 minutes before testing enhanced peak power production with less lactate accumulation in resistance-trained men.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19341458/",
+      "quote": "These findings indicate that short-term oral supplementation of GPLC can enhance peak power production in resistance trained males with significantly less LAC accumulation.",
+      "strength": "human"
+    },
+    {
+      "claim": "No body has set a tolerable upper intake level for carnitine; doses of approximately 3 g/day can cause nausea, vomiting, abdominal cramps, diarrhea, and a fishy body odor.",
+      "url": "https://ods.od.nih.gov/factsheets/carnitine-HealthProfessional/",
+      "quote": "Carnitine does not have an established tolerable upper intake level. However, doses of approximately 3 g/day of carnitine supplements can cause nausea, vomiting, abdominal cramps, diarrhea, and a fishy body odor",
+      "strength": "review"
+    },
+    {
+      "claim": "The FDA levocarnitine label limits the tolerability complaints to long-term high-dose oral use - transient nausea and vomiting, abdominal cramps, and diarrhea - and states that decreasing the dosage often eliminates the GI symptoms or body odor, with tolerance monitored closely during the first week.",
+      "url": "https://www.dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0f749812-8f02-4eeb-91d9-5dd6fc9fa159",
+      "quote": "Various mild gastrointestinal complaints have been reported during the long-term administration of oral L- or D,L-carnitine; these include transient nausea and vomiting, abdominal cramps, and diarrhea.",
+      "strength": "human"
+    },
+    {
+      "claim": "The FDA label warns that seizures have been reported in patients receiving oral or intravenous levocarnitine, with or without pre-existing seizure activity, and with increased frequency or severity in those with existing seizures.",
+      "url": "https://www.dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0f749812-8f02-4eeb-91d9-5dd6fc9fa159",
+      "quote": "Seizures have been reported to occur in patients with or without pre-existing seizure activity receiving either oral or intravenous levocarnitine.",
+      "strength": "human"
+    },
+    {
+      "claim": "The historical myasthenia-like syndrome is a D,L-carnitine phenomenon: the FDA label states that mild myasthenia has been described only in uremic patients receiving D,L-carnitine.",
+      "url": "https://www.dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0f749812-8f02-4eeb-91d9-5dd6fc9fa159",
+      "quote": "Mild myasthenia has been described only in uremic patients receiving D,L-carnitine.",
+      "strength": "human"
+    },
+    {
+      "claim": "In the original contamination-era series, severe weakness of cranial and girdle muscles with impaired neuromuscular transmission was found in 4 of 20 dialysis patients treated with carnitine for hypertriglyceridemia.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7381520/",
+      "quote": "Severe weakness of lower cranial and girdle muscles has been found in 4 subjects among 20 dialysis patients treated with carnitine in order to correct their high plasma triglyceride level.",
+      "strength": "human"
+    },
+    {
+      "claim": "The FDA label directs INR monitoring for warfarin patients started on levocarnitine or after dose adjustments, because reports of INR increase with concomitant warfarin use exist.",
+      "url": "https://www.dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0f749812-8f02-4eeb-91d9-5dd6fc9fa159",
+      "quote": "Reports of INR increase with the use of warfarin have been observed. It is recommended that INR levels be monitored in patients on warfarin therapy after the initiation of treatment with levocarnitine or after dose adjustments.",
+      "strength": "human"
+    },
+    {
+      "claim": "A published case documents INR destabilization by supplemental carnitine: a 33-year-old on stable acenocoumarol developed an unexpected INR rise to 4.65 after taking 1000 mg/day carnitine for ten weeks, and INR returned to a stable range after the supplement was stopped.",
+      "url": "https://smw.ch/index.php/smw/article/download/389/386/766",
+      "quote": "The patient had been taking 1000 mg/d of carnitine for a period of ten weeks.",
+      "strength": "human"
+    },
+    {
+      "claim": "L-carnitine is a peripheral antagonist of thyroid hormone action: 2 or 4 g/day oral L-carnitine both reversed and prevented hyperthyroid symptoms and benefited bone mineralization in a randomized double-blind trial in TSH-suppressed women.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11502782/",
+      "quote": "In conclusion, L-carnitine is effective in both reversing and preventing symptoms of hyperthyroidism and has a beneficial effect on bone mineralization.",
+      "strength": "human"
+    },
+    {
+      "claim": "Adding combined L-carnitine and selenium to methimazole in Graves' disease reduced required methimazole dosage and hastened TRAb negativity in a randomized trial.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40871722/",
+      "quote": "MMI requirements were consistently lower in the Intervention Group, both in average dosage (p = 0.013) and cumulative dose (p = 0.020).",
+      "strength": "human"
+    },
+    {
+      "claim": "Valproate therapy lowers blood carnitine and raises blood ammonia: meta-analysis shows significantly higher ammonia and significantly lower carnitine levels in VPA-treated versus non-VPA groups.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35879038/",
+      "quote": "Compared to that in the non-VPA group, the blood carnitine level in the VPA group was significantly lower.",
+      "strength": "review"
+    },
+    {
+      "claim": "L-carnitine is commonly recommended in severe valproate poisoning and does not appear harmful, though clear clinical benefit for liver protection or speedier recovery is unproven; prophylactic supplementation is advocated in high-risk pediatric VPA patients.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19280426/",
+      "quote": "As it does not appear to be harmful, l-carnitine is commonly recommended in severe VPA poisoning, especially in children, although the clinical benefit in terms of liver protection or hastening of recovery from unconsciousness has not been established clearly.",
+      "strength": "review"
+    },
+    {
+      "claim": "The FDA label flags renal accumulation: oral levocarnitine safety and efficacy have not been evaluated in renal insufficiency, and chronic high doses in severe renal impairment or ESRD may accumulate the potentially toxic metabolites TMA and TMAO.",
+      "url": "https://www.dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0f749812-8f02-4eeb-91d9-5dd6fc9fa159",
+      "quote": "The safety and efficacy of oral levocarnitine has not been evaluated in patients with renal insufficiency.",
+      "strength": "human"
+    },
+    {
+      "claim": "Cochrane (52 RCTs, 3398 dialysis participants) does not support carnitine supplementation for dialysis-related carnitine deficiency, and found it made little or no difference to adverse events.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36472884/",
+      "quote": "Although carnitine supplementation may slightly improve anaemia-related markers, carnitine supplementation makes little or no difference to adverse events.",
+      "strength": "review"
+    },
+    {
+      "claim": "Animal evidence cautions against carnitine in compromised renal function: carnitine-supplemented CKD rats showed worsened disease progression, mineral metabolism biochemistries, and cortical porosity, with no physical-function benefit.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38377965/",
+      "quote": "Carnitine supplementation worsened CKD progression, mineral metabolism biochemistries, and cortical porosity and did not have an impact on physical function.",
+      "strength": "animal"
+    },
+    {
+      "claim": "Pregnancy data are inadequate: the FDA label states there are no adequate well-controlled studies in pregnant women and that levocarnitine should be used during pregnancy only if clearly needed.",
+      "url": "https://www.dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0f749812-8f02-4eeb-91d9-5dd6fc9fa159",
+      "quote": "There are, however, no adequate and well controlled studies in pregnant women.",
+      "strength": "human"
+    }
+  ]
+}

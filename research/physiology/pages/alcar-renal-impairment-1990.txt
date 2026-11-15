@@ -1,0 +1,27 @@
+PMID: 2340852
+PubMed URL: https://pubmed.ncbi.nlm.nih.gov/2340852/
+Fetched via NCBI eutils efetch, accessed 2026-11-15
+
+1. Eur J Clin Pharmacol. 1990;38(3):309-12. doi: 10.1007/BF00315038.
+
+Pharmacokinetics of oral acetyl-L-carnitine in renal impairment.
+
+Kelly JG(1), Hunt S, Doyle GD, Laher MS, Carmody M, Marzo A, Arrigoni Martelli 
+E.
+
+Author information:
+(1)Institute of Biopharmaceutics, Athlone, Ireland.
+
+Acetyl-L-carnitine 1.5 g and 3.0 g was administered as three divided doses on 
+each of two occasions to 24 people with varying renal failure (creatinine 
+clearance 127-8 ml.min-1). Plasma and urinary concentrations of 
+total-L-carnitine, free (non-esterified) carnitine, short-chain esters and 
+acetyl-L-carnitine were measured. The baseline (pre-study) concentrations of all 
+four substances were related to renal function. Patients whose creatinine 
+clearance was below about 30-40 ml.min-1 were had the highest concentrations. 
+Renal elimination of all four substances was related to dose and to renal 
+function. There was evidence for dose-related elimination, with greater 
+elimination of the larger dose.
+
+DOI: 10.1007/BF00315038
+PMID: 2340852 [Indexed for MEDLINE]

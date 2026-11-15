@@ -1,0 +1,458 @@
+# URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC9283263/
+# Fetched via web_extract on 2026-11-15
+
+[Skip to main content](https://pmc.ncbi.nlm.nih.gov/articles/PMC9283263/#main-content)
+
+![](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/icon-dot-gov.svg)
+
+**Official websites use .gov**
+
+A
+**.gov** website belongs to an official
+government organization in the United States.
+
+
+![](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/icon-https.svg)
+
+**Secure .gov websites use HTTPS**
+
+A **lock** (
+Lock
+Locked padlock icon
+) or **https://** means you've safely
+connected to the .gov website. Share sensitive
+information only on official, secure websites.
+
+
+### NIH Websites Are Changing
+
+- [Get the Latest Updates and FAQs on the transition](https://www.nih.gov/web-modernization)
+- Per [Executive Order 14434](https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/), federal agencies are now using "Super Intelligence" (SI) in place of "Artificial Intelligence" (AI). You may see both terms across NIH content during this transition.
+
+[Home](https://pmc.ncbi.nlm.nih.gov/ "Home")
+
+![PMC search open icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/search.svg)![PMC search close ison](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/close.svg)
+
+Search PMC Full-Text Archive
+
+Search in PMC![Search](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons-bg/search--white.svg)
+
+- [Journal List](https://pmc.ncbi.nlm.nih.gov/journals/)
+- [User Guide](https://pmc.ncbi.nlm.nih.gov/about/userguide/)
+
+- ![Open resources icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/more_vert.svg)
+- [![View on publisher site icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/launch.svg)](https://doi.org/10.1007/s00394-022-02803-4) View on publisher site
+- [![Download PDF icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/file_download.svg)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9283263/pdf/nihms-1783531.pdf) Download PDF
+- ![Collections icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/action-bookmark-full.svg)![Collections icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/action-bookmark-empty.svg)Add to Collections
+- ![Cite icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/format_quote.svg)Cite
+- ![Show article permalink icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/share.svg)Permalink
+
+
+
+
+## PERMALINK
+
+
+
+![Copy icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/content_copy.svg)Copy
+
+
+![Open article navigation icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/list.svg)
+
+As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with,
+the contents by NLM or the National Institutes of Health.
+
+Learn more:
+[PMC Disclaimer](https://pmc.ncbi.nlm.nih.gov/about/disclaimer/)
+\|
+[PMC Copyright Notice](https://pmc.ncbi.nlm.nih.gov/about/copyright/)
+
+![NIHPA Author Manuscripts logo](https://cdn.ncbi.nlm.nih.gov/pmc/banners/logo-nihpa.png)
+
+Eur J Nutr
+
+. Author manuscript; available in PMC: 2023 Aug 1.
+
+_Published in final edited form as:_ Eur J Nutr. 2022 Feb 3;61(5):2357–2364. doi: [10.1007/s00394-022-02803-4](https://doi.org/10.1007/s00394-022-02803-4)
+
+# Circulating trimethylamine _N_-oxide levels following fish or seafood consumption
+
+[Zeneng Wang](https://pubmed.ncbi.nlm.nih.gov/?term=%22Wang%20Z%22[Author])
+
+### Zeneng Wang, PhD
+
+1Department of Cardiovascular and Metabolic Sciences, Lerner Research Institute, Cleveland Clinic, Cleveland, OH 44195, USA
+
+Find articles by [Zeneng Wang](https://pubmed.ncbi.nlm.nih.gov/?term=%22Wang%20Z%22[Author])
+
+1, [W H Wilson Tang](https://pubmed.ncbi.nlm.nih.gov/?term=%22Tang%20WHW%22[Author])
+
+### W H Wilson Tang, MD
+
+1Department of Cardiovascular and Metabolic Sciences, Lerner Research Institute, Cleveland Clinic, Cleveland, OH 44195, USA
+
+2Department of Cardiovascular Medicine, Heart, Vascular and Thoracic Institute, Cleveland Clinic, Cleveland, OH, USA.
+
+Find articles by [W H Wilson Tang](https://pubmed.ncbi.nlm.nih.gov/?term=%22Tang%20WHW%22[Author])
+
+1,2, [Thomas O’Connell](https://pubmed.ncbi.nlm.nih.gov/?term=%22O%E2%80%99Connell%20T%22[Author])
+
+### Thomas O’Connell, PhD
+
+3LipoScience, Laboratory Corporation of America® Holdings, Raleigh, NC 27616, USA
+
+Find articles by [Thomas O’Connell](https://pubmed.ncbi.nlm.nih.gov/?term=%22O%E2%80%99Connell%20T%22[Author])
+
+3,\*, [Erwin Garcia](https://pubmed.ncbi.nlm.nih.gov/?term=%22Garcia%20E%22[Author])
+
+### Erwin Garcia, PhD
+
+3LipoScience, Laboratory Corporation of America® Holdings, Raleigh, NC 27616, USA
+
+Find articles by [Erwin Garcia](https://pubmed.ncbi.nlm.nih.gov/?term=%22Garcia%20E%22[Author])
+
+3,†, [Elias J Jeyarajah](https://pubmed.ncbi.nlm.nih.gov/?term=%22Jeyarajah%20EJ%22[Author])
+
+### Elias J Jeyarajah, PhD
+
+3LipoScience, Laboratory Corporation of America® Holdings, Raleigh, NC 27616, USA
+
+Find articles by [Elias J Jeyarajah](https://pubmed.ncbi.nlm.nih.gov/?term=%22Jeyarajah%20EJ%22[Author])
+
+3, [Xinmin S Li](https://pubmed.ncbi.nlm.nih.gov/?term=%22Li%20XS%22[Author])
+
+### Xinmin S Li, PhD
+
+1Department of Cardiovascular and Metabolic Sciences, Lerner Research Institute, Cleveland Clinic, Cleveland, OH 44195, USA
+
+Find articles by [Xinmin S Li](https://pubmed.ncbi.nlm.nih.gov/?term=%22Li%20XS%22[Author])
+
+1, [Xun Jia](https://pubmed.ncbi.nlm.nih.gov/?term=%22Jia%20X%22[Author])
+
+### Xun Jia, MD
+
+1Department of Cardiovascular and Metabolic Sciences, Lerner Research Institute, Cleveland Clinic, Cleveland, OH 44195, USA
+
+Find articles by [Xun Jia](https://pubmed.ncbi.nlm.nih.gov/?term=%22Jia%20X%22[Author])
+
+1, [Taylor L Weeks](https://pubmed.ncbi.nlm.nih.gov/?term=%22Weeks%20TL%22[Author])
+
+### Taylor L Weeks, MSc
+
+1Department of Cardiovascular and Metabolic Sciences, Lerner Research Institute, Cleveland Clinic, Cleveland, OH 44195, USA
+
+Find articles by [Taylor L Weeks](https://pubmed.ncbi.nlm.nih.gov/?term=%22Weeks%20TL%22[Author])
+
+1, [Stanley L Hazen](https://pubmed.ncbi.nlm.nih.gov/?term=%22Hazen%20SL%22[Author])
+
+### Stanley L Hazen, MD, PhD
+
+1Department of Cardiovascular and Metabolic Sciences, Lerner Research Institute, Cleveland Clinic, Cleveland, OH 44195, USA
+
+2Department of Cardiovascular Medicine, Heart, Vascular and Thoracic Institute, Cleveland Clinic, Cleveland, OH, USA.
+
+Find articles by [Stanley L Hazen](https://pubmed.ncbi.nlm.nih.gov/?term=%22Hazen%20SL%22[Author])
+
+1,2,‡
+
+- Author information
+- Article notes
+- Copyright and License information
+
+1Department of Cardiovascular and Metabolic Sciences, Lerner Research Institute, Cleveland Clinic, Cleveland, OH 44195, USA
+
+2Department of Cardiovascular Medicine, Heart, Vascular and Thoracic Institute, Cleveland Clinic, Cleveland, OH, USA.
+
+3LipoScience, Laboratory Corporation of America® Holdings, Raleigh, NC 27616, USA
+
+\*
+
+Current address: Department of Otolaryngology – Head & Neck Surgery, Indiana University School of Medicine, Indianapolis, IN 46202, USA
+
+†
+
+Current address: Laboratory Corporation of America Holdings (Labcorp), Morrisville, NC 27560, USA
+
+Author contributions
+
+ZW, TO, EG, and EJJ collected data. ZW, TO, EG, EJJ, XSL, and XJ performed data analysis. ZW, WHWT, TLW, and SLH wrote the manuscript, and all authors provided critical input to the manuscript. SLH provided supervision.
+
+‡
+
+**Address for correspondence:** Stanley L. Hazen, MD PhD, 9500 Euclid Avenue, Mail Code NC10, Cleveland Clinic, Lerner Research Institute, Cleveland, OH 44195., Phone: 216 445 9763 / Fax: 216 444 9404; hazens@ccf.org
+
+Issue date 2022 Aug.
+
+[PMC Copyright notice](https://pmc.ncbi.nlm.nih.gov/about/copyright/)
+
+PMCID: PMC9283263  NIHMSID: NIHMS1783531  PMID: [35113194](https://pubmed.ncbi.nlm.nih.gov/35113194/)
+
+The publisher's version of this article is available at [Eur J Nutr](https://doi.org/10.1007/s00394-022-02803-4)
+
+## Abstract
+
+### Purpose:
+
+Some species of fish and seafood are high in trimethylamine N-oxide (TMAO), which accumulates in muscle where it protects against pressure and cold. Trimethylamine (TMA), the metabolic precursor to TMAO, is formed in fish during bacterial spoilage. Fish intake is promoted for its potential cardioprotective effects. However, numerous studies show TMAO has pro-atherothrombotic properties. Here, we determined the effects of fish or seafood consumption on circulating TMAO levels in participants with normal renal function.
+
+### Methods:
+
+TMAO and omega-3 fatty acid content were quantified across multiple different fish or seafood species by mass spectrometry. Healthy volunteers (n=50) were recruited for three studies. Participants in the first study consented to 5 consecutive weekly blood draws and provided dietary recall for the 24 hours preceding each draw. In the second study, TMAO levels were determined following defined low- and high-TMAO diets. Finally, participants consumed test meals containing shrimp, tuna, fish sticks, salmon or cod. Blood TMAO levels were quantified by mass spectrometry in blood collected before and after dietary challenge.
+
+### Results:
+
+TMAO+TMA content varied widely across fish and seafood species. Consumption of fish sticks, cod, and to lesser extent, salmon, lead to significant increases in circulating TMAO levels. Within one day, circulating TMAO concentrations in all participants returned to baseline levels.
+
+### Conclusions:
+
+We conclude that some fish and seafood contain high levels of TMAO, and may induce a transient elevation in TMAO levels in some individuals. Selection of low TMAO-content fish is prudent for subjects with elevated TMAO, or impaired renal function.
+
+**Keywords:** trimethylamine _N_-oxide, gut microbiome, cardiovascular disease risk, thrombosis, fish consumption
+
+## INTRODUCTION
+
+Trimethylamine N-oxide (TMAO) has been mechanistically linked to the development and progression of atherosclerotic cardiovascular disease (CVD) using both animal models and human studies\[ [1](https://pmc.ncbi.nlm.nih.gov/articles/PMC9283263/#R1)– [5](https://pmc.ncbi.nlm.nih.gov/articles/PMC9283263/#R5)\]. Further, numerous meta-analyses of clinical studies examining TMAO support a dose-dependent association between circulating levels of TMAO and CVD, stroke, heart failure and mortality risks\[ [6](https://pmc.ncbi.nlm.nih.gov/articles/PMC9283263/#R6)– [8](https://pmc.ncbi.nlm.nih.gov/articles/PMC9283263/#R8)\]. However, plasma TMAO levels vary greatly among individuals, and determinants of this heterogeneity are not well understood. One important determinant seems to be the makeup of an individual’s intestinal microbiome \[ [9](https://pmc.ncbi.nlm.nih.gov/articles/PMC9283263/#R9), [10](https://pmc.ncbi.nlm.nih.gov/articles/PMC9283263/#R10)\]. Indeed, gut microbes are typically obligatory participants in the meta-organismal TMAO production pathway, as germ-free mice and humans treated with an oral cocktail of poorly-absorbed antibiotics are unable to convert the nutrient precursors for TMAO into TMAO itself\[ [1](https://pmc.ncbi.nlm.nih.gov/articles/PMC9283263/#R1)– [3](https://pmc.ncbi.nlm.nih.gov/articles/PMC9283263/#R3)\]. TMAO production typically begins with dietary precursors like choline, carnitine and phosphatidylcholine, which produce the intermediate metabolite trimethylamine (TMA) in a gut microbiota-dependent fashion\[ [1](https://pmc.ncbi.nlm.nih.gov/articles/PMC9283263/#R1)– [3](https://pmc.ncbi.nlm.nih.gov/articles/PMC9283263/#R3)\]. Following TMA absorption into the portal circulatory system, it is oxidized into TMAO in a reaction catalyzed by hepatic flavin monooxygenases (FMOs), and excreted primarily in the kidneys\[ [1](https://pmc.ncbi.nlm.nih.gov/articles/PMC9283263/#R1), [11](https://pmc.ncbi.nlm.nih.gov/articles/PMC9283263/#R11)\]. Chronic dietary exposure to nutrient precursors like choline or carnitine, as well as direct ingestion of TMAO-containing foods, can significantly contribute to elevated levels of TMAO\[ [12](https://pmc.ncbi.nlm.nih.gov/articles/PMC9283263/#R12)– [14](https://pmc.ncbi.nlm.nih.gov/articles/PMC9283263/#R14)\].
+
+Some fish and seafood species are known to contain TMAO. High TMAO content in fish is found primarily in the muscle tissue, especially in deep sea-dwelling species, where it participates in energy metabolism and protects against pressure and cold\[ [15](https://pmc.ncbi.nlm.nih.gov/articles/PMC9283263/#R15)\]. On the other hand, accumulation of TMA, the precursor to TMAO, indicates bacterial spoilage in seafood and is responsible for its characteristic and offensive “fishy” odor, even at very low levels\[ [16](https://pmc.ncbi.nlm.nih.gov/articles/PMC9283263/#R16)\]. Eating fish that contain high levels of TMAO could raise an individual’s plasma TMAO level, but how frequently this occurs and the degree to which post-consumption TMAO levels may vary among individuals has not yet been carefully studied.
+
+Seafood consumption remains widely recommended for its potential health benefits. Indeed, several large epidemiological studies have suggested an inverse correlation between fish consumption and cardiovascular disease risk\[ [17](https://pmc.ncbi.nlm.nih.gov/articles/PMC9283263/#R17), [18](https://pmc.ncbi.nlm.nih.gov/articles/PMC9283263/#R18)\]. Dietary intake of some fish is also reported to beneficially affect concentrations of urinary markers of kidney function, and result in lower urinary loss of amino acids, lower serum postprandial glucose, and lower fasting serum concentrations of non-esterified fatty acids\[ [19](https://pmc.ncbi.nlm.nih.gov/articles/PMC9283263/#R19)\]. In addition, some fish contain long chain omega-3 polyunsaturated fatty acids (n-3 PUFAs), including eicosapentaenoic acid (EPA) and docosahexaenoic acid (DHA), which have been linked to various cardioprotective effects, though randomized clinical trials of n-3 PUFAs have shown mixed results\[ [20](https://pmc.ncbi.nlm.nih.gov/articles/PMC9283263/#R20), [21](https://pmc.ncbi.nlm.nih.gov/articles/PMC9283263/#R21)\]. A newly pooled analysis of 191,558 individuals across 4 cohort studies on the association of fish consumption and CVD risk shows that while fish intake of 175 g (approximately 2 servings) weekly is not associated with a lower risk of CVD and mortality in general populations, the inverse association between fish consumption and CVD risk is significant among patients with prior CVD\[ [22](https://pmc.ncbi.nlm.nih.gov/articles/PMC9283263/#R22)\].
+
+We know that a subset of fish species contain high levels of TMAO, and that circulating fasting levels of TMAO are associated with adverse cardiovascular outcomes in humans\[ [6](https://pmc.ncbi.nlm.nih.gov/articles/PMC9283263/#R6)– [8](https://pmc.ncbi.nlm.nih.gov/articles/PMC9283263/#R8)\]. Furthermore, dietary changes causing acute elevation in circulating TMAO are seen to augment thrombosis potential both in humans and animal models\[ [5](https://pmc.ncbi.nlm.nih.gov/articles/PMC9283263/#R5), [12](https://pmc.ncbi.nlm.nih.gov/articles/PMC9283263/#R12)\]. Given these findings, it is reasonable to wonder whether consuming fish species high in TMAO content might in fact negatively impact cardiovascular health by elevating TMAO. Conversely, if one assumes that all fish species confer health benefits, does this undermine the recognized association between TMAO and CVD risks, and the mechanistic links implicating TMAO as a contributor to CVD development and adverse events? Such concerns have been raised since the link between TMAO and CVD risks was discovered. Indeed, animal model studies using atherogenic mice showed that animals fed with proteins extracted from white turbot (a deep-sea fish with high TMA/TMAO content) exhibited higher circulating TMAO levels and more aortic atherosclerotic plaques than mice fed with an equivalent amount of an alternative, non-meat source of protein\[ [23](https://pmc.ncbi.nlm.nih.gov/articles/PMC9283263/#R23)\].
+
+Herein, we first performed a 5-week observational study to examine how dietary factors affect circulating TMAO levels. We then performed direct quantification of TMA+TMAO and EPA+DHA content in multiple common species of fish and seafood. Finally, we examined how consuming low vs high TMAO-containing fish species affects circulating levels of TMAO in healthy volunteers with normal renal function.
+
+## METHODS
+
+### Study population and study design
+
+Three prospective observational studies were performed between October 2012 and November 2013 (see [Supplemental Fig. 1](https://pmc.ncbi.nlm.nih.gov/articles/PMC9283263/#SD1) for overall study schematic). Subjects were enrolled on the campus of LipoScience (now Labcorp, Raleigh, NC) in October of 2012. All studies were approved by the Chesapeake Institutional Review Board (now Advarra, Columbia, MD), and all participants gave written informed consent. [Supplemental Table 1](https://pmc.ncbi.nlm.nih.gov/articles/PMC9283263/#SD1) provides information on subject characteristics for all studies. All subjects enrolled were apparently healthy volunteers who had no evidence of cardiovascular disease, coronary artery disease, peripheral vascular disease, diabetes, or chronic kidney disease. Since there was no available data reporting TMAO levels in a dietary intervention study of a similar type, we performed our pilot studies using a sample size of at least n=8 per group.
+
+The first study examined the relationship between food intake and variability in serum TMAO levels. Twenty-four participants, all omnivores, were recruited for a five-week observational study. Fasting blood samples were collected from each participant once per week for five consecutive weeks; participants provided dietary recall for the 24-hour period preceding each blood draw.
+
+In a second study, ten participants were enrolled for a cod meal challenge. This study took place over four days. On Day 1, participants were provided with a diet known to contain low levels of TMAO (low TMAO diet): for breakfast, they received a bagel with cream cheese, fruit, and coffee, tea, or juice; for lunch, a turkey or chicken sandwich, fruit, and soda; and for dinner, an 8–10 oz portion of baked white chicken, rice or potatoes, vegetable, soda, and chocolate. On Day 2, fasting blood samples were collected prior to breakfast (pre-diet), and participants were provided with a diet known to be higher in TMAO (high TMAO diet): the dinner included an 8–10 oz portion of baked cod, rather than chicken; all other meal elements remained the same. Fasting blood samples were also collected prior to breakfast on Day 3 (diet), after which participants ate the same low TMAO meals consumed on Day 1. A final blood sample was collected the morning of Day 4 (diet + 1 day).
+
+The third study included a cohort of 16 healthy volunteers who were asked to avoid eating fish and red meat on the evening prior to their baseline blood draw, and were then provided with challenge meals containing fish/seafood with varying TMAO levels. The participants were divided into two groups; each consumed dinners with an equal mass of fish/seafood, as well as equal amounts of carbohydrates, vegetables, and a dessert. One fish dinner was consumed each week with a 7-day washout period in between. Group 1 participants consumed meals containing an 8oz portion of shrimp in week 1 (4.33 mg \[TMA+TMAO\]/100 g), and an 8 oz portion of fish sticks (250 mg \[TMA+TMAO\]/100 g) in week 2. Group 2 participants consumed meals containing an 8 oz portion of canned tuna (49.1 mg \[TMA+TMAO\]/100 g)in week 1, and an 8 oz portion of farm-raised salmon in week 2 (144.4 mg\[TMA+TMAO\]/100 g). Levels of total TMA+TMAO were quantified by mass spectrometry as outlined below. A baseline (non-fasting) blood draw occurred before the fish dinner (pre-diet). Fasting blood was drawn the morning after the fish meal (diet) and again after a further 24 hours to assess clearance (diet + 1 day). No baseline blood draw was collected in the second week. Blood samples were collected via venepuncture, allowed to clot for 30 minutes, and centrifuged for 15 minutes at 3000 rpm on a Drucker 618 tabletop centrifuge. Serum was stored at −80°C until analyses.
+
+Samples were shipped as blinded bar code-labelled vials to the Cleveland Clinic, where serum TMAO levels were quantified by stable isotope dilution liquid chromatography-tandem mass spectrometry (LC-MS/MS) as previously described\[ [24](https://pmc.ncbi.nlm.nih.gov/articles/PMC9283263/#R24)\]. Studies were approved by the Cleveland Clinic Institutional Review Board.
+
+### Quantification of TMA/TMAO and omega-3 fatty acids in fish and seafood
+
+Samples of fish and seafood from a local fresh fish market were tested on multiple (at least three) occasions, unless otherwise noted. Samples were kept on ice during transport and frozen within an hour after purchasing. Samples were then moved to a −80°C freezer for storage until analyses. TMA+TMAO were quantified using stable isotope dilution LC/MS/MS analysis as previously described\[ [24](https://pmc.ncbi.nlm.nih.gov/articles/PMC9283263/#R24)\]. For omega-3 fatty acid content, fish homogenate in phosphate buffered saline was aliquoted under argon atmosphere in the presence of 1 mM butylated hydroxytoluene (BHT) and 1 mM diethylenetriamine pentaacetate (DTPA), pH 7.0. d5-DHA internal standard was then added, and the aliquots were saponified with 1 N NaOH (under argon), pH neutralized, and then extracted with hexane as described \[ [25](https://pmc.ncbi.nlm.nih.gov/articles/PMC9283263/#R25)\]. Analytes were subjected to stable isotope dilution LC/MS/MS analysis with transitions monitored mass-to-charge ratio (m/z): m/z 301.2→257.2 for EPA; m/z 327.3→287.3 for DHA; and m/z 332.3→288.2 for d5-DHA.
+
+### Statistical analysis
+
+Statistical analyses were performed using Prism-GraphPad software. One-way ANOVA (Friedman test), followed by _post hoc_ Wilcoxon signed-rank test was used to compare circulatory TMAO after consumption of different meals. Intra- and inter-individual CVs for TMAO levels were calculated as previously described \[ [26](https://pmc.ncbi.nlm.nih.gov/articles/PMC9283263/#R26)\]. A p-value of <0.05 was reported as statistically significant.
+
+## RESULTS
+
+See [Supplemental Fig. 1](https://pmc.ncbi.nlm.nih.gov/articles/PMC9283263/#SD1) for an overall schematic of the studies, and [Supplemental Table 1](https://pmc.ncbi.nlm.nih.gov/articles/PMC9283263/#SD1) for demographic characteristics for all subjects.
+
+### Biological variability of TMAO
+
+Twenty-four volunteers consented to weekly blood draws for 5 consecutive weeks and provided dietary recall for the 24 h prior to each blood collection. Serum TMAO was measured using LC-MS/MS. Results are presented in [Figure 1](https://pmc.ncbi.nlm.nih.gov/articles/PMC9283263/#F1). We observed a large variation in circulating TMAO levels among individuals, and in some cases among different time-points within the same individual. Following red meat consumption, we saw an intra-individual CV% of 63.5, and an inter-individual CV% of 68.5. Among the 24 participants who reported consuming fish, only one participant reporting doing so twice, with an intra-individual CV% of 32.1 between the two time points. The intra-individual CV% at different time points among participants who ate neither red meat nor fish (n=8) was 67.8, and inter-individual CV% was 85.6. There were 8 subjects who had not eaten fish or meat the night before any of the sample collections during the 5 weeks. None of the subjects in the study self-identified as being vegetarians or vegans. Using one-way (repeated measures) ANOVA to compare circulating TMAO levels among different subjects and different weeks, we did not observe any significant difference (p=0.23 for subjects and p=0.85 for weeks).
+
+#### Figure 1. Inter- and intra-individual variation in serum TMAO concentration following consumption of red meat or fish.
+
+![Figure 1.](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/69f3/9283263/ae2e57ccc309/nihms-1783531-f0001.jpg)
+
+[Open in a new tab](https://pmc.ncbi.nlm.nih.gov/articles/PMC9283263/figure/F1/)
+
+Serum TMAO concentrations in the 24 participants, 5 week biological and temporal variability study. Participants reported whether they had eaten red meat or fish as part of their dinner the previous evening.
+
+If we set a cut-off value of 6.4 μM for TMAO concentration based on the association with risk for incident (3 year) major adverse cardiac event (MACE), only 12/24 = 50% of all participants at a total probability of 15/120 = 12.5% had an elevated level of TMAO across any of the five different visits. Among all subjects, 41.7% (10 of 24) had eaten fish the night before at least one of their five blood draws. Similarly, 41.7% (10 of 24) had eaten red meat the night before one of their blood draws. The likelihood of having an elevated (>6.4 μM) TMAO level the morning after eating either fish or red meat was 45% or 20%, respectively. Among participants that ate neither fish nor red meat the previous night, the likelihood of elevated TMAO level at blood draw was 7.4%. In summary, the highest values of circulating TMAO were observed, in general, in participants who consumed a meal containing fish or red meat during the preceding day. However, eating a fish-containing meal the evening prior to blood draw did not always result in TMAO elevation ( [Fig. 1](https://pmc.ncbi.nlm.nih.gov/articles/PMC9283263/#F1)).
+
+### Circulating TMAO changes after eating high TMAO content fish
+
+Cod is reported to contain high levels of TMAO, and is among the most commonly consumed fish species in the United States\[ [27](https://pmc.ncbi.nlm.nih.gov/articles/PMC9283263/#R27)\]. Accordingly, we next examined the impact of cod consumption on circulating TMAO levels in 10 participants, using a strictly-controlled diet rather than relying on dietary recall. When participants were tested the morning following cod (8–10 ounce) consumption, we observed a significant increase in serum TMAO from baseline in 8 of the 10 subjects ( [Figure 2](https://pmc.ncbi.nlm.nih.gov/articles/PMC9283263/#F2)). Notably, the magnitude of increase showed significant variation, remaining less than 10 μM in two individuals, but otherwise being considerably higher in the majority of subjects, and over 100 μM in one subject. In all participants, serum TMAO concentrations returned to baseline after an additional day ( [Figure 2](https://pmc.ncbi.nlm.nih.gov/articles/PMC9283263/#F2)).
+
+#### Figure 2. Serum TMAO levels are transiently elevated following cod consumption.
+
+![Figure 2.](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/69f3/9283263/910f291dba55/nihms-1783531-f0002.jpg)
+
+[Open in a new tab](https://pmc.ncbi.nlm.nih.gov/articles/PMC9283263/figure/F2/)
+
+Serum TMAO concentrations in participants before cod meal, after cod meal, and after an additional 24 hours. Data were presented as mean±SD from three measurements.
+
+### TMA+TMAO and omega-3 fatty acid levels vary among species of fish and seafood
+
+As previously reported, some fish are observed to contain omega-3 fatty acids (EPA+DHA), which have been found to reduce triglyceride levels and possibly confer atheroprotective effects. On the other hand, TMA or TMAO in fish may confer pro-atherogenic and pro-thrombotic properties\[ [1](https://pmc.ncbi.nlm.nih.gov/articles/PMC9283263/#R1)– [5](https://pmc.ncbi.nlm.nih.gov/articles/PMC9283263/#R5), [28](https://pmc.ncbi.nlm.nih.gov/articles/PMC9283263/#R28)\]. We therefore quantified the TMA+TMAO and omega-3 fatty acid (EPA+DHA) content in multiple fish and seafood species, as described in [Methods](https://pmc.ncbi.nlm.nih.gov/articles/PMC9283263/#S7). In [Figure 3](https://pmc.ncbi.nlm.nih.gov/articles/PMC9283263/#F3), the different types of fish and seafood tested are arranged in increasing rank order of observed TMA+TMAO content (combined, though in every case >95% in the samples tested was in the form of TMAO). The range of TMA+TMAO content observed spans many orders of magnitude; the total amount of TMA+TMAO was extremely low in clams, walleye and other fresh water fish, and canned tuna, while the amount was dramatically higher in deep-sea fishes like orange roughy ( [Figure 3](https://pmc.ncbi.nlm.nih.gov/articles/PMC9283263/#F3)). Other deep-sea species commonly used to make fish sticks, like cod and halibut, also had high TMA+TMAO content. Notably, not all deep-sea species were found to have high levels of TMAO. Levels of TMA+TMAO in tuna, both fresh and canned, showed very low TMA+TMAO levels – a finding aligned with a previous report for yellowfin tuna\[ [29](https://pmc.ncbi.nlm.nih.gov/articles/PMC9283263/#R29)\]. We also noted that lobster contained 511.1 mg TMA+TMAO per 100 g, which is higher than the molar equivalent of choline (a TMAO precursor) in any kind of food\[ [30](https://pmc.ncbi.nlm.nih.gov/articles/PMC9283263/#R30)\]. As expected, an animal’s habitat may also impact its TMA+TMAO content. For example, wild-caught salmon on average had higher TMA+TMAO content than farm-raised salmon, albeit all salmon tested showed significantly lower levels of TMA+TMAO than the deep-sea fish species examined. Every freshwater fish species tested showed extremely low TMA+TMAO levels.
+
+#### Figure 3. TMA+TMAO and EPA+DHA content in fish and seafood.
+
+![Figure 3.](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/69f3/9283263/ebac98f6e971/nihms-1783531-f0003.jpg)
+
+[Open in a new tab](https://pmc.ncbi.nlm.nih.gov/articles/PMC9283263/figure/F3/)
+
+Fish and seafood was homogenized in water and the supernatant after ultra-centrifugation was quantified for TMAO and TMA. The EPA+DHA data was quantified by LC/MS/MS and several of them, cat fish, white bass, sole, walleye, ocean perch, Tuna and wild snow crab were collected from the references\[ [31](https://pmc.ncbi.nlm.nih.gov/articles/PMC9283263/#R31)\]. Data were shown as mean±SD from 3–5 independent replicates.
+
+We also measured EPA+DHA content by stable isotope dilution LC-MS/MS methods for the majority of species with available residual specimens ( [Figure 3](https://pmc.ncbi.nlm.nih.gov/articles/PMC9283263/#F3)). We also used previously-reported values for some species for which fresh samples were not available\[ [31](https://pmc.ncbi.nlm.nih.gov/articles/PMC9283263/#R31)\]. While there is considerable variation in omega-3 fatty acid content across the different species tested, we notice a relatively higher EPA+DHA content in fish and seafood possessing a lower TMA+TMAO content. In other words, those species with the highest TMA+TMAO levels also had relatively lower EPA+DHA content, and conversely, those with the highest EPA+DHA content had relatively lower TMA+TMAO levels, though visual inspection shows this relationship did not always hold.
+
+### Fish/seafood consumption can lead to transient increases in circulating TMAO levels, with inter-individual variability
+
+A final study was designed to investigate the impact of consuming equal amounts of different TMAO-containing fish/seafood at dinner on fasting circulating TMAO levels. Results are presented in [Figure 4](https://pmc.ncbi.nlm.nih.gov/articles/PMC9283263/#F4). With the exception of the tuna meal, consumption of all other fish/seafood meals significantly altered circulating TMAO (Friedman test, p<0.05). Participants assigned to the meal containing fish sticks (having the highest TMA+TMAO content of the diets tested) showed the greatest increase in circulating TMAO levels the morning after the fish/seafood meal (p=0.008, Wilcoxon signed rank test). But by the following morning, plasma levels of TMAO had significantly decreased (p=0.008, Wilcoxon signed rank test) and returned to baseline levels in all participants, showing no difference when compared to pre-diet levels (p=0.38; [Figure 4](https://pmc.ncbi.nlm.nih.gov/articles/PMC9283263/#F4)). Moreover, the degree of TMAO increase the morning following ingestion of fish sticks at dinner showed remarkable variation amongst the different participants despite the equal portion sizes provided ( [Figure 4](https://pmc.ncbi.nlm.nih.gov/articles/PMC9283263/#F4)). For the wild salmon meal (second highest TMA+TMAO content), significant (albeit variable) increases (p=0.008) in serum levels of TMAO the morning after consumption were also observed, with serum TMAO levels again returning to baseline one day later (p=0.55 compared to baseline). Overall, TMAO elevation (compared to baseline) was only observed in approximately half of the participants the morning following the fish/seafood meal, with 40% maintaining TMAO levels <10 μM at all time points examined. Notably, following ingestion of low TMAO content fish or seafood, such as shrimp or canned tuna, circulating levels of TMAO in participants remained low (well below 10 μM) at all time points examined.
+
+#### Figure 4. Changes in serum TMAO after seafood consumption.
+
+![Figure 4.](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/69f3/9283263/e1a494bd3536/nihms-1783531-f0004.jpg)
+
+[Open in a new tab](https://pmc.ncbi.nlm.nih.gov/articles/PMC9283263/figure/F4/)
+
+Blood was withdrawn in individual human subject previous to eating sea food (“pre”), after eating sea food (“diet”) and 1 day later after sea food (“+1d”). P values were calculated by Friedman test, followed by post hoc Wilcoxon signed-rank test.
+
+## DISCUSSION
+
+There are several key findings in our study. First, we observed that circulating levels of TMAO varied widely across individuals, and that all values >10 μM were preceded by fish/seafood or red meat consumption. However, these increases in circulating TMAO levels were largely transient, and in a majority of cases quickly returned to pre-consumption levels. Second, we found both TMAO and omega-3 content (measured per 100g) are highly variable across different species, with the highest TMAO content found in deep sea fish and certain crustaceans. This was confirmed when circulating TMAO levels were significantly increased in some individuals after consuming fish sticks (often made with high TMAO content fish like halibut, cod, and haddock), even though the degree of increase following a standardized amount differed significantly across individuals. Finally, low levels of TMA+TMAO were observed in a significant proportion of fish species, including all fresh water varieties and all forms of tuna tested. Likewise, no change in TMAO levels was observed in subjects following a large portion dinner meal (8–10 ounces) with these varieties. These findings highlight the heterogeneity of TMAO content in fish/seafood species, the heterogeneity of the human host responses following their ingestion, and the largely transient increases in circulating TMAO levels observed in apparently healthy subjects with normal renal function.
+
+Previous studies have demonstrated that TMAO from dietary sources can impact circulating TMAO levels in humans\[ [32](https://pmc.ncbi.nlm.nih.gov/articles/PMC9283263/#R32)\]. Indeed, we demonstrated a transient increase in serum TMAO levels among some, but not all, participants who had eaten a high TMA/TMAO-containing species of seafood the night prior. In other words, people responded differently to consuming TMAO-rich seafood – some showed elevated levels of serum TMAO and others did not. Several species tested, namely those found to be low in TMAO content, did not significantly increase circulating TMAO levels in any participants. In all cases, TMAO levels returned to baseline within 24 hours of eating the high TMAO content fish or seafood.
+
+Most of this heterogeneity in TMAO levels can likely be attributed to individual differences in how the body processes TMAO. For one, individuals may show differences in their rate of renal TMAO excretion. In recent dietary intervention studies, we observed that differences in chronic dietary protein source differentially impacted a subject’s fractional renal excretion of TMAO\[ [14](https://pmc.ncbi.nlm.nih.gov/articles/PMC9283263/#R14)\]. We can also look to recent studies showing that gut microbiota composition can influence various metabolic processes, including glycaemic control. Gut microbial communities may likewise impact systemic TMAO levels following TMA/TMAO ingestion. There are at least two obvious routes by which seafood-contained TMAO can elevate human TMAO levels: it can be either absorbed directly by the small intestine, or first reduced to TMA in the gut by TorA\[ [33](https://pmc.ncbi.nlm.nih.gov/articles/PMC9283263/#R33)\], and then re-oxidized into TMAO in the host liver. In some individuals, TMAO is first reduced to TMA and then further demethylated by gut bacteria, rather than re-oxidized into TMAO. This would also provide another avenue for differences in gut microbiota composition to influence systemic TMAO levels following its ingestion.
+
+There are several limitations in this study worth noting. First, we did not confirm the species of the fish/seafood by genomic sequencing. In addition, we only examined the effects of acute (up to 2 days), and not long-term ingestion of high TMAO-containing foods. Past research has shown that prolonged exposure to choline and particularly carnitine – both TMA-containing compounds – can lead to long-term increases in host TMAO levels\[ [3](https://pmc.ncbi.nlm.nih.gov/articles/PMC9283263/#R3), [13](https://pmc.ncbi.nlm.nih.gov/articles/PMC9283263/#R13), [14](https://pmc.ncbi.nlm.nih.gov/articles/PMC9283263/#R14)\]. Meanwhile, it is possible that enterohepatic recycling of choline (an abundant component of bile) may buffer the shift in amounts of nutrient substrates for TMA/TMAO production, yet transient rises in circulating TMAO levels can still be demonstrated under a controlled feeding environment. Further work might address whether long-term exposure to high TMAO-containing fish affects human TMAO levels in the same way. It also is important to note that all studies were performed in subjects with normal renal function. It remains unclear how our findings would translate to populations with impaired renal function. In every subject (all with normal renal function), following every high content TMAO meal examined, plasma TMAO levels returned to baseline one day later. It is probable that individuals with renal functional impairments, with reduced excretion of TMAO, would be more apt to show persistently elevated TMAO levels following consumption of high TMAO content fish or seafood. It has been reported that even modest impairment in renal function is associated with significantly higher plasma levels of harmful microbe-derived metabolites including TMAO\[ [34](https://pmc.ncbi.nlm.nih.gov/articles/PMC9283263/#R34)\]. Indeed, given the documented effect of elevated TMAO levels acutely on platelet reactivity and _in vivo_ thrombosis potential\[ [5](https://pmc.ncbi.nlm.nih.gov/articles/PMC9283263/#R5), [12](https://pmc.ncbi.nlm.nih.gov/articles/PMC9283263/#R12)\], the present results suggest studies exploring the dietary impact of fish and seafood in subjects with chronic kidney disease and end-stage renal disease have heightened importance.
+
+While previous studies have suggested that urinary levels of TMA+ TMAO may increase following consumption of fish or seafood\[ [35](https://pmc.ncbi.nlm.nih.gov/articles/PMC9283263/#R35)\], many did not account for differing levels of TMA+TMAO among species. In fact, not all fish have significant TMA+TMAO content, just as concentrations of omega-3 fatty acids were observed to vary widely by species. Our findings corroborate the idea that deep sea fish contain more TMAO than species that live in warmer, shallower (and/or fresh) waters. Our results indicate that consuming certain species of fish can transiently increase circulating levels of TMAO, a compound shown to rapidly (within minutes) impact platelet function and reactivity\[ [5](https://pmc.ncbi.nlm.nih.gov/articles/PMC9283263/#R5)\]. Yet several large epidemiological studies have linked increased fish consumption to lower rates of CVD. We found that some species of fish and seafood contain high levels of TMA and TMAO while others do not. According to our data, even those species of fish and seafood high in TMAO had only a transient effect on circulating TMAO levels of people who ate them, and not everyone who ate high TMAO-content fish showed a significant increase in their TMAO levels. In other words, not all fish are created equal. And not all subjects respond equally to consumption of high TMAO content fish.
+
+## Supplementary Material
+
+Supplemental Material
+
+[NIHMS1783531-supplement-Supplemental\_Material.pdf](https://pmc.ncbi.nlm.nih.gov/articles/instance/9283263/bin/NIHMS1783531-supplement-Supplemental_Material.pdf) (186.7KB, pdf)
+
+## Funding
+
+This work was supported in part by grants R01HL130819, R01HL103866 and P01HL147823, from the National Institutes of Health and the Office of Dietary Supplements. SLH also notes support from the Leducq Foundation.
+
+## Footnotes
+
+Conflicts of interest
+
+Drs Hazen and Wang report being named as co-inventors on pending and issued patents held by the Cleveland Clinic relating to cardiovascular diagnostics and therapeutics. Drs Hazen and Wang report having received royalty payments for inventions or discoveries related to cardiovascular diagnostics or therapeutics from Cleveland Heart Lab, a fully owned subsidiary of Quest Diagnostics, and Procter & Gamble. Dr. Hazen is a paid consultant for Zehna Therapeutics and Proctor & Gamble, and has received research funds from Zehna Therapeutics, Proctor & Gamble, Pfizer Inc., and Roche Diagnostics. Dr. Garcia is a current employee of Labcorp, and Drs Jeyarajah and O’Connell are former employees of LipoScience. Dr. Tang is a consultant for Sequana Medical A.G., Owkin Inc, Relypsa Inc, preCARDIA Inc, and Cardiol Therapeutics Inc, Genomics plc, and has received honorarium from Springer Nature for authorship/editorship and American Board of Internal Medicine for exam writing committee participation - all unrelated to the subject and contents of this paper. The remaining authors have nothing to disclose.
+
+Code availability
+
+All analyses were conducted using GraphPad-Prism software. No custom code or software were used.
+
+Ethics approval:
+
+All studies were approved by the Chesapeake Institutional Review Board (now Advarra, Columbia, MD).
+
+Consent to participate:
+
+Written informed consent was obtained from all individual participants included in the study.
+
+## Availability of data and material
+
+There are restrictions to the availability of data generated in these study as we do not have permission in our informed consent from research subjects to share data (except in summary aggregate form) outside of our institution without their authorizations. Where permissible, the data underlying this article will be shared on reasonable request to the corresponding author.
+
+## REFERENCES
+
+- 1.Wang Z, Klipfell E, Bennett BJ, Koeth R, Levison BS, Dugar B, Feldstein AE, Britt EB, Fu X, Chung YM, Wu Y, Schauer P, Smith JD, Allayee H, Tang WH, DiDonato JA, Lusis AJ, Hazen SL (2011) Gut flora metabolism of phosphatidylcholine promotes cardiovascular disease. Nature
+472 (7341):57–63. doi: 10.1038/nature09922 \[ [DOI](https://doi.org/10.1038/nature09922)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC3086762/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/21475195/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Nature&title=Gut%20flora%20metabolism%20of%20phosphatidylcholine%20promotes%20cardiovascular%20disease&author=Z%20Wang&author=E%20Klipfell&author=BJ%20Bennett&author=R%20Koeth&author=BS%20Levison&volume=472&issue=7341&publication_year=2011&pages=57-63&pmid=21475195&doi=10.1038/nature09922&)\]
+- 2.Tang WH, Wang Z, Levison BS, Koeth RA, Britt EB, Fu X, Wu Y, Hazen SL (2013) Intestinal microbial metabolism of phosphatidylcholine and cardiovascular risk. N Engl J Med
+368 (17):1575–1584. doi: 10.1056/NEJMoa1109400 \[ [DOI](https://doi.org/10.1056/NEJMoa1109400)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC3701945/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/23614584/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=N%20Engl%20J%20Med&title=Intestinal%20microbial%20metabolism%20of%20phosphatidylcholine%20and%20cardiovascular%20risk&author=WH%20Tang&author=Z%20Wang&author=BS%20Levison&author=RA%20Koeth&author=EB%20Britt&volume=368&issue=17&publication_year=2013&pages=1575-1584&pmid=23614584&doi=10.1056/NEJMoa1109400&)\]
+- 3.Koeth RA, Wang Z, Levison BS, Buffa JA, Org E, Sheehy BT, Britt EB, Fu X, Wu Y, Li L, Smith JD, DiDonato JA, Chen J, Li H, Wu GD, Lewis JD, Warrier M, Brown JM, Krauss RM, Tang WH, Bushman FD, Lusis AJ, Hazen SL (2013) Intestinal microbiota metabolism of L-carnitine, a nutrient in red meat, promotes atherosclerosis. Nat Med
+19 (5):576–585. doi: 10.1038/nm.3145 nm.3145 \[pii\] \[ [DOI](https://doi.org/10.1038/nm.3145)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC3650111/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/23563705/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Nat%20Med&title=Intestinal%20microbiota%20metabolism%20of%20L-carnitine,%20a%20nutrient%20in%20red%20meat,%20promotes%20atherosclerosis&author=RA%20Koeth&author=Z%20Wang&author=BS%20Levison&author=JA%20Buffa&author=E%20Org&volume=19&issue=5&publication_year=2013&pages=576-585&pmid=23563705&doi=10.1038/nm.3145&)\]
+- 4.Wang Z, Roberts AB, Buffa JA, Levison BS, Zhu W, Org E, Gu X, Huang Y, Zamanian-Daryoush M, Culley MK, DiDonato AJ, Fu X, Hazen JE, Krajcik D, DiDonato JA, Lusis AJ, Hazen SL (2015) Non-lethal Inhibition of Gut Microbial Trimethylamine Production for the Treatment of Atherosclerosis. Cell
+163 (7):1585–1595. doi: 10.1016/j.cell.2015.11.055 \[ [DOI](https://doi.org/10.1016/j.cell.2015.11.055)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC4871610/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/26687352/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Cell&title=Non-lethal%20Inhibition%20of%20Gut%20Microbial%20Trimethylamine%20Production%20for%20the%20Treatment%20of%20Atherosclerosis&author=Z%20Wang&author=AB%20Roberts&author=JA%20Buffa&author=BS%20Levison&author=W%20Zhu&volume=163&issue=7&publication_year=2015&pages=1585-1595&pmid=26687352&doi=10.1016/j.cell.2015.11.055&)\]
+- 5.Zhu W, Gregory JC, Org E, Buffa JA, Gupta N, Wang Z, Li L, Fu X, Wu Y, Mehrabian M, Sartor RB, McIntyre TM, Silverstein RL, Tang WHW, DiDonato JA, Brown JM, Lusis AJ, Hazen SL (2016) Gut Microbial Metabolite TMAO Enhances Platelet Hyperreactivity and Thrombosis Risk. Cell
+165 (1):111–124. doi: 10.1016/j.cell.2016.02.011 \[ [DOI](https://doi.org/10.1016/j.cell.2016.02.011)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC4862743/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/26972052/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Cell&title=Gut%20Microbial%20Metabolite%20TMAO%20Enhances%20Platelet%20Hyperreactivity%20and%20Thrombosis%20Risk&author=W%20Zhu&author=JC%20Gregory&author=E%20Org&author=JA%20Buffa&author=N%20Gupta&volume=165&issue=1&publication_year=2016&pages=111-124&pmid=26972052&doi=10.1016/j.cell.2016.02.011&)\]
+- 6.Schiattarella GG, Sannino A, Toscano E, Giugliano G, Gargiulo G, Franzone A, Trimarco B, Esposito G, Perrino C (2017) Gut microbe-generated metabolite trimethylamine-N-oxide as cardiovascular risk biomarker: a systematic review and dose-response meta-analysis. Eur Heart J
+38 (39):2948–2956. doi: 10.1093/eurheartj/ehx342 \[ [DOI](https://doi.org/10.1093/eurheartj/ehx342)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/29020409/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Eur%20Heart%20J&title=Gut%20microbe-generated%20metabolite%20trimethylamine-N-oxide%20as%20cardiovascular%20risk%20biomarker:%20a%20systematic%20review%20and%20dose-response%20meta-analysis&author=GG%20Schiattarella&author=A%20Sannino&author=E%20Toscano&author=G%20Giugliano&author=G%20Gargiulo&volume=38&issue=39&publication_year=2017&pages=2948-2956&pmid=29020409&doi=10.1093/eurheartj/ehx342&)\]
+- 7.Farhangi MA, Vajdi M, Asghari-Jafarabadi M (2020) Gut microbiota-associated metabolite trimethylamine N-Oxide and the risk of stroke: a systematic review and dose-response meta-analysis. Nutr J
+19 (1):76. doi: 10.1186/s12937-020-00592-2 \[ [DOI](https://doi.org/10.1186/s12937-020-00592-2)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7393891/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/32731904/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Nutr%20J&title=Gut%20microbiota-associated%20metabolite%20trimethylamine%20N-Oxide%20and%20the%20risk%20of%20stroke:%20a%20systematic%20review%20and%20dose-response%20meta-analysis&author=MA%20Farhangi&author=M%20Vajdi&author=M%20Asghari-Jafarabadi&volume=19&issue=1&publication_year=2020&pages=76&pmid=32731904&doi=10.1186/s12937-020-00592-2&)\]
+- 8.Li W, Huang A, Zhu H, Liu X, Huang X, Huang Y, Cai X, Lu J, Huang Y (2020) Gut microbiota-derived trimethylamine N-oxide is associated with poor prognosis in patients with heart failure. The Medical journal of Australia
+213 (8):374–379. doi: 10.5694/mja2.50781 \[ [DOI](https://doi.org/10.5694/mja2.50781)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/32959366/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=The%20Medical%20journal%20of%20Australia&title=Gut%20microbiota-derived%20trimethylamine%20N-oxide%20is%20associated%20with%20poor%20prognosis%20in%20patients%20with%20heart%20failure&author=W%20Li&author=A%20Huang&author=H%20Zhu&author=X%20Liu&author=X%20Huang&volume=213&issue=8&publication_year=2020&pages=374-379&pmid=32959366&doi=10.5694/mja2.50781&)\]
+- 9.Troseid M, Andersen GO, Broch K, Hov JR (2020) The gut microbiome in coronary artery disease and heart failure: Current knowledge and future directions. EBioMedicine
+52:102649. doi: 10.1016/j.ebiom.2020.102649 \[ [DOI](https://doi.org/10.1016/j.ebiom.2020.102649)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7016372/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/32062353/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=EBioMedicine&title=The%20gut%20microbiome%20in%20coronary%20artery%20disease%20and%20heart%20failure:%20Current%20knowledge%20and%20future%20directions&author=M%20Troseid&author=GO%20Andersen&author=K%20Broch&author=JR%20Hov&volume=52&publication_year=2020&pages=102649&pmid=32062353&doi=10.1016/j.ebiom.2020.102649&)\]
+- 10.Bogiatzi C, Gloor G, Allen-Vercoe E, Reid G, Wong RG, Urquhart BL, Dinculescu V, Ruetz KN, Velenosi TJ, Pignanelli M, Spence JD (2018) Metabolic products of the intestinal microbiome and extremes of atherosclerosis. Atherosclerosis
+273:91–97. doi: 10.1016/j.atherosclerosis.2018.04.015 \[ [DOI](https://doi.org/10.1016/j.atherosclerosis.2018.04.015)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/29702430/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Atherosclerosis&title=Metabolic%20products%20of%20the%20intestinal%20microbiome%20and%20extremes%20of%20atherosclerosis&author=C%20Bogiatzi&author=G%20Gloor&author=E%20Allen-Vercoe&author=G%20Reid&author=RG%20Wong&volume=273&publication_year=2018&pages=91-97&pmid=29702430&doi=10.1016/j.atherosclerosis.2018.04.015&)\]
+- 11.Bennett BJ, de Aguiar Vallim TQ, Wang Z, Shih DM, Meng Y, Gregory J, Allayee H, Lee R, Graham M, Crooke R, Edwards PA, Hazen SL, Lusis AJ (2013) Trimethylamine-N-oxide, a metabolite associated with atherosclerosis, exhibits complex genetic and dietary regulation. Cell Metab
+17 (1):49–60. doi: 10.1016/j.cmet.2012.12.011 S1550–4131(12)00502–5 \[pii\] \[ [DOI](https://doi.org/10.1016/j.cmet.2012.12.011)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC3771112/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/23312283/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Cell%20Metab&title=Trimethylamine-N-oxide,%20a%20metabolite%20associated%20with%20atherosclerosis,%20exhibits%20complex%20genetic%20and%20dietary%20regulation&author=BJ%20Bennett&author=TQ%20de%20Aguiar%20Vallim&author=Z%20Wang&author=DM%20Shih&author=Y%20Meng&volume=17&issue=1&publication_year=2013&pages=49-60&pmid=23312283&doi=10.1016/j.cmet.2012.12.011&)\]
+- 12.Zhu W, Wang Z, Tang WHW, Hazen SL (2017) Gut Microbe-Generated Trimethylamine N-Oxide From Dietary Choline Is Prothrombotic in Subjects. Circulation
+135 (17):1671–1673. doi: 10.1161/circulationaha.116.025338 \[ [DOI](https://doi.org/10.1161/circulationaha.116.025338)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC5460631/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/28438808/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Circulation&title=Gut%20Microbe-Generated%20Trimethylamine%20N-Oxide%20From%20Dietary%20Choline%20Is%20Prothrombotic%20in%20Subjects&author=W%20Zhu&author=Z%20Wang&author=WHW%20Tang&author=SL%20Hazen&volume=135&issue=17&publication_year=2017&pages=1671-1673&pmid=28438808&doi=10.1161/circulationaha.116.025338&)\]
+- 13.Koeth RA, Lam-Galvez BR, Kirsop J, Wang Z, Levison BS, Gu X, Copeland MF, Bartlett D, Cody DB, Dai HJ, Culley MK, Li XS, Fu X, Wu Y, Li L, DiDonato JA, Tang WHW, Garcia-Garcia JC, Hazen SL (2019) l-Carnitine in omnivorous diets induces an atherogenic gut microbial pathway in humans. The Journal of clinical investigation
+129 (1):373–387. doi: 10.1172/jci94601 \[ [DOI](https://doi.org/10.1172/jci94601)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC6307959/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/30530985/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=The%20Journal%20of%20clinical%20investigation&title=l-Carnitine%20in%20omnivorous%20diets%20induces%20an%20atherogenic%20gut%20microbial%20pathway%20in%20humans&author=RA%20Koeth&author=BR%20Lam-Galvez&author=J%20Kirsop&author=Z%20Wang&author=BS%20Levison&volume=129&issue=1&publication_year=2019&pages=373-387&pmid=30530985&doi=10.1172/jci94601&)\]
+- 14.Wang Z, Bergeron N, Levison BS, Li XS, Chiu S, Jia X, Koeth RA, Li L, Wu Y, Tang WHW, Krauss RM, Hazen SL (2019) Impact of chronic dietary red meat, white meat, or non-meat protein on trimethylamine N-oxide metabolism and renal excretion in healthy men and women. Eur Heart J
+40 (7):583–594. doi: 10.1093/eurheartj/ehy799 \[ [DOI](https://doi.org/10.1093/eurheartj/ehy799)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC6374688/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/30535398/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Eur%20Heart%20J&title=Impact%20of%20chronic%20dietary%20red%20meat,%20white%20meat,%20or%20non-meat%20protein%20on%20trimethylamine%20N-oxide%20metabolism%20and%20renal%20excretion%20in%20healthy%20men%20and%20women&author=Z%20Wang&author=N%20Bergeron&author=BS%20Levison&author=XS%20Li&author=S%20Chiu&volume=40&issue=7&publication_year=2019&pages=583-594&pmid=30535398&doi=10.1093/eurheartj/ehy799&)\]
+- 15.Treberg JR, Driedzic WR (2002) Elevated levels of trimethylamine oxide in deep-sea fish: evidence for synthesis and intertissue physiological importance. J Exp Zool
+293 (1):39–45. doi: 10.1002/jez.10109 \[ [DOI](https://doi.org/10.1002/jez.10109)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/12115917/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Exp%20Zool&title=Elevated%20levels%20of%20trimethylamine%20oxide%20in%20deep-sea%20fish:%20evidence%20for%20synthesis%20and%20intertissue%20physiological%20importance&author=JR%20Treberg&author=WR%20Driedzic&volume=293&issue=1&publication_year=2002&pages=39-45&pmid=12115917&doi=10.1002/jez.10109&)\]
+- 16.Malle P, Poumeyrol M (1989) A New Chemical Criterion for the Quality Control of Fish: Trimethylamine/Total Volatile Basic Nitrogen (%). J Food Prot
+52 (6):419–423. doi: 10.4315/0362-028X-52.6.419 \[ [DOI](https://doi.org/10.4315/0362-028X-52.6.419)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/31003301/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Food%20Prot&title=A%20New%20Chemical%20Criterion%20for%20the%20Quality%20Control%20of%20Fish:%20Trimethylamine/Total%20Volatile%20Basic%20Nitrogen%20(%)&author=P%20Malle&author=M%20Poumeyrol&volume=52&issue=6&publication_year=1989&pages=419-423&pmid=31003301&doi=10.4315/0362-028X-52.6.419&)\]
+- 17.Kromhout D, Bosschieter EB, de Lezenne Coulander C (1985) The inverse relation between fish consumption and 20-year mortality from coronary heart disease. N Engl J Med
+312 (19):1205–1209. doi: 10.1056/NEJM198505093121901 \[ [DOI](https://doi.org/10.1056/NEJM198505093121901)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/3990713/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=N%20Engl%20J%20Med&title=The%20inverse%20relation%20between%20fish%20consumption%20and%2020-year%20mortality%20from%20coronary%20heart%20disease&author=D%20Kromhout&author=EB%20Bosschieter&author=C%20de%20Lezenne%20Coulander&volume=312&issue=19&publication_year=1985&pages=1205-1209&pmid=3990713&doi=10.1056/NEJM198505093121901&)\]
+- 18.Daviglus ML, Stamler J, Orencia AJ, Dyer AR, Liu K, Greenland P, Walsh MK, Morris D, Shekelle RB (1997) Fish consumption and the 30-year risk of fatal myocardial infarction. N Engl J Med
+336 (15):1046–1053. doi: 10.1056/NEJM199704103361502 \[ [DOI](https://doi.org/10.1056/NEJM199704103361502)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/9091800/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=N%20Engl%20J%20Med&title=Fish%20consumption%20and%20the%2030-year%20risk%20of%20fatal%20myocardial%20infarction&author=ML%20Daviglus&author=J%20Stamler&author=AJ%20Orencia&author=AR%20Dyer&author=K%20Liu&volume=336&issue=15&publication_year=1997&pages=1046-1053&pmid=9091800&doi=10.1056/NEJM199704103361502&)\]
+- 19.Vildmyren I, Cao HJV, Haug LB, Valand IU, Eng O, Oterhals A, Austgulen MH, Halstensen A, Mellgren G, Gudbrandsen OA (2018) Daily Intake of Protein from Cod Residual Material Lowers Serum Concentrations of Nonesterified Fatty Acids in Overweight Healthy Adults: A Randomized Double-Blind Pilot Study. Mar Drugs
+16 (6). doi: 10.3390/md16060197 \[ [DOI](https://doi.org/10.3390/md16060197)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC6025256/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/29874805/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Mar%20Drugs&title=Daily%20Intake%20of%20Protein%20from%20Cod%20Residual%20Material%20Lowers%20Serum%20Concentrations%20of%20Nonesterified%20Fatty%20Acids%20in%20Overweight%20Healthy%20Adults:%20A%20Randomized%20Double-Blind%20Pilot%20Study&author=I%20Vildmyren&author=HJV%20Cao&author=LB%20Haug&author=IU%20Valand&author=O%20Eng&volume=16&issue=6&publication_year=2018&pmid=29874805&doi=10.3390/md16060197&)\]
+- 20.Rimm EB, Appel LJ, Chiuve SE, Djousse L, Engler MB, Kris-Etherton PM, Mozaffarian D, Siscovick DS, Lichtenstein AH, American Heart Association Nutrition Committee of the Council on L, Cardiometabolic H, Council on E, Prevention, Council on Cardiovascular Disease in the Y, Council on C, Stroke N, Council on Clinical C (2018) Seafood Long-Chain n-3 Polyunsaturated Fatty Acids and Cardiovascular Disease: A Science Advisory From the American Heart Association. Circulation
+138 (1):e35–e47. doi: 10.1161/CIR.0000000000000574 \[ [DOI](https://doi.org/10.1161/CIR.0000000000000574)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC6903778/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/29773586/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Circulation&title=Seafood%20Long-Chain%20n-3%20Polyunsaturated%20Fatty%20Acids%20and%20Cardiovascular%20Disease:%20A%20Science%20Advisory%20From%20the%20American%20Heart%20Association&author=EB%20Rimm&author=LJ%20Appel&author=SE%20Chiuve&author=L%20Djousse&author=MB%20Engler&volume=138&issue=1&publication_year=2018&pages=e35-e47&pmid=29773586&doi=10.1161/CIR.0000000000000574&)\]
+- 21.Bhatt DL, Steg PG, Miller M, Brinton EA, Jacobson TA, Ketchum SB, Doyle RT Jr., Juliano RA, Jiao L, Granowitz C, Tardif JC, Ballantyne CM, Investigators R-I (2019) Cardiovascular Risk Reduction with Icosapent Ethyl for Hypertriglyceridemia. N Engl J Med
+380 (1):11–22. doi: 10.1056/NEJMoa1812792 \[ [DOI](https://doi.org/10.1056/NEJMoa1812792)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/30415628/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=N%20Engl%20J%20Med&title=Cardiovascular%20Risk%20Reduction%20with%20Icosapent%20Ethyl%20for%20Hypertriglyceridemia&author=DL%20Bhatt&author=PG%20Steg&author=M%20Miller&author=EA%20Brinton&author=TA%20Jacobson&volume=380&issue=1&publication_year=2019&pages=11-22&pmid=30415628&doi=10.1056/NEJMoa1812792&)\]
+- 22.Mohan D, Mente A, Dehghan M, Rangarajan S, O’Donnell M, Hu W, Dagenais G, Wielgosz A, Lear S, Wei L, Diaz R, Avezum A, Lopez-Jaramillo P, Lanas F, Swaminathan S, Kaur M, Vijayakumar K, Mohan V, Gupta R, Szuba A, Iqbal R, Yusuf R, Mohammadifard N, Khatib R, Yusoff K, Gulec S, Rosengren A, Yusufali A, Wentzel-Viljoen E, Chifamba J, Dans A, Alhabib KF, Yeates K, Teo K, Gerstein HC, Yusuf S (2021) Associations of Fish Consumption With Risk of Cardiovascular Disease and Mortality Among Individuals With or Without Vascular Disease From 58 Countries. JAMA internal medicine. doi: 10.1001/jamainternmed.2021.0036 \[ [DOI](https://doi.org/10.1001/jamainternmed.2021.0036)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7941252/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/33683310/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=JAMA%20internal%20medicine&title=Associations%20of%20Fish%20Consumption%20With%20Risk%20of%20Cardiovascular%20Disease%20and%20Mortality%20Among%20Individuals%20With%20or%20Without%20Vascular%20Disease%20From%2058%20Countries&author=D%20Mohan&author=A%20Mente&author=M%20Dehghan&author=S%20Rangarajan&author=M%20O%E2%80%99Donnell&publication_year=2021&pmid=33683310&doi=10.1001/jamainternmed.2021.0036&)\]
+- 23.Yazdekhasti N, Brandsch C, Schmidt N, Schloesser A, Huebbe P, Rimbach G, Stangl GI (2016) Fish protein increases circulating levels of trimethylamine-N-oxide and accelerates aortic lesion formation in apoE null mice. Mol Nutr Food Res
+60 (2):358–368. doi: 10.1002/mnfr.201500537 \[ [DOI](https://doi.org/10.1002/mnfr.201500537)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/26502377/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Mol%20Nutr%20Food%20Res&title=Fish%20protein%20increases%20circulating%20levels%20of%20trimethylamine-N-oxide%20and%20accelerates%20aortic%20lesion%20formation%20in%20apoE%20null%20mice&author=N%20Yazdekhasti&author=C%20Brandsch&author=N%20Schmidt&author=A%20Schloesser&author=P%20Huebbe&volume=60&issue=2&publication_year=2016&pages=358-368&pmid=26502377&doi=10.1002/mnfr.201500537&)\]
+- 24.Wang Z, Levison BS, Hazen JE, Donahue L, Li XM, Hazen SL (2014) Measurement of trimethylamine-N-oxide by stable isotope dilution liquid chromatography tandem mass spectrometry. Anal Biochem
+455:35–40. doi: 10.1016/j.ab.2014.03.016 \[ [DOI](https://doi.org/10.1016/j.ab.2014.03.016)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC4167037/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/24704102/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Anal%20Biochem&title=Measurement%20of%20trimethylamine-N-oxide%20by%20stable%20isotope%20dilution%20liquid%20chromatography%20tandem%20mass%20spectrometry&author=Z%20Wang&author=BS%20Levison&author=JE%20Hazen&author=L%20Donahue&author=XM%20Li&volume=455&publication_year=2014&pages=35-40&pmid=24704102&doi=10.1016/j.ab.2014.03.016&)\]
+- 25.Feldstein AE, Lopez R, Tamimi TA, Yerian L, Chung YM, Berk M, Zhang R, McIntyre TM, Hazen SL (2010) Mass spectrometric profiling of oxidized lipid products in human nonalcoholic fatty liver disease and nonalcoholic steatohepatitis. J Lipid Res
+51 (10):3046–3054. doi: 10.1194/jlr.M007096 \[ [DOI](https://doi.org/10.1194/jlr.M007096)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC2936759/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/20631297/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Lipid%20Res&title=Mass%20spectrometric%20profiling%20of%20oxidized%20lipid%20products%20in%20human%20nonalcoholic%20fatty%20liver%20disease%20and%20nonalcoholic%20steatohepatitis&author=AE%20Feldstein&author=R%20Lopez&author=TA%20Tamimi&author=L%20Yerian&author=YM%20Chung&volume=51&issue=10&publication_year=2010&pages=3046-3054&pmid=20631297&doi=10.1194/jlr.M007096&)\]
+- 26.Daniel WW (2005) Biostatistics: a foundation for analysis in the health sciences. 8th edn.
+Wiley, Hoboken, NJ, pp 303–409. \[ [Google Scholar](https://scholar.google.com/scholar_lookup?title=Biostatistics:%20a%20foundation%20for%20analysis%20in%20the%20health%20sciences&author=WW%20Daniel&publication_year=2005&)\]
+- 27.Service NMF (2020) Fisheries of the United States, 2018. NOAA Current Fishery Statistics, vol No. 2018. \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=NOAA%20Current%20Fishery%20Statistics,&title=Fisheries%20of%20the%20United%20States,%202018&author=NMF%20Service&volume=2018&publication_year=2020&)\]
+- 28.Roberts AB, Gu X, Buffa JA, Hurd AG, Wang Z, Zhu W, Gupta N, Skye SM, Cody DB, Levison BS, Barrington WT, Russell MW, Reed JM, Duzan A, Lang JM, Fu X, Li L, Myers AJ, Rachakonda S, DiDonato JA, Brown JM, Gogonea V, Lusis AJ, Garcia-Garcia JC, Hazen SL (2018) Development of a gut microbe-targeted nonlethal therapeutic to inhibit thrombosis potential. Nat Med
+24 (9):1407–1417. doi: 10.1038/s41591-018-0128-1 \[ [DOI](https://doi.org/10.1038/s41591-018-0128-1)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC6129214/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/30082863/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Nat%20Med&title=Development%20of%20a%20gut%20microbe-targeted%20nonlethal%20therapeutic%20to%20inhibit%20thrombosis%20potential&author=AB%20Roberts&author=X%20Gu&author=JA%20Buffa&author=AG%20Hurd&author=Z%20Wang&volume=24&issue=9&publication_year=2018&pages=1407-1417&pmid=30082863&doi=10.1038/s41591-018-0128-1&)\]
+- 29.Jaaskelainen E, Jakobsen LMA, Hultman J, Eggers N, Bertram HC, Bjorkroth J (2019) Metabolomics and bacterial diversity of packaged yellowfin tuna (Thunnus albacares) and salmon (Salmo salar) show fish species-specific spoilage development during chilled storage. Int J Food Microbiol
+293:44–52. doi: 10.1016/j.ijfoodmicro.2018.12.021 \[ [DOI](https://doi.org/10.1016/j.ijfoodmicro.2018.12.021)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/30639999/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Int%20J%20Food%20Microbiol&title=Metabolomics%20and%20bacterial%20diversity%20of%20packaged%20yellowfin%20tuna%20(Thunnus%20albacares)%20and%20salmon%20(Salmo%20salar)%20show%20fish%20species-specific%20spoilage%20development%20during%20chilled%20storage&author=E%20Jaaskelainen&author=LMA%20Jakobsen&author=J%20Hultman&author=N%20Eggers&author=HC%20Bertram&volume=293&publication_year=2019&pages=44-52&pmid=30639999&doi=10.1016/j.ijfoodmicro.2018.12.021&)\]
+- 30.Patterson KY, Bhagwat S, Williams JR, Howe JC, Holden JM, Zeisel SH, Dacosta KA, Mar M-H (2015) USDA database for the choline content of common foods, Release
+2 (2008). doi: 10.15482/USDA.ADC/1178141 \[ [DOI](https://doi.org/10.15482/USDA.ADC/1178141)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Release&title=USDA%20database%20for%20the%20choline%20content%20of%20common%20foods&author=KY%20Patterson&author=S%20Bhagwat&author=JR%20Williams&author=JC%20Howe&author=JM%20Holden&volume=2&issue=2008&publication_year=2015&doi=10.15482/USDA.ADC/1178141&)\]
+- 31.U.S. Department of Agriculture ARS (2019) FoodData Central. [http://fdc.nal.usda.gov/](http://fdc.nal.usda.gov/).
+- 32.Cho CE, Taesuwan S, Malysheva OV, Bender E, Tulchinsky NF, Yan J, Sutter JL, Caudill MA (2017) Trimethylamine-N-oxide (TMAO) response to animal source foods varies among healthy young men and is influenced by their gut microbiota composition: A randomized controlled trial. Mol Nutr Food Res
+61 (1). doi: 10.1002/mnfr.201600324 \[ [DOI](https://doi.org/10.1002/mnfr.201600324)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/27377678/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Mol%20Nutr%20Food%20Res&title=Trimethylamine-N-oxide%20(TMAO)%20response%20to%20animal%20source%20foods%20varies%20among%20healthy%20young%20men%20and%20is%20influenced%20by%20their%20gut%20microbiota%20composition:%20A%20randomized%20controlled%20trial&author=CE%20Cho&author=S%20Taesuwan&author=OV%20Malysheva&author=E%20Bender&author=NF%20Tulchinsky&volume=61&issue=1&publication_year=2017&pmid=27377678&doi=10.1002/mnfr.201600324&)\]
+- 33.Mejean V, Iobbi-Nivol C, Lepelletier M, Giordano G, Chippaux M, Pascal MC (1994) TMAO anaerobic respiration in Escherichia coli: involvement of the tor operon. Mol Microbiol
+11 (6):1169–1179. doi: 10.1111/j.1365-2958.1994.tb00393.x \[ [DOI](https://doi.org/10.1111/j.1365-2958.1994.tb00393.x)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/8022286/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Mol%20Microbiol&title=TMAO%20anaerobic%20respiration%20in%20Escherichia%20coli:%20involvement%20of%20the%20tor%20operon&author=V%20Mejean&author=C%20Iobbi-Nivol&author=M%20Lepelletier&author=G%20Giordano&author=M%20Chippaux&volume=11&issue=6&publication_year=1994&pages=1169-1179&pmid=8022286&doi=10.1111/j.1365-2958.1994.tb00393.x&)\]
+- 34.Pignanelli M, Bogiatzi C, Gloor G, Allen-Vercoe E, Reid G, Urquhart BL, Ruetz KN, Velenosi TJ, Spence JD (2019) Moderate Renal Impairment and Toxic Metabolites Produced by the Intestinal Microbiome: Dietary Implications. J Ren Nutr
+29 (1):55–64. doi: 10.1053/j.jrn.2018.05.007 \[ [DOI](https://doi.org/10.1053/j.jrn.2018.05.007)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/30100156/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Ren%20Nutr&title=Moderate%20Renal%20Impairment%20and%20Toxic%20Metabolites%20Produced%20by%20the%20Intestinal%20Microbiome:%20Dietary%20Implications&author=M%20Pignanelli&author=C%20Bogiatzi&author=G%20Gloor&author=E%20Allen-Vercoe&author=G%20Reid&volume=29&issue=1&publication_year=2019&pages=55-64&pmid=30100156&doi=10.1053/j.jrn.2018.05.007&)\]
+- 35.Yin X, Gibbons H, Rundle M, Frost G, McNulty BA, Nugent AP, Walton J, Flynn A, Brennan L (2020) The Relationship between Fish Intake and Urinary Trimethylamine-N-Oxide. Mol Nutr Food Res
+64 (3):e1900799. doi: 10.1002/mnfr.201900799 \[ [DOI](https://doi.org/10.1002/mnfr.201900799)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/31863680/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Mol%20Nutr%20Food%20Res&title=The%20Relationship%20between%20Fish%20Intake%20and%20Urinary%20Trimethylamine-N-Oxide&author=X%20Yin&author=H%20Gibbons&author=M%20Rundle&author=G%20Frost&author=BA%20McNulty&volume=64&issue=3&publication_year=2020&pages=e1900799&pmid=31863680&doi=10.1002/mnfr.201900799&)\]
+
+## Associated Data
+
+_This section collects any data citations, data availability statements, or supplementary materials included in this article._
+
+### Supplementary Materials
+
+Supplemental Material
+
+[NIHMS1783531-supplement-Supplemental\_Material.pdf](https://pmc.ncbi.nlm.nih.gov/articles/instance/9283263/bin/NIHMS1783531-supplement-Supplemental_Material.pdf) (186.7KB, pdf)
+
+### Data Availability Statement
+
+There are restrictions to the availability of data generated in these study as we do not have permission in our informed consent from research subjects to share data (except in summary aggregate form) outside of our institution without their authorizations. Where permissible, the data underlying this article will be shared on reasonable request to the corresponding author.
+
+![Close](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/close.svg)
+
+## ACTIONS
+
+- [![View on publisher site icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/launch.svg)View on publisher site](https://doi.org/10.1007/s00394-022-02803-4)
+- [![Download PDF icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/file_download.svg)PDF (953.6 KB)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9283263/pdf/nihms-1783531.pdf)
+- ![Cite icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/format_quote.svg)Cite
+- ![Collections icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/action-bookmark-full.svg)![Collections icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/action-bookmark-empty.svg)Collections
+- ![Permalink icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/share.svg)Permalink
+
+
+
+
+## PERMALINK
+
+
+
+![Copy icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/content_copy.svg)Copy
+
+
+## RESOURCES
+
+### Similar articles
+
+### Cited by other articles
+
+### Links to NCBI Databases
+
+Back to Top![back to top icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/arrow_upward.svg)

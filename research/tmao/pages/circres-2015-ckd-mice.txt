@@ -1,0 +1,339 @@
+# URL: https://pubmed.ncbi.nlm.nih.gov/25599331/
+# Fetched via web_extract on 2026-11-15
+
+Clipboard, Search History, and several other advanced features are temporarily unavailable.
+
+
+[Skip to main page content](https://pubmed.ncbi.nlm.nih.gov/25599331/#article-details)
+
+### NIH Websites Are Changing
+
+- [Get the Latest Updates and FAQs on the transition](https://www.nih.gov/web-modernization)
+- Per [Executive Order 14434](https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/), federal agencies are now using "Super Intelligence" (SI) in place of "Artificial Intelligence" (AI). You may see both terms across NIH content during this transition.
+
+![Dot gov](https://cdn.ncbi.nlm.nih.gov/coreutils/uswds/img/icon-dot-gov.svg)
+
+**The .gov means it’s official.**
+
+Federal government websites often end in .gov or .mil. Before
+sharing sensitive information, make sure you’re on a federal
+government site.
+
+
+![Https](https://cdn.ncbi.nlm.nih.gov/coreutils/uswds/img/icon-https.svg)
+
+**The site is secure.**
+
+The **https://** ensures that you are connecting to the
+official website and that any information you provide is encrypted
+and transmitted securely.
+
+
+[Access keys](https://www.ncbi.nlm.nih.gov/guide/browsers/#ncbi_accesskeys) [NCBI Homepage](https://www.ncbi.nlm.nih.gov/) [MyNCBI Homepage](https://pubmed.ncbi.nlm.nih.gov/myncbi/) [Main Content](https://pubmed.ncbi.nlm.nih.gov/25599331/#maincontent) [Main Navigation](https://pubmed.ncbi.nlm.nih.gov/25599331/#)
+
+[![pubmed logo](https://cdn.ncbi.nlm.nih.gov/pubmed/a447896c-976f-490b-b86b-2668b65114a8/core/images/pubmed-logo-blue.svg)](https://pubmed.ncbi.nlm.nih.gov/)[Show search bar](https://pubmed.ncbi.nlm.nih.gov/25599331/# "Show search bar")
+
+Search:
+
+
+```
+
+```
+
+[Clear search input](https://pubmed.ncbi.nlm.nih.gov/25599331/# "Clear search input") Search
+
+[Advanced](https://pubmed.ncbi.nlm.nih.gov/advanced/) [Clipboard](https://pubmed.ncbi.nlm.nih.gov/clipboard/)
+
+[User Guide](https://pubmed.ncbi.nlm.nih.gov/help/)
+
+Save
+
+Email
+
+
+Send to
+
+- [Clipboard](https://pubmed.ncbi.nlm.nih.gov/25599331/#)
+- [My Bibliography](https://account.ncbi.nlm.nih.gov/?back_url=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F25599331%2F%23open-bibliography-panel)
+- [Collections](https://account.ncbi.nlm.nih.gov/?back_url=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F25599331%2F%23open-collections-panel)
+- [Citation manager](https://pubmed.ncbi.nlm.nih.gov/25599331/#)
+
+Display options
+
+Display options
+
+
+Format
+AbstractPubMedPMID
+
+## Save citation to file
+
+Format:
+Summary (text)PubMedPMIDAbstract (text)CSV
+
+Create file
+
+Cancel
+
+
+## Email citation
+
+Email address has not been verified. Go to
+[My NCBI account settings](https://account.ncbi.nlm.nih.gov/settings/)
+to confirm your email and then refresh this page.
+
+
+To:
+
+
+Subject:
+
+
+Body:
+
+
+Format:
+SummarySummary (text)AbstractAbstract (text)
+
+MeSH and other data
+
+
+Send email
+
+Cancel
+
+
+### Add to Collections
+
+- Create a new collection
+- Add to an existing collection
+
+Name your collection:
+
+
+Name must be less than 100 characters
+
+
+Choose a collection:
+
+
+Unable to load your collection due to an error
+
+[Please try again](https://pubmed.ncbi.nlm.nih.gov/25599331/#)
+
+Add
+
+Cancel
+
+
+### Add to My Bibliography
+
+- My Bibliography
+
+Unable to load your delegates due to an error
+
+[Please try again](https://pubmed.ncbi.nlm.nih.gov/25599331/#)
+
+Add
+
+Cancel
+
+
+## Your saved search
+
+Name of saved search:
+
+
+Search terms:
+
+
+[Test search terms](https://pubmed.ncbi.nlm.nih.gov/25599331/#)
+
+Would you like email updates of new search results?
+Saved Search Alert Radio Buttons
+
+- Yes
+- No
+
+Email:
+( [change](https://www.ncbi.nlm.nih.gov/account/settings/))
+
+Frequency:
+MonthlyWeeklyDaily
+
+Which day?
+The first SundayThe first MondayThe first TuesdayThe first WednesdayThe first ThursdayThe first FridayThe first SaturdayThe first dayThe first weekday
+
+Which day?
+SundayMondayTuesdayWednesdayThursdayFridaySaturday
+
+Report format:
+SummarySummary (text)AbstractAbstract (text)PubMed
+
+Send at most:
+1 item5 items10 items20 items50 items100 items200 items
+
+Send even when there aren't any new results
+
+
+Optional text in email:
+
+
+Save
+
+Cancel
+
+
+## Create a file for external citation management software
+
+Create file
+
+Cancel
+
+
+## Your RSS Feed
+
+Name of RSS Feed:
+
+
+Number of items displayed:
+510152050100
+
+Create RSS
+
+Cancel
+
+
+RSS Link
+Copy
+
+
+Full text links
+Cite
+
+Display options
+
+Display options
+
+
+Format
+AbstractPubMedPMID
+
+Linked Discoveries
+
+## Abstract
+
+**Rationale:**
+
+Trimethylamine-N-oxide (TMAO), a gut microbial-dependent metabolite of dietary choline, phosphatidylcholine (lecithin), and l-carnitine, is elevated in chronic kidney diseases (CKD) and associated with coronary artery disease pathogenesis.
+
+
+**Objective:**
+
+To both investigate the clinical prognostic value of TMAO in subjects with versus without CKD, and test the hypothesis that TMAO plays a direct contributory role in the development and progression of renal dysfunction.
+
+
+**Methods and results:**
+
+We first examined the relationship between fasting plasma TMAO and all-cause mortality over 5-year follow-up in 521 stable subjects with CKD (estimated glomerular filtration rate, <60 mL/min per 1.73 m(2)). Median TMAO level among CKD subjects was 7.9 μmol/L (interquartile range, 5.2-12.4 μmol/L), which was markedly higher (P<0.001) than in non-CKD subjects (n=3166). Within CKD subjects, higher (fourth versus first quartile) plasma TMAO level was associated with a 2.8-fold increased mortality risk. After adjustments for traditional risk factors, high-sensitivity C-reactive protein, estimated glomerular filtration rate, elevated TMAO levels remained predictive of 5-year mortality risk (hazard ratio, 1.93; 95% confidence interval, 1.13-3.29; P<0.05). TMAO provided significant incremental prognostic value (net reclassification index, 17.26%; P<0.001 and differences in area under receiver operator characteristic curve, 63.26% versus 65.95%; P=0.036). Among non-CKD subjects, elevated TMAO levels portend poorer prognosis within cohorts of high and low cystatin C. In animal models, elevated dietary choline or TMAO directly led to progressive renal tubulointerstitial fibrosis and dysfunction.
+
+
+**Conclusions:**
+
+Plasma TMAO levels are both elevated in patients with CKD and portend poorer long-term survival. Chronic dietary exposures that increase TMAO directly contributes to progressive renal fibrosis and dysfunction in animal models.
+
+
+**Keywords:**
+
+cardiovascular diseases; chronic kidney disease; fibrosis; gut microbiota; trimethylamine N-oxide.
+
+
+© 2014 American Heart Association, Inc.
+
+
+[PubMed Disclaimer](https://pubmed.ncbi.nlm.nih.gov/disclaimer/)
+
+## Figures
+
+[![Figure 1](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ad8d/4312512/1e8aa5e76278/nihms641127f1.gif)](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ad8d/4312512/fcb5f768eb67/nihms641127f1.jpg)
+
+**Figure 1. Prognostic Value of Plasma trimethylamine _…_**
+
+**Figure 1. Prognostic Value of Plasma trimethylamine _N_ -oxide (TMAO) Levels in the CKD Cohort**
+
+In…
+
+**Figure 1. Prognostic Value of Plasma trimethylamine _N_-oxide (TMAO) Levels in the CKD Cohort**
+
+In a cohort of stable cardiac patients undergoing elective diagnostic coronary evaluation, subjects with underlying Stage 3+ chronic kidney disease demonstrated higher levels of fasting plasma TMAO than those with no CKD (p<0.01, Panel A). Increasing quartiles fasting plasma TMAO levels portend increased risk for all-cause mortality at 5 years in patients with CKD (n=521, Panel B).
+
+[![Figure 2](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ad8d/4312512/3f1fb9b55e68/nihms641127f2.gif)](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ad8d/4312512/a88d6a79deb8/nihms641127f2.jpg)
+
+**Figure 2. Comparative Prognostic Value of Plasma…**
+
+**Figure 2. Comparative Prognostic Value of Plasma TMAO and Cystatin C in the Non-CKD Cohort**
+
+**Figure 2. Comparative Prognostic Value of Plasma TMAO and Cystatin C in the Non-CKD Cohort**
+
+Subjects with elevated cystatin C (>0.9 mg/dL) and TMAO (>3.4 μM) had the highest 5-year mortality risk in this non-CKD cohort (n=3,188).
+
+[![Figure 3](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ad8d/4312512/ed64478ae1eb/nihms641127f3.gif)](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ad8d/4312512/dbe13ce11c7d/nihms641127f3.jpg)
+
+**Figure 3. Dietary choline/TMAO Exposure Contributes to…**
+
+**Figure 3. Dietary choline/TMAO Exposure Contributes to Progressive Renal Fibrosis in Murine Model**
+
+Plasma TMAO…
+
+**Figure 3. Dietary choline/TMAO Exposure Contributes to Progressive Renal Fibrosis in Murine Model**
+
+Plasma TMAO (A) levels are increased after 6 week feeding TMAO (0.12%), or Choline (1.0%) diets vs chow (0.08% choline) fed mice. Representative Mason trichrome histology (B) quantitative morphometry (C) and its relationship with TMAO levels (D), SMAD3 activation by phosphorylation at serine 423/425 (E) and its relationship with TMAO levels (F) in mouse kidneys after 6 week feeding of chow (0.08% choline), TMAO (0.12%), and Choline (1.0%) diets. Scale bar represents 100 um. \*\*P<0.01 vs. chow fed, n≥5 mice per group.
+
+
+[... middle omitted — see footer ...]
+
+- [P20 HL113452/HL/NHLBI NIH HHS/United States](https://pubmed.ncbi.nlm.nih.gov/?term=P20+HL113452%2FHL%2FNHLBI+NIH+HHS%2FUnited+States%5BGrants+and+Funding%5D&sort=date&sort_order=desc "All articles for grant P20 HL113452/HL/NHLBI NIH HHS/United States")
+- [P01HL098055/HL/NHLBI NIH HHS/United States](https://pubmed.ncbi.nlm.nih.gov/?term=P01HL098055%2FHL%2FNHLBI+NIH+HHS%2FUnited+States%5BGrants+and+Funding%5D&sort=date&sort_order=desc "All articles for grant P01HL098055/HL/NHLBI NIH HHS/United States")
+- [R01HL103931/HL/NHLBI NIH HHS/United States](https://pubmed.ncbi.nlm.nih.gov/?term=R01HL103931%2FHL%2FNHLBI+NIH+HHS%2FUnited+States%5BGrants+and+Funding%5D&sort=date&sort_order=desc "All articles for grant R01HL103931/HL/NHLBI NIH HHS/United States")
+- [P01 HL098055/HL/NHLBI NIH HHS/United States](https://pubmed.ncbi.nlm.nih.gov/?term=P01+HL098055%2FHL%2FNHLBI+NIH+HHS%2FUnited+States%5BGrants+and+Funding%5D&sort=date&sort_order=desc "All articles for grant P01 HL098055/HL/NHLBI NIH HHS/United States")
+- [P01HL076491/HL/NHLBI NIH HHS/United States](https://pubmed.ncbi.nlm.nih.gov/?term=P01HL076491%2FHL%2FNHLBI+NIH+HHS%2FUnited+States%5BGrants+and+Funding%5D&sort=date&sort_order=desc "All articles for grant P01HL076491/HL/NHLBI NIH HHS/United States")
+- [UL1 TR000439/TR/NCATS NIH HHS/United States](https://pubmed.ncbi.nlm.nih.gov/?term=UL1+TR000439%2FTR%2FNCATS+NIH+HHS%2FUnited+States%5BGrants+and+Funding%5D&sort=date&sort_order=desc "All articles for grant UL1 TR000439/TR/NCATS NIH HHS/United States")
+
+Show all 12 grants
+
+
+## LinkOut - more resources
+
+- ### Full Text Sources
+
+
+  - [Atypon](https://www.ahajournals.org/doi/10.1161/CIRCRESAHA.116.305360?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)
+  - [Europe PMC](https://europepmc.org/abstract/MED/25599331)
+  - [Ingenta plc](https://www.ingentaconnect.com/openurl?genre=article&issn=0009-7330&volume=116&issue=3&spage=448&aulast=Tang)
+  - [Ovid Technologies, Inc.](https://www.ovid.com/25599331.pmid)
+  - [PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/pmid/25599331/)
+- ### Other Literature Sources
+
+
+  - [The Lens - Patent Citations Database](https://www.lens.org/lens/search/patent/list?q=reference_cited.npl.ids.pmid:25599331)
+- ### Medical
+
+
+  - [ClinicalTrials.gov](https://clinicaltrials.gov/search?term=AREA%5BReferencePMID%5D25599331)
+  - [MedlinePlus Health Information](https://medlineplus.gov/chronickidneydisease.html)
+- ### Research Materials
+
+
+  - [NCI CPTC Antibody Characterization Program](https://antibodies.cancer.gov/detail/CPTC-CRP-1)
+
+NCBI Literature Resources
+
+[MeSH](https://www.ncbi.nlm.nih.gov/mesh/) [PMC](https://www.ncbi.nlm.nih.gov/pmc/) [Bookshelf](https://www.ncbi.nlm.nih.gov/books) [Disclaimer](https://pubmed.ncbi.nlm.nih.gov/disclaimer/)
+
+The PubMed wordmark and PubMed logo are registered trademarks of the U.S. Department of Health and Human Services (HHS). Unauthorized use of these marks is strictly prohibited.
+
+──────── [TRUNCATED] ────────
+Showing 8,998 chars (head) + 2,970 chars (tail) of 29,217 total clean characters.
+Full text saved to: /home/walker/.hermes/cache/web/pubmed.ncbi.nlm.nih.gov-68f5e679c3.md
+To read the omitted middle: read_file path="/home/walker/.hermes/cache/web/pubmed.ncbi.nlm.nih.gov-68f5e679c3.md" offset=289 limit=200  (the file is the complete page; raise/lower offset to page through it).
+─────────────────────────────

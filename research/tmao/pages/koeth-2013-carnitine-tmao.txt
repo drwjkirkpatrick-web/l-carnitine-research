@@ -1,0 +1,302 @@
+# URL: https://pubmed.ncbi.nlm.nih.gov/23563705/
+# Fetched via web_extract on 2026-11-15
+
+Clipboard, Search History, and several other advanced features are temporarily unavailable.
+
+
+[Skip to main page content](https://pubmed.ncbi.nlm.nih.gov/23563705/#article-details)
+
+### NIH Websites Are Changing
+
+- [Get the Latest Updates and FAQs on the transition](https://www.nih.gov/web-modernization)
+- Per [Executive Order 14434](https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/), federal agencies are now using "Super Intelligence" (SI) in place of "Artificial Intelligence" (AI). You may see both terms across NIH content during this transition.
+
+![Dot gov](https://cdn.ncbi.nlm.nih.gov/coreutils/uswds/img/icon-dot-gov.svg)
+
+**The .gov means it’s official.**
+
+Federal government websites often end in .gov or .mil. Before
+sharing sensitive information, make sure you’re on a federal
+government site.
+
+
+![Https](https://cdn.ncbi.nlm.nih.gov/coreutils/uswds/img/icon-https.svg)
+
+**The site is secure.**
+
+The **https://** ensures that you are connecting to the
+official website and that any information you provide is encrypted
+and transmitted securely.
+
+
+[Access keys](https://www.ncbi.nlm.nih.gov/guide/browsers/#ncbi_accesskeys) [NCBI Homepage](https://www.ncbi.nlm.nih.gov/) [MyNCBI Homepage](https://pubmed.ncbi.nlm.nih.gov/myncbi/) [Main Content](https://pubmed.ncbi.nlm.nih.gov/23563705/#maincontent) [Main Navigation](https://pubmed.ncbi.nlm.nih.gov/23563705/#)
+
+[![pubmed logo](https://cdn.ncbi.nlm.nih.gov/pubmed/a447896c-976f-490b-b86b-2668b65114a8/core/images/pubmed-logo-blue.svg)](https://pubmed.ncbi.nlm.nih.gov/)[Show search bar](https://pubmed.ncbi.nlm.nih.gov/23563705/# "Show search bar")
+
+Search:
+
+
+```
+
+```
+
+[Clear search input](https://pubmed.ncbi.nlm.nih.gov/23563705/# "Clear search input") Search
+
+[Advanced](https://pubmed.ncbi.nlm.nih.gov/advanced/) [Clipboard](https://pubmed.ncbi.nlm.nih.gov/clipboard/)
+
+[User Guide](https://pubmed.ncbi.nlm.nih.gov/help/)
+
+Save
+
+Email
+
+
+Send to
+
+- [Clipboard](https://pubmed.ncbi.nlm.nih.gov/23563705/#)
+- [My Bibliography](https://account.ncbi.nlm.nih.gov/?back_url=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F23563705%2F%23open-bibliography-panel)
+- [Collections](https://account.ncbi.nlm.nih.gov/?back_url=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F23563705%2F%23open-collections-panel)
+- [Citation manager](https://pubmed.ncbi.nlm.nih.gov/23563705/#)
+
+Display options
+
+Display options
+
+
+Format
+AbstractPubMedPMID
+
+## Save citation to file
+
+Format:
+Summary (text)PubMedPMIDAbstract (text)CSV
+
+Create file
+
+Cancel
+
+
+## Email citation
+
+Email address has not been verified. Go to
+[My NCBI account settings](https://account.ncbi.nlm.nih.gov/settings/)
+to confirm your email and then refresh this page.
+
+
+To:
+
+
+Subject:
+
+
+Body:
+
+
+Format:
+SummarySummary (text)AbstractAbstract (text)
+
+MeSH and other data
+
+
+Send email
+
+Cancel
+
+
+### Add to Collections
+
+- Create a new collection
+- Add to an existing collection
+
+Name your collection:
+
+
+Name must be less than 100 characters
+
+
+Choose a collection:
+
+
+Unable to load your collection due to an error
+
+[Please try again](https://pubmed.ncbi.nlm.nih.gov/23563705/#)
+
+Add
+
+Cancel
+
+
+### Add to My Bibliography
+
+- My Bibliography
+
+Unable to load your delegates due to an error
+
+[Please try again](https://pubmed.ncbi.nlm.nih.gov/23563705/#)
+
+Add
+
+Cancel
+
+
+## Your saved search
+
+Name of saved search:
+
+
+Search terms:
+
+
+[Test search terms](https://pubmed.ncbi.nlm.nih.gov/23563705/#)
+
+Would you like email updates of new search results?
+Saved Search Alert Radio Buttons
+
+- Yes
+- No
+
+Email:
+( [change](https://www.ncbi.nlm.nih.gov/account/settings/))
+
+Frequency:
+MonthlyWeeklyDaily
+
+Which day?
+The first SundayThe first MondayThe first TuesdayThe first WednesdayThe first ThursdayThe first FridayThe first SaturdayThe first dayThe first weekday
+
+Which day?
+SundayMondayTuesdayWednesdayThursdayFridaySaturday
+
+Report format:
+SummarySummary (text)AbstractAbstract (text)PubMed
+
+Send at most:
+1 item5 items10 items20 items50 items100 items200 items
+
+Send even when there aren't any new results
+
+
+Optional text in email:
+
+
+Save
+
+Cancel
+
+
+## Create a file for external citation management software
+
+Create file
+
+Cancel
+
+
+## Your RSS Feed
+
+Name of RSS Feed:
+
+
+Number of items displayed:
+510152050100
+
+Create RSS
+
+Cancel
+
+
+RSS Link
+Copy
+
+
+Full text links
+Cite
+
+Display options
+
+Display options
+
+
+Format
+AbstractPubMedPMID
+
+Linked Discoveries
+
+## Abstract
+
+
+Intestinal microbiota metabolism of choline and phosphatidylcholine produces trimethylamine (TMA), which is further metabolized to a proatherogenic species, trimethylamine-N-oxide (TMAO). We demonstrate here that metabolism by intestinal microbiota of dietary L-carnitine, a trimethylamine abundant in red meat, also produces TMAO and accelerates atherosclerosis in mice. Omnivorous human subjects produced more TMAO than did vegans or vegetarians following ingestion of L-carnitine through a microbiota-dependent mechanism. The presence of specific bacterial taxa in human feces was associated with both plasma TMAO concentration and dietary status. Plasma L-carnitine levels in subjects undergoing cardiac evaluation (n = 2,595) predicted increased risks for both prevalent cardiovascular disease (CVD) and incident major adverse cardiac events (myocardial infarction, stroke or death), but only among subjects with concurrently high TMAO levels. Chronic dietary L-carnitine supplementation in mice altered cecal microbial composition, markedly enhanced synthesis of TMA and TMAO, and increased atherosclerosis, but this did not occur if intestinal microbiota was concurrently suppressed. In mice with an intact intestinal microbiota, dietary supplementation with TMAO or either carnitine or choline reduced in vivo reverse cholesterol transport. Intestinal microbiota may thus contribute to the well-established link between high levels of red meat consumption and CVD risk.
+
+
+[PubMed Disclaimer](https://pubmed.ncbi.nlm.nih.gov/disclaimer/)
+
+## Figures
+
+[![Figure 1](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/16ef/3650111/78047bd71d9b/nihms-450760-f0001.gif)](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/16ef/3650111/83f5ff684ec4/nihms-450760-f0001.jpg)
+
+**Figure 1. TMAO production from carnitine is…**
+
+**Figure 1. TMAO production from carnitine is a microbiota dependent process in humans**
+
+( **a** …
+
+**Figure 1. TMAO production from carnitine is a microbiota dependent process in humans**
+
+( **a**) Structure of carnitine and scheme of carnitine and choline metabolism to TMAO. L-Carnitine and choline (are both dietary trimethylamines that can be metabolized by microbiota to TMA. TMA is then further oxidized to TMAO by flavin monooxygenases (FMOs). ( **b**) Scheme of human carnitine challenge test. After a 12 hour overnight fast, subjects received a capsule of d3-carnitine (250 mg) alone, or in some cases (as in data for subject shown) also an 8 ounce steak (estimated 180 mg L-carnitine), whereupon serial plasma and 24h urine collection was obtained for TMA and TMAO analyses. After a weeklong regimen of oral broad spectrum antibiotics to suppress the intestinal microbiota, the challenge was repeated (Visit 2), and then again a final third time after a ≥ three week period to permit repopulation of intestinal microbiota (Visit 3). Data shown in ( **panels c-e**) are from a representative female omnivorous subject who underwent carnitine challenge. Data is organized to vertically correspond with the indicated visit schedule above (Visit 1, 2 or 3). ( **c,d**) LC/MS/MS chromatograms of plasma TMAO or d3-TMAO in omnivorous subject using specific precursor → product ion transitions indicated at T = 8 hour time point for each respective visit. ( **e**) Stable isotope dilution LC/MS/MS time course measurements stable isotope (d3) labeled TMAO and carnitine, in plasma collected from sequential venous blood draws at noted times.
+
+[![Figure 2](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/16ef/3650111/8551e5a1894e/nihms-450760-f0002.gif)](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/16ef/3650111/262e2c518699/nihms-450760-f0002.jpg)
+
+**Figure 2. The formation of TMAO from…**
+
+**Figure 2. The formation of TMAO from ingested L-carnitine is negligible in vegans, and fecal…**
+
+**Figure 2. The formation of TMAO from ingested L-carnitine is negligible in vegans, and fecal microbiota composition associates with plasma TMAO concentrations**
+
+
+[... middle omitted — see footer ...]
+
+- [1UL1RR024989/RR/NCRR NIH HHS/United States](https://pubmed.ncbi.nlm.nih.gov/?term=1UL1RR024989%2FRR%2FNCRR+NIH+HHS%2FUnited+States%5BGrants+and+Funding%5D&sort=date&sort_order=desc "All articles for grant 1UL1RR024989/RR/NCRR NIH HHS/United States")
+- [UH3-DK083981/DK/NIDDK NIH HHS/United States](https://pubmed.ncbi.nlm.nih.gov/?term=UH3-DK083981%2FDK%2FNIDDK+NIH+HHS%2FUnited+States%5BGrants+and+Funding%5D&sort=date&sort_order=desc "All articles for grant UH3-DK083981/DK/NIDDK NIH HHS/United States")
+- [P01 HL028481/HL/NHLBI NIH HHS/United States](https://pubmed.ncbi.nlm.nih.gov/?term=P01+HL028481%2FHL%2FNHLBI+NIH+HHS%2FUnited+States%5BGrants+and+Funding%5D&sort=date&sort_order=desc "All articles for grant P01 HL028481/HL/NHLBI NIH HHS/United States")
+- [P01 HL076491/HL/NHLBI NIH HHS/United States](https://pubmed.ncbi.nlm.nih.gov/?term=P01+HL076491%2FHL%2FNHLBI+NIH+HHS%2FUnited+States%5BGrants+and+Funding%5D&sort=date&sort_order=desc "All articles for grant P01 HL076491/HL/NHLBI NIH HHS/United States")
+- [R01 HL098193/HL/NHLBI NIH HHS/United States](https://pubmed.ncbi.nlm.nih.gov/?term=R01+HL098193%2FHL%2FNHLBI+NIH+HHS%2FUnited+States%5BGrants+and+Funding%5D&sort=date&sort_order=desc "All articles for grant R01 HL098193/HL/NHLBI NIH HHS/United States")
+- [P01 HL030568/HL/NHLBI NIH HHS/United States](https://pubmed.ncbi.nlm.nih.gov/?term=P01+HL030568%2FHL%2FNHLBI+NIH+HHS%2FUnited+States%5BGrants+and+Funding%5D&sort=date&sort_order=desc "All articles for grant P01 HL030568/HL/NHLBI NIH HHS/United States")
+
+Show all 22 grants
+
+
+## LinkOut - more resources
+
+- ### Full Text Sources
+
+
+  - [Europe PMC](https://europepmc.org/abstract/MED/23563705)
+  - [Nature Publishing Group](https://doi.org/10.1038/nm.3145)
+  - [PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/pmid/23563705/)
+  - [eScholarship, University of California - Access Free Full Text](https://escholarship.org/uc/item/qt2c8993bs)
+- ### Other Literature Sources
+
+
+  - [H1 Connect - Access expert opinions and insights on biomedical research.](https://facultyopinions.com/pubmed/23563705)
+  - [The Lens - Patent Citations Database](https://www.lens.org/lens/search/patent/list?q=reference_cited.npl.ids.pmid:23563705)
+  - [scite Smart Citations](https://scite.ai/reports/23563705)
+- ### Medical
+
+
+  - [ClinicalTrials.gov](https://clinicaltrials.gov/search?term=AREA%5BReferencePMID%5D23563705)
+  - [MedlinePlus Health Information](https://medlineplus.gov/atherosclerosis.html)
+- ### Molecular Biology Databases
+
+
+  - [GlyGen glycoinformatics resource](https://glygen.org/publication/PubMed/23563705/)
+
+NCBI Literature Resources
+
+[MeSH](https://www.ncbi.nlm.nih.gov/mesh/) [PMC](https://www.ncbi.nlm.nih.gov/pmc/) [Bookshelf](https://www.ncbi.nlm.nih.gov/books) [Disclaimer](https://pubmed.ncbi.nlm.nih.gov/disclaimer/)
+
+The PubMed wordmark and PubMed logo are registered trademarks of the U.S. Department of Health and Human Services (HHS). Unauthorized use of these marks is strictly prohibited.
+
+──────── [TRUNCATED] ────────
+Showing 8,345 chars (head) + 2,988 chars (tail) of 40,274 total clean characters.
+Full text saved to: /home/walker/.hermes/cache/web/pubmed.ncbi.nlm.nih.gov-f1a1591377.md
+To read the omitted middle: read_file path="/home/walker/.hermes/cache/web/pubmed.ncbi.nlm.nih.gov-f1a1591377.md" offset=251 limit=200  (the file is the complete page; raise/lower offset to page through it).
+─────────────────────────────

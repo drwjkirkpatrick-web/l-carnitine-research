@@ -1,0 +1,49 @@
+SOURCE: Low Energy Availability and Increased Risk of Relative Energy Deficiency in Sport (RED-S) During a 3767-km Thru-Hike on the Pacific Crest Trail: A Case Study.
+URL: https://pubmed.ncbi.nlm.nih.gov/37586947/
+FETCHED: 2026-11-15 via NCBI efetch (pubmed abstract, retmode=text)
+PMID: 37586947
+DOI: 10.1016/j.wem.2023.06.011
+------------------------------------------------------------------------
+10. Wilderness Environ Med. 2023 Dec;34(4):536-542. doi:
+10.1016/j.wem.2023.06.011.  Epub 2023 Aug 14.
+
+Low Energy Availability and Increased Risk of Relative Energy Deficiency in 
+Sport (RED-S) During a 3767-km Thru-Hike on the Pacific Crest Trail: A Case 
+Study.
+
+Weiss EP(1), Frech AM(2), Perez VR(2).
+
+Author information:
+(1)Department of Nutrition and Dietetics, Saint Louis University, St. Louis, MO. 
+Electronic address: tedweissmail@gmail.com.
+(2)Department of Nutrition and Dietetics, Saint Louis University, St. Louis, MO.
+
+Long-distance "thru-hiking" has extraordinary physical demands and has become 
+increasingly popular. This report describes a man (55 y) who thru-hiked the 
+Pacific Crest Trail in 2021 and was at risk of developing the relative energy 
+deficiency in sport (RED-S) syndrome. Hiking distance was 3767 km over 128 d. 
+Eighty-eight days (69%) were full days of hiking, covering 38±8 km/d (mean±SD) 
+in 7.9±1.6 h/d. Exercise energy expenditure above rest (heart rate vs indirect 
+calorimetry regression method) was 2834±1518 kcal/d, total energy expenditure 
+was 5702±1323 kcal/d, and energy intake was 4141 kcal/d. Body mass decreased by 
+9%, and fat mass (dual-energy X-ray absorptiometry) decreased by 46%. Energy 
+availability (energy intake minus exercise energy expenditure) was 19.3 
+kcal/d/kg fat-free mass, indicating low energy availability (defined as <30 
+kcal/d/kg). Dual-energy X-ray absorptiometry-measured spine bone mineral density 
+(BMD) decreased by 8.6%, with little to no decrease in total hip (-1.0%) and 
+femoral neck (-1.5%) BMD. Total cholesterol, low-density lipoprotein 
+cholesterol, and triglycerides increased by 24, 39, and 57%, respectively. 
+Within 8 mo after the hike, BMD and serum lipids nearly or fully returned to 
+baseline. No changes in high-density lipoprotein cholesterol, glycemia, or blood 
+pressure were observed. According to guidelines, these observations are 
+consistent with a moderate risk of RED-S, and a medical evaluation and treatment 
+plan are advisable in order to avoid clinical manifestations (eg, stress 
+fractures, anemia, psychological disturbances). To minimize RED-S risk, it may 
+be prudent for thru-hikers to optimize energy availability by moderating daily 
+hiking distances and/or increasing food intake.
+
+Copyright © 2023 Wilderness Medical Society. Published by Elsevier Inc. All 
+rights reserved.
+
+DOI: 10.1016/j.wem.2023.06.011
+PMID: 37586947 [Indexed for MEDLINE]

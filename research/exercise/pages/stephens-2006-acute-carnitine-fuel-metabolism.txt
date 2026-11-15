@@ -1,0 +1,49 @@
+SOURCE: An acute increase in skeletal muscle carnitine content alters fuel metabolism in resting human skeletal muscle.
+URL: https://pubmed.ncbi.nlm.nih.gov/16984983/
+FETCHED: 2026-11-15 via NCBI efetch (pubmed abstract, retmode=text)
+PMID: 16984983
+DOI: 10.1210/jc.2006-1584
+------------------------------------------------------------------------
+10. J Clin Endocrinol Metab. 2006 Dec;91(12):5013-8. doi: 10.1210/jc.2006-1584.
+Epub  2006 Sep 19.
+
+An acute increase in skeletal muscle carnitine content alters fuel metabolism in 
+resting human skeletal muscle.
+
+Stephens FB(1), Constantin-Teodosiu D, Laithwaite D, Simpson EJ, Greenhaff PL.
+
+Author information:
+(1)Centre for Integrated Systems Biology and Medicine, University of Nottingham 
+Medical School, Queen's Medical Centre, Nottingham NG7 2UH, United Kingdom. 
+francis.stephens@nottingham.ac.uk
+
+CONTEXT: Carnitine plays an essential role in the integration of fat and 
+carbohydrate oxidation in skeletal muscle, which is impaired in obesity and type 
+2 diabetes.
+OBJECTIVE: The aim of the present study was to investigate the effect of an 
+increase in skeletal muscle total carnitine (TC) content on muscle fuel 
+metabolism.
+DESIGN: A 5-h iv infusion of saline (control) or l-carnitine was administered 
+while serum insulin was maintained at a physiologically high concentration 
+during two randomized visits.
+PARTICIPANTS: Seven healthy, nonvegetarian young men (body mass index, 26.1 +/- 
+1.6 kg/m2) participated in the present study at the University of Nottingham.
+MAIN OUTCOME MEASURES: Skeletal muscle pyruvate dehydrogenase complex (PDC) 
+activity and associated muscle metabolites were measured.
+RESULTS: The combination of hypercarnitinemia (600 micromol/liter) and 
+hyperinsulinemia (160 mU/liter) increased muscle TC content by 15% (P < 0.01) 
+and was associated with decreased pyruvate dehydrogenase complex activity (P < 
+0.05) and muscle lactate content (P < 0.05) by 30 and 40%, respectively, and an 
+overnight increase in muscle glycogen (P < 0.01) and long-chain acyl-coenzyme A 
+content (P < 0.05) by 30 and 40%, respectively, compared with control.
+CONCLUSIONS: These results suggest that an acute increase in human skeletal 
+muscle TC content results in an inhibition of carbohydrate oxidation in 
+conditions of high carbohydrate availability, possibly due to a 
+carnitine-mediated increase in fat oxidation. These novel findings may have 
+important implications for our understanding of the regulation of muscle fat 
+oxidation, particularly during exercise, when carnitine availability may limit 
+fat oxidation, and in obesity and type 2 diabetes where it is known to be 
+impaired.
+
+DOI: 10.1210/jc.2006-1584
+PMID: 16984983 [Indexed for MEDLINE]

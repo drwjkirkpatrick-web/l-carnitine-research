@@ -1,0 +1,399 @@
+# URL: https://pubmed.ncbi.nlm.nih.gov/31167879/
+# Fetched via web_extract on 2026-11-15
+
+Clipboard, Search History, and several other advanced features are temporarily unavailable.
+
+
+[Skip to main page content](https://pubmed.ncbi.nlm.nih.gov/31167879/#article-details)
+
+### NIH Websites Are Changing
+
+- [Get the Latest Updates and FAQs on the transition](https://www.nih.gov/web-modernization)
+- Per [Executive Order 14434](https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/), federal agencies are now using "Super Intelligence" (SI) in place of "Artificial Intelligence" (AI). You may see both terms across NIH content during this transition.
+
+![Dot gov](https://cdn.ncbi.nlm.nih.gov/coreutils/uswds/img/icon-dot-gov.svg)
+
+**The .gov means it’s official.**
+
+Federal government websites often end in .gov or .mil. Before
+sharing sensitive information, make sure you’re on a federal
+government site.
+
+
+![Https](https://cdn.ncbi.nlm.nih.gov/coreutils/uswds/img/icon-https.svg)
+
+**The site is secure.**
+
+The **https://** ensures that you are connecting to the
+official website and that any information you provide is encrypted
+and transmitted securely.
+
+
+[Access keys](https://www.ncbi.nlm.nih.gov/guide/browsers/#ncbi_accesskeys) [NCBI Homepage](https://www.ncbi.nlm.nih.gov/) [MyNCBI Homepage](https://pubmed.ncbi.nlm.nih.gov/myncbi/) [Main Content](https://pubmed.ncbi.nlm.nih.gov/31167879/#maincontent) [Main Navigation](https://pubmed.ncbi.nlm.nih.gov/31167879/#)
+
+[![pubmed logo](https://cdn.ncbi.nlm.nih.gov/pubmed/a447896c-976f-490b-b86b-2668b65114a8/core/images/pubmed-logo-blue.svg)](https://pubmed.ncbi.nlm.nih.gov/)[Show search bar](https://pubmed.ncbi.nlm.nih.gov/31167879/# "Show search bar")
+
+Search:
+
+
+```
+
+```
+
+[Clear search input](https://pubmed.ncbi.nlm.nih.gov/31167879/# "Clear search input") Search
+
+[Advanced](https://pubmed.ncbi.nlm.nih.gov/advanced/) [Clipboard](https://pubmed.ncbi.nlm.nih.gov/clipboard/)
+
+[User Guide](https://pubmed.ncbi.nlm.nih.gov/help/)
+
+Save
+
+Email
+
+
+Send to
+
+- [Clipboard](https://pubmed.ncbi.nlm.nih.gov/31167879/#)
+- [My Bibliography](https://account.ncbi.nlm.nih.gov/?back_url=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F31167879%2F%23open-bibliography-panel)
+- [Collections](https://account.ncbi.nlm.nih.gov/?back_url=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F31167879%2F%23open-collections-panel)
+- [Citation manager](https://pubmed.ncbi.nlm.nih.gov/31167879/#)
+
+Display options
+
+Display options
+
+
+Format
+AbstractPubMedPMID
+
+## Save citation to file
+
+Format:
+Summary (text)PubMedPMIDAbstract (text)CSV
+
+Create file
+
+Cancel
+
+
+## Email citation
+
+Email address has not been verified. Go to
+[My NCBI account settings](https://account.ncbi.nlm.nih.gov/settings/)
+to confirm your email and then refresh this page.
+
+
+To:
+
+
+Subject:
+
+
+Body:
+
+
+Format:
+SummarySummary (text)AbstractAbstract (text)
+
+MeSH and other data
+
+
+Send email
+
+Cancel
+
+
+### Add to Collections
+
+- Create a new collection
+- Add to an existing collection
+
+Name your collection:
+
+
+Name must be less than 100 characters
+
+
+Choose a collection:
+
+
+Unable to load your collection due to an error
+
+[Please try again](https://pubmed.ncbi.nlm.nih.gov/31167879/#)
+
+Add
+
+Cancel
+
+
+### Add to My Bibliography
+
+- My Bibliography
+
+Unable to load your delegates due to an error
+
+[Please try again](https://pubmed.ncbi.nlm.nih.gov/31167879/#)
+
+Add
+
+Cancel
+
+
+## Your saved search
+
+Name of saved search:
+
+
+Search terms:
+
+
+[Test search terms](https://pubmed.ncbi.nlm.nih.gov/31167879/#)
+
+Would you like email updates of new search results?
+Saved Search Alert Radio Buttons
+
+- Yes
+- No
+
+Email:
+( [change](https://www.ncbi.nlm.nih.gov/account/settings/))
+
+Frequency:
+MonthlyWeeklyDaily
+
+Which day?
+The first SundayThe first MondayThe first TuesdayThe first WednesdayThe first ThursdayThe first FridayThe first SaturdayThe first dayThe first weekday
+
+Which day?
+SundayMondayTuesdayWednesdayThursdayFridaySaturday
+
+Report format:
+SummarySummary (text)AbstractAbstract (text)PubMed
+
+Send at most:
+1 item5 items10 items20 items50 items100 items200 items
+
+Send even when there aren't any new results
+
+
+Optional text in email:
+
+
+Save
+
+Cancel
+
+
+## Create a file for external citation management software
+
+Create file
+
+Cancel
+
+
+## Your RSS Feed
+
+Name of RSS Feed:
+
+
+Number of items displayed:
+510152050100
+
+Create RSS
+
+Cancel
+
+
+RSS Link
+Copy
+
+
+Full text links
+Cite
+
+Display options
+
+Display options
+
+
+Format
+AbstractPubMedPMID
+
+Linked Discoveries
+
+## Abstract
+
+
+We examined the causal direction between gut microbiota-dependent metabolite trimethylamine _N_-oxide (TMAO) or its predecessors and cardiometabolic diseases, such as risk of type 2 diabetes mellitus (T2DM), coronary artery disease (CAD), myocardial infarction (MI), stroke, atrial fibrillation (AF), and chronic kidney disease (CKD). We used genetic variants as instruments to test the causal associations. Genetically predicted higher TMAO and carnitine were not associated with higher odds of T2DM, AF, CAD, MI, stroke, and CKD after Bonferroni correction ( _P_ ≤ 0.0005). However, we observed that genetically increased choline showed a suggestive association with higher risk of T2DM (odds ratio 1.84 \[95% CI 1.00-3.42\] per 10 units, _P_ = 0.05). In contrast, genetically predicted higher betaine (0.68 \[0.48-0.95\] per 10 units, _P_ = 0.023) was suggestively associated with a lower risk of T2DM. We observed a suggestive association of genetically increased choline with a lower level of body fat percentage (β ± SE -0.28 ± 0.11, _P_ = 0.013) but a higher estimated glomerular filtration rate (0.10 ± 0.05, _P_ = 0.034). We further found that T2DM (0.130 ± 0.036, _P_ < 0.0001) and CKD (0.483 ± 0.168, _P_ = 0.004) were causally associated with higher TMAO levels. Our Mendelian randomization findings support that T2DM and kidney disease increase TMAO levels and that observational evidence for cardiovascular diseases may be due to confounding or reverse causality.
+
+
+© 2019 by the American Diabetes Association.
+
+
+[PubMed Disclaimer](https://pubmed.ncbi.nlm.nih.gov/disclaimer/)
+
+## Similar articles
+
+- [Negative Effects of Age at Menarche on Risk of Cardiometabolic Diseases in Adulthood: A Mendelian Randomization Study.](https://pubmed.ncbi.nlm.nih.gov/31614369/)
+
+Cao M, Cui B.Cao M, et al.J Clin Endocrinol Metab. 2020 Feb 1;105(2):dgz071. doi: 10.1210/clinem/dgz071.J Clin Endocrinol Metab. 2020.PMID: 31614369
+
+- [Kidney function and cardiovascular diseases: a large-scale observational and Mendelian randomization study.](https://pubmed.ncbi.nlm.nih.gov/37529046/)
+
+Hu C, Li Y, Qian Y, Wu Z, Hu B, Peng Z.Hu C, et al.Front Immunol. 2023 Jul 17;14:1190938. doi: 10.3389/fimmu.2023.1190938. eCollection 2023.Front Immunol. 2023.PMID: 37529046Free PMC article.
+
+- [Altered Gut Microbiota as a Potential Risk Factor for Coronary Artery Disease in Diabetes: A Two-Sample Bi-Directional Mendelian Randomization Study.](https://pubmed.ncbi.nlm.nih.gov/38169662/)
+
+Zeng Z, Qiu J, Chen Y, Liang D, Wei F, Fu Y, Zhang J, Wei X, Zhang X, Tao J, Lin L, Zheng J.Zeng Z, et al.Int J Med Sci. 2024 Jan 1;21(2):376-395. doi: 10.7150/ijms.92131. eCollection 2024.Int J Med Sci. 2024.PMID: 38169662Free PMC article.
+
+- [Evaluation of bi-directional causal association between depression and cardiovascular diseases: a Mendelian randomization study.](https://pubmed.ncbi.nlm.nih.gov/33032663/)
+
+Li GH, Cheung CL, Chung AK, Cheung BM, Wong IC, Fok MLY, Au PC, Sham PC.Li GH, et al.Psychol Med. 2022 Jul;52(9):1765-1776. doi: 10.1017/S0033291720003566. Epub 2020 Oct 9.Psychol Med. 2022.PMID: 33032663
+
+- [Association of physical activity, sedentary behaviours and sleep duration with cardiovascular diseases and lipid profiles: a Mendelian randomization analysis.](https://pubmed.ncbi.nlm.nih.gov/32384904/)
+
+Zhuang Z, Gao M, Yang R, Li N, Liu Z, Cao W, Huang T.Zhuang Z, et al.Lipids Health Dis. 2020 May 8;19(1):86. doi: 10.1186/s12944-020-01257-z.Lipids Health Dis. 2020.PMID: 32384904Free PMC article.
+
+
+[See all similar articles](https://pubmed.ncbi.nlm.nih.gov/?linkname=pubmed_pubmed&from_uid=31167879)
+
+## Cited by
+
+- [From heart failure and kidney dysfunction to cardiorenal syndrome: TMAO may be a bridge.](https://pubmed.ncbi.nlm.nih.gov/38074146/)
+
+Zhang J, Zhu P, Li S, Gao Y, Xing Y.Zhang J, et al.Front Pharmacol. 2023 Nov 21;14:1291922. doi: 10.3389/fphar.2023.1291922. eCollection 2023.Front Pharmacol. 2023.PMID: 38074146Free PMC article.Review.
+
+- [Perspective: Soy-based Meat and Dairy Alternatives, Despite Classification as Ultra-processed Foods, Deliver High-quality Nutrition on Par with Unprocessed or Minimally Processed Animal-based Counterparts.](https://pubmed.ncbi.nlm.nih.gov/35325028/)
+
+Messina M, Sievenpiper JL, Williamson P, Kiel J, Erdman JW.Messina M, et al.Adv Nutr. 2022 Jun 1;13(3):726-738. doi: 10.1093/advances/nmac026.Adv Nutr. 2022.PMID: 35325028Free PMC article.
+
+- [Temporal Course of Plasma Trimethylamine N-Oxide (TMAO) Levels in ST-Elevation Myocardial Infarction.](https://pubmed.ncbi.nlm.nih.gov/34884379/)
+
+
+[... middle omitted — see footer ...]
+
+  - [Add to Search](https://pubmed.ncbi.nlm.nih.gov/31167879/#)
+
+- Genome-Wide Association Study
+
+
+
+
+Actions
+
+
+
+
+
+  - [Search in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22Genome-Wide+Association+Study%22%5BMeSH%5D&sort=date&sort_order=desc)
+  - [Search in MeSH](https://www.ncbi.nlm.nih.gov/mesh?term=Genome-Wide+Association+Study)
+  - [Add to Search](https://pubmed.ncbi.nlm.nih.gov/31167879/#)
+
+- Humans
+
+
+
+
+Actions
+
+
+
+
+
+  - [Search in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22Humans%22%5BMeSH%5D&sort=date&sort_order=desc)
+  - [Search in MeSH](https://www.ncbi.nlm.nih.gov/mesh?term=Humans)
+  - [Add to Search](https://pubmed.ncbi.nlm.nih.gov/31167879/#)
+
+- Mendelian Randomization Analysis
+
+
+
+
+Actions
+
+
+
+
+
+  - [Search in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22Mendelian+Randomization+Analysis%22%5BMeSH%5D&sort=date&sort_order=desc)
+  - [Search in MeSH](https://www.ncbi.nlm.nih.gov/mesh?term=Mendelian+Randomization+Analysis)
+  - [Add to Search](https://pubmed.ncbi.nlm.nih.gov/31167879/#)
+
+- Metabolic Diseases / genetics
+
+
+
+
+Actions
+
+
+
+
+
+  - [Search in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22Metabolic+Diseases%2Fgenetics%22%5BMeSH%5D&sort=date&sort_order=desc)
+  - [Search in MeSH](https://www.ncbi.nlm.nih.gov/mesh?term=Metabolic+Diseases)
+  - [Add to Search](https://pubmed.ncbi.nlm.nih.gov/31167879/#)
+
+- Metabolic Diseases / metabolism\*
+
+
+
+
+Actions
+
+
+
+
+
+  - [Search in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22Metabolic+Diseases%2Fmetabolism%22%5BMAJR%5D&sort=date&sort_order=desc)
+  - [Search in MeSH](https://www.ncbi.nlm.nih.gov/mesh?term=Metabolic+Diseases)
+  - [Add to Search](https://pubmed.ncbi.nlm.nih.gov/31167879/#)
+
+## Substances
+
+- Biomarkers
+
+
+
+
+Actions
+
+
+
+
+
+  - [Search in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22Biomarkers%22%5Bnm%5D&sort=date&sort_order=desc)
+  - [Search in MeSH](https://www.ncbi.nlm.nih.gov/mesh?term=%22Biomarkers%22)
+  - [Add to Search](https://pubmed.ncbi.nlm.nih.gov/31167879/#)
+
+## Related information
+
+- [MedGen](https://www.ncbi.nlm.nih.gov/medgen?linkname=pubmed_medgen&from_uid=31167879 "Related information in MedGen")
+
+## LinkOut - more resources
+
+- ### Full Text Sources
+
+
+  - [Ovid Technologies, Inc.](https://www.ovid.com/31167879.pmid)
+  - [Silverchair Information Systems](https://diabetesjournals.org/diabetes/article-lookup/doi/10.2337/db19-0153)
+- ### Medical
+
+
+  - [MedlinePlus Health Information](https://medlineplus.gov/metabolicdisorders.html)
+- ### Miscellaneous
+
+
+  - [NCI CPTAC Assay Portal](https://assays.cancer.gov/CPTAC-466)
+
+NCBI Literature Resources
+
+[MeSH](https://www.ncbi.nlm.nih.gov/mesh/) [PMC](https://www.ncbi.nlm.nih.gov/pmc/) [Bookshelf](https://www.ncbi.nlm.nih.gov/books) [Disclaimer](https://pubmed.ncbi.nlm.nih.gov/disclaimer/)
+
+The PubMed wordmark and PubMed logo are registered trademarks of the U.S. Department of Health and Human Services (HHS). Unauthorized use of these marks is strictly prohibited.
+
+──────── [TRUNCATED] ────────
+Showing 8,957 chars (head) + 2,951 chars (tail) of 15,090 total clean characters.
+Full text saved to: /home/walker/.hermes/cache/web/pubmed.ncbi.nlm.nih.gov-fb9246877f.md
+To read the omitted middle: read_file path="/home/walker/.hermes/cache/web/pubmed.ncbi.nlm.nih.gov-fb9246877f.md" offset=269 limit=200  (the file is the complete page; raise/lower offset to page through it).
+─────────────────────────────

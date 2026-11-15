@@ -1,0 +1,63 @@
+PMID: 26154055
+PubMed URL: https://pubmed.ncbi.nlm.nih.gov/26154055/
+Fetched via NCBI eutils efetch, accessed 2026-11-15
+
+1. Cell Metab. 2015 Jul 7;22(1):65-76. doi: 10.1016/j.cmet.2015.06.003.
+
+Carnitine Acetyltransferase Mitigates Metabolic Inertia and Muscle Fatigue 
+during Exercise.
+
+Seiler SE(1), Koves TR(2), Gooding JR(3), Wong KE(3), Stevens RD(3), Ilkayeva 
+OR(3), Wittmann AH(3), DeBalsi KL(1), Davies MN(3), Lindeboom L(4), Schrauwen 
+P(5), Schrauwen-Hinderling VB(6), Muoio DM(7).
+
+Author information:
+(1)Department of Pharmacology and Cancer Biology, Duke University, Durham, NC 
+27704, USA.
+(2)Sarah W. Stedman Nutrition and Metabolism Center and Duke Molecular 
+Physiology Institute, Duke University, Durham, NC 27704, USA; Division of 
+Geriatrics, Duke University, Durham, NC 27704, USA.
+(3)Sarah W. Stedman Nutrition and Metabolism Center and Duke Molecular 
+Physiology Institute, Duke University, Durham, NC 27704, USA.
+(4)Department of Human Biology, NUTRIM School for Nutrition, Toxicology and 
+Metabolism, Maastricht University Medical Center (MUMC+), Maastricht, The 
+Netherlands; Department of Radiology, NUTRIM School for Nutrition, Toxicology 
+and Metabolism, Maastricht University Medical Center (MUMC+), Maastricht, The 
+Netherlands.
+(5)Department of Human Biology, NUTRIM School for Nutrition, Toxicology and 
+Metabolism, Maastricht University Medical Center (MUMC+), Maastricht, The 
+Netherlands.
+(6)Department of Radiology, NUTRIM School for Nutrition, Toxicology and 
+Metabolism, Maastricht University Medical Center (MUMC+), Maastricht, The 
+Netherlands.
+(7)Department of Pharmacology and Cancer Biology, Duke University, Durham, NC 
+27704, USA; Sarah W. Stedman Nutrition and Metabolism Center and Duke Molecular 
+Physiology Institute, Duke University, Durham, NC 27704, USA; Department of 
+Medicine, Division of Endocrinology, Metabolism, and Nutrition, Duke University, 
+Durham, NC 27704, USA. Electronic address: Muoio@duke.edu.
+
+Acylcarnitine metabolites have gained attention as biomarkers of nutrient 
+stress, but their physiological relevance and metabolic purpose remain poorly 
+understood. Short-chain carnitine conjugates, including acetylcarnitine, derive 
+from their corresponding acyl-CoA precursors via the action of carnitine 
+acetyltransferase (CrAT), a bidirectional mitochondrial matrix enzyme. We show 
+here that contractile activity reverses acetylcarnitine flux in muscle, from net 
+production and efflux at rest to net uptake and consumption during exercise. 
+Disruption of this switch in mice with muscle-specific CrAT deficiency resulted 
+in acetyl-CoA deficit, perturbed energy charge, and diminished exercise 
+tolerance, whereas acetylcarnitine supplementation produced opposite outcomes in 
+a CrAT-dependent manner. Likewise, in exercise-trained compared to untrained 
+humans, post-exercise phosphocreatine recovery rates were positively associated 
+with CrAT activity and coincided with dramatic shifts in muscle acetylcarnitine 
+dynamics. These findings show acetylcarnitine serves as a critical acetyl buffer 
+for working muscles and provide insight into potential therapeutic strategies 
+for combatting exercise intolerance.
+
+Copyright © 2015 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.cmet.2015.06.003
+PMCID: PMC4754082
+PMID: 26154055 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of interest statement: The authors have 
+no conflict of interest to declare.

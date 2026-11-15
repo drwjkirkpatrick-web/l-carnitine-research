@@ -1,0 +1,55 @@
+SOURCE: The Effect of L-Carnitine Supplementation on Exercise-Induced Muscle Damage: A Systematic Review and Meta-Analysis of Randomized Clinical Trials.
+URL: https://pubmed.ncbi.nlm.nih.gov/32154768/
+FETCHED: 2026-11-15 via NCBI efetch (pubmed abstract, retmode=text)
+PMID: 32154768
+DOI: 10.1080/07315724.2019.1661804
+------------------------------------------------------------------------
+4. J Am Coll Nutr. 2020 Jul;39(5):457-468. doi: 10.1080/07315724.2019.1661804.
+Epub  2020 Mar 10.
+
+The Effect of L-Carnitine Supplementation on Exercise-Induced Muscle Damage: A 
+Systematic Review and Meta-Analysis of Randomized Clinical Trials.
+
+Yarizadh H(1)(2), Shab-Bidar S(2), Zamani B(2), Vanani AN(2), Baharlooi H(3), 
+Djafarian K(4).
+
+Author information:
+(1)Students' Scientific Center, Tehran University of Medical Sciences, Tehran, 
+Iran.
+(2)Community Nutrition Department, School of Nutritional Sciences and Dietetics, 
+Tehran University of Medical Sciences, Tehran, Iran.
+(3)Department of Immunology, School of Medicine, Tehran University of Medical 
+Sciences, Tehran, Iran.
+(4)Clinical Nutrition Department, School of Nutritional Sciences and Dietetics, 
+Tehran University of Medical Sciences, Tehran, Iran.
+
+Accumulating evidence of previous experimental studies indicated that 
+L-Carnitine positively ameliorates muscle damage. However, findings from trials 
+vary substantially across studies. Therefore, current meta-analysis aimed to 
+examine the effects of L-Carnitine supplementation on exercise-induced muscle 
+damage. An electronic search of the online literature databases (Medline 
+(PubMed), Scopus and Google Scholar) was performed up to November 2018. Either a 
+fixed-effects model or a random-effects model (Diasorin-Liard) was used in order 
+to estimate the effects size. Cochran's Q test and I2 tests were used to assess 
+the heterogeneity among the studies. Funnel plot and Egger's regression test 
+were also employed in order to assess the publication bias. Of 604 studies, 
+seven eligible randomized controlled trials (RCTs) were included in this 
+meta-analysis. Pooled data from seven studies showed that L-Carnitine resulted 
+in significant improvements in muscle soreness (MS) at the five follow-up time 
+points (0, 24, 48, 72 and 96 hours (h)) compared to placebo. Also, pooled data 
+indicated that L-Carnitine significantly reduced creatine kinase (CK), myoglobin 
+(Mb), and lactate dehydrogenase (LDH) levels at one follow-up period (24 h). 
+However, no effects have been observed beyond this period. Our outcomes indicate 
+that L-Carnitine supplementation improves delayed-onset muscle soreness (DOMS) 
+and markers of muscle damage. Further research is needed to clarify impacts of 
+L-Carnitine on DOMS after different types of mechanical or chemical damages.Key 
+teaching pointsThe effect of L-Carnitine supplementation on exercise-induced 
+muscle damage has come under scrutiny over many years.This systematic review and 
+meta-analyses study investigated the effects of L-Carnitine supplementation on 
+exercise-induced muscle damage.Overall, summary results indicate that 
+L-Carnitine supplementation improves muscle soreness and markers of muscle 
+damage (CK, LDH, and Mb).Overall, L-carnitine supplementation ameliorated muscle 
+damage only in resistance training groups and untrained population.
+
+DOI: 10.1080/07315724.2019.1661804
+PMID: 32154768 [Indexed for MEDLINE]

@@ -1,0 +1,867 @@
+# URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC6691853/
+# Fetched via web_extract on 2026-11-15
+
+[Skip to main content](https://pmc.ncbi.nlm.nih.gov/articles/PMC6691853/#main-content)
+
+![](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/icon-dot-gov.svg)
+
+**Official websites use .gov**
+
+A
+**.gov** website belongs to an official
+government organization in the United States.
+
+
+![](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/icon-https.svg)
+
+**Secure .gov websites use HTTPS**
+
+A **lock** (
+Lock
+Locked padlock icon
+) or **https://** means you've safely
+connected to the .gov website. Share sensitive
+information only on official, secure websites.
+
+
+### NIH Websites Are Changing
+
+- [Get the Latest Updates and FAQs on the transition](https://www.nih.gov/web-modernization)
+- Per [Executive Order 14434](https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/), federal agencies are now using "Super Intelligence" (SI) in place of "Artificial Intelligence" (AI). You may see both terms across NIH content during this transition.
+
+[Home](https://pmc.ncbi.nlm.nih.gov/ "Home")
+
+![PMC search open icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/search.svg)![PMC search close ison](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/close.svg)
+
+Search PMC Full-Text Archive
+
+Search in PMC![Search](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons-bg/search--white.svg)
+
+- [Journal List](https://pmc.ncbi.nlm.nih.gov/journals/)
+- [User Guide](https://pmc.ncbi.nlm.nih.gov/about/userguide/)
+
+- ![Open resources icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/more_vert.svg)
+- [![View on publisher site icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/launch.svg)](https://doi.org/10.1136/gutjnl-2018-317155) View on publisher site
+- [![Download PDF icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/file_download.svg)](https://pmc.ncbi.nlm.nih.gov/articles/PMC6691853/pdf/gutjnl-2018-317155.pdf) Download PDF
+- ![Collections icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/action-bookmark-full.svg)![Collections icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/action-bookmark-empty.svg)Add to Collections
+- ![Cite icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/format_quote.svg)Cite
+- ![Show article permalink icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/share.svg)Permalink
+
+
+
+
+## PERMALINK
+
+
+
+![Copy icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/content_copy.svg)Copy
+
+
+![Open article navigation icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/list.svg)
+
+As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with,
+the contents by NLM or the National Institutes of Health.
+
+Learn more:
+[PMC Disclaimer](https://pmc.ncbi.nlm.nih.gov/about/disclaimer/)
+\|
+[PMC Copyright Notice](https://pmc.ncbi.nlm.nih.gov/about/copyright/)
+
+![BMJ Open Access logo](https://cdn.ncbi.nlm.nih.gov/pmc/banners/logo-bmjgroup.png)
+
+Gut
+
+. 2018 Oct 30;68(8):1439–1449. doi: [10.1136/gutjnl-2018-317155](https://doi.org/10.1136/gutjnl-2018-317155)
+
+# Identification of TMAO-producer phenotype and host–diet–gut dysbiosis by carnitine challenge test in human and germ-free mice
+
+[Wei-Kai Wu](https://pubmed.ncbi.nlm.nih.gov/?term=%22Wu%20WK%22[Author])
+
+### Wei-Kai Wu
+
+1
+Department of Internal Medicine, National Taiwan University Hospital Bei-Hu Branch, Taipei, Taiwan
+
+2
+Institute of Food Science and Technology, National Taiwan University, Taipei, Taiwan
+
+Find articles by [Wei-Kai Wu](https://pubmed.ncbi.nlm.nih.gov/?term=%22Wu%20WK%22[Author])
+
+1,2, [Chieh-Chang Chen](https://pubmed.ncbi.nlm.nih.gov/?term=%22Chen%20CC%22[Author])
+
+### Chieh-Chang Chen
+
+3
+Department of Internal Medicine, National Taiwan University Hospital, Taipei, Taiwan
+
+Find articles by [Chieh-Chang Chen](https://pubmed.ncbi.nlm.nih.gov/?term=%22Chen%20CC%22[Author])
+
+3, [Po-Yu Liu](https://pubmed.ncbi.nlm.nih.gov/?term=%22Liu%20PY%22[Author])
+
+### Po-Yu Liu
+
+4
+Department of Life Science, National Taiwan University, Taipei, Taiwan
+
+5
+Genome and Systems Biology Degree Program, Academia Sinica, Taipei, Taiwan
+
+Find articles by [Po-Yu Liu](https://pubmed.ncbi.nlm.nih.gov/?term=%22Liu%20PY%22[Author])
+
+4,5, [Suraphan Panyod](https://pubmed.ncbi.nlm.nih.gov/?term=%22Panyod%20S%22[Author])
+
+### Suraphan Panyod
+
+2
+Institute of Food Science and Technology, National Taiwan University, Taipei, Taiwan
+
+6
+Department of Internal Medicine, College of Medicine, National Taiwan University, Taipei, Taiwan
+
+Find articles by [Suraphan Panyod](https://pubmed.ncbi.nlm.nih.gov/?term=%22Panyod%20S%22[Author])
+
+2,6, [Ben-Yang Liao](https://pubmed.ncbi.nlm.nih.gov/?term=%22Liao%20BY%22[Author])
+
+### Ben-Yang Liao
+
+7
+Institute of Population Health Sciences, National Health Research Institutes, Miaoli, Taiwan
+
+Find articles by [Ben-Yang Liao](https://pubmed.ncbi.nlm.nih.gov/?term=%22Liao%20BY%22[Author])
+
+7, [Pei-Chen Chen](https://pubmed.ncbi.nlm.nih.gov/?term=%22Chen%20PC%22[Author])
+
+### Pei-Chen Chen
+
+2
+Institute of Food Science and Technology, National Taiwan University, Taipei, Taiwan
+
+Find articles by [Pei-Chen Chen](https://pubmed.ncbi.nlm.nih.gov/?term=%22Chen%20PC%22[Author])
+
+2, [Hsien-Li Kao](https://pubmed.ncbi.nlm.nih.gov/?term=%22Kao%20HL%22[Author])
+
+### Hsien-Li Kao
+
+3
+Department of Internal Medicine, National Taiwan University Hospital, Taipei, Taiwan
+
+Find articles by [Hsien-Li Kao](https://pubmed.ncbi.nlm.nih.gov/?term=%22Kao%20HL%22[Author])
+
+3, [Han-Chun Kuo](https://pubmed.ncbi.nlm.nih.gov/?term=%22Kuo%20HC%22[Author])
+
+### Han-Chun Kuo
+
+8
+The Metabolomics Core Laboratory, Center of Genomic Medicine, National Taiwan University, Taipei, Taiwan
+
+9
+School of Pharmacy, College of Medicine, National Taiwan University, Taipei, Taiwan
+
+Find articles by [Han-Chun Kuo](https://pubmed.ncbi.nlm.nih.gov/?term=%22Kuo%20HC%22[Author])
+
+8,9, [Ching-Hua Kuo](https://pubmed.ncbi.nlm.nih.gov/?term=%22Kuo%20CH%22[Author])
+
+### Ching-Hua Kuo
+
+8
+The Metabolomics Core Laboratory, Center of Genomic Medicine, National Taiwan University, Taipei, Taiwan
+
+9
+School of Pharmacy, College of Medicine, National Taiwan University, Taipei, Taiwan
+
+Find articles by [Ching-Hua Kuo](https://pubmed.ncbi.nlm.nih.gov/?term=%22Kuo%20CH%22[Author])
+
+8,9, [Tina H T Chiu](https://pubmed.ncbi.nlm.nih.gov/?term=%22Chiu%20THT%22[Author])
+
+### Tina H T Chiu
+
+10
+Department of Nutrition Therapy, Dalin Tzu Chi Hospital, Chiayi, Taiwan
+
+Find articles by [Tina H T Chiu](https://pubmed.ncbi.nlm.nih.gov/?term=%22Chiu%20THT%22[Author])
+
+10, [Rou-An Chen](https://pubmed.ncbi.nlm.nih.gov/?term=%22Chen%20RA%22[Author])
+
+### Rou-An Chen
+
+2
+Institute of Food Science and Technology, National Taiwan University, Taipei, Taiwan
+
+Find articles by [Rou-An Chen](https://pubmed.ncbi.nlm.nih.gov/?term=%22Chen%20RA%22[Author])
+
+2, [Hsiao-Li Chuang](https://pubmed.ncbi.nlm.nih.gov/?term=%22Chuang%20HL%22[Author])
+
+### Hsiao-Li Chuang
+
+11
+National Applied Research Laboratories, National Laboratory Animal Center, Taipei, Taiwan
+
+Find articles by [Hsiao-Li Chuang](https://pubmed.ncbi.nlm.nih.gov/?term=%22Chuang%20HL%22[Author])
+
+11, [Yen-Te Huang](https://pubmed.ncbi.nlm.nih.gov/?term=%22Huang%20YT%22[Author])
+
+### Yen-Te Huang
+
+11
+National Applied Research Laboratories, National Laboratory Animal Center, Taipei, Taiwan
+
+Find articles by [Yen-Te Huang](https://pubmed.ncbi.nlm.nih.gov/?term=%22Huang%20YT%22[Author])
+
+11, [Hsin-Bai Zou](https://pubmed.ncbi.nlm.nih.gov/?term=%22Zou%20HB%22[Author])
+
+### Hsin-Bai Zou
+
+12
+Department of Chemistry, National Taiwan University, Taipei, Taiwan
+
+Find articles by [Hsin-Bai Zou](https://pubmed.ncbi.nlm.nih.gov/?term=%22Zou%20HB%22[Author])
+
+12, [Cheng-Chih Hsu](https://pubmed.ncbi.nlm.nih.gov/?term=%22Hsu%20CC%22[Author])
+
+### Cheng-Chih Hsu
+
+12
+Department of Chemistry, National Taiwan University, Taipei, Taiwan
+
+Find articles by [Cheng-Chih Hsu](https://pubmed.ncbi.nlm.nih.gov/?term=%22Hsu%20CC%22[Author])
+
+12, [Ting-Yan Chang](https://pubmed.ncbi.nlm.nih.gov/?term=%22Chang%20TY%22[Author])
+
+### Ting-Yan Chang
+
+7
+Institute of Population Health Sciences, National Health Research Institutes, Miaoli, Taiwan
+
+Find articles by [Ting-Yan Chang](https://pubmed.ncbi.nlm.nih.gov/?term=%22Chang%20TY%22[Author])
+
+7, [Chin-Lon Lin](https://pubmed.ncbi.nlm.nih.gov/?term=%22Lin%20CL%22[Author])
+
+### Chin-Lon Lin
+
+13
+Department of Internal Medicine, Dalin Tzu Chi Hospital, Taipei, Taiwan
+
+Find articles by [Chin-Lon Lin](https://pubmed.ncbi.nlm.nih.gov/?term=%22Lin%20CL%22[Author])
+
+13, [Chi-Tang Ho](https://pubmed.ncbi.nlm.nih.gov/?term=%22Ho%20CT%22[Author])
+
+### Chi-Tang Ho
+
+14
+Department of Food Science, Rutgers University, New Burnswick, New Jersey, USA
+
+Find articles by [Chi-Tang Ho](https://pubmed.ncbi.nlm.nih.gov/?term=%22Ho%20CT%22[Author])
+
+14, [Hon-Tsen Yu](https://pubmed.ncbi.nlm.nih.gov/?term=%22Yu%20HT%22[Author])
+
+### Hon-Tsen Yu
+
+4
+Department of Life Science, National Taiwan University, Taipei, Taiwan
+
+5
+Genome and Systems Biology Degree Program, Academia Sinica, Taipei, Taiwan
+
+Find articles by [Hon-Tsen Yu](https://pubmed.ncbi.nlm.nih.gov/?term=%22Yu%20HT%22[Author])
+
+4,5, [Lee-Yan Sheen](https://pubmed.ncbi.nlm.nih.gov/?term=%22Sheen%20LY%22[Author])
+
+### Lee-Yan Sheen
+
+2
+Institute of Food Science and Technology, National Taiwan University, Taipei, Taiwan
+
+Find articles by [Lee-Yan Sheen](https://pubmed.ncbi.nlm.nih.gov/?term=%22Sheen%20LY%22[Author])
+
+2, [Ming-Shiang Wu](https://pubmed.ncbi.nlm.nih.gov/?term=%22Wu%20MS%22[Author])
+
+### Ming-Shiang Wu
+
+3
+Department of Internal Medicine, National Taiwan University Hospital, Taipei, Taiwan
+
+6
+Department of Internal Medicine, College of Medicine, National Taiwan University, Taipei, Taiwan
+
+Find articles by [Ming-Shiang Wu](https://pubmed.ncbi.nlm.nih.gov/?term=%22Wu%20MS%22[Author])
+
+3,6
+
+- Author information
+- Article notes
+- Copyright and License information
+
+1
+Department of Internal Medicine, National Taiwan University Hospital Bei-Hu Branch, Taipei, Taiwan
+
+2
+Institute of Food Science and Technology, National Taiwan University, Taipei, Taiwan
+
+3
+Department of Internal Medicine, National Taiwan University Hospital, Taipei, Taiwan
+
+4
+Department of Life Science, National Taiwan University, Taipei, Taiwan
+
+5
+Genome and Systems Biology Degree Program, Academia Sinica, Taipei, Taiwan
+
+6
+Department of Internal Medicine, College of Medicine, National Taiwan University, Taipei, Taiwan
+
+7
+Institute of Population Health Sciences, National Health Research Institutes, Miaoli, Taiwan
+
+8
+The Metabolomics Core Laboratory, Center of Genomic Medicine, National Taiwan University, Taipei, Taiwan
+
+9
+School of Pharmacy, College of Medicine, National Taiwan University, Taipei, Taiwan
+
+10
+Department of Nutrition Therapy, Dalin Tzu Chi Hospital, Chiayi, Taiwan
+
+11
+National Applied Research Laboratories, National Laboratory Animal Center, Taipei, Taiwan
+
+12
+Department of Chemistry, National Taiwan University, Taipei, Taiwan
+
+13
+Department of Internal Medicine, Dalin Tzu Chi Hospital, Taipei, Taiwan
+
+14
+Department of Food Science, Rutgers University, New Burnswick, New Jersey, USA
+
+✉
+
+Correspondence to Professor Lee-Yan Sheen, Institute of Food Science and Technology, National Taiwan University, Taipei 106, Taiwan; lysheen@ntu.edu.tw and Professor Ming-Shiang Wu, Department of Internal Medicine, National Taiwan University Hospital, Taipei 100, Taiwan; mingshiang@ntu.edu.tw
+
+### Series information
+
+Original article
+
+Received 2018 Jul 9; Revised 2018 Oct 8; Accepted 2018 Oct 11; Issue date 2019 Aug.
+
+© Author(s) (or their employer(s)) 2019. Re-use permitted under CC BY-NC. No commercial re-use. See rights and permissions. Published by BMJ.
+
+This is an open access article distributed in accordance with the Creative Commons Attribution Non Commercial (CC BY-NC 4.0) license, which permits others to distribute, remix, adapt, build upon this work non-commercially, and license their derivative works on different terms, provided the original work is properly cited, appropriate credit is given, any changes made indicated, and the use is non-commercial. See: [http://creativecommons.org/licenses/by-nc/4.0/](http://creativecommons.org/licenses/by-nc/4.0/).
+
+[PMC Copyright notice](https://pmc.ncbi.nlm.nih.gov/about/copyright/)
+
+PMCID: PMC6691853  PMID: [30377191](https://pubmed.ncbi.nlm.nih.gov/30377191/)
+
+## Abstract
+
+### Objective
+
+The gut microbiota-derived metabolite, trimethylamine N-oxide (TMAO) plays an important role in cardiovascular disease (CVD). The fasting plasma TMAO was shown as a prognostic indicator of CVD incident in patients and raised the interest of intervention targeting gut microbiota. Here we develop a clinically applicable method called oral carnitine challenge test (OCCT) for TMAO-related therapeutic drug efforts assessment and personalising dietary guidance.
+
+### Design
+
+A pharmacokinetic study was performed to verify the design of OCCT protocol. The OCCT was conducted in 23 vegetarians and 34 omnivores to validate gut microbiota TMAO production capacity. The OCCT survey was integrated with gut microbiome, host genotypes, dietary records and serum biochemistry. A humanised gnotobiotic mice study was performed for translational validation.
+
+### Results
+
+The OCCT showed better efficacy than fasting plasma TMAO to identify TMAO producer phenotype. The omnivores exhibited a 10-fold higher OR to be high TMAO producer than vegetarians. The TMAO-associated taxa found by OCCT in this study were consistent with previous animal studies. The TMAO producer phenotypes were also reproduced in humanised gnotobiotic mice model. Besides, we found the faecal _CntA_ gene was not associated with TMAO production; therefore, other key relevant microbial genes might be involved. Finally, we demonstrated the urine TMAO exhibited a strong positive correlation with plasma TMAO (r=0.92, p<0.0001) and improved the feasibility of OCCT.
+
+### Conclusion
+
+The OCCT can be used to identify TMAO-producer phenotype of gut microbiota and may serve as a personal guidance in CVD prevention and treatment.
+
+### Trial registration number
+
+[NCT02838732](http://nct02838732/); Results.
+
+**Keywords:** gut microbiota, trimethylamine n-oxide, oral carnitine challenge test, cardiovascular disease
+
+* * *
+
+## Significance of this study.
+
+### What is already known on this subject?
+
+- The gut microbiota dependent metabolite, trimethylamine N-oxide (TMAO) was proved to contribute to the progression of atherosclerosis.
+
+- Although the fasting plasma TMAO was shown as a prognostic indicator in patients with cardiovascular disease (CVD), it might underestimate the TMAO producing function of gut microbiota because of host’s efficient renal clearance of plasma TMAO.
+
+- Omnivores and vegetarians have different functions of gut microbiota, but the function of TMAO production capacity has not been addressed clearly.
+
+- The microbial Rieske-type cntA/B gene is reported to be in part responsible for aerobic carnitine metabolism to trimethylamine from in silico and in vitro studies but has not been evaluated in an in vivo human study.
+
+
+### What are the new findings?
+
+- This is the first study designed for the clinical assessment of individual TMAO production capacity using an oral carnitine challenge test (OCCT) with verified challenge dose and sampling times.
+
+- The OCCT exhibits better efficacy than fasting plasma TMAO in identifying TMAO-producer phenotype of human gut microbiota.
+
+- Omnivores have higher risk to be TMAO producer than vegetarians, but some long-term vegetarians can still demonstrate substantial TMAO production from oral carnitine by their gut microbiota.
+
+- Faecal CntA may not be a useful biomarker in identifying TMAO producer phenotype according to our in vivo human study. There might be other potential microbial genes responsible for carnitine metabolism to TMAO in the faeces.
+
+
+## Significance of this study.
+
+### How might it impact on clinical practice in the foreseeable future?
+
+- The OCCT reveals the TMAO-producer phenotypes and may serve as a personalised dietary guidance for patients with CVD.
+
+- The OCCT use in human study may serve as a benchmark for assessing therapeutic drug development efforts for the TMAO pathway.
+
+- The OCCT can simulate a postprandial TMAO and provide a benchmark for future investigation of diet-induced enhanced thrombotic potential.
+
+
+## Introduction
+
+The gut microbiota plays a critical role in the development of cardiovascular disease (CVD), and studies have shown that some micro-organism-derived metabolites produced in the intestine are involved in CVD pathogenesis. [1–4](https://pmc.ncbi.nlm.nih.gov/articles/PMC6691853/#R1) Intestinal microbial metabolites, such as trimethylamine N-oxide (TMAO), short-chain fatty acids and secondary bile acids, act as mediators in CVD-related chronic disorders such as atherosclerosis, obesity and type 2 diabetes. [5 6](https://pmc.ncbi.nlm.nih.gov/articles/PMC6691853/#R5) Among these gut microbiota-derived metabolites, TMAO is mainly produced from the metabolism of dietary carnitine and choline by gut bacteria. Studies have identified TMAO as an essential proatherogenic and prothrombotic compound that drives the pathogenesis of CVD. [7–9](https://pmc.ncbi.nlm.nih.gov/articles/PMC6691853/#R7)
+
+L-carnitine is an abundant nutrient in meat products (especially in red meat) and functions by carrying fatty acids across the mitochondrial membrane for beta-oxidation. [10](https://pmc.ncbi.nlm.nih.gov/articles/PMC6691853/#R10) However, carnitine may be metabolised by gut microbiota and thereby increase the risk of cardiovascular events in patients with coronary artery disease. [11](https://pmc.ncbi.nlm.nih.gov/articles/PMC6691853/#R11) In the intestine, gut microbiota convert unabsorbed carnitine into trimethylamine (TMA), which is subsequently oxidised to TMAO by flavin monooxygenase (FMO3) in the liver. [1](https://pmc.ncbi.nlm.nih.gov/articles/PMC6691853/#R1) TMAO then enters circulation and is efficiently excreted by the kidneys. [12](https://pmc.ncbi.nlm.nih.gov/articles/PMC6691853/#R12) Prospective epidemiology studies have suggested a positive correlation between increased plasma TMAO levels and CVD progression. [1 2 13 14](https://pmc.ncbi.nlm.nih.gov/articles/PMC6691853/#R1) In a cohort (n=2595) of patients with coronary artery disease, high carnitine levels were associated with incident risks of myocardial infarction, stroke and death within 3 years, but only significantly in patients with concomitantly high TMAO levels. [11](https://pmc.ncbi.nlm.nih.gov/articles/PMC6691853/#R11) These findings may serve as a reasonable explanation for the relationship between red meat consumption and increased CVD risk. [15](https://pmc.ncbi.nlm.nih.gov/articles/PMC6691853/#R15) In animal studies, chronic dietary carnitine exposure increased the plasma level of TMAO, the trimethylamine (TMA) synthesis capacity of gut microbiota and the progression of atherosclerosis. [11 16](https://pmc.ncbi.nlm.nih.gov/articles/PMC6691853/#R11) The mechanism underlying the contribution of TMAO to atherosclerosis involves increased foam cell formation, decreased reverse cholesterol transport, and enhanced platelet aggregation. [1 11 17](https://pmc.ncbi.nlm.nih.gov/articles/PMC6691853/#R1) The microbial effects of TMAO production can be reduced by broad-spectrum antibiotics but the issue of antibiotic resistant remains to be challenging. [2](https://pmc.ncbi.nlm.nih.gov/articles/PMC6691853/#R2) A recently discovered choline analogue named 3,3-dimethyl-1-butanol has demonstrated promising efficacy to inhibit microbial conversion of choline/carnitine into TMA. [18 19](https://pmc.ncbi.nlm.nih.gov/articles/PMC6691853/#R18) Other natural bioactive compounds such as resveratrol and allicin were also reported in animal study to reduce TMAO production. [20 21](https://pmc.ncbi.nlm.nih.gov/articles/PMC6691853/#R20)
+
+Recently, the fasting plasma TMAO was also proved as a prognostic marker for both short-term and long-term incident cardiovascular events among subjects with acute coronary syndrome or stroke. [14 22](https://pmc.ncbi.nlm.nih.gov/articles/PMC6691853/#R14) Nevertheless, there remained no clear cut-off value of plasma TMAO for unfavourable outcomes. In a dose–response meta-analysis of clinical studies, the risk of all-cause mortality increased by 7.6% per each 10 µM increment of plasma TMAO. [23](https://pmc.ncbi.nlm.nih.gov/articles/PMC6691853/#R23) In recent animal and human platelet aggregation studies, the concentration of plasma TMAO greater than 10–30 µM significantly enhance the thrombosis potential. [17 19 24](https://pmc.ncbi.nlm.nih.gov/articles/PMC6691853/#R17) However, the fasting plasma TMAO level in subjects with normal renal function seldomly exceed 10 µM for both healthy and diseased populations. [2 25](https://pmc.ncbi.nlm.nih.gov/articles/PMC6691853/#R2) Accordingly, a postprandial plasma TMAO might theoretically reflect the pathophysiological level of TMAO. Thus, we established an oral carnitine challenge test (OCCT) to simulate the postprandial plasma TMAO as well as functionally measure the TMAO synthesis capacity from host–diet–microbiota interactions.
+
+## Results
+
+### Omnivores exhibited remarkably higher levels of plasma carnitine and cholesterol than did vegetarians
+
+A comparison of demographic data and biochemical values revealed significant differences in several metabolic parameters, namely, plasma carnitine, serum total cholesterol, low-density lipoprotein, urea nitrogen, fasting glucose and aspartate transaminase levels, between the omnivores and vegetarians ( [table 1](https://pmc.ncbi.nlm.nih.gov/articles/PMC6691853/#T1)). Of the compared parameters, carnitine and cholesterol levels between the omnivores and vegetarians exhibited the most significant differences (p<0.0001). However, the urine carnitine level between the omnivores and vegetarians did not exhibit a significant difference. In general, the urine TMAO level was remarkably higher than the plasma TMAO level, whereas carnitine was more abundant in plasma samples. This finding may indicate that the human body tends to preserve carnitine as a nutrient and excrete TMAO as waste through the urinary system. [12 26](https://pmc.ncbi.nlm.nih.gov/articles/PMC6691853/#R12) Fasting TMAO levels in blood and urine were both higher in the omnivores (blood: 3.54±0.96 µM; urine: 68.13±20.70 nmol/mmol) than in the vegetarians (blood: 1.87±0.21 µM; urine: 33.98±3.49 nmol/mmol); however, the differences did not reach statistical significance ( [table 1](https://pmc.ncbi.nlm.nih.gov/articles/PMC6691853/#T1)).
+
+#### Table 1.
+
+Characteristics of study participants
+
+|  | Vegetarian <br>(n=23) | Omnivore <br>(n=34) | P values |
+| :-- | :-- | :-- | :-- |
+| Female (n (%)) | 14 (65) | 24 (71) |  |
+| Age (years) | 34.13±1.70 | 30.18±1.30 | 0.0665 |
+| BMI (kg/m2) | 22.40±0.55 | 21.81±0.57 | 0.4793 |
+| Genotype FMO3-SNP (n (%)) |
+| Glu158Lys – AAG | 6 (26.1) | 8 (23.5) |  |
+| Glu308Gly – GGG | 6 (26.1) | 8 (23.5) |  |
+| _Plasma_ |
+| Glucose-AC (mg/dL) | 69.39±2.20 | 75.41±1.91 | 0.0459 |
+| AST (U/L) | 11.30±1.036 | 15.29±1.19 | 0.0211 |
+| ALT (U/L) | 7.22±0.94 | 12.91±2.38 | 0.0627 |
+| BUN (mg/dL) | 9.57±0.65 | 11.63±0.50 | 0.0145 |
+| Creatinine (mg/dL) | 0.55±0.03 | 0.60±0.02 | 0.2041 |
+| T-cholesterol (mg/dL) | 140.50±4.27 | 174.90±5.23 | <0.0001 |
+| Triglyceride (mg/dL) | 89.13±11.31 | 88.32±10.07 | 0.9584 |
+| LDL-C (mg/dL) | 75.13±4.25 | 97.44±4.64 | 0.0014 |
+| hsCRP (mg/dL) | 0.06±0.01 | 0.18±0.09 | 0.2766 |
+| TMAO (µM) | 1.87±0.21 | 3.54±0.96 | 0.1618 |
+| Carnitine (µM) | 34.72±3.07 | 63.46±5.08 | <0.0001 |
+| _Urine_ |
+| TMAO (nmol/mmol Cr) | 33.98±3.49 | 68.13±20.70 | 0.1843 |
+| Carnitine (nmol/mmol Cr) | 2.52±0.64 | 15.37±6.35 | 0.1035 |
+
+[Open in a new tab](https://pmc.ncbi.nlm.nih.gov/articles/PMC6691853/table/T1/)
+
+\*The p value is from the comparison between vegetarian and omnivore volunteers using Student’s t-test. Values are the mean±SEM.
+
+AST, aspartate aminotransferase; ALT, alanine aminotransferase; BMI, body mass index; BUN, blood urea nitrogen; Cr, creatinine; FMO3, flavin monooxygenase; hsCRP, high-sensitivity C reactive protein; LDL-C, low-density lipoprotein cholesterol; TMAO, trimethylamine N-oxide.
+
+### Markedly different dietary patterns between omnivores and vegetarians contributed to minor difference in gut microbiome
+
+Among 87 nutrient levels calculated using the food frequency questionnaire (FFQ), 43 differed significantly between the omnivores and vegetarians (p<0.05) with FDR <0.1 (online [supplementary table S1](https://pmc.ncbi.nlm.nih.gov/articles/PMC6691853/#SP1)). The omnivores consumed more cholesterol, carnitine, saturated fat and animal protein than did the vegetarians ( [figure 1A,B](https://pmc.ncbi.nlm.nih.gov/articles/PMC6691853/#F1)). Thus, the omnivores exhibited higher serum cholesterol, carnitine, LDL and urea nitrogen levels ( [table 1](https://pmc.ncbi.nlm.nih.gov/articles/PMC6691853/#T1)). The results of the principle component analysis of all the nutrients calculated using the FFQ also showed distinct dietary patterns between the omnivores and vegetarians ( [figure 1C](https://pmc.ncbi.nlm.nih.gov/articles/PMC6691853/#F1)). However, gut microbiome profiles and indicators between the omnivores and vegetarians did not considerably differ according to the results of the principle coordinate analysis, alpha diversity and Firmicutes/Bacteroidetes (F/B) ratio ( [figure 1D–F](https://pmc.ncbi.nlm.nih.gov/articles/PMC6691853/#F1)), although moderately significant differences in minor gut microbiome communities (<2% species) were identified (online [supplementary figure S1A](https://pmc.ncbi.nlm.nih.gov/articles/PMC6691853/#SP1)). The results of the linear discriminant analysis effect size (LEfSe) analysis revealed that Prevotellaceae was prevalent in the vegetarians’ gut microbiome, whereas the gut microbiome of the omnivores featured characteristic taxa of Clostridiaceae, Bacteroidales S24 and Eubacterium (online [supplementary figure S1B](https://pmc.ncbi.nlm.nih.gov/articles/PMC6691853/#SP1)). These findings are consistent with those of previous studies. [27 28](https://pmc.ncbi.nlm.nih.gov/articles/PMC6691853/#R27)
+
+#### Figure 1.
+
+[![Figure 1](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/74a2/6691853/1a902f9189b1/gutjnl-2018-317155f01.jpg)](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=6691853_gutjnl-2018-317155f01.jpg)
+
+[Open in a new tab](https://pmc.ncbi.nlm.nih.gov/articles/PMC6691853/figure/F1/)
+
+The divergence of dietary patterns between vegetarian and omnivore contributed no significant differences for gut microbiome composition and diversity. (A) Heatmap of dietary micronutrients in omnivores versus vegetarians (q value <0.1) with clustering nutrients colour labelled by six nutrient categories. Red=higher abundance, blue=lower abundance. (B) The carnitine and cholesterol consumption levels of vegetarians and omnivores exhibited highly significant differences. (C) The principle component analysis of FFQ nutrients data indicated significantly divergent patterns between omnivores and vegetarians (permutational multivariate analysis of variance (PERMANOVA): p<0.001). (D) Compositional profiling of gut microbiota in vegetarians and omnivores revealed no significant difference (PERMANOVA: p=0.3528) demonstrated by principle coordinate analysis calculated using Bray-Curtis distance. (E) Comparison of alpha diversity index in vegetarians versus omnivores. (F) The Firmicutes/Bacteroidetes ratio in omnivores versus vegetarians exhibited no significant difference. Data in all bar plots are expressed as mean±SEM. All statistics in bar plots and box plots were analysed by Student’s t-test. FFQ, food frequency questionnaire.
+
+Supplementary file 1
+
+[gutjnl-2018-317155supp001.pdf](https://pmc.ncbi.nlm.nih.gov/articles/instance/6691853/bin/gutjnl-2018-317155supp001.pdf) (1.4MB, pdf)
+
+### Plasma TMAO peaked in the interval between 24 hours and 48 hours of the OCCT
+
+We assumed that TMAO formation in blood occurred at approximately 24 hours of the OCCT based on the time required for bowel transit, microbial catabolism and the enzymatic reaction of hepatic FMO3 to convert the ingested carnitine into plasma TMAO. We performed a pharmacokinetic study of the OCCT to confirm this hypothesis ( [figure 2](https://pmc.ncbi.nlm.nih.gov/articles/PMC6691853/#F2)). In the study, 13 participants received seven blood tests at indicated time points after ingestion of three tablets of L-carnitine fumarate (General Nutrition Centers (GNC), Pennsylvania, USA). We verified the carnitine amount of each tablet through high-performance liquid chromatography (HPLC) to ensure that the dose of L-carnitine in each test was consistent. After the OCCT, plasma TMAO levels remained stable at trough levels for 12 hours and peaks started to present after 24 hours ( [figure 2A](https://pmc.ncbi.nlm.nih.gov/articles/PMC6691853/#F2)). The plasma carnitine level peaked at 4 hours after OCCT while TMA and γ-butyrobetaine in the plasma remained at very low concentration (online [supplementary figure S2A,B](https://pmc.ncbi.nlm.nih.gov/articles/PMC6691853/#SP1)). Among the 13 participants, 6 participated in an additional pharmacokinetic study 3 months later, and the original trends and values for each individual were reproduced in the results ( [figure 2B,C](https://pmc.ncbi.nlm.nih.gov/articles/PMC6691853/#F2)). Thus, the OCCT was simplified to involve three sample collection times: the baseline (fasting plasma TMAO), 24 hours and 48 hours ( [figure 2D](https://pmc.ncbi.nlm.nih.gov/articles/PMC6691853/#F2)).
+
+#### Figure 2.
+
+[![Figure 2](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/74a2/6691853/6ff3c588695a/gutjnl-2018-317155f02.jpg)](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=6691853_gutjnl-2018-317155f02.jpg)
+
+[Open in a new tab](https://pmc.ncbi.nlm.nih.gov/articles/PMC6691853/figure/F2/)
+
+Pharmacokinetic study of oral carnitine challenge test (OCCT). (A) Thirteen volunteers were recruited for a pharmacokinetic (PK) study of the OCCT. Each participant received three tablets of GNC L-carnitine (approximately 1200 mg L-carnitine) and blood drawings at 4th hour, 8th hour, 12th hour, 24th hour, 36th hour and 48th hour. (B) The bar plots of AUC in OCCT for different volunteers and the same volunteer with different PK studies (six volunteers received the second PK study 3 months later). (C) Normalised dissimilarity of AUC of different pharmacokinetic studies in the same and different individuals (defined as \|AUC1−AUC2\|/\[AUC1+AUC2\]) AUC1: AUCs of 1st PK study; AUC2: AUCs of second PK study. These data suggested the trend of TMAO production capacity is reproducible in the same individual periodically. (D) Validation and simplification of sample collection time points for the OCCT according to the results of pharmacokinetic studies. AUC, area under the curve; CCT, carnitine challenge test; TMAO, trimethylamine N-oxide.
+
+### OCCT effectively differentiated gut microbiota-mediated TMAO production capacity between the omnivore and vegetarian groups
+
+Differences in fasting plasma TMAO levels between the omnivores and vegetarians were moderate. Therefore, the proposed OCCT was developed to determine individual TMAO production capacity as mediated by gut microbiota. All the omnivore and vegetarian volunteers participated in a simplified OCCT with blood and urine collection at baseline, 24 hours and 48 hours. In the OCCT curve, plasma TMAO levels in the omnivores versus vegetarians diverged at 24 hours and 48 hours, but fasting TMAO levels remained similar ( [figure 3A,B](https://pmc.ncbi.nlm.nih.gov/articles/PMC6691853/#F3)). In contrast to the values of fasting TMAO, those of the area under the curve (AUC), and the maximum values of the OCCT were significantly higher in the omnivores than in the vegetarians ( [figure 3C](https://pmc.ncbi.nlm.nih.gov/articles/PMC6691853/#F3)).
+
+#### Figure 3.
+
+[![Figure 3](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/74a2/6691853/0337b2b34774/gutjnl-2018-317155f03.jpg)](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=6691853_gutjnl-2018-317155f03.jpg)
+
+[Open in a new tab](https://pmc.ncbi.nlm.nih.gov/articles/PMC6691853/figure/F3/)
+
+Omnivores and vegetarians exhibited different levels of ability to transform L-carnitine into TMAO in the body. (A) An oral carnitine challenge test (OCCT) was administered to 23 vegetarians and 34 omnivores, and plasma TMAO levels were measured at indicated times after the OCCT. The differences in plasma TMAO levels between the vegetarians and omnivores appeared at 24 hours and 48 hours compared with baseline. Data are expressed as mean±SEM; \*p<0.05. (B) No significant difference of fasting plasma TMAO levels was noted between the vegetarian and omnivore groups. (C) The AUC values and maximum values of the carnitine challenge test for the omnivores were both significantly higher than for the vegetarians. (D) The population was grouped into four quartiles according to the AUC values of the OCCT. The Q4 population was defined as high TMAO producers, the Q1 as low producers and Q2 **–** Q3 as intermediate producers. (E) A percentage of 35.3 of the omnivores were grouped as high TMAO producers compared with 8.7% of the vegetarians. A percentage of 14.7 of the omnivores were grouped as low producers compared with 39.1% of the vegetarians. (F) Among the high producers, 12/14 (86%) were omnivores, whereas among the low producers, 5/14 (36%) were omnivores. The ORs of omnivores versus vegetarians as being high TMAO producers is 10.8 (95% CI 1.69 to 68.94). Data in all bar plots are expressed as mean±SEM. Plasma TMAO levels at indicated times in OCCT and plasma fasting TMAO data were analysed by Student’s t-test. AUC of TMAO and TMAOMAX in OCCT were analysed by Mann-Whitney U test. AUC, area under the curve; TMAO, trimethylamine N-oxide.
+
+### Omnivores were more likely to be high TMAO producers than the vegetarians
+
+To define the functional phenotype of gut microbiota for TMAO production, we plotted the AUC values from the OCCT results for all the 57 participants and grouped the values into quartiles. The 14 participants with Q1-level AUC values were labelled as low TMAO producers, and the 14 participants in Q4 were labelled as high TMAO producers ( [figure 3D](https://pmc.ncbi.nlm.nih.gov/articles/PMC6691853/#F3)). The participants with levels in between Q1 and Q4 were labelled as intermediate producers. Among the omnivore participants, 35.3% were grouped as high TMAO producers and 14.7% were grouped as low TMAO producers. By contrast, only 8.7% of the vegetarians were grouped as high TMAO producers and 39.1% were grouped as low TMAO producers ( [figure 3E](https://pmc.ncbi.nlm.nih.gov/articles/PMC6691853/#F3)). With regard to TMAO production phenotypes defined by the OCCT, the participants in the omnivore group exhibited a 10-fold OR (OR: 10.8, 95% CI 1.69 to 68.94) of being a high TMAO producer compared with the vegetarian group ( [figure 3F](https://pmc.ncbi.nlm.nih.gov/articles/PMC6691853/#F3)). However, despite long-term adherence to a strict vegetarian diet (>10 years), some vegetarians exhibited considerable TMAO production when high doses of carnitine were consumed.
+
+### Gut microbiome profiles become distinctive after functional phenotyping of TMAO production capacity
+
+In this study, the functional phenotypes of the high TMAO producers (n=14) and low TMAO producers (n=14) identified using the OCCT corresponded with distinctive OCCT curves and significantly different AUC and TMAOmax values ( [figure 4A–C](https://pmc.ncbi.nlm.nih.gov/articles/PMC6691853/#F4)). However, the difference in fasting plasma TMAO levels between the high and low TMAO producers remained moderate ( [figure 4B](https://pmc.ncbi.nlm.nih.gov/articles/PMC6691853/#F4)). This finding further suggested that a challenge test, rather than a single blood test, should be considered in clinical assessments to determine the functional phenotype of TMAO-producing gut microbiota. In addition, the compositional patterns of gut microbiome in the high versus low TMAO producers were distinctive, as demonstrated by the heatmap and principle coordinate analysis ( [figure 4D,G](https://pmc.ncbi.nlm.nih.gov/articles/PMC6691853/#F4)). Other common gut microbiome functional indicators, including F/B ratio, Shannon index and Chao1 index, also indicated significant differences between the high and low TMAO producers ( [figure 4E,F](https://pmc.ncbi.nlm.nih.gov/articles/PMC6691853/#F4)). The higher alpha diversity of the high TMAO producers suggested higher compositional complexity of the gut microbiome for acquiring TMA synthesis functions. The higher F/B ratio in the high TMAO producers corresponded to the findings of high-risk patients with CVD in previous studies. [9 29](https://pmc.ncbi.nlm.nih.gov/articles/PMC6691853/#R9) Furthermore, the results of the LEfSe analysis regarding the characteristic bacterial taxa between the high and low TMAO producers were similar to the results of previous mouse experiments ( [figure 4H](https://pmc.ncbi.nlm.nih.gov/articles/PMC6691853/#F4)). [11 16](https://pmc.ncbi.nlm.nih.gov/articles/PMC6691853/#R11)
+
+#### Figure 4.
+
+[![Figure 4](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/74a2/6691853/3a6e3d6274bc/gutjnl-2018-317155f04.jpg)](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=6691853_gutjnl-2018-317155f04.jpg)
+
+[Open in a new tab](https://pmc.ncbi.nlm.nih.gov/articles/PMC6691853/figure/F4/)
+
+The functional phenotypes grouped by oral carnitine challenge test (OCCT) were significantly associated with the differences of gut microbiome composition, diversity, features and functions. (A) The high TMAO producers and low producers corresponded with distinct curves for the OCCT. Data are expressed as mean±SEM. (B) The difference in plasma fasting TMAO levels between the high producers and low producers was moderately significant. (C) The differences in AUC values and maximum OCCT values were highly distinct. (D) Heatmap demonstration of hierarchical clustering correlating levels of bacterial taxa significantly differentiated (p<0.01) between the high and low TMAO producers. The heatmap displayed relatively higher taxa in Firmicutes phylum (pink) in high TMAO producers compared with low producers, and opposite results were indicated for the Bacteroidetes phylum (yellowish). (E) The Firmicutes/Bacteroidetes ratio between low producers versus high producers was significantly different. (F) The alpha diversity of Shannon index and Chao1 index between the high TMAO producers and low producers was also significantly different. (G) Principle coordinate analysis of the gut microbiome profiles of the TMAO high producers versus low producers indicated a significant difference. (H) The characteristic phylogenetic taxa in the TMAO high producers versus low producers ranked by the LDA score exhibited similarities to taxa (marked in the red frame) detected in previous well-controlled mouse studies. [11 16](https://pmc.ncbi.nlm.nih.gov/articles/PMC6691853/#R11) (I) Eight 9-week-old male germ-free mice (n=4 in each group) received faecal microbiota transplantation from a high-TMAO-producer or low-TMAO-producer donor as a humanised gnotobiotic mice model. The mice were placed with carnitine supplement diet (1.3% in water) and received a d9-carnitine challenge test through oral gavage. The phenotypes of TMAO-producing ability of donors were significantly reproduced in the mice. Data are expressed as mean±SEM. Plasma TMAO levels at indicated times in OCCT, plasma fasting TMAO, Firmicutes/Bacteroidetes ratio, Shannon and Chao1 index, plasma d9-TMAO and d9-TMA data were analysed by Student’s t-test. AUC of TMAO and TMAOMAX in OCCT were analysed by Mann-Whitney U test; \*p<0.05, \*\*p<0.01, \*\*\*p<0.001, \*\*\*\*p<0.0001. AUC, area under the curve; LDA, linear discriminant analysis; TMAO, trimethylamine N-oxide.
+
+### TMAO-producing phenotypes determined using the OCCT were reproduced in the humanised gnotobiotic mice model
+
+The TMAO-producing functional phenotypes determined using the OCCT were based on complex diet–gut microbiota–host interactions. Therefore, we used a humanised gnotobiotic mouse model to reconstruct these complex interactions in vivo. Fecal microbiota transplantation (FMT) was performed on germ-free mice by using faeces from a high TMAO producer and a low TMAO producer from our study cohort. In the animal model, diet and host factors were well controlled. We divided eight 9-week-old male germ-free mice into two groups (n=4 in each group) and performed FMT with gastric gavage in the mice of each group using faecal samples from two human donors (a high TMAO producer and a low TMAO producer). All the mice received a carnitine-supplemented diet for 5 weeks after which they underwent d9-carnitine oral challenge tests. The results demonstrated that the transplantation of gut microbiota transmitted the human host’s TMAO-producing phenotypes to the mouse hosts ( [figure 4I](https://pmc.ncbi.nlm.nih.gov/articles/PMC6691853/#F4)).
+
+### Previously found microbial enzyme system cntA/B gene may be an insufficient marker for in vivo human TMAO production
+
+For the process of TMAO production in the human body, the key step is the conversion of carnitine into TMA from gut microbiota metabolism in the intestine. It was reported in an in vitro experiment that a Rieske-type oxygenase/reductase microbial enzymatic system gene, _cntA/B_, was capable of converting carnitine into TMA. [30](https://pmc.ncbi.nlm.nih.gov/articles/PMC6691853/#R30) In another study, a degenerate primer was designed in attempt to measure TMA-producing capacity by quantifying _cntA_ in the faecal microbiome community. [31](https://pmc.ncbi.nlm.nih.gov/articles/PMC6691853/#R31) We used this published method to measure the abundance of _cntA_ in faecal DNA samples and compare the faecal _cntA_ abundances to the TMAO values obtained from the same participants. Results indicated that faecal _cntA_ amounts correlated poorly with numerous TMAO-relevant values determined using the OCCT ( [figure 5A–C](https://pmc.ncbi.nlm.nih.gov/articles/PMC6691853/#F5)). We further evaluated the correlation between the relative abundances of previously reported _cntA_-containing bacterial taxa (ie, _Escherichia coli_, _Klebsiella_ spp and _Citrobacter_ spp) [30 31](https://pmc.ncbi.nlm.nih.gov/articles/PMC6691853/#R30) and TMAO values, but no significantly positive correlation was revealed (online [supplementary figure S3A–C](https://pmc.ncbi.nlm.nih.gov/articles/PMC6691853/#SP1)). In addition, considering the difference in TMAO-producing ability between the omnivores and vegetarians, we compared the calculated carnitine intake amounts with the TMAO AUC values, and the correlation remained non-significant ( [figure 5D](https://pmc.ncbi.nlm.nih.gov/articles/PMC6691853/#F5)). Furthermore, we assessed the effect of host genetic factors on the TMAO concentration; two commonly occurring single-nucleotide polymorphisms of _FMO3_ (Glu158Lys and Glu308Glu) were examined among the participants in this study, [32 33](https://pmc.ncbi.nlm.nih.gov/articles/PMC6691853/#R32) and no significant differences in TMAO values between the mutant and wild-type participants were identified ( [figure 5E,F](https://pmc.ncbi.nlm.nih.gov/articles/PMC6691853/#F5)). Finally, we compared the demographic, biochemical and dietary data of the high and low TMAO producers and found no significantly different markers ( [table 2](https://pmc.ncbi.nlm.nih.gov/articles/PMC6691853/#T2) and online [supplementary figure S4](https://pmc.ncbi.nlm.nih.gov/articles/PMC6691853/#SP1)). Collectively, these findings suggested that current microbial and host genetic biomarkers, dietary data and other features may not reflect the complex metabolic pathway of the interaction among diet, microbial community and the host for TMAO formation.
+
+#### Figure 5.
+
+[![Figure 5](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/74a2/6691853/850f0e83a629/gutjnl-2018-317155f05.jpg)](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=6691853_gutjnl-2018-317155f05.jpg)
+
+[Open in a new tab](https://pmc.ncbi.nlm.nih.gov/articles/PMC6691853/figure/F5/)
+
+Carnitine intake amount, faecal _CntA_ abundances and host _FMO3_ genotypes correlated unfavourably with TMAO-producing ability in the human body. (A) The _CntA_ abundances (% of community) exhibited a poor correlation to fasting plasma TMAO, (B and C) AUC and maximum values of plasma TMAO of OCCT. (D) Carnitine intake amount also poorly correlated with the AUC of plasma TMAO. (E and F) Two common host flavin mono-oxygenase (FMO) single-nucleotide polymorphism, _FMO3_/Lys158 and _FMO3_/Gly308 mutant alleles, were detected in the study population, and no difference of TMAO production was exhibited between mutant and wild genotypes. Data in bar plots are expressed as mean±SEM. Pearson’s correlation was used to calculate association between two variables. Student’s t-test was used for two-group comparison. AUC, area under the curve; OOCT, oral carnitine challenge test; TMAO, trimethylamine N-oxide.
+
+#### Table 2.
+
+Characteristics of high and low TMAO producers
+
+|  | Low producer <br>(n=14) | High producer <br>(n=14) | P values |
+| :-- | :-- | :-- | :-- |
+| Female (n (%)) | 9 (64) | 11 (78) |  |
+| Age (years) | 30.86±7.84 | 32.64±8.33 | 0.5644 |
+| BMI (kg/m2) | 22.49±3.58 | 21.02±3.25 | 0.2653 |
+| Genotype FMO3-SNP (n (%)) |
+| Glu158Lys – AAG | 2 (14.3) | 4 (28.6) |  |
+| Glu308Gly – GGG | 2 (14.3) | 2 (14.3) |  |
+| Plasma |
+| Glucose-AC (mg/dL) | 71.14±9.54 | 71.21±10.05 | 0.9848 |
+| AST (U/L) | 12.64±5.40 | 14.50±7.71 | 0.4672 |
+| ALT (U/L) | 8.93±6.89 | 14.43±20.14 | 0.3426 |
+| BUN (mg/dL) | 10.32±3.76 | 11.22±1.70 | 0.4223 |
+| Creatinine (mg/dL) | 0.55±0.17 | 0.57±0.09 | 0.6746 |
+| T-cholesterol (mg/dL) | 159.07±29.13 | 169.43±30.15 | 0.3638 |
+| Triglyceride (mg/dL) | 73.43±39.96 | 99.93±84.73 | 0.2996 |
+| LDL-C (mg/dL) | 92.93±27.84 | 91.64±14.43 | 0.8792 |
+| hsCRP (mg/dL) | 0.05±0.04 | 0.08±0.09 | 0.2924 |
+| TMAO (µM) | 1.49±0.54 | 5.62±8.27 | 0.0737 |
+| Carnitine (µM) | 46.53±29.31 | 58.64±28.42 | 0.2774 |
+| Urine |
+| TMAO (nmol/mmol Cr) | 30.42±15.62 | 125.02±175.14 | 0.0546 |
+| Carnitine (nmol/mmol Cr) | 6.02±8.32 | 15.26±46.00 | 0.4665 |
+
+[Open in a new tab](https://pmc.ncbi.nlm.nih.gov/articles/PMC6691853/table/T2/)
+
+\*The p value is from the comparison between the high and low producers using Student’s t-test. Values are the mean±SEM.
+
+ALT, alanine aminotransferase; AST, aspartate aminotransferase; BMI, body mass index; BUN, blood urea nitrogen; Cr, creatinine; FMO3, flavin monooxygenase; hsCRP, high-sensitivity C-reactive protein; LDL-C, low-density lipoprotein cholesterol; TMAO, trimethylamine N-oxide.
+
+### Urine sampling provides an alternative and convenient method for the OCCT
+
+While the microbial enzyme system _cntA_ genetic marker failed to correlate TMAO formation, the OCCT remains the standard for measuring TMAO production capacity in human body. However, plasma TMAO levels usually peak after 24 hours of the OCCT, and the required serial blood sampling may present challenges for clinical practice and patient compliance. Thus, we compared 171 paired blood and urine samples collected at the same times. The samples exhibited a strong significant correlation of TMAO concentrations. Moreover, the AUC values of 57 paired blood and urine samples from the participants who underwent the OCCT were compared and exhibited a highly significant correlation ( [figure 6A](https://pmc.ncbi.nlm.nih.gov/articles/PMC6691853/#F6)). These results suggested that urine collection may provide a substitute for blood collection in the OCCT, which may increase the feasibility of this assessment method for clinical practice.
+
+#### Figure 6.
+
+[![Figure 6](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/74a2/6691853/934469dc747d/gutjnl-2018-317155f06.jpg)](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=6691853_gutjnl-2018-317155f06.jpg)
+
+[Open in a new tab](https://pmc.ncbi.nlm.nih.gov/articles/PMC6691853/figure/F6/)
+
+Urine TMAO levels exhibited strong correlation with plasma TMAO levels and may serve a substitute specimen for an oral carnitine challenge test (OOCT). (A) The logarithmic TMAO values of 171 plasma samples strongly correlated with the corresponding TMAO values of urine samples from the same subject and sampling times. The logarithmic AUC values of plasma TMAO in 57 participants strongly correlated with the AUC values of urine TMAO in the same OCCT. (B) The OCCT may reflect the results from crosstalk between diet, gut microbiota and the host and could be used to measure TMAO-producing ability individually. The OCCT may serve as a personalised dietary guidance or a diet-induced thrombotic risk surveillance. It could also be used to assess therapeutic efficacy of new drug development or may be served as a benchmark for investigation of TMAO-relevant biomarkers in the faeces. Pearson’s correlation was used to calculate association between two variables. AUC, area under the curve; TMAO, trimethylamine N-oxide.
+
+## Discussion
+
+We developed a method to determine the functional status of the human gut microbiota, with regard to its TMAO production capacity. The OCCT in this study successfully distinguish between the omnivores and vegetarians according to their TMAO-producing ability. Using this approach, we characterise the gut microbiome of high and low TMAO producers as well as reproduce the TMAO producing phenotypes in germ-free mice by faecal microbiota transplantation. We also demonstrated the urine TMAO as an alternative biomarker for plasma TMAO that may facilitate the transition to clinical practice.
+
+The OCCT may be used to identify individual TMAO-producing capacity from gut microbiota and thereby serve as a guidance of intervention to reduce TMAO production in the human body. For example, a low-carnitine diet may be suggested to high TMAO producers as a dietary instruction for patients with CVD. Antibiotics might be an option to reduce TMAO production by inhibiting TMAO-relevant gut bacteria but may be discouraged due to potential side effects and treatment failure caused by antibiotic resistance. Moreover, the OCCT can simulate a postprandial TMAO and reveal pathophysiological levels of plasma TMAO in subjects. In a recent pioneer study conducted by Zhu _et al_, [24](https://pmc.ncbi.nlm.nih.gov/articles/PMC6691853/#R24) 18 healthy volunteers receiving continuous choline supplementation for 1 month significantly increased the fasting plasma TMAO level as well as enhanced platelet hyper-responsiveness. Therefore, the OCCT may also be used in revealing the diet-induced TMAO and assessing the correlated thrombosis potential. Finally, since the OCCT could indicate the TMAO producer phenotype, it might serve as a benchmark for further TMAO-relevant microbial biomarker investigation and validation.
+
+In previous studies, the fasting plasma TMAO level was proved to be a prognostic indicator of major adverse cardiac event for patients with CVD. [2 11](https://pmc.ncbi.nlm.nih.gov/articles/PMC6691853/#R2) From literature review, there seems a significant overlap of median/IQR of fasting plasma TMAO between patients with CVD and healthy subjects. [2 25](https://pmc.ncbi.nlm.nih.gov/articles/PMC6691853/#R2) The fasting plasma TMAO levels are usually low and exhibit rightward-skewed distributions among both healthy and diseased populations. [2 14 25](https://pmc.ncbi.nlm.nih.gov/articles/PMC6691853/#R2) The phenomenon may be explained by the fluctuated feature of plasma TMAO caused by efficient urinary excretion and dietary influence. [12 26](https://pmc.ncbi.nlm.nih.gov/articles/PMC6691853/#R12) It also suggests the fasting plasma TMAO may not able to reveal higher and potential pathological value of a postprandial plasma TMAO. In recent studies by Zhu _et al_, the concentration of plasma TMAO would be at least 10–30 µM to enhance thrombosis potential and arterial occlusion. [17 19 24](https://pmc.ncbi.nlm.nih.gov/articles/PMC6691853/#R17) Therefore, the TMAO values acquired from OCCT might be helpful in revealing the pathophysiological levels of plasma TMAO from regular diet–microbiota interactions.
+
+Recently, Koeth _et al_ recruited five omnivores and five vegetarians to receive a carnitine challenge test of 250 mg of isotope-labelled d3-methyl-carnitine, and the vegetarians exhibited almost no TMAO production as compared with the omnivores. [11](https://pmc.ncbi.nlm.nih.gov/articles/PMC6691853/#R11) However, we noticed that some vegetarians and even vegans were still capable of producing TMAO from their gut microbiota when administrating carnitine. Some of the TMAO producer vegetarians are lacto-ovo-vegetarians and may be exposed to small amount of carnitine from their diet, but the dietary carnitine intake among vegetarians calculated by FFQ is not correlated to the TMAO production in OCCT. We assumed that the bacteria capable of carnitine metabolism may still be able to thrive by nutrients other than carnitine in the gut, although the carnitine intake may provide additional carbon source to these bacteria and promote the growth. However, this assumption remains to be investigated by further studies. A previous animal study conducted showed that γ-butyrobetaine is a proatherosclerotic intermediate in gut microbial metabolism of carnitine to TMAO. [16](https://pmc.ncbi.nlm.nih.gov/articles/PMC6691853/#R16) Nevertheless, the levels of γ-butyrobetaine in our human plasma samples are quite low and had no obvious peak values. We speculated the bacteria responsible for converting carnitine to γ-butyrobetaine may not be functionally predominant in the human gut, but this should be confirmed in future study. Furthermore, although previous research had already used isotope-labelled carnitine for a carnitine challenge test, [11](https://pmc.ncbi.nlm.nih.gov/articles/PMC6691853/#R11) the relatively low challenge dose of isotope-labelled carnitine may not reflect the pathophysiological status of diet–microbiota interactions. The accessibility and representativeness of an isotope-labelled compound for a challenge test may also be a barrier for clinical practice. Collectively, the OCCT in this study using regular carnitine with designed dosage and sampling times may have advantages to step forward into clinical setting.
+
+A novel microbial Rieske-type oxygenase/reductase gene, the _cntA/B,_ was found being able to convert carnitine into TMA. [30](https://pmc.ncbi.nlm.nih.gov/articles/PMC6691853/#R30) The gene was reported to exist among only few species including _E. coli_, _Klebsiella_ spp and _Citrobacter_ spp and so on. [30 31](https://pmc.ncbi.nlm.nih.gov/articles/PMC6691853/#R30) However, both _cntA_ gene quantification and related bacterial species abundance in our faecal samples showed no significant correlation to the TMAO values from OCCT. Therefore, there might exist other key player bacteria and genes contributing to transformation of carnitine into TMA in the colon (an obligatory anaerobic environment) since the cntA/B is an oxygen-dependent enzymatic reaction system. However, with regard to the error rate by using a degenerate primer for qPCR and the relatively low taxonomic resolution of 16S amplicon sequencing, further metagenome wide study may be required to address the issue more clearly.
+
+This study has some limitations. First, although choline and carnitine are both materials from which gut microbiota produce TMA, we only used carnitine as the challenge material in this study. We chose to develop the OCCT because, in normal human population, we have natural cohort of high carnitine and low carnitine consuming groups (ie, omnivores and vegetarians); thus, we can use this test to investigate if people consuming higher carnitine from their diet have higher capability of converting carnitine into TMA through their gut microbiota.
+
+In contrast, it is difficult to find a cohort with subjects divided into high and low choline diets since the choline is widely distributed in many food categories, including eggs, soybeans, meat, fish, some fruits and vegetables. [19](https://pmc.ncbi.nlm.nih.gov/articles/PMC6691853/#R19) Therefore, our study could only successfully prove that people with higher carnitine consumption in the diet generally had higher TMAO production capacity from gut microbiota carnitine metabolism. Besides, the carnitine metabolising bacteria (eg, _cntA/B_ containing bacteria such as _E. coli_, _Klebsiella_ spp, _Citrobacter_ spp and so on) are different from that responsible for choline utilisation (eg, _cutC/D_ containing _Desulfovibrio alaskensis_, _Proteus mirabilis_ and so on). [30 31 34](https://pmc.ncbi.nlm.nih.gov/articles/PMC6691853/#R30) Therefore, the capacity of TMAO production from carnitine and choline metabolism by gut flora may be more appropriate to discuss separately. Second, in our study, we noticed that the peak of TMAO in plasma occurred after 48 hours of the OCCT in some cases and that could skew the AUC of the OCCT curves. In addition, only two samples were taken between 12 hours and 48 hours after OCCT and the low resolution of sampling in the 12–48 span may lead to a missed peak value in OCCT. Adding a sample timing of 72 hours would be helpful but may still be less than optimal.
+
+In summary, we presented a clinically oriented OCCT that can be used to determine the proatherosclerotic TMAO-producing capacity of complex diet–host–microbial interactions. To the best of our knowledge, the proposed methods represent the most comprehensive design thus far for the assessment of TMAO-producing capacity of gut microbiota in a human study. In the era of precision medicine, the OCCT may serve as a personalised dietary guidance for patients with CVD, an assessment tool for the therapeutic efforts of new drug development, a standard method for diet-induced thrombosis risk survey as well as a potential benchmark to investigate TMAO-relevant biomarkers in the faeces ( [figure 6B](https://pmc.ncbi.nlm.nih.gov/articles/PMC6691853/#F6)).
+
+## Materials and methods
+
+### Omnivore and vegetarian study populations
+
+Flyers advertising the study were distributed, and 57 healthy volunteers (23 vegetarians and vegans and 34 omnivores) were recruited. In this study, participants who self-reported not having eaten any meat or seafood products for prior 2 years or longer were defined as vegetarians. All participants were screened using a health history questionnaire. Inclusion criteria were as follows: (1) age ≥20 years and (2) no exposure to antibiotics, probiotics or carnitine supplements within the previous month. Participants were excluded from the study if they reported recent gastrointestinal discomfort (such as abdominal pain or diarrhoea) or a history of chronic diseases including myasthenia gravis, diabetes mellitus, chronic renal disease, hyperparathyroidism, epilepsy and severe anaemia. Each participant completed a FFQ for dietary assessment and signed a waiver of informed consent provided by the Institutional Review Board of National Taiwan University Hospital. This study was funded by the Ministry of Science and Technology.
+
+### Dietary assessments
+
+The participants’ diets were assessed using a semiquantitative FFQ. The FFQ used in this study was validated in a previous study; the questionnaire exhibited reliability and validity for identifying major nutrients in the diets of Taiwanese vegetarians and omnivores. [35](https://pmc.ncbi.nlm.nih.gov/articles/PMC6691853/#R35) In this study, the nutrient analysis programme used to calculate the results of the FFQ was based on Taiwan’s Food Composition Database. Carnitine intake was calculated on the basis of values published previously. [36](https://pmc.ncbi.nlm.nih.gov/articles/PMC6691853/#R36) The intake of nutrients and food groups were standardised to z-scores by using linear regression adjusted for total calorie intake with residual values centred.
+
+### Oral carnitine challenge test
+
+All the participants fasted overnight (>8 hours) before the OCCT. Fasting blood and spot urine samples were collected as baseline, and three tablets of L-carnitine fumarate (GNC) were then administered orally to the participants. Subsequently, the participants underwent time-series blood drawings with concurrent spot urine collections at 24 hours and 48 hours after the oral carnitine challenge. The participants were requested to provide urine samples within 2 hours of blood sample collections. All the participants were asked to avoid red meat, seafood and any medication during the period of the carnitine challenge test. The plasma and urine samples were aliquoted after centrifugation at 3000 rpm and stored in a freezer at −20°C. Ten carnitine tablets (GNC) were examined through HPLC to verify the amount of L-carnitine used in the OCCT. The mean dose of carnitine fumarate in each tablet was 693.5 (SD±63.2) mg (≈ 400 mg L-carnitine/tablet).
+
+### Pharmacokinetic study of plasma TMAO by oral administration of carnitine
+
+Thirteen independent volunteers were recruited for a pharmacokinetic study of the OCCT. After the oral carnitine challenge, blood samples were collected at 4, 8, 12, 24, 36 and 48 hours. Six of the volunteers agreed to participate in the same pharmacokinetic test again 3 months later. All the volunteers signed informed consent waivers provided by the Institutional Review Board of National Taiwan University Hospital.
+
+### Statistical analysis
+
+Two-tailed Student’s t-test or a Wilcoxon non-parametric test were used to compare group means as considered appropriate. The OR of omnivores versus vegetarians as being high TMAO producers and corresponding 95% CI were calculated using logistic regression model. The Pearson’s correlation was used to calculate association between two variables. All statistics were analysed using R software V.3.4.1 or GraphPad Prism (V.7).
+
+Other methods are described in online [supplementary document](https://pmc.ncbi.nlm.nih.gov/articles/PMC6691853/#SP1).
+
+## Acknowledgments
+
+We would like to acknowledge the service provided by the Medical Microbiota Center of the First Core Laboratory, National Taiwan University College of Medicine. The germ-free mouse facilities used in this study were provided by the Humanized Mouse Platform: Patient Derived Tumor, Gut Microbiota Transplantation and Gene Modification Service at the National Core Facility for Biopharmaceuticals (MOST 106-2319-B-492-001), National Laboratory Animal Center, National Applied Research Laboratories, Taiwan. The instrument support from NTU Mass Spectrometry Platform was acknowledged. We are also grateful for the laboratory assistance from Yu-Ting Yang, Chang-Hao Lai and Pei-Lin Wang.
+
+## Footnotes
+
+**Contributors:** W-KW designed the animal and human experiments, assisted in statistical analyses and drafted the manuscript. C-CC and H-LK assisted human specimen collection. P-YL and SP assisted in experiment, performed bioinformatics and statistical analysis. B-YL, T-YC and H-TY revised bioinformatics and statistical analysis. THTC and C-LL assisted FFQ design and analysed dietary assessments. H-LK, C-HK, C-TH and H-BZ performed metabolomics study and assisted with mass spectrometry analysis. H-LC and Y-TH provided the humanized mouse platform. P-CC and R-AC assisted the experiment and animal study. C-TH critically reviewed the manuscript. L-YS and M-SW designed the experiments, provided the funding for the study and critically revised the manuscript.
+
+**Funding:** This study was funded by grants from the Ministry of Science and Technology (Taiwan) (106-2314-B-002-039-MY3 and 107-2321-B-002-017) and partially supported by a grant from the Ministry of Science and Technology (Taiwan) (106-3114-B-002-003), as well as a portion of a grant from the Program for Translational Innovation of Biopharmaceutical Development-Technology Supporting Platform Axis (106-0210-01-10-01 and 107-0210-01-19-04). This work was also partially financially supported by the ‘Center of Precision Medicine’ from The Featured Areas Research Center Program within the framework of the Higher Education Sprout Project by the Ministry of Education in Taiwan (Grant Number: NTU- 107L9014-1) and the Ministry of Science and Technology, Executive Yuan, ROC, Taiwan (Grant Number: TCTC-TR2 106-2321-B-002-025). This work was also supported by the research grant from National Taiwan University Hospital (107-T11).
+
+**Competing interests:** None declared.
+
+**Patient consent:** Obtained.
+
+**Ethics approval:** Institutional Review Board of National Taiwan University Hospital.
+
+**Provenance and peer review:** Not commissioned; externally peer reviewed.
+
+**Data sharing statement:** NCBI Sequence Read Archive: 16s rDNA amplicon of human omnivore (SRX4119476 – SRX4119509) and vegetarian (SRX4119396 – SRX4119418).
+
+## References
+
+- 1.
+Wang Z, Klipfell E, Bennett BJ, et al.
+Gut flora metabolism of phosphatidylcholine promotes cardiovascular disease. Nature
+2011;472:57–63. 10.1038/nature09922
+\[ [DOI](https://doi.org/10.1038/nature09922)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC3086762/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/21475195/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Nature&title=Gut%20flora%20metabolism%20of%20phosphatidylcholine%20promotes%20cardiovascular%20disease&author=Z%20Wang&author=E%20Klipfell&author=BJ%20Bennett&volume=472&publication_year=2011&pages=57-63&pmid=21475195&doi=10.1038/nature09922&)\]
+- 2.
+Tang WH, Wang Z, Levison BS, et al.
+Intestinal microbial metabolism of phosphatidylcholine and cardiovascular risk. N Engl J Med
+2013;368:1575–84. 10.1056/NEJMoa1109400
+\[ [DOI](https://doi.org/10.1056/NEJMoa1109400)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC3701945/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/23614584/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=N%20Engl%20J%20Med&title=Intestinal%20microbial%20metabolism%20of%20phosphatidylcholine%20and%20cardiovascular%20risk&author=WH%20Tang&author=Z%20Wang&author=BS%20Levison&volume=368&publication_year=2013&pages=1575-84&pmid=23614584&doi=10.1056/NEJMoa1109400&)\]
+- 3.
+Tang WH, Hazen SL.
+The contributory role of gut microbiota in cardiovascular disease. J Clin Invest
+2014;124:4204–11. 10.1172/JCI72331
+\[ [DOI](https://doi.org/10.1172/JCI72331)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC4215189/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/25271725/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Clin%20Invest&title=The%20contributory%20role%20of%20gut%20microbiota%20in%20cardiovascular%20disease&author=WH%20Tang&author=SL%20Hazen&volume=124&publication_year=2014&pages=4204-11&pmid=25271725&doi=10.1172/JCI72331&)\]
+- 4.
+Tilg H.
+A Gut Feeling about Thrombosis. N Engl J Med
+2016;374:2494–6. 10.1056/NEJMcibr1604458
+\[ [DOI](https://doi.org/10.1056/NEJMcibr1604458)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/27332910/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=N%20Engl%20J%20Med&title=A%20Gut%20Feeling%20about%20Thrombosis&author=H%20Tilg&volume=374&publication_year=2016&pages=2494-6&pmid=27332910&doi=10.1056/NEJMcibr1604458&)\]
+- 5.
+Tremaroli V, Bäckhed F.
+Functional interactions between the gut microbiota and host metabolism. Nature
+2012;489:242–9. 10.1038/nature11552
+\[ [DOI](https://doi.org/10.1038/nature11552)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/22972297/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Nature&title=Functional%20interactions%20between%20the%20gut%20microbiota%20and%20host%20metabolism&author=V%20Tremaroli&author=F%20B%C3%A4ckhed&volume=489&publication_year=2012&pages=242-9&pmid=22972297&doi=10.1038/nature11552&)\]
+- 6.
+Sonnenburg JL, Bäckhed F.
+Diet-microbiota interactions as moderators of human metabolism. Nature
+2016;535:56–64. 10.1038/nature18846
+\[ [DOI](https://doi.org/10.1038/nature18846)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC5991619/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/27383980/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Nature&title=Diet-microbiota%20interactions%20as%20moderators%20of%20human%20metabolism&author=JL%20Sonnenburg&author=F%20B%C3%A4ckhed&volume=535&publication_year=2016&pages=56-64&pmid=27383980&doi=10.1038/nature18846&)\]
+- 7.
+Zeisel SH, Warrier M.
+Trimethylamine N-oxide, the microbiome, and heart and kidney disease. Annu Rev Nutr
+2017;37:157–81. 10.1146/annurev-nutr-071816-064732
+\[ [DOI](https://doi.org/10.1146/annurev-nutr-071816-064732)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/28715991/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Annu%20Rev%20Nutr&title=Trimethylamine%20N-oxide,%20the%20microbiome,%20and%20heart%20and%20kidney%20disease&author=SH%20Zeisel&author=M%20Warrier&volume=37&publication_year=2017&pages=157-81&pmid=28715991&doi=10.1146/annurev-nutr-071816-064732&)\]
+- 8.
+Brown JM, Hazen SL.
+Microbial modulation of cardiovascular disease. Nat Rev Microbiol
+2018;16:171–81. 10.1038/nrmicro.2017.149
+\[ [DOI](https://doi.org/10.1038/nrmicro.2017.149)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC5885760/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/29307889/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Nat%20Rev%20Microbiol&title=Microbial%20modulation%20of%20cardiovascular%20disease&author=JM%20Brown&author=SL%20Hazen&volume=16&publication_year=2018&pages=171-81&pmid=29307889&doi=10.1038/nrmicro.2017.149&)\]
+- 9.
+Jonsson AL, Bäckhed F.
+Role of gut microbiota in atherosclerosis. Nat Rev Cardiol
+2017;14:79–87. 10.1038/nrcardio.2016.183
+\[ [DOI](https://doi.org/10.1038/nrcardio.2016.183)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/27905479/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Nat%20Rev%20Cardiol&title=Role%20of%20gut%20microbiota%20in%20atherosclerosis&author=AL%20Jonsson&author=F%20B%C3%A4ckhed&volume=14&publication_year=2017&pages=79-87&pmid=27905479&doi=10.1038/nrcardio.2016.183&)\]
+- 10.
+Flanagan JL, Simmons PA, Vehige J, et al.
+Role of carnitine in disease. Nutr Metab
+2010;7:30
+10.1186/1743-7075-7-30
+\[ [DOI](https://doi.org/10.1186/1743-7075-7-30)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC2861661/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/20398344/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Nutr%20Metab&title=Role%20of%20carnitine%20in%20disease&author=JL%20Flanagan&author=PA%20Simmons&author=J%20Vehige&volume=7&publication_year=2010&pages=30&pmid=20398344&doi=10.1186/1743-7075-7-30&)\]
+- 11.
+Koeth RA, Wang Z, Levison BS, et al.
+Intestinal microbiota metabolism of L-carnitine, a nutrient in red meat, promotes atherosclerosis. Nat Med
+2013;19:576–85. 10.1038/nm.3145
+\[ [DOI](https://doi.org/10.1038/nm.3145)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC3650111/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/23563705/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Nat%20Med&title=Intestinal%20microbiota%20metabolism%20of%20L-carnitine,%20a%20nutrient%20in%20red%20meat,%20promotes%20atherosclerosis&author=RA%20Koeth&author=Z%20Wang&author=BS%20Levison&volume=19&publication_year=2013&pages=576-85&pmid=23563705&doi=10.1038/nm.3145&)\]
+- 12.
+Evans AM, Fornasini G.
+Pharmacokinetics of L-carnitine. Clin Pharmacokinet
+2003;42:941–67. 10.2165/00003088-200342110-00002
+\[ [DOI](https://doi.org/10.2165/00003088-200342110-00002)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/12908852/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Clin%20Pharmacokinet&title=Pharmacokinetics%20of%20L-carnitine&author=AM%20Evans&author=G%20Fornasini&volume=42&publication_year=2003&pages=941-67&pmid=12908852&doi=10.2165/00003088-200342110-00002&)\]
+- 13.
+Senthong V, Wang Z, Fan Y, et al.
+Trimethylamine N-oxide and mortality risk in patients with peripheral artery disease. J Am Heart Assoc
+2016;5:5
+10.1161/JAHA.116.004237
+\[ [DOI](https://doi.org/10.1161/JAHA.116.004237)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC5121520/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/27792653/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Am%20Heart%20Assoc&title=Trimethylamine%20N-oxide%20and%20mortality%20risk%20in%20patients%20with%20peripheral%20artery%20disease&author=V%20Senthong&author=Z%20Wang&author=Y%20Fan&volume=5&publication_year=2016&pages=5&pmid=27792653&doi=10.1161/JAHA.116.004237&)\]
+- 14.
+Li XS, Obeid S, Klingenberg R, et al.
+Gut microbiota-dependent trimethylamine N-oxide in acute coronary syndromes: a prognostic marker for incident cardiovascular events beyond traditional risk factors. Eur Heart J
+2017;38:814–24. 10.1093/eurheartj/ehw582
+\[ [DOI](https://doi.org/10.1093/eurheartj/ehw582)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC5837488/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/28077467/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Eur%20Heart%20J&title=Gut%20microbiota-dependent%20trimethylamine%20N-oxide%20in%20acute%20coronary%20syndromes:%20a%20prognostic%20marker%20for%20incident%20cardiovascular%20events%20beyond%20traditional%20risk%20factors&author=XS%20Li&author=S%20Obeid&author=R%20Klingenberg&volume=38&publication_year=2017&pages=814-24&pmid=28077467&doi=10.1093/eurheartj/ehw582&)\]
+- 15.
+Micha R, Michas G, Mozaffarian D.
+Unprocessed red and processed meats and risk of coronary artery disease and type 2 diabetes–an updated review of the evidence. Curr Atheroscler Rep
+2012;14:515–24. 10.1007/s11883-012-0282-8
+\[ [DOI](https://doi.org/10.1007/s11883-012-0282-8)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC3483430/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/23001745/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Curr%20Atheroscler%20Rep&title=Unprocessed%20red%20and%20processed%20meats%20and%20risk%20of%20coronary%20artery%20disease%20and%20type%202%20diabetes%E2%80%93an%20updated%20review%20of%20the%20evidence&author=R%20Micha&author=G%20Michas&author=D%20Mozaffarian&volume=14&publication_year=2012&pages=515-24&pmid=23001745&doi=10.1007/s11883-012-0282-8&)\]
+- 16.
+Koeth RA, Levison BS, Culley MK, et al.
+γ-Butyrobetaine is a proatherogenic intermediate in gut microbial metabolism of L-carnitine to TMAO. Cell Metab
+2014;20:799–812. 10.1016/j.cmet.2014.10.006
+\[ [DOI](https://doi.org/10.1016/j.cmet.2014.10.006)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC4255476/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/25440057/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Cell%20Metab&title=%CE%B3-Butyrobetaine%20is%20a%20proatherogenic%20intermediate%20in%20gut%20microbial%20metabolism%20of%20L-carnitine%20to%20TMAO&author=RA%20Koeth&author=BS%20Levison&author=MK%20Culley&volume=20&publication_year=2014&pages=799-812&pmid=25440057&doi=10.1016/j.cmet.2014.10.006&)\]
+- 17.
+Zhu W, Gregory JC, Org E, et al.
+Gut Microbial Metabolite TMAO Enhances Platelet Hyperreactivity and Thrombosis Risk. Cell
+2016;165:111–24. 10.1016/j.cell.2016.02.011
+\[ [DOI](https://doi.org/10.1016/j.cell.2016.02.011)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC4862743/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/26972052/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Cell&title=Gut%20Microbial%20Metabolite%20TMAO%20Enhances%20Platelet%20Hyperreactivity%20and%20Thrombosis%20Risk&author=W%20Zhu&author=JC%20Gregory&author=E%20Org&volume=165&publication_year=2016&pages=111-24&pmid=26972052&doi=10.1016/j.cell.2016.02.011&)\]
+- 18.
+Wang Z, Roberts AB, Buffa JA, et al.
+Non-lethal Inhibition of gut microbial trimethylamine production for the treatment of atherosclerosis. Cell
+2015;163:1585–95. 10.1016/j.cell.2015.11.055
+\[ [DOI](https://doi.org/10.1016/j.cell.2015.11.055)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC4871610/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/26687352/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Cell&title=Non-lethal%20Inhibition%20of%20gut%20microbial%20trimethylamine%20production%20for%20the%20treatment%20of%20atherosclerosis&author=Z%20Wang&author=AB%20Roberts&author=JA%20Buffa&volume=163&publication_year=2015&pages=1585-95&pmid=26687352&doi=10.1016/j.cell.2015.11.055&)\]
+- 19.
+Roberts AB, Gu X, Buffa JA, et al.
+Development of a gut microbe-targeted nonlethal therapeutic to inhibit thrombosis potential. Nat Med
+2018;24:1407–17. 10.1038/s41591-018-0128-1
+\[ [DOI](https://doi.org/10.1038/s41591-018-0128-1)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC6129214/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/30082863/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Nat%20Med&title=Development%20of%20a%20gut%20microbe-targeted%20nonlethal%20therapeutic%20to%20inhibit%20thrombosis%20potential&author=AB%20Roberts&author=X%20Gu&author=JA%20Buffa&volume=24&publication_year=2018&pages=1407-17&pmid=30082863&doi=10.1038/s41591-018-0128-1&)\]
+- 20.
+Chen ML, Yi L, Zhang Y, et al.
+Resveratrol Attenuates Trimethylamine-N-Oxide (TMAO)-induced atherosclerosis by regulating TMAO Synthesis and Bile Acid Metabolism via Remodeling of the Gut Microbiota. MBio
+2016;7:e02210–5. 10.1128/mBio.02210-15
+\[ [DOI](https://doi.org/10.1128/mBio.02210-15)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC4817264/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/27048804/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=MBio&title=Resveratrol%20Attenuates%20Trimethylamine-N-Oxide%20(TMAO)-induced%20atherosclerosis%20by%20regulating%20TMAO%20Synthesis%20and%20Bile%20Acid%20Metabolism%20via%20Remodeling%20of%20the%20Gut%20Microbiota&author=ML%20Chen&author=L%20Yi&author=Y%20Zhang&volume=7&publication_year=2016&pages=e02210-5&pmid=27048804&doi=10.1128/mBio.02210-15&)\]
+- 21.
+Wk W, Panyod S, Ct H, et al.
+Dietary allicin reduces transformation of L-carnitine to TMAO through impact on gut microbiota. J Funct Foods
+2015;15:408–17. \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Funct%20Foods&title=Dietary%20allicin%20reduces%20transformation%20of%20L-carnitine%20to%20TMAO%20through%20impact%20on%20gut%20microbiota&author=W%20Wk&author=S%20Panyod&author=H%20Ct&volume=15&publication_year=2015&pages=408-17&)\]
+- 22.
+Haghikia A, Li XS, Liman TG, et al.
+Gut microbiota-dependent trimethylamine _n_-oxide predicts risk of cardiovascular events i _n_ patients with stroke and is related to proinflammatory monocytes. Arterioscler Thromb Vasc Biol
+2018;38:2225–35. 10.1161/ATVBAHA.118.311023
+\[ [DOI](https://doi.org/10.1161/ATVBAHA.118.311023)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC6202215/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/29976769/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Arterioscler%20Thromb%20Vasc%20Biol&title=Gut%20microbiota-dependent%20trimethylamine%20n-oxide%20predicts%20risk%20of%20cardiovascular%20events%20in%20patients%20with%20stroke%20and%20is%20related%20to%20proinflammatory%20monocytes&author=A%20Haghikia&author=XS%20Li&author=TG%20Liman&volume=38&publication_year=2018&pages=2225-35&pmid=29976769&doi=10.1161/ATVBAHA.118.311023&)\]
+- 23.
+Schiattarella GG, Sannino A, Toscano E, et al.
+Gut microbe-generated metabolite trimethylamine-N-oxide as cardiovascular risk biomarker: a systematic review and dose-response meta-analysis. Eur Heart J
+2017;38:2948–56. 10.1093/eurheartj/ehx342
+\[ [DOI](https://doi.org/10.1093/eurheartj/ehx342)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/29020409/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Eur%20Heart%20J&title=Gut%20microbe-generated%20metabolite%20trimethylamine-N-oxide%20as%20cardiovascular%20risk%20biomarker:%20a%20systematic%20review%20and%20dose-response%20meta-analysis&author=GG%20Schiattarella&author=A%20Sannino&author=E%20Toscano&volume=38&publication_year=2017&pages=2948-56&pmid=29020409&doi=10.1093/eurheartj/ehx342&)\]
+- 24.
+Zhu W, Wang Z, Tang WHW, et al.
+Gut microbe-generated trimethylamine _n_-oxide from dietary choline is prothrombotic i _n_ subjects. Circulation
+2017;135:1671–3. 10.1161/CIRCULATIONAHA.116.025338
+\[ [DOI](https://doi.org/10.1161/CIRCULATIONAHA.116.025338)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC5460631/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/28438808/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Circulation&title=Gut%20microbe-generated%20trimethylamine%20n-oxide%20from%20dietary%20choline%20is%20prothrombotic%20in%20subjects&author=W%20Zhu&author=Z%20Wang&author=WHW%20Tang&volume=135&publication_year=2017&pages=1671-3&pmid=28438808&doi=10.1161/CIRCULATIONAHA.116.025338&)\]
+- 25.
+Wang Z, Levison BS, Hazen JE, et al.
+Measurement of trimethylamine-N-oxide by stable isotope dilution liquid chromatography tandem mass spectrometry. Anal Biochem
+2014;455:35–40. 10.1016/j.ab.2014.03.016
+\[ [DOI](https://doi.org/10.1016/j.ab.2014.03.016)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC4167037/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/24704102/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Anal%20Biochem&title=Measurement%20of%20trimethylamine-N-oxide%20by%20stable%20isotope%20dilution%20liquid%20chromatography%20tandem%20mass%20spectrometry&author=Z%20Wang&author=BS%20Levison&author=JE%20Hazen&volume=455&publication_year=2014&pages=35-40&pmid=24704102&doi=10.1016/j.ab.2014.03.016&)\]
+- 26.
+Rebouche CJ, Chenard CA.
+Metabolic fate of dietary carnitine in human adults: identification and quantification of urinary and fecal metabolites. J Nutr
+1991;121:539–46. 10.1093/jn/121.4.539
+\[ [DOI](https://doi.org/10.1093/jn/121.4.539)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/2007906/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Nutr&title=Metabolic%20fate%20of%20dietary%20carnitine%20in%20human%20adults:%20identification%20and%20quantification%20of%20urinary%20and%20fecal%20metabolites&author=CJ%20Rebouche&author=CA%20Chenard&volume=121&publication_year=1991&pages=539-46&pmid=2007906&doi=10.1093/jn/121.4.539&)\]
+- 27.
+do Rosario VA, Fernandes R, Trindade EB.
+Vegetarian diets and gut microbiota: important shifts in markers of metabolism and cardiovascular disease. Nutr Rev
+2016;74:444–54. 10.1093/nutrit/nuw012
+\[ [DOI](https://doi.org/10.1093/nutrit/nuw012)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/27261272/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Nutr%20Rev&title=Vegetarian%20diets%20and%20gut%20microbiota:%20important%20shifts%20in%20markers%20of%20metabolism%20and%20cardiovascular%20disease&author=VA%20do%20Rosario&author=R%20Fernandes&author=EB%20Trindade&volume=74&publication_year=2016&pages=444-54&pmid=27261272&doi=10.1093/nutrit/nuw012&)\]
+- 28.
+Wu GD, Compher C, Chen EZ, et al.
+Comparative metabolomics in vegans and omnivores reveal constraints on diet-dependent gut microbiota metabolite production. Gut
+2016;65:63–72. 10.1136/gutjnl-2014-308209
+\[ [DOI](https://doi.org/10.1136/gutjnl-2014-308209)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC4583329/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/25431456/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Gut&title=Comparative%20metabolomics%20in%20vegans%20and%20omnivores%20reveal%20constraints%20on%20diet-dependent%20gut%20microbiota%20metabolite%20production&author=GD%20Wu&author=C%20Compher&author=EZ%20Chen&volume=65&publication_year=2016&pages=63-72&pmid=25431456&doi=10.1136/gutjnl-2014-308209&)\]
+- 29.
+Tang WH, Kitai T, Hazen SL.
+Gut microbiota in cardiovascular health and disease. Circ Res
+2017;120:1183–96. 10.1161/CIRCRESAHA.117.309715
+\[ [DOI](https://doi.org/10.1161/CIRCRESAHA.117.309715)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC5390330/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/28360349/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Circ%20Res&title=Gut%20microbiota%20in%20cardiovascular%20health%20and%20disease&author=WH%20Tang&author=T%20Kitai&author=SL%20Hazen&volume=120&publication_year=2017&pages=1183-96&pmid=28360349&doi=10.1161/CIRCRESAHA.117.309715&)\]
+- 30.
+Zhu Y, Jameson E, Crosatti M, et al.
+Carnitine metabolism to trimethylamine by an unusual Rieske-type oxygenase from human microbiota. Proc Natl Acad Sci U S A
+2014;111:4268–73. 10.1073/pnas.1316569111
+\[ [DOI](https://doi.org/10.1073/pnas.1316569111)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC3964110/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/24591617/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Proc%20Natl%20Acad%20Sci%20U%20S%20A&title=Carnitine%20metabolism%20to%20trimethylamine%20by%20an%20unusual%20Rieske-type%20oxygenase%20from%20human%20microbiota&author=Y%20Zhu&author=E%20Jameson&author=M%20Crosatti&volume=111&publication_year=2014&pages=4268-73&pmid=24591617&doi=10.1073/pnas.1316569111&)\]
+- 31.
+Rath S, Heidrich B, Pieper DH, et al.
+Uncovering the trimethylamine-producing bacteria of the human gut microbiota. Microbiome
+2017;5:5
+10.1186/s40168-017-0271-9
+\[ [DOI](https://doi.org/10.1186/s40168-017-0271-9)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC5433236/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/28506279/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Microbiome&title=Uncovering%20the%20trimethylamine-producing%20bacteria%20of%20the%20human%20gut%20microbiota&author=S%20Rath&author=B%20Heidrich&author=DH%20Pieper&volume=5&publication_year=2017&pages=5&pmid=28506279&doi=10.1186/s40168-017-0271-9&)\]
+- 32.
+Cho CE, Taesuwan S, Malysheva OV, et al.
+Trimethylamine-N-oxide (TMAO) response to animal source foods varies among healthy young men and is influenced by their gut microbiota composition: a randomized controlled trial. Mol Nutr Food Res
+2017;61:1600324
+10.1002/mnfr.201600324
+\[ [DOI](https://doi.org/10.1002/mnfr.201600324)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/27377678/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Mol%20Nutr%20Food%20Res&title=Trimethylamine-N-oxide%20(TMAO)%20response%20to%20animal%20source%20foods%20varies%20among%20healthy%20young%20men%20and%20is%20influenced%20by%20their%20gut%20microbiota%20composition:%20a%20randomized%20controlled%20trial&author=CE%20Cho&author=S%20Taesuwan&author=OV%20Malysheva&volume=61&publication_year=2017&pages=1600324&pmid=27377678&doi=10.1002/mnfr.201600324&)\]
+- 33.
+Türkanoğlu Özçelik A, Can Demirdöğen B, Demirkaya S, et al.
+Flavin containing monooxygenase 3 genetic polymorphisms Glu158Lys and Glu308Gly and their relation to ischemic stroke. Gene
+2013;521:116–21. 10.1016/j.gene.2013.03.010
+\[ [DOI](https://doi.org/10.1016/j.gene.2013.03.010)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/23510775/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Gene&title=Flavin%20containing%20monooxygenase%203%20genetic%20polymorphisms%20Glu158Lys%20and%20Glu308Gly%20and%20their%20relation%20to%20ischemic%20stroke&author=A%20T%C3%BCrkano%C4%9Flu%20%C3%96z%C3%A7elik&author=B%20Can%20Demird%C3%B6%C4%9Fen&author=S%20Demirkaya&volume=521&publication_year=2013&pages=116-21&pmid=23510775&doi=10.1016/j.gene.2013.03.010&)\]
+- 34.
+Craciun S, Balskus EP.
+Microbial conversion of choline to trimethylamine requires a glycyl radical enzyme. Proc Natl Acad Sci U S A
+2012;109:21307–12. 10.1073/pnas.1215689109
+\[ [DOI](https://doi.org/10.1073/pnas.1215689109)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC3535645/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/23151509/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Proc%20Natl%20Acad%20Sci%20U%20S%20A&title=Microbial%20conversion%20of%20choline%20to%20trimethylamine%20requires%20a%20glycyl%20radical%20enzyme&author=S%20Craciun&author=EP%20Balskus&volume=109&publication_year=2012&pages=21307-12&pmid=23151509&doi=10.1073/pnas.1215689109&)\]
+- 35.
+Chiu TH, Huang HY, Chen KJ, et al.
+Relative validity and reproducibility of a quantitative FFQ for assessing nutrient intakes of vegetarians in Taiwan. Public Health Nutr
+2014;17:1459–66. 10.1017/S1368980013001560
+\[ [DOI](https://doi.org/10.1017/S1368980013001560)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC10282333/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/23782894/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Public%20Health%20Nutr&title=Relative%20validity%20and%20reproducibility%20of%20a%20quantitative%20FFQ%20for%20assessing%20nutrient%20intakes%20of%20vegetarians%20in%20Taiwan&author=TH%20Chiu&author=HY%20Huang&author=KJ%20Chen&volume=17&publication_year=2014&pages=1459-66&pmid=23782894&doi=10.1017/S1368980013001560&)\]
+- 36.
+Rebouche CJ, Engel AG.
+Kinetic compartmental analysis of carnitine metabolism in the dog. Arch Biochem Biophys
+1983;220:60–70. 10.1016/0003-9861(83)90387-9
+\[ [DOI](https://doi.org/10.1016/0003-9861(83)90387-9)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/6830246/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Arch%20Biochem%20Biophys&title=Kinetic%20compartmental%20analysis%20of%20carnitine%20metabolism%20in%20the%20dog&author=CJ%20Rebouche&author=AG%20Engel&volume=220&publication_year=1983&pages=60-70&pmid=6830246&doi=10.1016/0003-9861(83)90387-9&)\]
+
+## Associated Data
+
+_This section collects any data citations, data availability statements, or supplementary materials included in this article._
+
+### Supplementary Materials
+
+Supplementary file 1
+
+[gutjnl-2018-317155supp001.pdf](https://pmc.ncbi.nlm.nih.gov/articles/instance/6691853/bin/gutjnl-2018-317155supp001.pdf) (1.4MB, pdf)
+
+![Close](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/close.svg)
+
+## ACTIONS
+
+- [![View on publisher site icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/launch.svg)View on publisher site](https://doi.org/10.1136/gutjnl-2018-317155)
+- [![Download PDF icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/file_download.svg)PDF (2.3 MB)](https://pmc.ncbi.nlm.nih.gov/articles/PMC6691853/pdf/gutjnl-2018-317155.pdf)
+- ![Cite icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/format_quote.svg)Cite
+- ![Collections icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/action-bookmark-full.svg)![Collections icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/action-bookmark-empty.svg)Collections
+- ![Permalink icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/share.svg)Permalink
+
+
+
+
+## PERMALINK
+
+
+
+![Copy icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/content_copy.svg)Copy
+
+
+## RESOURCES
+
+### Similar articles
+
+### Cited by other articles
+
+### Links to NCBI Databases
+
+Back to Top![back to top icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/arrow_upward.svg)

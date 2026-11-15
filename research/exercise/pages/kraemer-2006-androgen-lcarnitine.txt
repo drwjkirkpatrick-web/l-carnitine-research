@@ -1,0 +1,48 @@
+SOURCE: Androgenic responses to resistance exercise: effects of feeding and L-carnitine.
+URL: https://pubmed.ncbi.nlm.nih.gov/16826026/
+FETCHED: 2026-11-15 via NCBI efetch (pubmed abstract, retmode=text)
+PMID: 16826026
+DOI: 10.1249/01.mss.0000227314.85728.35
+------------------------------------------------------------------------
+5. Med Sci Sports Exerc. 2006 Jul;38(7):1288-96. doi: 
+10.1249/01.mss.0000227314.85728.35.
+
+Androgenic responses to resistance exercise: effects of feeding and L-carnitine.
+
+Kraemer WJ(1), Spiering BA, Volek JS, Ratamess NA, Sharman MJ, Rubin MR, French 
+DN, Silvestre R, Hatfield DL, Van Heest JL, Vingren JL, Judelson DA, Deschenes 
+MR, Maresh CM.
+
+Author information:
+(1)Human Performance Laboratory, Department of Kinesiology, University of 
+Connecticut, Storrs, CT 06269-1110, USA. William.Kraemer@uconn.edu
+
+Erratum in
+    Med Sci Sports Exerc. 2006 Oct;38(10):1861.
+
+PURPOSE: The purpose of this investigation was to determine the effects of 3 wk 
+of L-carnitine L-tartrate (LCLT) supplementation and post-resistance-exercise 
+(RE) feeding on hormonal and androgen receptor (AR) responses.
+METHODS: Ten resistance-trained men (mean+/-SD: age, 22+/-1 yr; mass, 
+86.3+/-15.3 kg; height, 181+/-11 cm) supplemented with LCLT (equivalent to 2 g 
+of L-carnitine per day) or placebo (PL) for 21 d, provided muscle biopsies for 
+AR determinations, then performed two RE protocols: one followed by water 
+intake, and one followed by feeding (8 kcal.kg body mass, consisting of 56% 
+carbohydrate, 16% protein, and 28% fat). RE protocols were randomized and 
+included serial blood draws and a 1-h post-RE biopsy. After a 7-d washout 
+period, subjects crossed over, and all experimental procedures were repeated.
+RESULTS: LCLT supplementation upregulated (P<0.05) preexercise AR content 
+compared with PL (12.9+/-5.9 vs 11.2+/-4.0 au, respectively). RE increased 
+(P<0.05) AR content compared with pre-RE values in the PL trial only. Post-RE 
+feeding significantly increased AR content compared with baseline and water 
+trials for both LCLT and PL. Serum total testosterone concentrations were 
+suppressed (P<0.05) during feeding trials with respect to corresponding water 
+and pre-RE values. Luteinizing hormone demonstrated subtle, yet significant 
+changes in response to feeding and LCLT.
+CONCLUSION: In summary, these data demonstrated that: 1) feeding after RE 
+increased AR content, which may result in increased testosterone uptake, and 
+thus enhanced luteinizing hormone secretion via feedback mechanisms; and 2) LCLT 
+supplementation upregulated AR content, which may promote recovery from RE.
+
+DOI: 10.1249/01.mss.0000227314.85728.35
+PMID: 16826026 [Indexed for MEDLINE]

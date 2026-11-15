@@ -1,0 +1,54 @@
+PMID: 39367436
+PubMed URL: https://pubmed.ncbi.nlm.nih.gov/39367436/
+Fetched via NCBI eutils efetch, accessed 2026-11-15
+
+1. Eur J Med Res. 2024 Oct 5;29(1):488. doi: 10.1186/s40001-024-02087-w.
+
+The supplementation of L-carnitine in critically ill patients with sepsis: a 
+systematic review and meta-analysis of randomized controlled trials.
+
+Meng C(#)(1), Ma Y(#)(2), Fu N(#)(3), Li J(1), Sun B(1), Li Z(1), Wang Q(4), Liu 
+P(5).
+
+Author information:
+(1)Department of Emergency, Emergency General Hospital, XiBaHe South Road 29, 
+Chaoyang District, Beijing, 100028, People's Republic of China.
+(2)Department of General Surgery, The First Medical Center, Chinese PLA General 
+Hospital, Fuxing Road 28, Haidian District, Beijing, 100039, People's Republic 
+of China.
+(3)Department of Cardiology, Hebei Yanda Hospital, Langfang, 065201, People's 
+Republic of China.
+(4)Department of Emergency, Emergency General Hospital, XiBaHe South Road 29, 
+Chaoyang District, Beijing, 100028, People's Republic of China. 
+qingw066@163.com.
+(5)Department of Cardiology, Ordos Central Hospital, Ordos School of Clinical 
+Medicine, Inner Mongolia Medical University, 23 Yijin Huoluo West Street, 
+Dongsheng District, Inner Mongolia, Ordos, 017000, People's Republic of China. 
+wanguyisu@163.com.
+(#)Contributed equally
+
+OBJECTIVES: The evidence suggests that L-carnitine may reduce mortality in 
+critically ill patients with sepsis. However, the conclusions of different 
+studies are inconsistent. A meta-analysis was conducted to evaluate the effect 
+of L-carnitine compliance on mortality in patients with sepsis.
+METHODS: A search of the PubMed, Embase, and Cochrane Library databases was 
+conducted on 1 June 2024. The risk ratio (RR) was pooled with a 95% confidence 
+interval (CI) for dichotomous data. The publications were subjected to a review 
+in accordance with the guidelines set forth in the Cochrane Handbook and the 
+Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA). 
+This study has been registered with INPLASY (number INPLASY202460086).
+RESULTS: A total of 356 patients were included in four randomized controlled 
+trials. The results indicated that L-carnitine supplementation was not 
+associated with 28-day mortality in sepsis patients (RR: 0.65; 95% CI 0.33-1.28; 
+I2 = 70%; P = 0.21). And there was no significant effect on 12-month mortality 
+(RR: 0.72; 95% CI 0.47-1.11; I2 = 0%; P = 0.14) compared to placebo.
+CONCLUSIONS: The use of L-carnitine was not found to be significantly correlated 
+with 28-day or 12-month mortality in patients with sepsis.
+
+© 2024. The Author(s).
+
+DOI: 10.1186/s40001-024-02087-w
+PMCID: PMC11453008
+PMID: 39367436 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.

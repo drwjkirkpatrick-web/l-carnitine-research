@@ -1,0 +1,12 @@
+PMID: 24650338
+URL: https://pubmed.ncbi.nlm.nih.gov/24650338/
+Title: A prospective cohort study of acute kidney injury in multi-stage ultramarathon runners: the Biochemistry in Endurance Runner Study (BIERS).
+Authors: Lipman GS; Krabak BJ; Waite BL; Logan SB; Menon A; Chan GK
+Journal: Research in sports medicine (Print)
+Year: 2014
+Vol/Pages: 22(2):185-92
+DOI: 10.1080/15438627.2014.881824
+Accessed: 2026-11-15 (NCBI PubMed efetch abstract)
+
+ABSTRACT
+The purpose of the study was to evaluate the prevalence of acute kidney injury (AKI) during a multi-stage ultramarathon foot race. A prospective observational study was taken during the Gobi 2008; Sahara 2008; and Namibia 2009 RacingThePlanet 7-day, 6-stage, 150-mile foot ultramarathons. Blood was analyzed before, and immediately after stage 1 (25 miles), 3 (75 miles), and 5 (140 miles). Creatinine (Cr), glomerular filtration rate (GFR), and incidence of AKI were calculated and defined by RIFLE criteria. Thirty participants (76% male, mean age 40 + 11 years) were enrolled. There were significant declines in GFR after each stage compared with the pre-race baseline (p < 0.001), with the majority of participants (55-80%) incurring AKI. The majority of study participants encountered significant renal impairment; however, no apparent cumulative effect was observed, with resolution of renal function to near baseline levels between stages.

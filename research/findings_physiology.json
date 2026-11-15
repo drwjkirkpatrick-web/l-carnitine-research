@@ -1,0 +1,1280 @@
+{
+ "sources": [
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/1815472/",
+   "title": "Acetyl group accumulation and pyruvate dehydrogenase activity in human muscle during incremental exercise.",
+   "authors": [
+    "Constantin-Teodosiu D",
+    "Carlin JI",
+    "Cederblad G",
+    "Harris RC",
+    "Hultman E"
+   ],
+   "year": "1991",
+   "journal_or_publisher": "Acta Physiol Scand",
+   "vol_pages": "143(4):367-72",
+   "doi": "",
+   "pmid": "1815472",
+   "page_file": "research/physiology/pages/acetyl-group-exercise-1991.txt",
+   "quotes": [
+    "The increase of acetyl-CoA was from 12.5 mumol kg-1 dry weight at rest to 27.3 after the highest work load and for acetylcarnitine from 6.0 mmol kg-1 dry weight to 15.2"
+   ],
+   "notes": "Human incremental exercise: muscle acetyl-CoA and acetylcarnitine accumulation.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/34436463/",
+   "title": "N-acetyltaurine and Acetylcarnitine Production for the Mitochondrial Acetyl-CoA Regulation in Skeletal Muscles during Endurance Exercises.",
+   "authors": [
+    "Miyazaki T",
+    "Nakamura-Shinya Y",
+    "Ebina K",
+    "Komine S",
+    "Ra SG",
+    "Ishikura K",
+    "Ohmori H",
+    "Honda A"
+   ],
+   "year": "2021",
+   "journal_or_publisher": "Metabolites",
+   "vol_pages": "11(8)",
+   "doi": "10.3390/metabo11080522",
+   "pmid": "34436463",
+   "page_file": "research/physiology/pages/acetylcarnitine-muscle-2021.txt",
+   "quotes": [],
+   "notes": "Fetched abstract; corroborating/background source.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/2340852/",
+   "title": "Pharmacokinetics of oral acetyl-L-carnitine in renal impairment.",
+   "authors": [
+    "Kelly JG",
+    "Hunt S",
+    "Doyle GD",
+    "Laher MS",
+    "Carmody M",
+    "Marzo A",
+    "Arrigoni Martelli E"
+   ],
+   "year": "1990",
+   "journal_or_publisher": "Eur J Clin Pharmacol",
+   "vol_pages": "38(3):309-12",
+   "doi": "",
+   "pmid": "2340852",
+   "page_file": "research/physiology/pages/alcar-renal-impairment-1990.txt",
+   "quotes": [],
+   "notes": "Fetched abstract; corroborating/background source.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/28298333/",
+   "title": "Multiple AMPK activators inhibit l-carnitine uptake in C2C12 skeletal muscle myotubes.",
+   "authors": [
+    "Shaw A",
+    "Jeromson S",
+    "Watterson KR",
+    "Pediani JD",
+    "Gallagher IJ",
+    "Whalley T",
+    "Dreczkowski G",
+    "Brooks N",
+    "Galloway SD",
+    "Hamilton DL"
+   ],
+   "year": "2017",
+   "journal_or_publisher": "Am J Physiol Cell Physiol",
+   "vol_pages": "312(6):C689-C696",
+   "doi": "10.1152/ajpcell.00026.2016",
+   "pmid": "28298333",
+   "page_file": "research/physiology/pages/ampk-c2c12-2017.txt",
+   "quotes": [
+    "All compounds tested significantly inhibited l-carnitine uptake"
+   ],
+   "notes": "In-vitro: AMPK activators (incl. caffeine) inhibit carnitine uptake in myotubes.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/1962562/",
+   "title": "Ascorbic acid and carnitine biosynthesis.",
+   "authors": [
+    "Rebouche CJ"
+   ],
+   "year": "1991",
+   "journal_or_publisher": "Am J Clin Nutr",
+   "vol_pages": "54(6 Suppl):1147S-1152S",
+   "doi": "10.1093/ajcn/54.6.1147s",
+   "pmid": "1962562",
+   "page_file": "research/physiology/pages/ascorbate-biosynthesis-1991.txt",
+   "quotes": [
+    "Ascorbate is a cofactor for two alpha-ketoglutarate-requiring dioxygenase reactions (epsilon-N-trimethyllysine hydroxylase and gamma-butyrobetaine hydroxylase) in the pathway of carnitine biosynthesis"
+   ],
+   "notes": "Ascorbate cofactor for both biosynthetic dioxygenases.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/7156861/",
+   "title": "Gamma-butyrobetaine hydroxylase in human kidney.",
+   "authors": [
+    "Lindstedt G",
+    "Lindstedt S",
+    "Nordin I"
+   ],
+   "year": "1982",
+   "journal_or_publisher": "Scand J Clin Lab Invest",
+   "vol_pages": "42(6):477-85",
+   "doi": "",
+   "pmid": "7156861",
+   "page_file": "research/physiology/pages/bbh-human-kidney-1982.txt",
+   "quotes": [],
+   "notes": "Fetched abstract; corroborating/background source.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/36806708/",
+   "title": "Caffeine ingestion stimulates plasma carnitine clearance in humans.",
+   "authors": [
+    "Wall BT",
+    "Machin D",
+    "Dunlop MV",
+    "Stephens FB"
+   ],
+   "year": "2023",
+   "journal_or_publisher": "Physiol Rep",
+   "vol_pages": "11(4):e15615",
+   "doi": "10.14814/phy2.15615",
+   "pmid": "36806708",
+   "page_file": "research/physiology/pages/caffeine-carnitine-clearance-2023.txt",
+   "quotes": [
+    "Ingestion of high-dose caffeine stimulates plasma carnitine clearance during hypercarnitinemia, likely via increased Na+ /K+ ATPase activity"
+   ],
+   "notes": "Human: caffeine stimulates plasma carnitine clearance via Na+/K+ ATPase.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/26828774/",
+   "title": "Carnitine transport and fatty acid oxidation.",
+   "authors": [
+    "Longo N",
+    "Frigeni M",
+    "Pasquali M"
+   ],
+   "year": "2016",
+   "journal_or_publisher": "Biochim Biophys Acta",
+   "vol_pages": "1863(10):2422-35",
+   "doi": "10.1016/j.bbamcr.2016.01.023",
+   "pmid": "26828774",
+   "page_file": "research/physiology/pages/car-transport-bao-review-2016.txt",
+   "quotes": [
+    "Defects in the OCTN2 carnitine transporter results in autosomal recessive primary carnitine deficiency characterized by decreased intracellular carnitine accumulation, increased losses of carnitine in the urine, and low serum carnitine levels"
+   ],
+   "notes": "Review: OCTN2 retention by kidney, PCD urinary wasting and presentations.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/40647189/",
+   "title": "Carnitine Deficiency in Chronic Kidney Disease: Pathophysiology, Clinical Implications, and Therapeutic Perspectives.",
+   "authors": [
+    "Kaida Y",
+    "Taguchi K",
+    "Fukami K"
+   ],
+   "year": "2025",
+   "journal_or_publisher": "Nutrients",
+   "vol_pages": "17(13)",
+   "doi": "10.3390/nu17132084",
+   "pmid": "40647189",
+   "page_file": "research/physiology/pages/carnitine-ckd-review-2025.txt",
+   "quotes": [],
+   "notes": "Fetched abstract; corroborating/background source.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/26154055/",
+   "title": "Carnitine Acetyltransferase Mitigates Metabolic Inertia and Muscle Fatigue during Exercise.",
+   "authors": [
+    "Seiler SE",
+    "Koves TR",
+    "Gooding JR",
+    "Wong KE",
+    "Stevens RD",
+    "Ilkayeva OR",
+    "Wittmann AH",
+    "DeBalsi KL",
+    "Davies MN",
+    "Lindeboom L",
+    "Schrauwen P",
+    "Schrauwen-Hinderling VB",
+    "Muoio DM"
+   ],
+   "year": "2015",
+   "journal_or_publisher": "Cell Metab",
+   "vol_pages": "22(1):65-76",
+   "doi": "10.1016/j.cmet.2015.06.003",
+   "pmid": "26154055",
+   "page_file": "research/physiology/pages/crat-muoio-2015.txt",
+   "quotes": [
+    "acetylcarnitine serves as a critical acetyl buffer for working muscles"
+   ],
+   "notes": "CrAT/acetylcarnitine acetyl-buffering; mouse knockout + human exercise data.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/20722056/",
+   "title": "Cytokine regulation of OCTN2 expression and activity in small and large intestine.",
+   "authors": [
+    "Fujiya M",
+    "Inaba Y",
+    "Musch MW",
+    "Hu S",
+    "Kohgo Y",
+    "Chang EB"
+   ],
+   "year": "2011",
+   "journal_or_publisher": "Inflamm Bowel Dis",
+   "vol_pages": "17(4):907-16",
+   "doi": "10.1002/ibd.21444",
+   "pmid": "20722056",
+   "page_file": "research/physiology/pages/cytokine-octn2-2011.txt",
+   "quotes": [
+    "Treatment with IFN-γ and TNF-α increased intestinal OCTN2 expression, particularly in the colon"
+   ],
+   "notes": "IFN-gamma/TNF-alpha regulation of intestinal OCTN2.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/11014405/",
+   "title": "Pharmacokinetics of L-carnitine in patients with end-stage renal disease undergoing long-term hemodialysis.",
+   "authors": [
+    "Evans AM",
+    "Faull R",
+    "Fornasini G",
+    "Lemanowicz EF",
+    "Longo A",
+    "Pace S",
+    "Nation RL"
+   ],
+   "year": "2000",
+   "journal_or_publisher": "Clin Pharmacol Ther",
+   "vol_pages": "68(3):238-49",
+   "doi": "",
+   "pmid": "11014405",
+   "page_file": "research/physiology/pages/esrd-pk-2000.txt",
+   "quotes": [
+    "the mean +/- SD predialysis plasma concentration of L-carnitine was 19.5 +/- 5.6 micromol/L, decreasing to 5.6 +/- 1.9 micromol/L at the end of the dialysis session"
+   ],
+   "notes": "Human: plasma free carnitine falls 19.5 to 5.6 uM across a dialysis session.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/12908852/",
+   "title": "Pharmacokinetics of L-carnitine.",
+   "authors": [
+    "Evans AM",
+    "Fornasini G"
+   ],
+   "year": "2003",
+   "journal_or_publisher": "Clin Pharmacokinet",
+   "vol_pages": "42(11):941-67",
+   "doi": "",
+   "pmid": "12908852",
+   "page_file": "research/physiology/pages/evans-fornasini-pk-2003.txt",
+   "quotes": [
+    "The threshold concentration for tubular reabsorption (above which the fractional reabsorption begins to decline) is about 40-60 micromol/L, which is similar to the endogenous plasma L-carnitine level",
+    "Under baseline conditions, the renal clearance of L-carnitine (1-3 mL/min) is substantially less than glomerular filtration rate (GFR), indicating extensive (98-99%) tubular reabsorption."
+   ],
+   "notes": "Definitive L-carnitine pharmacokinetics review: 98-99% reabsorption, threshold 40-60 uM, bioavailability 5-18% oral vs ~75% dietary.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/2015278/",
+   "title": "Effect of exogenous carnitine on carnitine homeostasis in the rat.",
+   "authors": [
+    "Ruff LJ",
+    "Miller LG",
+    "Brass EP"
+   ],
+   "year": "1991",
+   "journal_or_publisher": "Biochim Biophys Acta",
+   "vol_pages": "1073(3):543-9",
+   "doi": "",
+   "pmid": "2015278",
+   "page_file": "research/physiology/pages/exogenous-homeostasis-rat-1991.txt",
+   "quotes": [],
+   "notes": "Fetched abstract; corroborating/background source.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/18053183/",
+   "title": "Glycine propionyl-L-carnitine increases plasma nitrate/nitrite in resistance trained men.",
+   "authors": [
+    "Bloomer RJ",
+    "Smith WA",
+    "Fisher-Wellman KH"
+   ],
+   "year": "2007",
+   "journal_or_publisher": "J Int Soc Sports Nutr",
+   "vol_pages": "4:22",
+   "doi": "",
+   "pmid": "18053183",
+   "page_file": "research/physiology/pages/gplc-nitric-oxide-2007.txt",
+   "quotes": [
+    "oral intake of glycine propionyl-L-carnitine (GPLC) increases plasma nitrate/nitrite (NOx), a surrogate measure of nitric oxide production"
+   ],
+   "notes": "Human GPLC trial: raises plasma nitrate/nitrite.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/30943487/",
+   "title": "Prevalence of Carnitine Deficiency and Decreased Carnitine Levels in Patients on Hemodialysis.",
+   "authors": [
+    "Hatanaka Y",
+    "Higuchi T",
+    "Akiya Y",
+    "Horikami T",
+    "Tei R",
+    "Furukawa T",
+    "Takashima H",
+    "Tomita H",
+    "Abe M"
+   ],
+   "year": "2019",
+   "journal_or_publisher": "Blood Purif",
+   "vol_pages": "47 Suppl 2:38-44",
+   "doi": "10.1159/000496720",
+   "pmid": "30943487",
+   "page_file": "research/physiology/pages/hd-prevalence-2019.txt",
+   "quotes": [
+    "The prevalence of carnitine deficiency and that of carnitine insufficiency was 25.3 and 86.7%, respectively"
+   ],
+   "notes": "Japanese HD cohort: deficiency 25.3%, insufficiency 86.7%.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/28653367/",
+   "title": "Significance of l-carnitine for human health.",
+   "authors": [
+    "Adeva-Andany MM",
+    "Calvo-Castro I",
+    "Fernández-Fernández C",
+    "Donapetry-García C",
+    "Pedre-Piñeiro AM"
+   ],
+   "year": "2017",
+   "journal_or_publisher": "IUBMB Life",
+   "vol_pages": "69(8):578-594",
+   "doi": "10.1002/iub.1646",
+   "pmid": "28653367",
+   "page_file": "research/physiology/pages/human-health-review-2017.txt",
+   "quotes": [],
+   "notes": "General review: intracellular distribution, OCTN2, CrAT acetyl export.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/31500110/",
+   "title": "Carnitine Inborn Errors of Metabolism.",
+   "authors": [
+    "Almannai M",
+    "Alfadhel M",
+    "El-Hattab AW"
+   ],
+   "year": "2019",
+   "journal_or_publisher": "Molecules",
+   "vol_pages": "24(18)",
+   "doi": "10.3390/molecules24183251",
+   "pmid": "31500110",
+   "page_file": "research/physiology/pages/inborn-errors-2019.txt",
+   "quotes": [
+    "In non-vegetarians, most of carnitine sources (~75%) are obtained from diet whereas endogenous synthesis accounts for around 25%",
+    "One of the major functions of carnitine is shuttling long-chain fatty acids across the mitochondrial membrane from the cytosol into the mitochondrial matrix for β-oxidation. This transport is achieved by mitochondrial carnitine-acylcarnitine cycle, which consists of three enzymes: carnitine palmitoyltransferase I (CPT I), carnitine-acylcarnitine translocase (CACT), and carnitine palmitoyltransferase II (CPT II).",
+    "The biosynthetic pathway involves four enzymes: 6-N-trimethyllysine dioxygenase (TMLD), 3-hydroxy-6-N-trimethyllysine aldolase (HTMLA), 4-N-trimethylaminobutyraldehyde dehydrogenase (TMABADH), and γ-butyrobetaine dioxygenase (BBD). OCTN2 (organic cation/carnitine transporter novel type 2) transports carnitine into the cells"
+   ],
+   "notes": "One-stop review of carnitine metabolism/homeostasis, CPT cycle, biosynthesis enzymes, primary vs secondary deficiency.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/38672410/",
+   "title": "Inflammation and Organic Cation Transporters Novel (OCTNs).",
+   "authors": [
+    "Pochini L",
+    "Galluccio M",
+    "Console L",
+    "Scalise M",
+    "Eberini I",
+    "Indiveri C"
+   ],
+   "year": "2024",
+   "journal_or_publisher": "Biomolecules",
+   "vol_pages": "14(4)",
+   "doi": "10.3390/biom14040392",
+   "pmid": "38672410",
+   "page_file": "research/physiology/pages/inflammation-octns-2024.txt",
+   "quotes": [],
+   "notes": "Fetched abstract; corroborating/background source.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/16368715/",
+   "title": "Insulin stimulates L-carnitine accumulation in human skeletal muscle.",
+   "authors": [
+    "Stephens FB",
+    "Constantin-Teodosiu D",
+    "Laithwaite D",
+    "Simpson EJ",
+    "Greenhaff PL"
+   ],
+   "year": "2006",
+   "journal_or_publisher": "FASEB J",
+   "vol_pages": "20(2):377-9",
+   "doi": "",
+   "pmid": "16368715",
+   "page_file": "research/physiology/pages/insulin-muscle-faseb-2006.txt",
+   "quotes": [
+    "Hypercarnitinemia in the presence of a fasting insulin concentration had no effect on either of these parameters",
+    "The combination of hypercarnitinemia (approximately 500 micromol*l(-1)) and hyperinsulinemia increased muscle total carnitine (TC) content from 22.0 +/- 0.9 to 24.7 +/- 1.4 mmol*(kg dm)(-1) (P<0.05) and was associated with a 2.3 +/- 0.3-fold increase in carnitine transporter protein (OCTN2) mRNA expression (P<0.05)"
+   ],
+   "notes": "Human evidence insulin stimulates muscle carnitine accretion with OCTN2 mRNA upregulation.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/36632072/",
+   "title": "l-carnitine: Nutrition, pathology, and health benefits.",
+   "authors": [
+    "Alhasaniah AH"
+   ],
+   "year": "2023",
+   "journal_or_publisher": "Saudi J Biol Sci",
+   "vol_pages": "30(2):103555",
+   "doi": "10.1016/j.sjbs.2022.103555",
+   "pmid": "36632072",
+   "page_file": "research/physiology/pages/lcarnitine-review-2023.txt",
+   "quotes": [],
+   "notes": "Fetched abstract; corroborating/background source.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/20381822/",
+   "title": "LPS-induced inflammation downregulates mammary gland glucose, fatty acid, and L-carnitine transporter expression at different lactation stages.",
+   "authors": [
+    "Ling B",
+    "Alcorn J"
+   ],
+   "year": "2010",
+   "journal_or_publisher": "Res Vet Sci",
+   "vol_pages": "89(2):200-2",
+   "doi": "10.1016/j.rvsc.2010.03.004",
+   "pmid": "20381822",
+   "page_file": "research/physiology/pages/lps-downregulates-carnitine-transporters-2010.txt",
+   "quotes": [],
+   "notes": "LPS downregulates carnitine transporters in bovine mammary gland.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/22062286/",
+   "title": "Changes in l-carnitine content of fish and meat during domestic cooking.",
+   "authors": [
+    "Rigault C",
+    "Mazué F",
+    "Bernard A",
+    "Demarquoy J",
+    "Le Borgne F"
+   ],
+   "year": "2008",
+   "journal_or_publisher": "Meat Sci",
+   "vol_pages": "78(3):331-5",
+   "doi": "10.1016/j.meatsci.2007.06.011",
+   "pmid": "22062286",
+   "page_file": "research/physiology/pages/meat-cooking-carnitine-2008.txt",
+   "quotes": [
+    "Human adults store around 20g of l-carnitine",
+    "Salmon contained about 12 times less l-carnitine than beef"
+   ],
+   "notes": "Total body store ~20 g; beef richest source (salmon 12x less); cooking does not destroy.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/40958655/",
+   "title": "Mechanical Stimulation Induces Yap Mediated OCTN2 Transcription to Enhance Carnitine Metabolism in Sarcopenia.",
+   "authors": [
+    "Lu Y",
+    "Bai Y",
+    "Li W",
+    "Zhou Z",
+    "Lai H",
+    "Hu X",
+    "Yang T",
+    "Wang C",
+    "Chen Y",
+    "Gan K",
+    "Li K",
+    "Ma H",
+    "Shen L",
+    "He D"
+   ],
+   "year": "2025",
+   "journal_or_publisher": "J Cachexia Sarcopenia Muscle",
+   "vol_pages": "16(5):e70052",
+   "doi": "10.1002/jcsm.70052",
+   "pmid": "40958655",
+   "page_file": "research/physiology/pages/mechanical-octn2-2025.txt",
+   "quotes": [
+    "mechanical forces enhanced OCTN2 transcription and regulated carnitine metabolic homeostasis through the Yap/Tead4 pathway"
+   ],
+   "notes": "Mechanical stimulation drives YAP-mediated OCTN2 transcription (sarcopenia models).",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/31906370/",
+   "title": "Carnitine in Human Muscle Bioenergetics: Can Carnitine Supplementation Improve Physical Exercise?",
+   "authors": [
+    "Gnoni A",
+    "Longo S",
+    "Gnoni GV",
+    "Giudetti AM"
+   ],
+   "year": "2020",
+   "journal_or_publisher": "Molecules",
+   "vol_pages": "25(1)",
+   "doi": "10.3390/molecules25010182",
+   "pmid": "31906370",
+   "page_file": "research/physiology/pages/muscle-bioenergetics-2020.txt",
+   "quotes": [
+    "Circulating carnitine is mainly supplied by animal-based food products and to a lesser extent by endogenous biosynthesis in the liver and kidney. Human muscle contains high amounts of carnitine but it depends on the uptake of this compound from the bloodstream, due to muscle inability to synthesize carnitine."
+   ],
+   "notes": "Carnitine in muscle bioenergetics; dual role (FA transport + acyl buffering).",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/9916797/",
+   "title": "Primary systemic carnitine deficiency is caused by mutations in a gene encoding sodium ion-dependent carnitine transporter.",
+   "authors": [
+    "Nezu J",
+    "Tamai I",
+    "Oku A",
+    "Ohashi R",
+    "Yabuuchi H",
+    "Hashimoto N",
+    "Nikaido H",
+    "Sai Y",
+    "Koizumi A",
+    "Shoji Y",
+    "Takada G",
+    "Matsuishi T",
+    "Yoshino M",
+    "Kato H",
+    "Ohura T",
+    "Tsujimoto G",
+    "Hayakawa J",
+    "Shimane M",
+    "Tsuji A"
+   ],
+   "year": "1999",
+   "journal_or_publisher": "Nat Genet",
+   "vol_pages": "21(1):91-4",
+   "doi": "",
+   "pmid": "9916797",
+   "page_file": "research/physiology/pages/nezu-octn2-mutations-1999.txt",
+   "quotes": [],
+   "notes": "Fetched abstract; corroborating/background source.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/36343260/",
+   "title": "Functional genomics of OCTN2 variants informs protein-specific variant effect predictor for Carnitine Transporter Deficiency.",
+   "authors": [
+    "Koleske ML",
+    "McInnes G",
+    "Brown JEH",
+    "Thomas N",
+    "Hutchinson K",
+    "Chin MY",
+    "Koehl A",
+    "Arkin MR",
+    "Schlessinger A",
+    "Gallagher RC",
+    "Song YS",
+    "Altman RB",
+    "Giacomini KM"
+   ],
+   "year": "2022",
+   "journal_or_publisher": "Proc Natl Acad Sci U S A",
+   "vol_pages": "119(46):e2210247119",
+   "doi": "10.1073/pnas.2210247119",
+   "pmid": "36343260",
+   "page_file": "research/physiology/pages/octn2-variants-pnas-2022.txt",
+   "quotes": [],
+   "notes": "150 OCTN2 missense variants functionally characterized.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/31852803/",
+   "title": "Organic Cation Transporters in Health and Disease.",
+   "authors": [
+    "Koepsell H"
+   ],
+   "year": "2020",
+   "journal_or_publisher": "Pharmacol Rev",
+   "vol_pages": "72(1):253-319",
+   "doi": "10.1124/pr.118.015578",
+   "pmid": "31852803",
+   "page_file": "research/physiology/pages/octs-pharmrev-2020.txt",
+   "quotes": [],
+   "notes": "Pharmacol Rev OCT family incl. OCTN2 renal role.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/29335813/",
+   "title": "Organic acidurias in adults: late complications and management.",
+   "authors": [
+    "Tuncel AT",
+    "Boy N",
+    "Morath MA",
+    "Hörster F",
+    "Mütze U",
+    "Kölker S"
+   ],
+   "year": "2018",
+   "journal_or_publisher": "J Inherit Metab Dis",
+   "vol_pages": "41(5):765-776",
+   "doi": "10.1007/s10545-017-0135-2",
+   "pmid": "29335813",
+   "page_file": "research/physiology/pages/organic-acidurias-adults-2018.txt",
+   "quotes": [
+    "Biochemically, OADs are characterized by accumulation of mono-, di- and/or tricarboxylic acids (\"organic acids\") and corresponding coenzyme A, carnitine and/or glycine esters, some of which are considered toxic at high concentrations.",
+    "Dietary treatment with low protein intake or reduced intake of the precursor amino acid(s), carnitine supplementation, cofactor treatment (in responsive patients) and nonadsorbable antibiotics is commonly used for maintenance treatment."
+   ],
+   "notes": "Organic acidurias: accumulating acids form carnitine esters; carnitine supplementation standard maintenance.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/34997761/",
+   "title": "Clinical characteristics of primary carnitine deficiency: A structured review using a case-by-case approach.",
+   "authors": [
+    "Crefcoeur LL",
+    "Visser G",
+    "Ferdinandusse S",
+    "Wijburg FA",
+    "Langeveld M",
+    "Sjouke B"
+   ],
+   "year": "2022",
+   "journal_or_publisher": "J Inherit Metab Dis",
+   "vol_pages": "45(3):386-405",
+   "doi": "10.1002/jimd.12475",
+   "pmid": "34997761",
+   "page_file": "research/physiology/pages/pcd-clinical-review-2022.txt",
+   "quotes": [
+    "In these 621 cases, cardiac symptoms (predominantly cardiomyopathy) were the most prevalent (23.8%)"
+   ],
+   "notes": "Structured case review (621 cases) of primary carnitine deficiency phenotypes.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/28841266/",
+   "title": "Functional and molecular studies in primary carnitine deficiency.",
+   "authors": [
+    "Frigeni M",
+    "Balakrishnan B",
+    "Yin X",
+    "Calderon FRO",
+    "Mao R",
+    "Pasquali M",
+    "Longo N"
+   ],
+   "year": "2017",
+   "journal_or_publisher": "Hum Mutat",
+   "vol_pages": "38(12):1684-1699",
+   "doi": "10.1002/humu.23315",
+   "pmid": "28841266",
+   "page_file": "research/physiology/pages/pcd-functional-hummutat-2017.txt",
+   "quotes": [
+    "Primary carnitine deficiency is caused by a defect in the OCTN2 carnitine transporter encoded by the SLC22A5 gene. It can cause hypoketotic hypoglycemia or cardiomyopathy in children, and sudden death in children and adults."
+   ],
+   "notes": "358-subject functional characterization of OCTN2 defects; phenotype.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/36293168/",
+   "title": "PGC-1α and MEF2 Regulate the Transcription of the Carnitine Transporter OCTN2 Gene in C2C12 Cells and in Mouse Skeletal Muscle.",
+   "authors": [
+    "Novakova K",
+    "Török M",
+    "Panajatovic M",
+    "Bouitbir J",
+    "Duong FHT",
+    "Handschin C",
+    "Krähenbühl S"
+   ],
+   "year": "2022",
+   "journal_or_publisher": "Int J Mol Sci",
+   "vol_pages": "23(20)",
+   "doi": "10.3390/ijms232012304",
+   "pmid": "36293168",
+   "page_file": "research/physiology/pages/pgc1a-mef2-octn2-2022.txt",
+   "quotes": [
+    "PGC-1α overexpression in C2C12 myoblasts increases OCTN2 mRNA expression"
+   ],
+   "notes": "PGC-1alpha/MEF2 transcriptional control of OCTN2 in C2C12 cells and mouse muscle.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/33714931/",
+   "title": "Carnitine supplementation prevents carnitine deficiency caused by pivalate-conjugated antibiotics in patients with epilepsy prescribed valproate.",
+   "authors": [
+    "Okumura A",
+    "Numoto S",
+    "Iwayama H",
+    "Azuma Y",
+    "Kurahashi H"
+   ],
+   "year": "2021",
+   "journal_or_publisher": "Epilepsy Behav",
+   "vol_pages": "117:107883",
+   "doi": "10.1016/j.yebeh.2021.107883",
+   "pmid": "33714931",
+   "page_file": "research/physiology/pages/pivalate-antibiotics-2021.txt",
+   "quotes": [
+    "Carnitine deficiency due to PCA use was prevented by carnitine supplementation in patients with epilepsy who were taking VPA"
+   ],
+   "notes": "Pivalate-conjugated antibiotics cause secondary carnitine deficiency, prevented by supplementation.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/11069438/",
+   "title": "Pharmacokinetics of propionyl-L-carnitine in humans: evidence for saturable tubular reabsorption.",
+   "authors": [
+    "Pace S",
+    "Longo A",
+    "Toon S",
+    "Rolan P",
+    "Evans AM"
+   ],
+   "year": "2000",
+   "journal_or_publisher": "Br J Clin Pharmacol",
+   "vol_pages": "50(5):441-8",
+   "doi": "",
+   "pmid": "11069438",
+   "page_file": "research/physiology/pages/plc-saturable-reabsorption-2000.txt",
+   "quotes": [
+    "At a dose of 1 g, PLC was found to have a mean (+/- s.d.) half-life of 1.09 +/- 0.15 h",
+    "endogenous PLC, LC and ALC underwent extensive renal tubular reabsorption, as indicated by renal excretory clearance to GFR ratios of less than 0.1"
+   ],
+   "notes": "Human PK of propionyl-L-carnitine: saturable tubular reabsorption, t1/2 1.09 h.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/17692817/",
+   "title": "PPAR alpha-activation results in enhanced carnitine biosynthesis and OCTN2-mediated hepatic carnitine accumulation.",
+   "authors": [
+    "van Vlies N",
+    "Ferdinandusse S",
+    "Turkenburg M",
+    "Wanders RJ",
+    "Vaz FM"
+   ],
+   "year": "2007",
+   "journal_or_publisher": "Biochim Biophys Acta",
+   "vol_pages": "1767(9):1134-42",
+   "doi": "",
+   "pmid": "17692817",
+   "page_file": "research/physiology/pages/ppar-alpha-octn2-2007.txt",
+   "quotes": [
+    "both enhancement of carnitine biosynthesis (due to increased gamma-butyrobetaine dioxygenase activity), extra-hepatic gamma-butyrobetaine synthesis and increased hepatic carnitine import (OCTN2 expression) contributes to the increased hepatic carnitine levels after fasting"
+   ],
+   "notes": "PPARalpha activation enhances carnitine biosynthesis and hepatic OCTN2-mediated import (fasting, Wy-14643).",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/26675771/",
+   "title": "Protein ingestion acutely inhibits insulin-stimulated muscle carnitine uptake in healthy young men.",
+   "authors": [
+    "Shannon CE",
+    "Nixon AV",
+    "Greenhaff PL",
+    "Stephens FB"
+   ],
+   "year": "2016",
+   "journal_or_publisher": "Am J Clin Nutr",
+   "vol_pages": "103(1):276-82",
+   "doi": "10.3945/ajcn.115.119826",
+   "pmid": "26675771",
+   "page_file": "research/physiology/pages/protein-inhibits-carnitine-uptake-2016.txt",
+   "quotes": [
+    "Protein ingestion acutely inhibits insulin-stimulated muscle carnitine uptake in healthy young men"
+   ],
+   "notes": "Fetched abstract; corroborating/background source.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/9703262/",
+   "title": "Fractional absorption of L-carnitine after oral administration in rats: evaluation of absorption site and dose dependency.",
+   "authors": [
+    "Matsuda K",
+    "Yuasa H",
+    "Watanabe J"
+   ],
+   "year": "1998",
+   "journal_or_publisher": "Biol Pharm Bull",
+   "vol_pages": "21(7):752-5",
+   "doi": "",
+   "pmid": "9703262",
+   "page_file": "research/physiology/pages/rat-absorption-dose-1998.txt",
+   "quotes": [],
+   "notes": "Fetched abstract; corroborating/background source.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/15591001/",
+   "title": "Kinetics, pharmacokinetics, and regulation of L-carnitine and acetyl-L-carnitine metabolism.",
+   "authors": [
+    "Rebouche CJ"
+   ],
+   "year": "2004",
+   "journal_or_publisher": "Ann N Y Acad Sci",
+   "vol_pages": "1033:30-41",
+   "doi": "",
+   "pmid": "15591001",
+   "page_file": "research/physiology/pages/rebouche-kinetics-2004.txt",
+   "quotes": [
+    "At normal circulating l-carnitine concentrations, renal l-carnitine reabsorption is highly efficient (90-99% of filtered load; clearance, 1-3 mL/min), but displays saturation kinetics.",
+    "At normal dietary L-carnitine intake, whole-body turnover time in humans is 38-119 h",
+    "Bioavailability of dietary L-carnitine is 54-87% and is dependent on the amount of L-carnitine in the meal. Absorption of L-carnitine dietary supplements (0.5-6 g) is primarily passive; bioavailability is 14-18% of dose."
+   ],
+   "notes": "Kinetics review: 90-99% reabsorption with saturation, bioavailability 54-87% dietary vs 14-18% supplements, turnover 38-119 h.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/6773946/",
+   "title": "Significance of renal gamma-butyrobetaine hydroxylase for carnitine biosynthesis in man.",
+   "authors": [
+    "Rebouche CJ",
+    "Engel AG"
+   ],
+   "year": "1980",
+   "journal_or_publisher": "J Biol Chem",
+   "vol_pages": "255(18):8700-5",
+   "doi": "",
+   "pmid": "6773946",
+   "page_file": "research/physiology/pages/renal-bbh-jbc-1980.txt",
+   "quotes": [
+    "Significant gamma-butyrobetaine, 2-oxoglutarate dioxygenase (EC 1.14.11.1) activity was found in human kidney but this activity was absent in rat kidney"
+   ],
+   "notes": "Classic human study: gamma-butyrobetaine hydroxylase in human kidney (final biosynthetic step in man).",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/39367436/",
+   "title": "The supplementation of L-carnitine in critically ill patients with sepsis: a systematic review and meta-analysis of randomized controlled trials.",
+   "authors": [
+    "Meng C",
+    "Ma Y",
+    "Fu N",
+    "Li J",
+    "Sun B",
+    "Li Z",
+    "Wang Q",
+    "Liu P"
+   ],
+   "year": "2024",
+   "journal_or_publisher": "Eur J Med Res",
+   "vol_pages": "29(1):488",
+   "doi": "10.1186/s40001-024-02087-w",
+   "pmid": "39367436",
+   "page_file": "research/physiology/pages/sepsis-meta-2024.txt",
+   "quotes": [
+    "The use of L-carnitine was not found to be significantly correlated with 28-day or 12-month mortality in patients with sepsis"
+   ],
+   "notes": "RCT meta-analysis: L-carnitine in sepsis, no significant mortality effect.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/38586373/",
+   "title": "Targeting SLC22A5 fosters mitophagy inhibition-mediated macrophage immunity against septic acute kidney injury upon CD47-SIRPα axis blockade.",
+   "authors": [
+    "Jia Y",
+    "Li JH",
+    "Hu BC",
+    "Huang X",
+    "Yang X",
+    "Liu YY",
+    "Cai JJ",
+    "Yang X",
+    "Lai JM",
+    "Shen Y",
+    "Liu JQ",
+    "Zhu HP",
+    "Ye XM",
+    "Mo SJ"
+   ],
+   "year": "2024",
+   "journal_or_publisher": "Heliyon",
+   "vol_pages": "10(7):e26791",
+   "doi": "10.1016/j.heliyon.2024.e26791",
+   "pmid": "38586373",
+   "page_file": "research/physiology/pages/septic-aki-slc22a5-2024.txt",
+   "quotes": [
+    "proposes that SLC22A5 might be a promising immunotherapeutic target for septic AKI"
+   ],
+   "notes": "SLC22A5 in septic AKI macrophage biology (mouse).",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/31861504/",
+   "title": "SLC22A5 (OCTN2) Carnitine Transporter-Indispensable for Cell Metabolism, a Jekyll and Hyde of Human Cancer.",
+   "authors": [
+    "Juraszek B",
+    "Nałęcz KA"
+   ],
+   "year": "2019",
+   "journal_or_publisher": "Molecules",
+   "vol_pages": "25(1)",
+   "doi": "10.3390/molecules25010014",
+   "pmid": "31861504",
+   "page_file": "research/physiology/pages/slc22a5-octn2-review-2019.txt",
+   "quotes": [],
+   "notes": "Fetched abstract; corroborating/background source.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/9685390/",
+   "title": "Molecular and functional identification of sodium ion-dependent, high affinity human carnitine transporter OCTN2.",
+   "authors": [
+    "Tamai I",
+    "Ohashi R",
+    "Nezu J",
+    "Yabuuchi H",
+    "Oku A",
+    "Shimane M",
+    "Sai Y",
+    "Tsuji A"
+   ],
+   "year": "1998",
+   "journal_or_publisher": "J Biol Chem",
+   "vol_pages": "273(32):20378-82",
+   "doi": "",
+   "pmid": "9685390",
+   "page_file": "research/physiology/pages/tamai-octn2-cloning-1998.txt",
+   "quotes": [
+    "OCTN2 is strongly expressed in kidney, skeletal muscle, heart, and placenta in adult humans",
+    "When OCTN2 was expressed in HEK293 cells, uptake of L-[3H]carnitine was strongly enhanced in a sodium-dependent manner with Km value of 4.34 microM"
+   ],
+   "notes": "Original cloning of OCTN2: Na+-dependent, Km 4.34 uM, tissue expression.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/33322546/",
+   "title": "Trimethyllysine: From Carnitine Biosynthesis to Epigenetics.",
+   "authors": [
+    "Maas MN",
+    "Hintzen JCJ",
+    "Porzberg MRB",
+    "Mecinović J"
+   ],
+   "year": "2020",
+   "journal_or_publisher": "Int J Mol Sci",
+   "vol_pages": "21(24)",
+   "doi": "10.3390/ijms21249451",
+   "pmid": "33322546",
+   "page_file": "research/physiology/pages/tml-biosynthesis-review-2020.txt",
+   "quotes": [],
+   "notes": "Trimethyllysine pathway review.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/39261302/",
+   "title": "L-carnitine for valproic acid-induced toxicity.",
+   "authors": [
+    "Gziut T",
+    "Thanacoody R"
+   ],
+   "year": "2025",
+   "journal_or_publisher": "Br J Clin Pharmacol",
+   "vol_pages": "91(3):636-647",
+   "doi": "10.1111/bcp.16233",
+   "pmid": "39261302",
+   "page_file": "research/physiology/pages/valproate-carnitine-2025.txt",
+   "quotes": [
+    "There is evidence supporting the use of L-carnitine in treating hyperammonaemia and hepatotoxicity following chronic therapeutic use and after acute overdose of valproic acid"
+   ],
+   "notes": "Review of L-carnitine for valproic acid toxicity; saturable renal reabsorption restated.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/11802770/",
+   "title": "Carnitine biosynthesis in mammals.",
+   "authors": [
+    "Vaz FM",
+    "Wanders RJ"
+   ],
+   "year": "2002",
+   "journal_or_publisher": "Biochem J",
+   "vol_pages": "361(Pt 3):417-29",
+   "doi": "",
+   "pmid": "11802770",
+   "page_file": "research/physiology/pages/vaz-wanders-biosynthesis-2002.txt",
+   "quotes": [],
+   "notes": "Review of mammalian carnitine biosynthesis.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/2756917/",
+   "title": "Carnitine status of lactoovovegetarians and strict vegetarian adults and children.",
+   "authors": [
+    "Lombard KA",
+    "Olson AL",
+    "Nelson SE",
+    "Rebouche CJ"
+   ],
+   "year": "1989",
+   "journal_or_publisher": "Am J Clin Nutr",
+   "vol_pages": "50(2):301-6",
+   "doi": "",
+   "pmid": "2756917",
+   "page_file": "research/physiology/pages/vegetarian-status-1989.txt",
+   "quotes": [
+    "In adults plasma carnitine concentration and urinary carnitine excretion of strict vegetarians and lactoovovegetarians were significantly lower than those in the mixed-diet group"
+   ],
+   "notes": "Classic: vegetarian adults/children have lower plasma carnitine.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/21753065/",
+   "title": "Vegetarians have a reduced skeletal muscle carnitine transport capacity.",
+   "authors": [
+    "Stephens FB",
+    "Marimuthu K",
+    "Cheng Y",
+    "Patel N",
+    "Constantin D",
+    "Simpson EJ",
+    "Greenhaff PL"
+   ],
+   "year": "2011",
+   "journal_or_publisher": "Am J Clin Nutr",
+   "vol_pages": "94(3):938-44",
+   "doi": "10.3945/ajcn.111.012047",
+   "pmid": "21753065",
+   "page_file": "research/physiology/pages/vegetarian-transport-capacity-2011.txt",
+   "quotes": [
+    "Ninety-five percent of the body carnitine pool resides in skeletal muscle where it plays a vital role in fuel metabolism",
+    "[organic cation transporter 2 (OCTN2)] messenger RNA and protein expressions were 16% (P < 0.01), 58% (P < 0.01), 17% (P < 0.05), 33% (P < 0.05), and 37% (P = 0.09) lower, respectively, in vegetarian volunteers"
+   ],
+   "notes": "Body-pool fraction, vegetarian muscle carnitine/OCTN2 data, whole-body retention of oral dose.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://lpi.oregonstate.edu/mic/dietary-factors/L-carnitine",
+   "title": "L-Carnitine — Linus Pauling Institute Micronutrient Information Center",
+   "authors": [
+    "Linus Pauling Institute (Oregon State University)"
+   ],
+   "year": "",
+   "journal_or_publisher": "Oregon State University",
+   "vol_pages": "",
+   "doi": "",
+   "pmid": "",
+   "page_file": "research/physiology/pages/lpi-carnitine.txt",
+   "quotes": [
+    "a 70 kg (154 1b) person would synthesize between 11 and 34 mg of carnitine per day",
+    "concentrations of free carnitine around 40 to 50 micromoles (µmol)/L, while plasma concentrations of acetyl-L-carnitine (ALCAR; the most abundant carnitine ester) are around 3 to 6 µmol/L",
+    "This enzyme is, however, highly expressed in human liver, testes, and kidney"
+   ],
+   "notes": "Undated continuously updated page (accessed 2026-11-15); used only for body-economy figures (plasma range, synthesis rate, food table, 95% reabsorption, BBOX1 tissue expression), each cross-checked against primary literature.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12251438/",
+   "title": "Carnitine Deficiency in Chronic Kidney Disease: Pathophysiology, Clinical Implications, and Therapeutic Perspectives.",
+   "authors": [
+    "Kaida Y",
+    "Taguchi K",
+    "Fukami K"
+   ],
+   "year": "2025",
+   "journal_or_publisher": "Nutrients",
+   "vol_pages": "17(13):",
+   "doi": "10.3390/nu17132084",
+   "pmid": "40647189",
+   "page_file": "research/physiology/pages/carnitine-ckd-review-2025-fulltext.txt",
+   "quotes": [
+    "Approximately 70–100 mg of carnitine is shown to be removed during an HD session",
+    "Carnitine is predominantly distributed in skeletal muscle and cardiac muscle, which together account for approximately 98% of the total body storage. The estimated total carnitine pool is around 100 mmol in a 70 kg adult male",
+    "A large amount of carnitine is filtered through the glomerulus and excreted in the urine, but more than 90% is reabsorbed in kidney tubular cells.",
+    "γ-butyrobetaine dioxygenase, responsible for catalyzing the final conversion to carnitine, plays a rate-limiting role in the liver, kidney, and brain."
+   ],
+   "notes": "Open-access full text (PMC); same article as PMID 40647189 abstract, fetched for deeper quotes.",
+   "extract_status": "ok"
+  },
+  {
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6982704/",
+   "title": "SLC22A5 (OCTN2) Carnitine Transporter-Indispensable for Cell Metabolism, a Jekyll and Hyde of Human Cancer.",
+   "authors": [
+    "Juraszek B",
+    "Nałęcz KA"
+   ],
+   "year": "2019",
+   "journal_or_publisher": "Molecules",
+   "vol_pages": "25(1):",
+   "doi": "10.3390/molecules25010014",
+   "pmid": "31861504",
+   "page_file": "research/physiology/pages/slc22a5-octn2-review-2019-fulltext.txt",
+   "quotes": [
+    "co-localization of OCTN2 with PDZK1 (Na+/H+ exchange regulatory cofactor NHE-RF3)"
+   ],
+   "notes": "Open-access full text (PMC); same article as PMID 31861504 abstract, fetched for deeper quotes.",
+   "extract_status": "ok"
+  }
+ ],
+ "claims": [
+  {
+   "claim": "Carnitine's major mitochondrial function is shuttling long-chain fatty acids into the mitochondrial matrix for β-oxidation via the carnitine-acylcarnitine cycle (CPT I, CACT, CPT II).",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/31500110/",
+   "quote": "One of the major functions of carnitine is shuttling long-chain fatty acids across the mitochondrial membrane from the cytosol into the mitochondrial matrix for β-oxidation. This transport is achieved by mitochondrial carnitine-acylcarnitine cycle, which consists of three enzymes: carnitine palmitoyltransferase I (CPT I), carnitine-acylcarnitine translocase (CACT), and carnitine palmitoyltransferase II (CPT II).",
+   "strength": "review"
+  },
+  {
+   "claim": "Acetylcarnitine serves as a critical acetyl buffer for working skeletal muscle, keeping free CoA available during contraction.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/26154055/",
+   "quote": "acetylcarnitine serves as a critical acetyl buffer for working muscles",
+   "strength": "animal"
+  },
+  {
+   "claim": "In human muscle during incremental exercise, acetylcarnitine rises from 6.0 to 15.2 mmol/kg dry weight while free carnitine and CoASH fall.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/1815472/",
+   "quote": "The increase of acetyl-CoA was from 12.5 mumol kg-1 dry weight at rest to 27.3 after the highest work load and for acetylcarnitine from 6.0 mmol kg-1 dry weight to 15.2",
+   "strength": "human"
+  },
+  {
+   "claim": "Ninety-five percent of the body carnitine pool resides in skeletal muscle.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/21753065/",
+   "quote": "Ninety-five percent of the body carnitine pool resides in skeletal muscle where it plays a vital role in fuel metabolism",
+   "strength": "human"
+  },
+  {
+   "claim": "Skeletal and cardiac muscle together hold approximately 98% of total body carnitine storage, a pool estimated at around 100 mmol in a 70 kg adult male.",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12251438/",
+   "quote": "Carnitine is predominantly distributed in skeletal muscle and cardiac muscle, which together account for approximately 98% of the total body storage. The estimated total carnitine pool is around 100 mmol in a 70 kg adult male",
+   "strength": "review"
+  },
+  {
+   "claim": "Renal filtration maintains plasma free carnitine around 40-50 µmol/L, with acetyl-L-carnitine around 3-6 µmol/L.",
+   "url": "https://lpi.oregonstate.edu/mic/dietary-factors/L-carnitine",
+   "quote": "concentrations of free carnitine around 40 to 50 micromoles (µmol)/L, while plasma concentrations of acetyl-L-carnitine (ALCAR; the most abundant carnitine ester) are around 3 to 6 µmol/L",
+   "strength": "review"
+  },
+  {
+   "claim": "Carnitine biosynthesis from trimethyllysine proceeds through four enzymes (TMLD, HTMLA, TMABADH, and γ-butyrobetaine dioxygenase), and OCTN2 transports carnitine into cells.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/31500110/",
+   "quote": "The biosynthetic pathway involves four enzymes: 6-N-trimethyllysine dioxygenase (TMLD), 3-hydroxy-6-N-trimethyllysine aldolase (HTMLA), 4-N-trimethylaminobutyraldehyde dehydrogenase (TMABADH), and γ-butyrobetaine dioxygenase (BBD). OCTN2 (organic cation/carnitine transporter novel type 2) transports carnitine into the cells",
+   "strength": "review"
+  },
+  {
+   "claim": "Significant γ-butyrobetaine hydroxylase activity — the final step of carnitine biosynthesis — is present in human kidney, which converts accumulated trimethyllysine to carnitine.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/6773946/",
+   "quote": "Significant gamma-butyrobetaine, 2-oxoglutarate dioxygenase (EC 1.14.11.1) activity was found in human kidney but this activity was absent in rat kidney",
+   "strength": "human"
+  },
+  {
+   "claim": "A 70 kg adult synthesizes roughly 11-34 mg of carnitine per day (about 1.2 µmol/kg body weight/day).",
+   "url": "https://lpi.oregonstate.edu/mic/dietary-factors/L-carnitine",
+   "quote": "a 70 kg (154 1b) person would synthesize between 11 and 34 mg of carnitine per day",
+   "strength": "review"
+  },
+  {
+   "claim": "Under baseline conditions, renal clearance of L-carnitine (1-3 mL/min) is substantially below GFR, indicating extensive (98-99%) tubular reabsorption.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/12908852/",
+   "quote": "Under baseline conditions, the renal clearance of L-carnitine (1-3 mL/min) is substantially less than glomerular filtration rate (GFR), indicating extensive (98-99%) tubular reabsorption.",
+   "strength": "review"
+  },
+  {
+   "claim": "At normal circulating concentrations, renal carnitine reabsorption is highly efficient (90-99% of filtered load) but displays saturation kinetics.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/15591001/",
+   "quote": "At normal circulating l-carnitine concentrations, renal l-carnitine reabsorption is highly efficient (90-99% of filtered load; clearance, 1-3 mL/min), but displays saturation kinetics.",
+   "strength": "review"
+  },
+  {
+   "claim": "OCTN2 mediates sodium-dependent, high-affinity L-carnitine transport (Km ≈ 4.34 µM) and is strongly expressed in human kidney, skeletal muscle, and heart.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/9685390/",
+   "quote": "When OCTN2 was expressed in HEK293 cells, uptake of L-[3H]carnitine was strongly enhanced in a sodium-dependent manner with Km value of 4.34 microM",
+   "strength": "in-vitro"
+  },
+  {
+   "claim": "Loss-of-function of the OCTN2 transporter (encoded by SLC22A5) causes primary systemic carnitine deficiency, presenting as hypoketotic hypoglycemia or cardiomyopathy in children and sudden death in children or adults.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/28841266/",
+   "quote": "Primary carnitine deficiency is caused by a defect in the OCTN2 carnitine transporter encoded by the SLC22A5 gene. It can cause hypoketotic hypoglycemia or cardiomyopathy in children, and sudden death in children and adults.",
+   "strength": "human"
+  },
+  {
+   "claim": "Across 621 published cases of primary carnitine deficiency, cardiac symptoms (predominantly cardiomyopathy) were the most prevalent manifestation (23.8%).",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/34997761/",
+   "quote": "In these 621 cases, cardiac symptoms (predominantly cardiomyopathy) were the most prevalent (23.8%)",
+   "strength": "review"
+  },
+  {
+   "claim": "OCTN2 defects produce autosomal recessive primary carnitine deficiency characterized by increased urinary carnitine losses and low serum carnitine — genetic proof that renal OCTN2 is the body's carnitine-conservation system.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/26828774/",
+   "quote": "Defects in the OCTN2 carnitine transporter results in autosomal recessive primary carnitine deficiency characterized by decreased intracellular carnitine accumulation, increased losses of carnitine in the urine, and low serum carnitine levels",
+   "strength": "review"
+  },
+  {
+   "claim": "PPARα activation enhances both carnitine biosynthesis and OCTN2-mediated hepatic carnitine import in fasted mice.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/17692817/",
+   "quote": "both enhancement of carnitine biosynthesis (due to increased gamma-butyrobetaine dioxygenase activity), extra-hepatic gamma-butyrobetaine synthesis and increased hepatic carnitine import (OCTN2 expression) contributes to the increased hepatic carnitine levels after fasting",
+   "strength": "animal"
+  },
+  {
+   "claim": "Exercise-responsive transcriptional machinery (PGC-1α and MEF2 factors) drives OCTN2 gene expression in skeletal muscle cells.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/36293168/",
+   "quote": "PGC-1α overexpression in C2C12 myoblasts increases OCTN2 mRNA expression",
+   "strength": "in-vitro"
+  },
+  {
+   "claim": "Pro-inflammatory cytokines regulate OCTN2: IFN-γ and TNF-α increased intestinal OCTN2 expression in mice.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/20722056/",
+   "quote": "Treatment with IFN-γ and TNF-α increased intestinal OCTN2 expression, particularly in the colon",
+   "strength": "animal"
+  },
+  {
+   "claim": "Oral bioavailability of supplemental L-carnitine (0.5-6 g) is only 14-18% of dose, versus 54-87% for carnitine in food, so the absorbed fraction falls as the dose rises.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/15591001/",
+   "quote": "Bioavailability of dietary L-carnitine is 54-87% and is dependent on the amount of L-carnitine in the meal. Absorption of L-carnitine dietary supplements (0.5-6 g) is primarily passive; bioavailability is 14-18% of dose.",
+   "strength": "review"
+  },
+  {
+   "claim": "Muscle carnitine accretion in humans requires insulin: hypercarnitinemia raised muscle carnitine and OCTN2 mRNA under hyperinsulinemia but had no effect at fasting insulin.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/16368715/",
+   "quote": "Hypercarnitinemia in the presence of a fasting insulin concentration had no effect on either of these parameters",
+   "strength": "human"
+  },
+  {
+   "claim": "Vegetarians have 16% lower plasma carnitine, 17% lower muscle carnitine content, and reduced muscle OCTN2 expression, yet greater whole-body retention of an oral carnitine dose.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/21753065/",
+   "quote": "[organic cation transporter 2 (OCTN2)] messenger RNA and protein expressions were 16% (P < 0.01), 58% (P < 0.01), 17% (P < 0.05), 33% (P < 0.05), and 37% (P = 0.09) lower, respectively, in vegetarian volunteers",
+   "strength": "human"
+  },
+  {
+   "claim": "A single hemodialysis session removes approximately 70-100 mg of carnitine into the dialysate.",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12251438/",
+   "quote": "Approximately 70–100 mg of carnitine is shown to be removed during an HD session",
+   "strength": "review"
+  },
+  {
+   "claim": "Among 150 maintenance dialysis patients, carnitine deficiency (free carnitine <20 µmol/L) prevalence was 25.3% and insufficiency (acyl/free ratio >0.4) was 86.7%.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/30943487/",
+   "quote": "The prevalence of carnitine deficiency and that of carnitine insufficiency was 25.3 and 86.7%, respectively",
+   "strength": "human"
+  },
+  {
+   "claim": "There is evidence supporting L-carnitine treatment for hyperammonemia and hepatotoxicity from chronic valproic acid use or acute overdose.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/39261302/",
+   "quote": "There is evidence supporting the use of L-carnitine in treating hyperammonaemia and hepatotoxicity following chronic therapeutic use and after acute overdose of valproic acid",
+   "strength": "review"
+  },
+  {
+   "claim": "In organic acidurias, accumulating organic acids are detoxified as coenzyme A, carnitine, and glycine esters, and carnitine supplementation is a standard maintenance therapy.",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/29335813/",
+   "quote": "Biochemically, OADs are characterized by accumulation of mono-, di- and/or tricarboxylic acids (\"organic acids\") and corresponding coenzyme A, carnitine and/or glycine esters, some of which are considered toxic at high concentrations.",
+   "strength": "review"
+  }
+ ]
+}

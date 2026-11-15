@@ -1,0 +1,38 @@
+# Source: PubMed (NCBI E-utilities efetch)
+# URL: https://pubmed.ncbi.nlm.nih.gov/1922166/
+# Fetched: 2026-11-15
+# PMID: 1922166
+
+1. Muscle Nerve. 1991 Jul;14(7):598-604. doi: 10.1002/mus.880140703.
+
+Carnitine in muscle, serum, and urine of nonprofessional athletes: effects of 
+physical exercise, training, and L-carnitine administration.
+
+Arenas J(1), Ricoy JR, Encinas AR, Pola P, D'Iddio S, Zeviani M, Didonato S, 
+Corsi M.
+
+Author information:
+(1)Neuromuscular Research Unit, 12 de Octubre Hospital, Compulutense University 
+School of Medicine, Madrid, Spain.
+
+Efficient utilization of fatty acids to sustain prolonged physical efforts is 
+thought to be dependent on the carnitine shuttle of muscle. A study has been 
+carried out in 24 athletes (13 long-distance runners and 11 sprinters). These 
+subjects received placebo or L-carnitine (1 g/orally b.i.d.) during a 6-month 
+period of training. In endurance athletes, training induced lowering of total 
+and free muscle carnitine. Increase of esterified muscle carnitine was also 
+observed. Post-exertional overflow of acetylcarnitine and long-chain 
+acylcarnitine, as well as reduction of the free fraction was also noticed in the 
+blood. Fasting plasma carnitine levels, however, were not affected in 
+carnitine-treated athletes at rest. These changes were likely related with the 
+significantly increased urinary excretion of esterified and total carnitine 
+which occurred after physical exercise. In the sprinters only, a decrease in 
+free and total carnitine of muscle was detected after training. Both these 
+potentially unfavorable effects were prevented by oral administration of 
+L-carnitine. Our data suggest that training in endurance athletes, and to a 
+lesser extent, in sprinters, is associated with a decrease in free and total 
+carnitine of muscle, due to an increased overflow of short-chain carnitine 
+esters in urine.
+
+DOI: 10.1002/mus.880140703
+PMID: 1922166 [Indexed for MEDLINE]

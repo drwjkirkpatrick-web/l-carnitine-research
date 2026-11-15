@@ -1,0 +1,398 @@
+# URL: https://pubmed.ncbi.nlm.nih.gov/26584136/
+# Fetched via web_extract on 2026-11-15
+
+Clipboard, Search History, and several other advanced features are temporarily unavailable.
+
+
+[Skip to main page content](https://pubmed.ncbi.nlm.nih.gov/26584136/#article-details)
+
+### NIH Websites Are Changing
+
+- [Get the Latest Updates and FAQs on the transition](https://www.nih.gov/web-modernization)
+- Per [Executive Order 14434](https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/), federal agencies are now using "Super Intelligence" (SI) in place of "Artificial Intelligence" (AI). You may see both terms across NIH content during this transition.
+
+![Dot gov](https://cdn.ncbi.nlm.nih.gov/coreutils/uswds/img/icon-dot-gov.svg)
+
+**The .gov means it’s official.**
+
+Federal government websites often end in .gov or .mil. Before
+sharing sensitive information, make sure you’re on a federal
+government site.
+
+
+![Https](https://cdn.ncbi.nlm.nih.gov/coreutils/uswds/img/icon-https.svg)
+
+**The site is secure.**
+
+The **https://** ensures that you are connecting to the
+official website and that any information you provide is encrypted
+and transmitted securely.
+
+
+[Access keys](https://www.ncbi.nlm.nih.gov/guide/browsers/#ncbi_accesskeys) [NCBI Homepage](https://www.ncbi.nlm.nih.gov/) [MyNCBI Homepage](https://pubmed.ncbi.nlm.nih.gov/myncbi/) [Main Content](https://pubmed.ncbi.nlm.nih.gov/26584136/#maincontent) [Main Navigation](https://pubmed.ncbi.nlm.nih.gov/26584136/#)
+
+[![pubmed logo](https://cdn.ncbi.nlm.nih.gov/pubmed/a447896c-976f-490b-b86b-2668b65114a8/core/images/pubmed-logo-blue.svg)](https://pubmed.ncbi.nlm.nih.gov/)[Show search bar](https://pubmed.ncbi.nlm.nih.gov/26584136/# "Show search bar")
+
+Search:
+
+
+```
+
+```
+
+[Clear search input](https://pubmed.ncbi.nlm.nih.gov/26584136/# "Clear search input") Search
+
+[Advanced](https://pubmed.ncbi.nlm.nih.gov/advanced/) [Clipboard](https://pubmed.ncbi.nlm.nih.gov/clipboard/)
+
+[User Guide](https://pubmed.ncbi.nlm.nih.gov/help/)
+
+Save
+
+Email
+
+
+Send to
+
+- [Clipboard](https://pubmed.ncbi.nlm.nih.gov/26584136/#)
+- [My Bibliography](https://account.ncbi.nlm.nih.gov/?back_url=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F26584136%2F%23open-bibliography-panel)
+- [Collections](https://account.ncbi.nlm.nih.gov/?back_url=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F26584136%2F%23open-collections-panel)
+- [Citation manager](https://pubmed.ncbi.nlm.nih.gov/26584136/#)
+
+Display options
+
+Display options
+
+
+Format
+AbstractPubMedPMID
+
+## Save citation to file
+
+Format:
+Summary (text)PubMedPMIDAbstract (text)CSV
+
+Create file
+
+Cancel
+
+
+## Email citation
+
+Email address has not been verified. Go to
+[My NCBI account settings](https://account.ncbi.nlm.nih.gov/settings/)
+to confirm your email and then refresh this page.
+
+
+To:
+
+
+Subject:
+
+
+Body:
+
+
+Format:
+SummarySummary (text)AbstractAbstract (text)
+
+MeSH and other data
+
+
+Send email
+
+Cancel
+
+
+### Add to Collections
+
+- Create a new collection
+- Add to an existing collection
+
+Name your collection:
+
+
+Name must be less than 100 characters
+
+
+Choose a collection:
+
+
+Unable to load your collection due to an error
+
+[Please try again](https://pubmed.ncbi.nlm.nih.gov/26584136/#)
+
+Add
+
+Cancel
+
+
+### Add to My Bibliography
+
+- My Bibliography
+
+Unable to load your delegates due to an error
+
+[Please try again](https://pubmed.ncbi.nlm.nih.gov/26584136/#)
+
+Add
+
+Cancel
+
+
+## Your saved search
+
+Name of saved search:
+
+
+Search terms:
+
+
+[Test search terms](https://pubmed.ncbi.nlm.nih.gov/26584136/#)
+
+Would you like email updates of new search results?
+Saved Search Alert Radio Buttons
+
+- Yes
+- No
+
+Email:
+( [change](https://www.ncbi.nlm.nih.gov/account/settings/))
+
+Frequency:
+MonthlyWeeklyDaily
+
+Which day?
+The first SundayThe first MondayThe first TuesdayThe first WednesdayThe first ThursdayThe first FridayThe first SaturdayThe first dayThe first weekday
+
+Which day?
+SundayMondayTuesdayWednesdayThursdayFridaySaturday
+
+Report format:
+SummarySummary (text)AbstractAbstract (text)PubMed
+
+Send at most:
+1 item5 items10 items20 items50 items100 items200 items
+
+Send even when there aren't any new results
+
+
+Optional text in email:
+
+
+Save
+
+Cancel
+
+
+## Create a file for external citation management software
+
+Create file
+
+Cancel
+
+
+## Your RSS Feed
+
+Name of RSS Feed:
+
+
+Number of items displayed:
+510152050100
+
+Create RSS
+
+Cancel
+
+
+RSS Link
+Copy
+
+
+Full text links
+Cite
+
+Display options
+
+Display options
+
+
+Format
+AbstractPubMedPMID
+
+Linked Discoveries
+
+## Abstract
+
+**Objective:**
+
+Dietary l-carnitine can be metabolized by intestinal microbiota to trimethylamine, which is absorbed by the gut and further oxidized to trimethylamine N-oxide (TMAO) in the liver. TMAO plasma levels have been associated with atherosclerosis development in ApoE(-/-) mice. To better understand the mechanisms behind this association, we conducted in vitro and in vivo studies looking at the effect of TMAO on different steps of atherosclerotic disease progression.
+
+
+**Methods:**
+
+J774 mouse macrophage cells were used to evaluate the effect of TMAO on foam cell formation. Male ApoE(-/-) mice transfected with human cholesteryl ester transfer protein (hCETP) were fed l-carnitine and/or methimazole, a flavin monooxygenase 3 (FMO3) inhibitor that prevents the formation of TMAO. Following 12 week treatment, l-carnitine and TMAO plasma levels, aortic lesion development, and lipid profiles were determined.
+
+
+**Results:**
+
+TMAO at concentrations up to 10-fold the Cmax reported in humans did not affect in vitro foam cell formation. In ApoE(-/-)mice expressing hCETP, high doses of l-carnitine resulted in a significant increase in plasma TMAO levels. Surprisingly, and independently from treatment group, TMAO levels inversely correlated with aortic lesion size in both aortic root and thoracic aorta. High TMAO levels were found to significantly correlate with smaller aortic lesion area. Plasma lipid and lipoprotein levels did not change with treatment nor with TMAO levels, suggesting that the observed effects on lesion area were independent from lipid changes.
+
+
+**Conclusion:**
+
+These findings suggest that TMAO slows aortic lesion formation in this mouse model and may have a protective effect against atherosclerosis development in humans.
+
+
+**Keywords:**
+
+Atherosclerosis; Cardiovascular disease; Gut microbiota; TMAO; l-carnitine.
+
+
+Copyright © 2015 The Authors. Published by Elsevier Ireland Ltd.. All rights reserved.
+
+
+[PubMed Disclaimer](https://pubmed.ncbi.nlm.nih.gov/disclaimer/)
+
+## Similar articles
+
+- [Trimethylamine _N_-Oxide: A Link among Diet, Gut Microbiota, Gene Regulation of Liver and Intestine Cholesterol Homeostasis and HDL Function.](https://pubmed.ncbi.nlm.nih.gov/30347638/)
+
+Canyelles M, Tondo M, Cedó L, Farràs M, Escolà-Gil JC, Blanco-Vaca F.Canyelles M, et al.Int J Mol Sci. 2018 Oct 19;19(10):3228. doi: 10.3390/ijms19103228.Int J Mol Sci. 2018.PMID: 30347638Free PMC article.Review.
+
+- [The Effect of Different l-Carnitine Administration Routes on the Development of Atherosclerosis in ApoE Knockout Mice.](https://pubmed.ncbi.nlm.nih.gov/29178259/)
+
+Zhao Y, Yang N, Gao J, Li H, Cai W, Zhang X, Ma Y, Niu X, Yang G, Zhou X, Li Y.Zhao Y, et al.Mol Nutr Food Res. 2018 Mar;62(5). doi: 10.1002/mnfr.201700299. Epub 2018 Feb 5.Mol Nutr Food Res. 2018.PMID: 29178259
+
+- [Trimethylamine N-oxide promotes atherosclerosis via CD36-dependent MAPK/JNK pathway.](https://pubmed.ncbi.nlm.nih.gov/29136772/)
+
+Geng J, Yang C, Wang B, Zhang X, Hu T, Gu Y, Li J.Geng J, et al.Biomed Pharmacother. 2018 Jan;97:941-947. doi: 10.1016/j.biopha.2017.11.016. Epub 2017 Nov 7.Biomed Pharmacother. 2018.PMID: 29136772
+
+- [Dioxin-like pollutants increase hepatic flavin containing monooxygenase (FMO3) expression to promote synthesis of the pro-atherogenic nutrient biomarker trimethylamine N-oxide from dietary precursors.](https://pubmed.ncbi.nlm.nih.gov/27155921/)
+
+Petriello MC, Hoffman JB, Sunkara M, Wahlang B, Perkins JT, Morris AJ, Hennig B.Petriello MC, et al.J Nutr Biochem. 2016 Jul;33:145-53. doi: 10.1016/j.jnutbio.2016.03.016. Epub 2016 Apr 1.J Nutr Biochem. 2016.PMID: 27155921Free PMC article.
+
+- [Gut microbiota metabolism of L-carnitine and cardiovascular risk.](https://pubmed.ncbi.nlm.nih.gov/24267266/)
+
+Ussher JR, Lopaschuk GD, Arduini A.Ussher JR, et al.Atherosclerosis. 2013 Dec;231(2):456-61. doi: 10.1016/j.atherosclerosis.2013.10.013. Epub 2013 Oct 24.Atherosclerosis. 2013.PMID: 24267266Review.
+
+
+[See all similar articles](https://pubmed.ncbi.nlm.nih.gov/?linkname=pubmed_pubmed&from_uid=26584136)
+
+## Cited by
+
+- [Microbial metabolism of dietary components to bioactive metabolites: opportunities for new therapeutic interventions.](https://pubmed.ncbi.nlm.nih.gov/27102537/)
+
+Zhang LS, Davies SS.Zhang LS, et al.Genome Med. 2016 Apr 21;8(1):46. doi: 10.1186/s13073-016-0296-x.Genome Med. 2016.PMID: 27102537Free PMC article.Review.
+
+- [Trimethylamine _N_-Oxide: A Link among Diet, Gut Microbiota, Gene Regulation of Liver and Intestine Cholesterol Homeostasis and HDL Function.](https://pubmed.ncbi.nlm.nih.gov/30347638/)
+
+
+[... middle omitted — see footer ...]
+
+
+
+
+
+
+  - [Search in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22CETP+protein%2C+human%22%5Bnm%5D&sort=date&sort_order=desc)
+  - [Search in MeSH](https://www.ncbi.nlm.nih.gov/mesh?term=%22CETP+protein%2C+human%22)
+  - [Add to Search](https://pubmed.ncbi.nlm.nih.gov/26584136/#)
+
+- Cholesterol Ester Transfer Proteins
+
+
+
+
+Actions
+
+
+
+
+
+  - [Search in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22Cholesterol+Ester+Transfer+Proteins%22%5Bnm%5D&sort=date&sort_order=desc)
+  - [Search in MeSH](https://www.ncbi.nlm.nih.gov/mesh?term=%22Cholesterol+Ester+Transfer+Proteins%22)
+  - [Add to Search](https://pubmed.ncbi.nlm.nih.gov/26584136/#)
+
+- Methylamines
+
+
+
+
+Actions
+
+
+
+
+
+  - [Search in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22Methylamines%22%5Bnm%5D&sort=date&sort_order=desc)
+  - [Search in MeSH](https://www.ncbi.nlm.nih.gov/mesh?term=%22Methylamines%22)
+  - [Add to Search](https://pubmed.ncbi.nlm.nih.gov/26584136/#)
+
+- trimethyloxamine
+
+
+
+
+Actions
+
+
+
+
+
+  - [Search in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22trimethyloxamine%22%5Bnm%5D&sort=date&sort_order=desc)
+  - [Search in MeSH](https://www.ncbi.nlm.nih.gov/mesh?term=%22trimethyloxamine%22)
+  - [Add to Search](https://pubmed.ncbi.nlm.nih.gov/26584136/#)
+
+- Carnitine
+
+
+
+
+Actions
+
+
+
+
+
+  - [Search in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22Carnitine%22%5Bnm%5D&sort=date&sort_order=desc)
+  - [Search in MeSH](https://www.ncbi.nlm.nih.gov/mesh?term=%22Carnitine%22)
+  - [Add to Search](https://pubmed.ncbi.nlm.nih.gov/26584136/#)
+
+## Related information
+
+- [Gene](https://www.ncbi.nlm.nih.gov/gene?linkname=pubmed_gene&from_uid=26584136 "Link to related Genes")
+- [MedGen](https://www.ncbi.nlm.nih.gov/medgen?linkname=pubmed_medgen&from_uid=26584136 "Related information in MedGen")
+- [Protein (RefSeq)](https://www.ncbi.nlm.nih.gov/protein?linkname=pubmed_protein_refseq&from_uid=26584136 "Link to Protein RefSeqs")
+- [PubChem Compound (MeSH Keyword)](https://www.ncbi.nlm.nih.gov/pccompound?linkname=pubmed_pccompound_mesh&from_uid=26584136 "Related PubChem Compound via MeSH")
+
+## LinkOut - more resources
+
+- ### Full Text Sources
+
+
+  - [ClinicalKey](https://www.clinicalkey.com/content/playBy/pii?v=S0021-9150(15)30192-1)
+  - [Elsevier Science](https://linkinghub.elsevier.com/retrieve/pii/S0021-9150(15)30192-1)
+- ### Other Literature Sources
+
+
+  - [scite Smart Citations](https://scite.ai/reports/26584136)
+- ### Medical
+
+
+  - [MedlinePlus Health Information](https://medlineplus.gov/atherosclerosis.html)
+- ### Miscellaneous
+
+
+  - [NCI CPTAC Assay Portal](https://assays.cancer.gov/non-CPTAC-1087)
+
+NCBI Literature Resources
+
+[MeSH](https://www.ncbi.nlm.nih.gov/mesh/) [PMC](https://www.ncbi.nlm.nih.gov/pmc/) [Bookshelf](https://www.ncbi.nlm.nih.gov/books) [Disclaimer](https://pubmed.ncbi.nlm.nih.gov/disclaimer/)
+
+The PubMed wordmark and PubMed logo are registered trademarks of the U.S. Department of Health and Human Services (HHS). Unauthorized use of these marks is strictly prohibited.
+
+──────── [TRUNCATED] ────────
+Showing 8,983 chars (head) + 2,992 chars (tail) of 18,618 total clean characters.
+Full text saved to: /home/walker/.hermes/cache/web/pubmed.ncbi.nlm.nih.gov-de434b953a.md
+To read the omitted middle: read_file path="/home/walker/.hermes/cache/web/pubmed.ncbi.nlm.nih.gov-de434b953a.md" offset=286 limit=200  (the file is the complete page; raise/lower offset to page through it).
+─────────────────────────────

@@ -1,0 +1,29 @@
+# Source: PubMed (NCBI E-utilities efetch)
+# URL: https://pubmed.ncbi.nlm.nih.gov/956930/
+# Fetched: 2026-11-15
+# PMID: 956930
+
+1. J Nutr Sci Vitaminol (Tokyo). 1976;22(2):167-74.
+
+Effects of carnitine administration, fasting, and exercise on urinary carnitine 
+excretion in man.
+
+Suzuki M, Kanaya M, Muramatsu S, Takahashi T.
+
+1. In this study, the carnitine level in 24-hr urine has been determined in 
+males, (a) before and after a single dose of 500 mg (as carnitine) of 
+DL-carnitine chloride, (b) during fasting, and (c) before and after a severe 
+running program (3 x 2,000 m/8-8.5 min). 2. After the administration of 
+DL-carnitine chloride, the urinary carnitine excretion was increased by only 
+approximately 10% of the dose, suggesting a large body pool size of carnitine. 
+3. Urinary carnitine excretion was significantly increased during five-day 
+fasting; a maximum level of 2.17 +/- 0.24 (mean and SD) mmoles/day was 4.6 times 
+higher than the usual level of 0.47 +/- 0.10 mmoles/day (p less than 0.001). 
+Respiratory quotients (RQ) decreased significantly (p less than 0.01) from the 
+control value of 0.81 +/- 0.03 to the value of 0.75 +/- .02 after five-day 
+fasting and was significantly correlated with urinary carnitine levels (r = 
+0.62, p less than 0.05). 4. The urinary excretion of carnitine increased 
+slightly with heavy running exercise. 5. The results are discussed in relation 
+to the physiologic regulation of the rate of carnitine synthesis.
+
+PMID: 956930 [Indexed for MEDLINE]

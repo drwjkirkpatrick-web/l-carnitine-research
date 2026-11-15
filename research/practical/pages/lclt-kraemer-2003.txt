@@ -1,0 +1,41 @@
+15. J Strength Cond Res. 2003 Aug;17(3):455-62. doi: 
+10.1519/1533-4287(2003)017<0455:teolls>2.0.co;2.
+
+The effects of L-carnitine L-tartrate supplementation on hormonal responses to 
+resistance exercise and recovery.
+
+Kraemer WJ(1), Volek JS, French DN, Rubin MR, Sharman MJ, Gómez AL, Ratamess NA, 
+Newton RU, Jemiolo B, Craig BW, Häkkinen K.
+
+Author information:
+(1)Human Performance Laboratory, Department of Kinesiology, University of 
+Connecticut, Storrs, CT 06269, USA. kraemer@uconnvm.uconn.edu
+
+The purpose of this investigation was to examine the influence of L-carnitine 
+L-tartrate (LCLT) supplementation using a balanced, cross-over, 
+placebo-controlled research design on the anabolic hormone response (i.e., 
+testosterone [T], insulin-like growth factor-I, insulin-like growth 
+factor-binding protein-3 [IGFBP-3], and immunofunctional and immunoreactive 
+growth hormone [GHif and GHir]) to acute resistance exercise. Ten healthy, 
+recreationally weight-trained men (mean +/- SD age 23.7 +/- 2.3 years, weight 
+78.7 +/- 8.5 kg, and height 179.2 +/- 4.6 cm) volunteered and were matched, and 
+after 3 weeks of supplementation (2 g LCLT per day), fasting morning blood 
+samples were obtained on six consecutive days (D1-D6). Subjects performed a 
+squat protocol (5 sets of 15-20 repetitions) on D2. During the squat protocol, 
+blood samples were obtained before exercise and 0, 15, 30, 120, and 180 minutes 
+postexercise. After a 1-week washout period, subjects consumed the other 
+supplement for a 3-week period, and the same experimental protocol was repeated 
+using the exact same procedures. Expected exercise-induced increases in all of 
+the hormones were observed for GHir, GHif, IGFBP-3, and T. Over the recovery 
+period, LCLT reduced the amount of exercise-induced muscle tissue damage, which 
+was assessed via magnetic resonance imaging scans of the thigh. LCLT 
+supplementation significantly (p < 0.05) increased IGFBP-3 concentrations prior 
+to and at 30, 120, and 180 minutes after acute exercise. No other direct effects 
+of LCLT supplementation were observed on the absolute concentrations of the 
+hormones examined, but with more undamaged tissue, a greater number of intact 
+receptors would be available for hormonal interactions. These data support the 
+use of LCLT as a recovery supplement for hypoxic exercise and lend further 
+insights into the hormonal mechanisms that may help to mediate quicker recovery.
+
+DOI: 10.1519/1533-4287(2003)017<0455:teolls>2.0.co;2
+PMID: 12930169 [Indexed for MEDLINE]

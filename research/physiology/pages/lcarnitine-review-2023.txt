@@ -1,0 +1,43 @@
+PMID: 36632072
+PubMed URL: https://pubmed.ncbi.nlm.nih.gov/36632072/
+Fetched via NCBI eutils efetch, accessed 2026-11-15
+
+1. Saudi J Biol Sci. 2023 Feb;30(2):103555. doi: 10.1016/j.sjbs.2022.103555. Epub
+ 2022 Dec 30.
+
+l-carnitine: Nutrition, pathology, and health benefits.
+
+Alhasaniah AH(1).
+
+Author information:
+(1)Department of Clinical Laboratory Sciences, Faculty of Applied Medical 
+Sciences, Najran University, P.O. Box 1988, Najran 61441, Saudi Arabia.
+
+Carnitine is a medically needful nutrient that contributes in the production of 
+energy and the metabolism of fatty acids. Bioavailability is higher in 
+vegetarians than in people who eat meat. Deficits in carnitine transporters 
+occur as a result of genetic mutations or in combination with other illnesses 
+such like hepatic or renal disease. Carnitine deficit can arise in diseases such 
+endocrine maladies, cardiomyopathy, diabetes, malnutrition, aging, sepsis, and 
+cirrhosis due to abnormalities in carnitine regulation. The exogenously provided 
+molecule is obviously useful in people with primary carnitine deficits, which 
+can be life-threatening, and also some secondary deficiencies, including such 
+organic acidurias: by eradicating hypotonia, muscle weakness, motor skills, and 
+wasting are all improved l-carnitine (LC) have reported to improve myocardial 
+functionality and metabolism in ischemic heart disease patients, as well as 
+athletic performance in individuals with angina pectoris. Furthermore, although 
+some intriguing data indicates that LC could be useful in a variety of 
+conditions, including carnitine deficiency caused by long-term total parenteral 
+supplementation or chronic hemodialysis, hyperlipidemias, and the prevention of 
+anthracyclines and valproate-induced toxicity, such findings must be viewed with 
+caution.
+
+© 2022 The Author(s).
+
+DOI: 10.1016/j.sjbs.2022.103555
+PMCID: PMC9827390
+PMID: 36632072
+
+Conflict of interest statement: The authors declare that they have no known 
+competing financial interests or personal relationships that could have appeared 
+to influence the work reported in this paper.

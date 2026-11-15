@@ -1,0 +1,12 @@
+PMID: 41389078
+URL: https://pubmed.ncbi.nlm.nih.gov/41389078/
+Title: Exercise and Kidney Health: Core Curriculum 2026.
+Authors: Becerra LA; Mansour SG
+Journal: American journal of kidney diseases : the official journal of the National Kidney Foundation
+Year: 2026
+Vol/Pages: 87(2):246-259
+DOI: 10.1053/j.ajkd.2025.09.014
+Accessed: 2026-11-15 (NCBI PubMed efetch abstract)
+
+ABSTRACT
+Exercise triggers complex effects on kidney physiology that vary with intensity, duration, and environmental conditions. While moderate physical activity improves cardiovascular and renal outcomes, intense or prolonged exertion, particularly in endurance sports, can lead to acute kidney injury. Adaptations in kidney physiology during exercise include reduced plasma flow, altered glomerular filtration, and hormone-mediated fluid retention. These changes are protective but may become maladaptive with dehydration, heat stress, or excessive fluid intake. High-intensity exercise increases oxidative stress and proteinuria, while ultramarathon participation may cause transient creatinine elevation from muscle breakdown, complicating acute kidney injury diagnosis. Prevention strategies include individualized hydration plans, electrolyte replacement, and avoidance of nonsteroidal anti-inflammatory drugs. In special populations, such as children with chronic kidney disease or patients receiving dialysis, structured exercise enhances quality of life and physical function when implemented safely. Clinicians must balance the benefits of exercise with kidney-related risks, promote safe training practices, and recognize early signs of exertional complications to optimize renal and overall health in physically active individuals. This core curriculum reviews the physiology of exercise on kidney function and provides evidence-based strategies for patient counseling and risk reduction.

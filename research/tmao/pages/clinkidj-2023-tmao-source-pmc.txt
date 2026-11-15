@@ -1,0 +1,545 @@
+# URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/
+# Fetched via web_extract on 2026-11-15
+
+[Skip to main content](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#main-content)
+
+![](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/icon-dot-gov.svg)
+
+**Official websites use .gov**
+
+A
+**.gov** website belongs to an official
+government organization in the United States.
+
+
+![](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/icon-https.svg)
+
+**Secure .gov websites use HTTPS**
+
+A **lock** (
+Lock
+Locked padlock icon
+) or **https://** means you've safely
+connected to the .gov website. Share sensitive
+information only on official, secure websites.
+
+
+### NIH Websites Are Changing
+
+- [Get the Latest Updates and FAQs on the transition](https://www.nih.gov/web-modernization)
+- Per [Executive Order 14434](https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/), federal agencies are now using "Super Intelligence" (SI) in place of "Artificial Intelligence" (AI). You may see both terms across NIH content during this transition.
+
+[Home](https://pmc.ncbi.nlm.nih.gov/ "Home")
+
+![PMC search open icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/search.svg)![PMC search close ison](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/close.svg)
+
+Search PMC Full-Text Archive
+
+Search in PMC![Search](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons-bg/search--white.svg)
+
+- [Journal List](https://pmc.ncbi.nlm.nih.gov/journals/)
+- [User Guide](https://pmc.ncbi.nlm.nih.gov/about/userguide/)
+
+- ![Open resources icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/more_vert.svg)
+- [![View on publisher site icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/launch.svg)](https://doi.org/10.1093/ckj/sfad095) View on publisher site
+- [![Download PDF icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/file_download.svg)](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/pdf/sfad095.pdf) Download PDF
+- ![Collections icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/action-bookmark-full.svg)![Collections icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/action-bookmark-empty.svg)Add to Collections
+- ![Cite icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/format_quote.svg)Cite
+- ![Show article permalink icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/share.svg)Permalink
+
+
+
+
+## PERMALINK
+
+
+
+![Copy icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/content_copy.svg)Copy
+
+
+![Open article navigation icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/list.svg)
+
+As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with,
+the contents by NLM or the National Institutes of Health.
+
+Learn more:
+[PMC Disclaimer](https://pmc.ncbi.nlm.nih.gov/about/disclaimer/)
+\|
+[PMC Copyright Notice](https://pmc.ncbi.nlm.nih.gov/about/copyright/)
+
+![Clinical Kidney Journal logo](https://cdn.ncbi.nlm.nih.gov/pmc/banners/logo-ckj.png)
+
+Clin Kidney J
+
+. 2023 Apr 21;16(11):1804–1812. doi: [10.1093/ckj/sfad095](https://doi.org/10.1093/ckj/sfad095)
+
+# The dietary source of trimethylamine N-oxide and clinical outcomes: an unexpected liaison
+
+[Marie Evans](https://pubmed.ncbi.nlm.nih.gov/?term=%22Evans%20M%22[Author])
+
+### Marie Evans
+
+1
+Renal Unit, Department of Clinical Sciences and Technology (CLINTEC), Karolinska Institutet, Stockholm, Sweden
+
+Find articles by [Marie Evans](https://pubmed.ncbi.nlm.nih.gov/?term=%22Evans%20M%22[Author])
+
+1,✉, [Lu Dai](https://pubmed.ncbi.nlm.nih.gov/?term=%22Dai%20L%22[Author])
+
+### Lu Dai
+
+2
+Aging Research Center, Department of Neurobiology, Care Sciences and Society, Karolinska Institutet, Stockholm, Sweden
+
+Find articles by [Lu Dai](https://pubmed.ncbi.nlm.nih.gov/?term=%22Dai%20L%22[Author])
+
+2, [Carla Maria Avesani](https://pubmed.ncbi.nlm.nih.gov/?term=%22Avesani%20CM%22[Author])
+
+### Carla Maria Avesani
+
+3
+Renal Unit, Department of Clinical Sciences and Technology (CLINTEC), Karolinska Institutet, Stockholm, Sweden
+
+Find articles by [Carla Maria Avesani](https://pubmed.ncbi.nlm.nih.gov/?term=%22Avesani%20CM%22[Author])
+
+3, [Karolina Kublickiene](https://pubmed.ncbi.nlm.nih.gov/?term=%22Kublickiene%20K%22[Author])
+
+### Karolina Kublickiene
+
+4
+Renal Unit, Department of Clinical Sciences and Technology (CLINTEC), Karolinska Institutet, Stockholm, Sweden
+
+Find articles by [Karolina Kublickiene](https://pubmed.ncbi.nlm.nih.gov/?term=%22Kublickiene%20K%22[Author])
+
+4, [Peter Stenvinkel](https://pubmed.ncbi.nlm.nih.gov/?term=%22Stenvinkel%20P%22[Author])
+
+### Peter Stenvinkel
+
+5
+Renal Unit, Department of Clinical Sciences and Technology (CLINTEC), Karolinska Institutet, Stockholm, Sweden
+
+Find articles by [Peter Stenvinkel](https://pubmed.ncbi.nlm.nih.gov/?term=%22Stenvinkel%20P%22[Author])
+
+5
+
+- Author information
+- Article notes
+- Copyright and License information
+
+1
+Renal Unit, Department of Clinical Sciences and Technology (CLINTEC), Karolinska Institutet, Stockholm, Sweden
+
+2
+Aging Research Center, Department of Neurobiology, Care Sciences and Society, Karolinska Institutet, Stockholm, Sweden
+
+3
+Renal Unit, Department of Clinical Sciences and Technology (CLINTEC), Karolinska Institutet, Stockholm, Sweden
+
+4
+Renal Unit, Department of Clinical Sciences and Technology (CLINTEC), Karolinska Institutet, Stockholm, Sweden
+
+5
+Renal Unit, Department of Clinical Sciences and Technology (CLINTEC), Karolinska Institutet, Stockholm, Sweden
+
+✉
+
+Correspondence to: Marie Evans; E-mail: marie.evans@ki.se
+
+Received 2023 Mar 26; Collection date 2023 Nov.
+
+© The Author(s) 2023. Published by Oxford University Press on behalf of the ERA.
+
+This is an Open Access article distributed under the terms of the Creative Commons Attribution-NonCommercial License ( [https://creativecommons.org/licenses/by-nc/4.0/](https://creativecommons.org/licenses/by-nc/4.0/)), which permits non-commercial re-use, distribution, and reproduction in any medium, provided the original work is properly cited. For commercial re-use, please contact journals.permissions@oup.com
+
+[PMC Copyright notice](https://pmc.ncbi.nlm.nih.gov/about/copyright/)
+
+PMCID: PMC10616480  PMID: [37915930](https://pubmed.ncbi.nlm.nih.gov/37915930/)
+
+## ABSTRACT
+
+The profile of gut microbiota can vary according to host genetic and dietary characteristics, and be influenced by disease state and environmental stressors. The uremic dysbiosis results in a loss of biodiversity and overgrowth of microorganisms that may cause elevation of metabolic solutes such as trimethylamine N-oxide (TMAO), inducing pathogenic effects on its host. In patients with chronic kidney disease (CKD), TMAO levels are elevated because of a decreased clearance and an increased production from the uremic gut dysbiosis with a disrupted intestinal barrier and elevated enzymatic hepatic activity. Dietary precursors of TMAO are abundant in animal-derived foods such as red meat, egg yolk and other full-fat dietary products. TMAO is also found naturally in fish and certain types of seafood, with the TMAO content highly variable according to the depth of the sea where the fish is caught, as well as processing and storage. Although evidence points towards TMAO as being an important link to vascular damage and adverse cardiovascular outcomes, the evidence in CKD patients has not been consistent. In this review we discuss the potential dietary sources of TMAO and its actions on the intestinal microbiome as an explanation for the divergent results. We further highlight the potential of a healthy diet as one feasible therapeutic opportunity to prevent gut dysbiosis and reduce uremic toxin levels in patients with CKD.
+
+**Keywords:** chronic kidney disease, diet, gut microbiome, trimethylamine-N-oxide, uremic toxin
+
+## AN INDUSTRIALIZED MICROBIOTA
+
+The human gut serves as the host for trillions of microorganisms, commonly referred to as the gut microbiome. These microorganisms constitute its own ecosystem, with physiological functions such as vitamin synthetization and immune system maturation, and they maintain functions for the intestinal barrier defence \[ [1](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib1)\]. In this intricate process, the gut microbiome produces numerous metabolites, either derived directly from dietary compounds or generated through the complex host–microbiome interplay. The metabolome of the gut could thus be of three different types: entirely produced from the microbiome, produced from both the host and the microbiome, or produced from the microbiome and diet \[ [2](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib2)\]. Among the metabolic compounds, the short-chain fatty acids such as propionate and acetate are involved in energy homeostasis, immune regulation, blood pressure control and maintaining the gut barrier defence \[ [3](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib3)\]. One example of the metabolic effects of short-chain fatty acids is that experimental administration of these to humans stimulates the production of glucagon-like peptide 1 and results in lower weight gain \[ [3](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib3)\]. Other important metabolites that interact with the gut microbiota are bile acids, which primarily are synthesized in hepatocytes from cholesterol. Dysbiosis of the gut impacts on bile acid metabolism leading to the accumulation of primary conjugated bile acids in the colon, which may exert pro-inflammatory effects on the intestinal epithelial cells and ultimately result in impaired insulin sensitivity and liver steatosis \[ [1](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib1)\]. Thus, through various interactions with its host, the gut microbiome exerts its actions through regulating various metabolic pathways.
+
+The gut microbiota is individual and varies according to host genetic and dietary characteristics, disease state and environmental stressors such as medication. In chronic non-communicable diseases, the gut microbiome is less diverse. Those with a less rich microbacteria flora have been shown to have elevated insulin resistance, more obesity and dyslipidemia \[ [4](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib4)\]. During the current era, an industrialized microbiota have emerged due not only to changes in eating habits but also to air pollution, microplastics and heat stress \[ [5](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib5)\]. The obesity-associated microbiome usually presents with a reduction in _Bacteroides_ species, along with an increase of Firmicutes phylum (e.g. _Clostridium, Lactobacillus, Bacillus, Ruminococcus_ and _Enterococcus_) \[ [6](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib6)\]. In chronic kidney disease (CKD), dysbiosis is common and referred to as “uremic dysbiosis.” The uremic dysbiosis results in an altered gut microbiome with an overgrowth of microorganisms which may cause pathogenic effects on its host \[ [7](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib7)\]. These changes occur already in mild kidney dysfunction; _Roseburia_, which has been suggested to serve as a marker of a normal intestinal microbiome, are decreased already in early-stage CKD and become even less abundant in patients on dialysis \[ [8](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib8)\]. This imbalance, which also may be exacerbated by iatrogenic causes such as medication with phosphate binders, proton pump inhibitors and antibiotics, could result in the accumulation of uremic retention products that may further impact on disease pathogenesis and clinical outcomes \[ [9](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib9), [10](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib10)\]. The importance of the gut microbiota in CKD was first demonstrated in the 1960s in an experimental study where nephrectomized rats absent of microbiome were observed to live longer than nephrectomized rats with a preserved gut microbiota \[ [11](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib11)\]. Since then, a number of uremic retention products, both protein-bound and soluble, and have been identified as being microbiota-derived and potentially responsible for several of the observed pathological effects in CKD patients \[ [12](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib12)\].
+
+Among the uremic retention products there has been a particular focus on generation of the free-water-soluble molecule trimethylamine N-oxide (TMAO), which has been associated with an increased risk of cardiovascular disease (CVD) and all-cause mortality \[ [13](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib13), [14](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib14)\]. Initially thought to be a waste product, TMAO serves as a link to a number of disease conditions and their related pathogenetic mechanisms, including endothelial dysfunction \[ [15](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib15)\], acute heart failure \[ [16](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib16)\], foam cell formation \[ [17](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib17)\], infarcted coronary arteries \[ [18](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib18)\], decreased reverse cholesterol transport \[ [19](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib19)\], inflammation \[ [20](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib20), [21](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib21)\] and early vascular ageing \[ [22](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib22)\].
+
+## THE LINK BETWEEN GUT MICROBIOTA, TMAO AND THE KIDNEY
+
+Humans are not able to demethylate TMAO and >95% is excreted unchanged by the kidneys through tubular section or glomerular filtration \[ [23](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib23)\]. As kidney function deteriorates, TMAO concentrations increase \[ [24](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib24)\]. The median TMAO concentration is around 5.8 μM/L in healthy volunteers but rises 13-fold in CKD stage 5 and remains high after 12 months on dialysis \[ [24](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib24)\]. TMAO, which is a free-soluble low-molecular weight solute of 75 Da is cleared by extracorporeal dialysis to around 85% as opposed to other protein-bound gut-derived uremic toxins such as indoxyl sulfate \[ [25](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib25)\]. The different mechanisms by which TMAO accumulates in CKD are summarized in Fig. [1](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#fig1). Supporting the evidence of a significant role of renal clearance of TMAO, it was observed that following a successful kidney transplantation, TMAO levels return to the levels of healthy adults \[ [24](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib24), [26](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib26)\]. TMAO formation could be due to breakdown of food rich in the precursor of TMAO, trimethylamine (TMA). Intestinal bacteria could also produce TMA directly from dietary l-carnitine, phosphatidylcholine, choline or betaine. The TMA–lyase enzyme complex CutC/D converts choline to TMA \[ [27](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib27)\], while l-carnitine and betaine are converted to TMA by CntA/B and YeaW, respectively \[ [28](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib28)\]. The precursor TMA is subsequently transformed into TMAO by the liver-enzyme flavin-containing monooxygenase 3 (FMO3). The activity of FMO is increased in the uremic milieu, thus being at least partly responsible for the elevated TMAO formation associated with CKD \[ [29](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib29)\]. Additionally, patients with CKD have been shown to harbor more of the TMAO-producing intestinal bacteria as opposed to healthy people. Dysbiosis result in the breakdown of the intestinal mucosa barrier through disruption of the enterocyte tight junctions \[ [30](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib30)\]. Consequently, more of the uremic toxins and precursors, such as TMA, are leaked to the bloodstream, reaching the liver, and are converted to TMAO. These alterations are believed to occur in the beginning of the disease process. Even in children with CKD, serum levels of sCD14 and the tight junction protein Zo-1 were increased in those with reduced kidney function, indicating that the phenotype of the “leaky gut” is present at an early stage \[ [31](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib31)\]. Thus, TMAO levels are elevated in CKD because of a decreased clearance and an increased production from the uremic gut dysbiosis with a disrupted intestinal barrier and elevated FMO3 activity in the liver.
+
+### Figure 1:
+
+[![Figure 1:](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/5c54/10616480/a3930f73f636/sfad095fig1.jpg)](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=10616480_sfad095fig1.jpg)
+
+[Open in a new tab](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/figure/fig1/)
+
+TMAO in patients with CKD. Created with BioRender.com.
+
+## DIETARY SOURCES OF TMAO
+
+Dietary precursors of TMAO are abundant in animal-derived foods such as red meat (beef, pork, lamb, veal, processed meat and ham), egg yolk and other full-fat dietary products (whole milk, yogurt, cream cheese and butter) (Fig. [2](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#fig2)). Consumption of food items rich in dietary precursors of TMAO will lead to processing by the gut microbiome \[ [27](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib27)\] resulting in the release of TMA into the blood and further oxidization into TMAO by hepatic FMO3 \[ [32](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib32)\]. A study on protein source (red meat versus white meat versus non-meat) found that subjects consuming approximately 220 g of steak/day for 1 month had higher TMAO levels accompanied by a reduced fractional renal excretion rate of TMAO \[ [33](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib33)\]. In addition to TMAO derived from its dietary precursors, TMAO is found naturally in fish and certain types of seafood. Fish-source TMAO can bypass gut and liver metabolism and be absorbed directly into the blood stream. TMAO is also present in fish oil/krill oil supplements. A variety of internal and external factors, such as fish/seafood species, feeding quality, fishing zone and storage conditions, could affect the endogenous TMAO concentration in fish products and subsequently contribute to the variation in urinary and circulating TMAO after fish consumption \[ [34](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib34), [35](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib35)\]. To date, population studies assessing the relation between diet and circulating TMAO have been inconclusive \[ [36–38](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib36)\], possibly due to differences in dietary habits/culture and genetic heterogeneity in host gut microbial and FMO3 activity across populations. Other factors, such as the role of kidney excretion in the metabolic process could further complex the link between diet and TMAO. It is worth noting that the health effects of TMAO may vary with its dietary source, highlighting the relevance of other compounds in the food.
+
+### Figure 2:
+
+[![Figure 2:](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/5c54/10616480/47a8fa0634a0/sfad095fig2.jpg)](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=10616480_sfad095fig2.jpg)
+
+[Open in a new tab](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/figure/fig2/)
+
+Dietary measures to lower TMAO levels.
+
+## FISH AND TMAO—A MATTER OF DEPTH
+
+A Swedish group were the first to report that TMA and urinary TMAO levels were associated with intake of fish \[ [39](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib39)\]. A subsequent study showed that compared with a group consuming red meat, the group consuming fish had 4–6 times higher urinary TMAO levels \[ [40](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib40)\]. In another study of 9694 healthy people, it was reported that TMAO levels were associated with kidney function, being male and fish intake \[ [41](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib41)\]. Based on such studies, it has been suggested that TMAO could serve as a potential biomarker of cod and salmon intake \[ [42](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib42)\]. Fish commonly contain _Aeromonas salmonicida_, a bacterial species that is responsible for the production of TMA, which causes the unpleasant “fishy odour.” The content of TMA increases with spoilage and during storage of chilled fish fillets \[ [43](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib43)\]. Taken together, fish may be a rich source of both TMA and TMAO, and fish consumption associates with urinary and plasma TMAO concentrations \[ [36](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib36)\]. As fish is considered a healthy choice of food and a significant source of lipid bio-actives possessing cardiovascular health benefits, the link between TMAO and fish intake is counterintuitive. However, understanding the function of TMAO in nature may help explain this “fish paradox.” In nature, TMAO protects proteins and acts as an osmolyte that counteracts the effects of destabilizers such as low temperature, high urea and high hydrostatic pressure. In deep sea waters the weight of the water pushes water molecules into proteins and distorts them. Without the protection of TMAO life would not be possible in deep oceans. Thus, to habituate deep oceans, marine fish need to build up a protective muscular content of TMAO. A study by Yancey _et al_. \[ [44](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib44)\] in the Hadal snailfish (the second-deepest fish recorded) showed a strong linear correlation between the muscular content of TMAO and depth. In general, deep-sea fish species contain high TMAO levels whereas freshwater and shallow-living seafood, such as farm-raised salmon, shrimp, trout and clams, are low or even absent in TMAO \[ [45](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib45)\]. To test the effects of a single fish meal on circulating TMAO levels, a study was conducted in 10 healthy controls. The study showed that whereas a meal consisting of shrimp and canned tuna did not result in elevated circulating TMAO levels, wild salmon and especially fish sticks resulted in a major increase in serum TMAO. Deep-sea fish like cod and Alaska pollock are the main ingredients in fish sticks and a significant source of TMAO. Although serum TMAO levels had returned to baseline the next day the marked increase in TMAO, especially following a meal of fish sticks, is worrisome \[ [45](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib45)\]. It is likely that when kidney function is compromised, TMAO levels may accumulate with time if TMAO-rich fish is consumed on a regular basis. To test this hypothesis, the effects of a single and regular meals with fish low or rich in TMAO should be conducted in CKD patients. Beside depth, water temperature also affects TMAO levels in fish. A study from New Zealand not only confirmed the link between depth and TMAO but also showed that the TMAO content was lower in the summer months when water was warmer \[ [43](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib43)\]. As TMAO accumulate in deep-sea fish this offers clues for specific nutritional recommendations in patients with a reduced clearance of TMAO. This is a research area in which more work needs to be done with a huge potential for clinical impact in patients with reduced renal function. A comparative study of TMAO in different animal species has strengthened the link between eating habits and outcome and survival advantage in the animal kingdom \[ [46](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib46)\].
+
+## TMAO AND THE LINK TO CARDIOVASCULAR DAMAGE
+
+Several epidemiological studies have shown an association between higher TMAO levels and increased cardiovascular risk \[ [17](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib17), [47](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib47), [48](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib48)\]. The initial human study that suggested TMAO as a mediator of CVD, utilized a plasma metabolomic screening to detect three metabolites of phosphatidylcholine (choline, betaine, and TMAO). These three metabolites were independently found to be predictive of incident CVD events such as heart attack, stroke, and cardiovascular death over a 3-year follow-up period in 1876 subjects who were undergoing cardiac disease evaluation \[ [17](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib17)\]. Subsequently, the researchers expanded their study and discovered that increased plasma levels of l-carnitine, a precursor to TMAO, also predicted cardiovascular events when elevated in association with TMAO over a 3-year follow-up period \[ [19](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib19)\].
+
+The relationship between cardiovascular outcomes, mortality and TMAO has also been demonstrated in CKD patients \[ [18](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib18), [26](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib26), [49](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib49)\]. In a cross-sectional sample, serum TMAO independently predicted the number of infarcted coronary arteries \[ [18](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib18)\]. In another cross-sectional analysis of 220 patients with estimated glomerular filtration rate <45 mL/min/1.73 m2 who underwent coronary angiography, elevated serum TMAO levels were associated with the severity of coronary arterial disease after adjusting for traditional cardiovascular risk factors \[ [26](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib26)\]. Over a subsequent follow-up over 4 years, every 10-µM increase in baseline TMAO was associated with a 19% increase in total mortality \[ [26](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib26)\]. One study included 521 CKD3 patients and found that those in the highest quartile of TMAO had a 1.9-fold greater risk of 5-year all-cause mortality compared with those with the lowest quartile \[ [49](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib49)\]. However, the evidence of the detrimental effect of TMAO has not been consistent. In a large study of Canadian CKD patients, circulating TMAO levels independently predicted CVD events over a 3-year follow-up period in CKD3 but not in CKD4 \[ [50](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib50)\]. Furthermore, in another study, those with prior cerebrovascular disease had lower TMAO levels \[ [51](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib51)\] and a European follow-up study did not find an association between the development of coronary artery disease and plasma TMAO \[ [52](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib52)\]. The reasons for these inconsistencies are not clear, but one alternative hypothesis is that only glomerular function was accounted for in the analyses showing a positive correlation between TMAO and CVD. This opened the possibility of residual confounding from tubular renal function \[ [53](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib53)\].
+
+## TMAO EFFECTS ON THE VASCULAR SYSTEM
+
+The mechanisms by which TMAO exerts its effects on the cardiovascular system have gradually been revealed. Predominantly, the consequences of TMAO are linked to vascular inflammation \[ [15](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib15)\], platelet hyperactivity, calcification and atherosclerosis \[ [54](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib54)\]. Experimental evidence indicates that TMAO may directly contribute to the development of atherosclerosis and lead to cardiovascular events by disrupting lipid handling and macrophage function, as well as causing vascular inflammation and platelet activation, which could result in thrombosis \[ [55](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib55)\]. Studies using atherosclerosis-prone apolipoprotein E knockout mice (ApoE–/–) supplemented with choline or TMAO showed increased plasma TMAO levels and larger aortic atherosclerotic plaques with higher macrophage content compared with wild-type mice \[ [17](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib17)\]. In ApoE–/– mice, elevated TMAO reduced the reverse cholesterol transport \[ [19](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib19)\] and caused development of cholesterol-laden foam cells \[ [17](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib17)\]. Proinflammatory mediators, such as cyclo-oxygenase-2, E-selectin and intracellular adhesion molecule-1, were upregulated in the aortic tissue of low-density lipoprotein receptor knockout mice who received dietary choline or intraperitoneal TMAO \[ [56](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib56)\]. _In vitro_ studies showed that TMAO may increase leukocyte adhesion to endothelial cells in an nuclear factor κB–dependent manner \[ [56](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib56)\]. Furthermore, enhanced platelet activation and adhesion was observed following intraperitoneal TMAO injections in an _in vivo_ carotid artery injury model \[ [57](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib57)\]. TMAO also exacerbates the development of atherosclerotic plaques, which may ultimately lead to reduced blood flow or increased arterial stiffness \[ [17](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib17)\]. In addition, TMAO was shown to impair endothelial signalling \[ [15](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib15)\], an early event in the development of atherosclerosis \[ [58](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib58)\], and an animal experiment showed that supplementation with TMAO impaired endothelium-dependent dilatation via reduced contribution of hyperpolarizing factor–type contribution \[ [59](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib59)\].
+
+Several studies have showed a link between TMAO and vascular ageing via upregulation of a prooxidative environment, further strengthening the suggestion that TMAO-deteriorated endothelial function is the link between TMAO and CVD \[ [60](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib60), [61](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib61)\]. TMAO may also inhibit protein function or limit degradation of key enzymes or signalling proteins, leading to potentially harmful downstream effects \[ [62](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib62)\]. TMAO promotes atherosclerosis by inhibiting reverse cholesterol transport, a process that removes excess cholesterol from arterial walls \[ [55](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib55)\]. Moreover, elevated TMAO promotes endothelial cell senescence \[ [60](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib60)\]. TMAO also inhibits autophagy, causing the accumulation of damaged proteins and the impairment of cellular function \[ [63](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib63)\]. Moreover, TMAO reduces the activity of a key enzyme, CYP3A4, responsible for metabolizing various drugs, including statins, which are commonly used to lower cholesterol levels \[ [64](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib64)\]. TMAO can also cross the blood–brain barrier and affect brain function, leading to cognitive impairment and dementia \[ [65](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib65)\].
+
+## TMAO AND THE LINK TO KIDNEY DISEASE PROGRESSION
+
+In addition to the effects on vascular smooth muscle cells and endothelium, TMAO induces structural kidney damage \[ [49](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib49)\]. Animal studies show that a high-fat diet or dietary supplementation with choline or TMAO induces tubulointerstitial fibrosis and promote the expression of kidney injury markers and pro-fibrotic genes \[ [66](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib66)\]. TMAO activates renal fibroblasts and causes fibroblast proliferation \[ [67](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib67)\]. In support of this finding, pharmacological inhibition of the TMA production in mice has been related to a lesser kidney injury and fibrosis \[ [68](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib68)\]. Furthermore, TMAO may exert its actions directly on renal tubular cells through decreasing the protein expression of megalin, an effect that could be reversed by the antiproteinuric drugs candesartan and dapagliflozin \[ [69](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib69)\].
+
+## DIETARY SOURCES OF TMAO AND CARDIOVASCULAR OUTCOMES IN CKD
+
+So far inconsistences exist with respect to the association between TMAO and CVD in CKD. One putative reason for the difference in effect of TMAO on clinical outcomes in CKD patients is that the elevated TMAO levels may arise from different dietary sources. Red meat as an important source of TMAO, has negative effects on both gut microbiota and host health \[ [70](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib70)\]. Red meat also reduces the ability of kidneys to excrete TMAO \[ [33](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib33)\]. Due to its choline content, intake of egg may also increase systemic TMAO levels. However, a study conducted in healthy controls showed that an intake of four eggs per day for 28 days did not increase circulating TMAO levels \[ [71](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib71)\]. As previously reported, fish could also be a dietary source of TMAO \[ [40](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib40)\], but fish intake (especially that rich in ω-3 fatty acids) is associated with lower cardiovascular event rate and lower risk of death in high risk cohorts or people with previously known vascular disease \[ [72](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib72)\]. Examples of fish that are high in ω-3 levels include herring, mackerel, sable, salmon, tuna, anchovy, trout and sardine. To investigate the hypothesis that different dietary sources of TMAO could interact with the TMAO–mortality association, we performed an analysis in a European cohort of 737 patients with CKD stage 4–5 where we investigated the association between mortality, TMAO and 3-carboxy-4-methyl-5-propyl-2-furanpropionate (CMPF). CMPF is a metabolite of furan fatty acids, which is found predominantly in fish and fish oils, and considered as a biomarker of fish intake \[ [73](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib73)\]. Long-chain ω-3 fatty acids are suggested to be the precursors of CMPF \[ [74](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib74)\]. We found that, after extensive adjustments, ln-TMAO was positively associated with mortality, whereas ln-CMPF was negatively associated \[ [75](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib75)\]. When we combined levels of TMAO and CMPF, we observed that compared with patients with low levels of both TMAO and CMPF, those with low TMAO levels and high CMPF levels had a lower mortality, while those with high TMAO levels and low CMPF levels had higher mortality rate in the unadjusted model, albeit outside the significance level in the adjusted analysis. Patients with high levels of both TMAO and CMPF did not have any different association with mortality compared with patients with low levels, suggesting that the concomitant high CMPF levels may counteract an unfavorable association between TMAO and mortality. CMPF was further associated with an overall lower risk of start in kidney replacement therapy. Our interpretation is that an overall high fish intake, as suggested by high CMPF levels from fish predominantly rich in ω-3 fatty acids, also may result in higher TMAO levels that may be less harmful, as compared with high TMAO levels from red meat or fish low in ω-3 fatty acids but high in TMAO. A proper clinical trial with different dietary protein sources, including fish with different TMAO contents, is needed to confirm this hypothesis. As a recent study showed that a higher intake of plant-based protein, but not animal or dairy protein, was related to a lower risk of frailty \[ [76](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib76)\] we believe that the renal community should pay much more attention to the impact of different sources of protein in relation to progression of kidney disease and the uremic phenotype.
+
+## DIETARY THERAPEUTIC OPPORTUNITIES
+
+Dietary composition can modulate the gut microbiota and consequently affect microbiota-derived TMA and TMAO levels. The potential strategies to normalize TMAO levels in patients with CKD are summarized in Fig. [2](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#fig2). Since TMAO is generated from the gastrointestinal metabolism of foods containing choline, lecithin and l-carnitine, and these in turn are mostly present in red meat, deep water fish, eggs, milk and cheese, a dietary pattern compatible with a plant-based diet is an attractive and optimal opportunity to decrease TMAO levels \[ [77](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib77)\]. Diets rich in animal protein with saturated fat are related to higher abundance of the bacteria phylum Firmicutes, which is associated with TMA production \[ [19](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib19)\], while vegetarian diets, rich in oligosaccharide, are associated with bacteria genus _Prevotella_ (related to a reduction in choline availability for TMA synthesis) \[ [78](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib78)\]. In studies with healthy individuals following plant-based diets (Mediterranean, vegetarian and vegan diets) the TMAO levels decrease, while animal-based diets had the opposite effect \[ [77](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib77)\].
+
+Beyond the restricted intake of precursors of TMA/TMAO from red meat, a plant-based dietary pattern can decrease TMAO levels due to a synergistic effect with other dietary components, such as high phytochemicals and fiber intake, which can promote commensal microbial growth and ameliorate dysbiosis \[ [79](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib79)\]. Even though there is a need to investigate the influence of plant-based diets in altering the TMAO in CKD, several studies with specific dietary interventions from vegetable sources already point in this direction. For example, interventional studies using resistant starch (a type of dietary fiber that can act as a substrate for microbial fermentation and improve the integrity of the intestinal epithelial barrier) is of great potential \[ [80](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib80)\]. A meta-analysis that included eight crossover or parallel-designed randomized controlled trials that lasted for >4 weeks aiming to study the effect of resistant starch in in CKD (including dialysis) showed that resistant starch promoted a reduction in the uremic toxin serum indole phenol sulfate, phosphate and interleukin-6 in patients on dialysis \[ [81](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib81)\]. Under the same rational of foods to improve the gut microbiota health, the consumption of fermented food increases the microbiome diversity and can ameliorate postprandial TMAO response \[ [82](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib82)\]. Sources of fermented food include yogurt, fil, kefir, kombucha and kimchi, but there are plenty of recipes for fermenting vegetables, using cabbage, beetroot, radish, turnip and carrots, that can be more culturally appealing for incorporating into the diet.
+
+In addition to the dietary changes suggested above, it may be beneficial to replace fish and seafood from deep waters (orange roughy, snow crab, lobster, cod) by those from shallow waters (mackerel, barracouta, squid, herring, salmon, trout, clams, grey mullet and shrimp) \[83\], although studies are yet to prove this. Tuna is an exception, as it is fish from deep water, but has low TMAO levels \[ [83](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib83)\]. Finally, the increasing consumption in the Western dietary pattern of so-called ultra-processed foods (UPF) requires attention. UPF encompass industrialized foods that have undergone heavy industrial processing (food heating and Maillard reaction), with the addition of sugar, salt, artificial non-caloric sweeteners, saturated fat and trans-fat, and of food additives to change the color and enhance taste \[ [84](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib84)\]. Examples of UPF include salty and sweet chips, breakfast cereals, sugary products, soft drinks and processed juices, and commercialized ready-to-eat meals, such as the fish nuggets and others \[ [84](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib84)\]. In mice it was shown that heated food (such as UPF) contributed to a decrease in the intestinal epithelial barrier with translocation of lipopolysaccharide from the gut to the systemic circulation, with an increase in colonization of Firmicutes in the gut, which could lead to an enhanced rise in TMAO levels \[ [85](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/#bib85)\]. However, as of yet this is of a speculatory nature and requires confirmation.
+
+## CONCLUDING REMARKS
+
+In patients with kidney dysfunction, several fundamentally different mechanisms contribute to increased TMAO levels linked to high CVD burden. Dietary changes could be an important and modifiable factor that offer potential beneficial effects on the gut microbiota and uremic retention solute concentrations. Understanding the way different dietary sources of TMAO may induce the detrimental effect of TMAO on host health is vital in order to be able to improve the outcomes of our CKD patients.
+
+## Contributor Information
+
+Marie Evans,
+Renal Unit, Department of Clinical Sciences and Technology (CLINTEC), Karolinska Institutet, Stockholm, Sweden.
+
+Lu Dai,
+Aging Research Center, Department of Neurobiology, Care Sciences and Society, Karolinska Institutet, Stockholm, Sweden.
+
+Carla Maria Avesani,
+Renal Unit, Department of Clinical Sciences and Technology (CLINTEC), Karolinska Institutet, Stockholm, Sweden.
+
+Karolina Kublickiene,
+Renal Unit, Department of Clinical Sciences and Technology (CLINTEC), Karolinska Institutet, Stockholm, Sweden.
+
+Peter Stenvinkel,
+Renal Unit, Department of Clinical Sciences and Technology (CLINTEC), Karolinska Institutet, Stockholm, Sweden.
+
+## FUNDING
+
+M.E. reports payment for lectures from AstraZeneca, Astellas pharma, Fresenius Medical Care, Baxter healthcare and Vifor pharma, and participation in Advisory boards for Astellas pharma and AstraZeneca. C.M.A. reports payment for lectures from AstraZeneca, Fresenius Medical Care and Baxter healthcare, and participation in Advisory board for AstraZeneca. P.S. reports payment for lectures from Reata, AstraZeneca, Baxter, Fresenius, Novo Nordisk, Astellas, Pfizer and Bayer, and participation in advisory boards for AstraZeneca, Glaxo, Vifor, Baxter, Fresenius and Invizius.
+
+## CONFLICT OF INTEREST STATEMENT
+
+None of the authors has any conflicts of interest to declare in relation to this manuscript.
+
+## DATA AVAILABILITY STATEMENT
+
+No new data were generated or analysed in support of this research.
+
+## REFERENCES
+
+- 1.
+Agus A, Clément K, Sokol H. Gut microbiota-derived metabolites as central regulators in metabolic disorders. Gut 2021;70:1174–82. 10.1136/gutjnl-2020-323071 \[ [DOI](https://doi.org/10.1136/gutjnl-2020-323071)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC8108286/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/33272977/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Gut&title=Gut%20microbiota-derived%20metabolites%20as%20central%20regulators%20in%20metabolic%20disorders&volume=70&publication_year=2021&pages=1174-82&pmid=33272977&doi=10.1136/gutjnl-2020-323071&)\]
+- 2.
+Nicholson JK, Holmes E, Kinross Jet al.
+Host-gut microbiota metabolic interactions. Science 2012;336:1262–7. 10.1126/science.1223813 \[ [DOI](https://doi.org/10.1126/science.1223813)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/22674330/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Science&title=Host-gut%20microbiota%20metabolic%20interactions&volume=336&publication_year=2012&pages=1262-7&pmid=22674330&doi=10.1126/science.1223813&)\]
+- 3.
+Chambers ES, Morrison DJ, Frost G. Control of appetite and energy intake by SCFA: what are the potential underlying mechanisms? Proc Nutr Soc 2015;74:328–36. 10.1017/S0029665114001657 \[ [DOI](https://doi.org/10.1017/S0029665114001657)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/25497601/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Proc%20Nutr%20Soc&title=Control%20of%20appetite%20and%20energy%20intake%20by%20SCFA:%20what%20are%20the%20potential%20underlying%20mechanisms?&volume=74&publication_year=2015&pages=328-36&pmid=25497601&doi=10.1017/S0029665114001657&)\]
+- 4.
+Le Chatelier E, Nielsen T, Qin Jet al.
+Richness of human gut microbiome correlates with metabolic markers. Nature 2013;500:541–6. 10.1038/nature12506 \[ [DOI](https://doi.org/10.1038/nature12506)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/23985870/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Nature&title=Richness%20of%20human%20gut%20microbiome%20correlates%20with%20metabolic%20markers&volume=500&publication_year=2013&pages=541-6&pmid=23985870&doi=10.1038/nature12506&)\]
+- 5.
+Sonnenburg JL, Sonnenburg ED. Vulnerability of the industrialized microbiota. Science 2019;366:eaaw9255. 10.1126/science.aaw9255 \[ [DOI](https://doi.org/10.1126/science.aaw9255)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/31649168/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Science&title=Vulnerability%20of%20the%20industrialized%20microbiota&volume=366&publication_year=2019&pages=eaaw9255&pmid=31649168&doi=10.1126/science.aaw9255&)\]
+- 6.
+Ley RE, Turnbaugh PJ, Klein Set al.
+Microbial ecology: human gut microbes associated with obesity. Nature 2006;444:1022–3. 10.1038/4441022a \[ [DOI](https://doi.org/10.1038/4441022a)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/17183309/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Nature&title=Microbial%20ecology:%20human%20gut%20microbes%20associated%20with%20obesity&volume=444&publication_year=2006&pages=1022-3&pmid=17183309&doi=10.1038/4441022a&)\]
+- 7.
+Zhao J, Ning X, Liu Bet al.
+Specific alterations in gut microbiota in patients with chronic kidney disease: an updated systematic review. Ren Fail 2021;43:102–12. 10.1080/0886022X.2020.1864404 \[ [DOI](https://doi.org/10.1080/0886022X.2020.1864404)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7808321/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/33406960/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Ren%20Fail&title=Specific%20alterations%20in%20gut%20microbiota%20in%20patients%20with%20chronic%20kidney%20disease:%20an%20updated%20systematic%20review&volume=43&publication_year=2021&pages=102-12&pmid=33406960&doi=10.1080/0886022X.2020.1864404&)\]
+- 8.
+Wang YF, Zheng LJ, Liu Yet al.
+The gut microbiota-inflammation-brain axis in end-stage renal disease: perspectives from default mode network. Theranostics 2019;9:8171–81. 10.7150/thno.35387 \[ [DOI](https://doi.org/10.7150/thno.35387)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC6857049/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/31754388/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Theranostics&title=The%20gut%20microbiota-inflammation-brain%20axis%20in%20end-stage%20renal%20disease:%20perspectives%20from%20default%20mode%20network&volume=9&publication_year=2019&pages=8171-81&pmid=31754388&doi=10.7150/thno.35387&)\]
+- 9.
+Koppe L, Fouque D, Soulage CO. The role of gut microbiota and diet on uremic retention solutes production in the context of chronic kidney disease. Toxins 2018;10:155. 10.3390/toxins10040155 \[ [DOI](https://doi.org/10.3390/toxins10040155)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC5923321/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/29652797/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Toxins&title=The%20role%20of%20gut%20microbiota%20and%20diet%20on%20uremic%20retention%20solutes%20production%20in%20the%20context%20of%20chronic%20kidney%20disease&volume=10&publication_year=2018&pages=155&pmid=29652797&doi=10.3390/toxins10040155&)\]
+- 10.
+Dai L, Meijers BK, Bammens Bet al.
+Sevelamer use in end-stage kidney disease (ESKD) patients associates with poor vitamin K status and high levels of gut-derived uremic toxins: a drug-bug interaction?
+Toxins
+2020;12:351. 10.3390/toxins12060351 \[ [DOI](https://doi.org/10.3390/toxins12060351)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7354623/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/32471179/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Toxins&title=Sevelamer%20use%20in%20end-stage%20kidney%20disease%20(ESKD)%20patients%20associates%20with%20poor%20vitamin%20K%20status%20and%20high%20levels%20of%20gut-derived%20uremic%20toxins:%20a%20drug-bug%20interaction?&volume=12&publication_year=2020&pages=351&pmid=32471179&doi=10.3390/toxins12060351&)\]
+- 11.
+Einheber A, Carter D. The role of the microbial flora in uremia. I. Survival times of germfree, limited-flora, and conventionalized rats after bilateral nephrectomy and fasting. J Exp Med 1966;123:239–50. 10.1084/jem.123.2.239 \[ [DOI](https://doi.org/10.1084/jem.123.2.239)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC2138135/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/5324223/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Exp%20Med&title=The%20role%20of%20the%20microbial%20flora%20in%20uremia.%20I.%20Survival%20times%20of%20germfree,%20limited-flora,%20and%20conventionalized%20rats%20after%20bilateral%20nephrectomy%20and%20fasting&volume=123&publication_year=1966&pages=239-50&pmid=5324223&doi=10.1084/jem.123.2.239&)\]
+- 12.
+Ramezani A, Raj DS. The gut microbiome, kidney disease, and targeted interventions. J Am Soc Nephrol 2014;25:657–70. 10.1681/ASN.2013080905 \[ [DOI](https://doi.org/10.1681/ASN.2013080905)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC3968507/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/24231662/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Am%20Soc%20Nephrol&title=The%20gut%20microbiome,%20kidney%20disease,%20and%20targeted%20interventions&volume=25&publication_year=2014&pages=657-70&pmid=24231662&doi=10.1681/ASN.2013080905&)\]
+- 13.
+Gruppen EG, Garcia E, Connelly MAet al.
+TMAO is associated with mortality: impact of modestly impaired renal function. Sci Rep 2017;7:13781. 10.1038/s41598-017-13739-9 \[ [DOI](https://doi.org/10.1038/s41598-017-13739-9)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC5653802/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/29061990/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Sci%20Rep&title=TMAO%20is%20associated%20with%20mortality:%20impact%20of%20modestly%20impaired%20renal%20function&volume=7&publication_year=2017&pages=13781&pmid=29061990&doi=10.1038/s41598-017-13739-9&)\]
+- 14.
+Robinson-Cohen C, Newitt R, Shen DDet al.
+Association of FMO3 variants and trimethylamine N-oxide concentration, disease progression, and mortality in CKD patients. PLoS One 2016;11:e0161074. 10.1371/journal.pone.0161074 \[ [DOI](https://doi.org/10.1371/journal.pone.0161074)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC4981377/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/27513517/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=PLoS%20One&title=Association%20of%20FMO3%20variants%20and%20trimethylamine%20N-oxide%20concentration,%20disease%20progression,%20and%20mortality%20in%20CKD%20patients&volume=11&publication_year=2016&pages=e0161074&pmid=27513517&doi=10.1371/journal.pone.0161074&)\]
+- 15.
+Sun X, Jiao X, Ma Yet al.
+Trimethylamine N-oxide induces inflammation and endothelial dysfunction in human umbilical vein endothelial cells via activating ROS-TXNIP-NLRP3 inflammasome. Biochem Biophys Res Commun 2016;481:63–70. 10.1016/j.bbrc.2016.11.017 \[ [DOI](https://doi.org/10.1016/j.bbrc.2016.11.017)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/27833015/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Biochem%20Biophys%20Res%20Commun&title=Trimethylamine%20N-oxide%20induces%20inflammation%20and%20endothelial%20dysfunction%20in%20human%20umbilical%20vein%20endothelial%20cells%20via%20activating%20ROS-TXNIP-NLRP3%20inflammasome&volume=481&publication_year=2016&pages=63-70&pmid=27833015&doi=10.1016/j.bbrc.2016.11.017&)\]
+- 16.
+Suzuki T, Heaney LM, Bhandari SSet al.
+Trimethylamine N-oxide and prognosis in acute heart failure. Heart 2016;102:841–8. 10.1136/heartjnl-2015-308826 \[ [DOI](https://doi.org/10.1136/heartjnl-2015-308826)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/26869641/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Heart&title=Trimethylamine%20N-oxide%20and%20prognosis%20in%20acute%20heart%20failure&volume=102&publication_year=2016&pages=841-8&pmid=26869641&doi=10.1136/heartjnl-2015-308826&)\]
+- 17.
+Wang Z, Klipfell E, Bennett BJet al.
+Gut flora metabolism of phosphatidylcholine promotes cardiovascular disease. Nature 2011;472:57–63. 10.1038/nature09922 \[ [DOI](https://doi.org/10.1038/nature09922)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC3086762/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/21475195/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Nature&title=Gut%20flora%20metabolism%20of%20phosphatidylcholine%20promotes%20cardiovascular%20disease&volume=472&publication_year=2011&pages=57-63&pmid=21475195&doi=10.1038/nature09922&)\]
+- 18.
+Mafune A, Iwamoto T, Tsutsumi Yet al.
+Associations among serum trimethylamine-N-oxide (TMAO) levels, kidney function and infarcted coronary artery number in patients undergoing cardiovascular surgery: a cross-sectional study. Clin Exp Nephrol 2016;20:731–9. 10.1007/s10157-015-1207-y \[ [DOI](https://doi.org/10.1007/s10157-015-1207-y)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC5050242/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/26676906/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Clin%20Exp%20Nephrol&title=Associations%20among%20serum%20trimethylamine-N-oxide%20(TMAO)%20levels,%20kidney%20function%20and%20infarcted%20coronary%20artery%20number%20in%20patients%20undergoing%20cardiovascular%20surgery:%20a%20cross-sectional%20study&volume=20&publication_year=2016&pages=731-9&pmid=26676906&doi=10.1007/s10157-015-1207-y&)\]
+- 19.
+Koeth RA, Wang Z, Levison BSet al.
+Intestinal microbiota metabolism of L-carnitine, a nutrient in red meat, promotes atherosclerosis. Nat Med 2013;19:576–85. 10.1038/nm.3145 \[ [DOI](https://doi.org/10.1038/nm.3145)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC3650111/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/23563705/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Nat%20Med&title=Intestinal%20microbiota%20metabolism%20of%20L-carnitine,%20a%20nutrient%20in%20red%20meat,%20promotes%20atherosclerosis&volume=19&publication_year=2013&pages=576-85&pmid=23563705&doi=10.1038/nm.3145&)\]
+- 20.
+Boini KM, Hussain T, Li PLet al.
+Trimethylamine-N-oxide instigates NLRP3 inflammasome activation and endothelial dysfunction. Cell Physiol Biochem 2017;44:152–62. 10.1159/000484623 \[ [DOI](https://doi.org/10.1159/000484623)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC5828122/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/29130962/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Cell%20Physiol%20Biochem&title=Trimethylamine-N-oxide%20instigates%20NLRP3%20inflammasome%20activation%20and%20endothelial%20dysfunction&volume=44&publication_year=2017&pages=152-62&pmid=29130962&doi=10.1159/000484623&)\]
+- 21.
+Chen ML, Zhu XH, Ran Let al.
+Trimethylamine-N-oxide induces vascular inflammation by activating the NLRP3 inflammasome through the SIRT3-SOD2-mtROS signaling pathway. J Am Heart Assoc 2017;6:e006347. 10.1161/JAHA.117.006347 \[ [DOI](https://doi.org/10.1161/JAHA.117.006347)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC5634285/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/28871042/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Am%20Heart%20Assoc&title=Trimethylamine-N-oxide%20induces%20vascular%20inflammation%20by%20activating%20the%20NLRP3%20inflammasome%20through%20the%20SIRT3-SOD2-mtROS%20signaling%20pathway&volume=6&publication_year=2017&pages=e006347&pmid=28871042&doi=10.1161/JAHA.117.006347&)\]
+- 22.
+Li D, Ke Y, Zhan Ret al.
+Trimethylamine-N-oxide promotes brain aging and cognitive impairment in mice. Aging Cell 2018;17:e12768. 10.1111/acel.12768 \[ [DOI](https://doi.org/10.1111/acel.12768)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC6052480/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/29749694/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Aging%20Cell&title=Trimethylamine-N-oxide%20promotes%20brain%20aging%20and%20cognitive%20impairment%20in%20mice&volume=17&publication_year=2018&pages=e12768&pmid=29749694&doi=10.1111/acel.12768&)\]
+- 23.
+Al-waiz M, Mitchell SC, Idle JRet al.
+The metabolism of 14C-labelled trimethylamine and its N-oxide in man. Xenobiotica 1987;17:551–8. 10.3109/00498258709043962 \[ [DOI](https://doi.org/10.3109/00498258709043962)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/3604260/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Xenobiotica&title=The%20metabolism%20of%2014C-labelled%20trimethylamine%20and%20its%20N-oxide%20in%20man&volume=17&publication_year=1987&pages=551-8&pmid=3604260&doi=10.3109/00498258709043962&)\]
+- 24.
+Missailidis C, Hällqvist J, Qureshi ARet al.
+Serum trimethylamine-N-oxide is strongly related to renal function and predicts outcome in chronic kidney disease. PLoS One 2016;11:e0141738. 10.1371/journal.pone.0141738 \[ [DOI](https://doi.org/10.1371/journal.pone.0141738)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC4709190/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/26751065/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=PLoS%20One&title=Serum%20trimethylamine-N-oxide%20is%20strongly%20related%20to%20renal%20function%20and%20predicts%20outcome%20in%20chronic%20kidney%20disease&volume=11&publication_year=2016&pages=e0141738&pmid=26751065&doi=10.1371/journal.pone.0141738&)\]
+- 25.
+Pelletier CC, Croyal M, Ene Let al.
+Elevation of trimethylamine-N-oxide in chronic kidney disease: contribution of decreased glomerular filtration rate. Toxins 2019;11:635. 10.3390/toxins11110635 \[ [DOI](https://doi.org/10.3390/toxins11110635)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC6891811/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/31683880/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Toxins&title=Elevation%20of%20trimethylamine-N-oxide%20in%20chronic%20kidney%20disease:%20contribution%20of%20decreased%20glomerular%20filtration%20rate&volume=11&publication_year=2019&pages=635&pmid=31683880&doi=10.3390/toxins11110635&)\]
+- 26.
+Stubbs JR, House JA, Ocque AJet al.
+Serum trimethylamine-N-oxide is elevated in CKD and correlates with coronary atherosclerosis burden. J Am Soc Nephrol 2016;27:305–13. 10.1681/ASN.2014111063 \[ [DOI](https://doi.org/10.1681/ASN.2014111063)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC4696571/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/26229137/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Am%20Soc%20Nephrol&title=Serum%20trimethylamine-N-oxide%20is%20elevated%20in%20CKD%20and%20correlates%20with%20coronary%20atherosclerosis%20burden&volume=27&publication_year=2016&pages=305-13&pmid=26229137&doi=10.1681/ASN.2014111063&)\]
+- 27.
+Craciun S, Balskus EP. Microbial conversion of choline to trimethylamine requires a glycyl radical enzyme. Proc Natl Acad Sci USA 2012;109:21307–12. 10.1073/pnas.1215689109 \[ [DOI](https://doi.org/10.1073/pnas.1215689109)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC3535645/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/23151509/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Proc%20Natl%20Acad%20Sci%20USA&title=Microbial%20conversion%20of%20choline%20to%20trimethylamine%20requires%20a%20glycyl%20radical%20enzyme&volume=109&publication_year=2012&pages=21307-12&pmid=23151509&doi=10.1073/pnas.1215689109&)\]
+- 28.
+Koeth RA, Levison BS, Culley MKet al.
+γ-Butyrobetaine is a proatherogenic intermediate in gut microbial metabolism of L-carnitine to TMAO. Cell Metab 2014;20:799–812. 10.1016/j.cmet.2014.10.006 \[ [DOI](https://doi.org/10.1016/j.cmet.2014.10.006)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC4255476/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/25440057/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Cell%20Metab&title=%CE%B3-Butyrobetaine%20is%20a%20proatherogenic%20intermediate%20in%20gut%20microbial%20metabolism%20of%20L-carnitine%20to%20TMAO&volume=20&publication_year=2014&pages=799-812&pmid=25440057&doi=10.1016/j.cmet.2014.10.006&)\]
+- 29.
+Prokopienko AJ, West RE III, Schrum DPet al.
+Metabolic activation of flavin monooxygenase-mediated trimethylamine-N-oxide formation in experimental kidney disease. Sci Rep 2019;9:15901. 10.1038/s41598-019-52032-9 \[ [DOI](https://doi.org/10.1038/s41598-019-52032-9)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC6828678/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/31685846/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Sci%20Rep&title=Metabolic%20activation%20of%20flavin%20monooxygenase-mediated%20trimethylamine-N-oxide%20formation%20in%20experimental%20kidney%20disease&volume=9&publication_year=2019&pages=15901&pmid=31685846&doi=10.1038/s41598-019-52032-9&)\]
+- 30.
+Lau WL, Savoj J, Nakata MBet al.
+Altered microbiome in chronic kidney disease: systemic effects of gut-derived uremic toxins. Clin Sci (Lond) 2018;132:509–22. 10.1042/CS20171107 \[ [DOI](https://doi.org/10.1042/CS20171107)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/29523750/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Clin%20Sci%20(Lond)&title=Altered%20microbiome%20in%20chronic%20kidney%20disease:%20systemic%20effects%20of%20gut-derived%20uremic%20toxins&volume=132&publication_year=2018&pages=509-22&pmid=29523750&doi=10.1042/CS20171107&)\]
+- 31.
+Holle J, Bartolomaeus H, Löber Uet al.
+Inflammation in children with CKD linked to gut dysbiosis and metabolite imbalance. J Am Soc Nephrol 2022;33:2259–75. 10.1681/ASN.2022030378 \[ [DOI](https://doi.org/10.1681/ASN.2022030378)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC9731629/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/35985814/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Am%20Soc%20Nephrol&title=Inflammation%20in%20children%20with%20CKD%20linked%20to%20gut%20dysbiosis%20and%20metabolite%20imbalance&volume=33&publication_year=2022&pages=2259-75&pmid=35985814&doi=10.1681/ASN.2022030378&)\]
+- 32.
+Cashman JR, Zhang J, Leushner Jet al.
+Population distribution of human flavin-containing monooxygenase form 3: gene polymorphisms. Drug Metab Dispos 2001;29:1629–37. \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/11717182/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Drug%20Metab%20Dispos&title=Population%20distribution%20of%20human%20flavin-containing%20monooxygenase%20form%203:%20gene%20polymorphisms&volume=29&publication_year=2001&pages=1629-37&pmid=11717182&)\]
+- 33.
+Wang Z, Bergeron N, Levison BSet al.
+Impact of chronic dietary red meat, white meat, or non-meat protein on trimethylamine N-oxide metabolism and renal excretion in healthy men and women. Eur Heart J 2019;40:583–94. 10.1093/eurheartj/ehy799 \[ [DOI](https://doi.org/10.1093/eurheartj/ehy799)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC6374688/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/30535398/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Eur%20Heart%20J&title=Impact%20of%20chronic%20dietary%20red%20meat,%20white%20meat,%20or%20non-meat%20protein%20on%20trimethylamine%20N-oxide%20metabolism%20and%20renal%20excretion%20in%20healthy%20men%20and%20women&volume=40&publication_year=2019&pages=583-94&pmid=30535398&doi=10.1093/eurheartj/ehy799&)\]
+- 34.
+Gram L, Dalgaard P. Fish spoilage bacteria—problems and solutions. Curr Opin Biotechnol 2002;13:262–6. 10.1016/S0958-1669(02)00309-9 \[ [DOI](https://doi.org/10.1016/S0958-1669(02)00309-9)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/12180103/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Curr%20Opin%20Biotechnol&title=Fish%20spoilage%20bacteria%E2%80%94problems%20and%20solutions&volume=13&publication_year=2002&pages=262-6&pmid=12180103&doi=10.1016/S0958-1669(02)00309-9&)\]
+- 35.
+Shafi T, Meyer TW, Hostetter THet al.
+Free levels of selected organic solutes and cardiovascular morbidity and mortality in hemodialysis patients: results from the Retained Organic Solutes and Clinical Outcomes (ROSCO) investigators. PLoS One 2015;10:e0126048. 10.1371/journal.pone.0126048 \[ [DOI](https://doi.org/10.1371/journal.pone.0126048)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC4418712/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/25938230/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=PLoS%20One&title=Free%20levels%20of%20selected%20organic%20solutes%20and%20cardiovascular%20morbidity%20and%20mortality%20in%20hemodialysis%20patients:%20results%20from%20the%20Retained%20Organic%20Solutes%20and%20Clinical%20Outcomes%20(ROSCO)%20investigators&volume=10&publication_year=2015&pages=e0126048&pmid=25938230&doi=10.1371/journal.pone.0126048&)\]
+- 36.
+Krüger R, Merz B, Rist MJet al.
+Associations of current diet with plasma and urine TMAO in the KarMeN study: direct and indirect contributions. Mol Nutr Food Res 2017;61:1700363. 10.1002/mnfr.201700363 \[ [DOI](https://doi.org/10.1002/mnfr.201700363)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/28755411/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Mol%20Nutr%20Food%20Res&title=Associations%20of%20current%20diet%20with%20plasma%20and%20urine%20TMAO%20in%20the%20KarMeN%20study:%20direct%20and%20indirect%20contributions&volume=61&publication_year=2017&pages=1700363&pmid=28755411&doi=10.1002/mnfr.201700363&)\]
+- 37.
+Barrea L, Annunziata G, Muscogiuri Get al.
+Trimethylamine N-oxide, Mediterranean diet, and nutrition in healthy, normal-weight adults: also a matter of sex?
+Nutrition
+2019;62:7–17. 10.1016/j.nut.2018.11.015 \[ [DOI](https://doi.org/10.1016/j.nut.2018.11.015)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/30822745/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Nutrition&title=Trimethylamine%20N-oxide,%20Mediterranean%20diet,%20and%20nutrition%20in%20healthy,%20normal-weight%20adults:%20also%20a%20matter%20of%20sex?&volume=62&publication_year=2019&pages=7-17&pmid=30822745&doi=10.1016/j.nut.2018.11.015&)\]
+- 38.
+Yu D, Shu XO, Rivera ESet al.
+Urinary levels of trimethylamine-N-oxide and incident coronary heart disease: a prospective investigation among urban chinese adults. J Am Heart Assoc 2019;8:e010606. 10.1161/JAHA.118.010606 \[ [DOI](https://doi.org/10.1161/JAHA.118.010606)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC6405718/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/30606084/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Am%20Heart%20Assoc&title=Urinary%20levels%20of%20trimethylamine-N-oxide%20and%20incident%20coronary%20heart%20disease:%20a%20prospective%20investigation%20among%20urban%20chinese%20adults&volume=8&publication_year=2019&pages=e010606&pmid=30606084&doi=10.1161/JAHA.118.010606&)\]
+- 39.
+Svensson BG, Akesson B, Nilsson Aet al.
+Urinary excretion of methylamines in men with varying intake of fish from the Baltic Sea. J Toxicol Environ Health 1994;41:411–20. 10.1080/15287399409531853 \[ [DOI](https://doi.org/10.1080/15287399409531853)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/8145282/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Toxicol%20Environ%20Health&title=Urinary%20excretion%20of%20methylamines%20in%20men%20with%20varying%20intake%20of%20fish%20from%20the%20Baltic%20Sea&volume=41&publication_year=1994&pages=411-20&pmid=8145282&doi=10.1080/15287399409531853&)\]
+- 40.
+Yin X, Gibbons H, Rundle Met al.
+The relationship between fish intake and urinary trimethylamine-N-oxide. Mol Nutr Food Res 2020;64:1900799. 10.1002/mnfr.201900799 \[ [DOI](https://doi.org/10.1002/mnfr.201900799)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/31863680/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Mol%20Nutr%20Food%20Res&title=The%20relationship%20between%20fish%20intake%20and%20urinary%20trimethylamine-N-oxide&volume=64&publication_year=2020&pages=1900799&pmid=31863680&doi=10.1002/mnfr.201900799&)\]
+- 41.
+Gessner A, di Giuseppe R, Koch Met al.
+Trimethylamine-N-oxide (TMAO) determined by LC-MS/MS: distribution and correlates in the population-based PopGen cohort. Clin Chem Lab Med 2020;58:733–40. 10.1515/cclm-2019-1146 \[ [DOI](https://doi.org/10.1515/cclm-2019-1146)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/32084001/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Clin%20Chem%20Lab%20Med&title=Trimethylamine-N-oxide%20(TMAO)%20determined%20by%20LC-MS/MS:%20distribution%20and%20correlates%20in%20the%20population-based%20PopGen%20cohort&volume=58&publication_year=2020&pages=733-40&pmid=32084001&doi=10.1515/cclm-2019-1146&)\]
+- 42.
+Hagen IV, Helland A, Bratlie Met al.
+TMAO, creatine and 1-methylhistidine in serum and urine are potential biomarkers of cod and salmon intake: a randomised clinical trial in adults with overweight or obesity. Eur J Nutr 2020;59:2249–59. 10.1007/s00394-019-02076-4 \[ [DOI](https://doi.org/10.1007/s00394-019-02076-4)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/31401679/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Eur%20J%20Nutr&title=TMAO,%20creatine%20and%201-methylhistidine%20in%20serum%20and%20urine%20are%20potential%20biomarkers%20of%20cod%20and%20salmon%20intake:%20a%20randomised%20clinical%20trial%20in%20adults%20with%20overweight%20or%20obesity&volume=59&publication_year=2020&pages=2249-59&pmid=31401679&doi=10.1007/s00394-019-02076-4&)\]
+- 43.
+Summers G, Wibisono RD, Hedderley DIet al.
+Trimethylamine oxide content and spoilage potential of New Zealand commercial fish species. NZ J Mar Freshw Res 2017;51:393–405. 10.1080/00288330.2016.1250785 \[ [DOI](https://doi.org/10.1080/00288330.2016.1250785)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=NZ%20J%20Mar%20Freshw%20Res&title=Trimethylamine%20oxide%20content%20and%20spoilage%20potential%20of%20New%20Zealand%20commercial%20fish%20species&volume=51&publication_year=2017&pages=393-405&doi=10.1080/00288330.2016.1250785&)\]
+- 44.
+Yancey PH, Gerringer ME, Drazen JCet al.
+Marine fish may be biochemically constrained from inhabiting the deepest ocean depths. Proc Natl Acad Sci USA 2014;111:4461–5. 10.1073/pnas.1322003111 \[ [DOI](https://doi.org/10.1073/pnas.1322003111)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC3970477/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/24591588/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Proc%20Natl%20Acad%20Sci%20USA&title=Marine%20fish%20may%20be%20biochemically%20constrained%20from%20inhabiting%20the%20deepest%20ocean%20depths&volume=111&publication_year=2014&pages=4461-5&pmid=24591588&doi=10.1073/pnas.1322003111&)\]
+- 45.
+Wang Z, Tang WHW, O'Connell Tet al.
+Circulating trimethylamine N-oxide levels following fish or seafood consumption. Eur J Nutr 2022;61:2357–64. 10.1007/s00394-022-02803-4 \[ [DOI](https://doi.org/10.1007/s00394-022-02803-4)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC9283263/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/35113194/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Eur%20J%20Nutr&title=Circulating%20trimethylamine%20N-oxide%20levels%20following%20fish%20or%20seafood%20consumption&volume=61&publication_year=2022&pages=2357-64&pmid=35113194&doi=10.1007/s00394-022-02803-4&)\]
+- 46.
+Ebert T, Painer J, Bergman Pet al.
+Insights in the regulation of trimetylamine N-oxide production using a comparative biomimetic approach suggest a metabolic switch in hibernating bears. Sci Rep 2020;10:20323. 10.1038/s41598-020-76346-1 \[ [DOI](https://doi.org/10.1038/s41598-020-76346-1)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7684304/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/33230252/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Sci%20Rep&title=Insights%20in%20the%20regulation%20of%20trimetylamine%20N-oxide%20production%20using%20a%20comparative%20biomimetic%20approach%20suggest%20a%20metabolic%20switch%20in%20hibernating%20bears&volume=10&publication_year=2020&pages=20323&pmid=33230252&doi=10.1038/s41598-020-76346-1&)\]
+- 47.
+Tang WH, Wang Z, Shrestha Ket al.
+Intestinal microbiota-dependent phosphatidylcholine metabolites, diastolic dysfunction, and adverse clinical outcomes in chronic systolic heart failure. J Card Fail 2015;21:91–6. 10.1016/j.cardfail.2014.11.006 \[ [DOI](https://doi.org/10.1016/j.cardfail.2014.11.006)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC4312712/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/25459686/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Card%20Fail&title=Intestinal%20microbiota-dependent%20phosphatidylcholine%20metabolites,%20diastolic%20dysfunction,%20and%20adverse%20clinical%20outcomes%20in%20chronic%20systolic%20heart%20failure&volume=21&publication_year=2015&pages=91-6&pmid=25459686&doi=10.1016/j.cardfail.2014.11.006&)\]
+- 48.
+Trøseid M, Ueland T, Hov JRet al.
+Microbiota-dependent metabolite trimethylamine-N-oxide is associated with disease severity and survival of patients with chronic heart failure. J Intern Med 2015;277:717–26. 10.1111/joim.12328 \[ [DOI](https://doi.org/10.1111/joim.12328)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/25382824/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Intern%20Med&title=Microbiota-dependent%20metabolite%20trimethylamine-N-oxide%20is%20associated%20with%20disease%20severity%20and%20survival%20of%20patients%20with%20chronic%20heart%20failure&volume=277&publication_year=2015&pages=717-26&pmid=25382824&doi=10.1111/joim.12328&)\]
+- 49.
+Tang WH, Wang Z, Kennedy DJet al.
+Gut microbiota-dependent trimethylamine N-oxide (TMAO) pathway contributes to both development of renal insufficiency and mortality risk in chronic kidney disease. Circ Res 2015;116:448–55. 10.1161/CIRCRESAHA.116.305360 \[ [DOI](https://doi.org/10.1161/CIRCRESAHA.116.305360)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC4312512/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/25599331/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Circ%20Res&title=Gut%20microbiota-dependent%20trimethylamine%20N-oxide%20(TMAO)%20pathway%20contributes%20to%20both%20development%20of%20renal%20insufficiency%20and%20mortality%20risk%20in%20chronic%20kidney%20disease&volume=116&publication_year=2015&pages=448-55&pmid=25599331&doi=10.1161/CIRCRESAHA.116.305360&)\]
+- 50.
+Kim RB, Morse BL, Djurdjev Oet al.
+Advanced chronic kidney disease populations have elevated trimethylamine N-oxide levels associated with increased cardiovascular events. Kidney Int 2016;89:1144–52. 10.1016/j.kint.2016.01.014 \[ [DOI](https://doi.org/10.1016/j.kint.2016.01.014)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/27083288/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Kidney%20Int&title=Advanced%20chronic%20kidney%20disease%20populations%20have%20elevated%20trimethylamine%20N-oxide%20levels%20associated%20with%20increased%20cardiovascular%20events&volume=89&publication_year=2016&pages=1144-52&pmid=27083288&doi=10.1016/j.kint.2016.01.014&)\]
+- 51.
+Yin J, Liao SX, He Yet al.
+Dysbiosis of gut microbiota with reduced trimethylamine-N-oxide level in patients with large-artery atherosclerotic stroke or transient ischemic attack. J Am Heart Assoc 2015;4:e002699. 10.1161/JAHA.115.002699 \[ [DOI](https://doi.org/10.1161/JAHA.115.002699)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC4845212/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/26597155/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Am%20Heart%20Assoc&title=Dysbiosis%20of%20gut%20microbiota%20with%20reduced%20trimethylamine-N-oxide%20level%20in%20patients%20with%20large-artery%20atherosclerotic%20stroke%20or%20transient%20ischemic%20attack&volume=4&publication_year=2015&pages=e002699&pmid=26597155&doi=10.1161/JAHA.115.002699&)\]
+- 52.
+Mueller DM, Allenspach M, Othman Aet al.
+Plasma levels of trimethylamine-N-oxide are confounded by impaired kidney function and poor metabolic control. Atherosclerosis 2015;243:638–44. 10.1016/j.atherosclerosis.2015.10.091 \[ [DOI](https://doi.org/10.1016/j.atherosclerosis.2015.10.091)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/26554714/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Atherosclerosis&title=Plasma%20levels%20of%20trimethylamine-N-oxide%20are%20confounded%20by%20impaired%20kidney%20function%20and%20poor%20metabolic%20control&volume=243&publication_year=2015&pages=638-44&pmid=26554714&doi=10.1016/j.atherosclerosis.2015.10.091&)\]
+- 53.
+Tomlinson JAP, Wheeler DC. The role of trimethylamine N-oxide as a mediator of cardiovascular complications in chronic kidney disease. Kidney Int 2017;92:809–15. 10.1016/j.kint.2017.03.053 \[ [DOI](https://doi.org/10.1016/j.kint.2017.03.053)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/28807612/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Kidney%20Int&title=The%20role%20of%20trimethylamine%20N-oxide%20as%20a%20mediator%20of%20cardiovascular%20complications%20in%20chronic%20kidney%20disease&volume=92&publication_year=2017&pages=809-15&pmid=28807612&doi=10.1016/j.kint.2017.03.053&)\]
+- 54.
+Tilg H. A gut feeling about thrombosis. N Engl J Med 2016;374:2494–6. 10.1056/NEJMcibr1604458 \[ [DOI](https://doi.org/10.1056/NEJMcibr1604458)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/27332910/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=N%20Engl%20J%20Med&title=A%20gut%20feeling%20about%20thrombosis&volume=374&publication_year=2016&pages=2494-6&pmid=27332910&doi=10.1056/NEJMcibr1604458&)\]
+- 55.
+Tang WH, Wang Z, Levison BSet al.
+Intestinal microbial metabolism of phosphatidylcholine and cardiovascular risk. N Engl J Med 2013;368:1575–84. 10.1056/NEJMoa1109400 \[ [DOI](https://doi.org/10.1056/NEJMoa1109400)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC3701945/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/23614584/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=N%20Engl%20J%20Med&title=Intestinal%20microbial%20metabolism%20of%20phosphatidylcholine%20and%20cardiovascular%20risk&volume=368&publication_year=2013&pages=1575-84&pmid=23614584&doi=10.1056/NEJMoa1109400&)\]
+- 56.
+Seldin MM, Meng Y, Qi Het al.
+Trimethylamine N-oxide promotes vascular inflammation through signaling of mitogen-activated protein kinase and nuclear factor-κB. J Am Heart Assoc 2016;5:e002767. 10.1161/JAHA.115.002767 \[ [DOI](https://doi.org/10.1161/JAHA.115.002767)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC4802459/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/26903003/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Am%20Heart%20Assoc&title=Trimethylamine%20N-oxide%20promotes%20vascular%20inflammation%20through%20signaling%20of%20mitogen-activated%20protein%20kinase%20and%20nuclear%20factor-%CE%BAB&volume=5&publication_year=2016&pages=e002767&pmid=26903003&doi=10.1161/JAHA.115.002767&)\]
+- 57.
+Zhu W, Gregory JC, Org Eet al.
+Gut microbial metabolite TMAO enhances platelet hyperreactivity and thrombosis risk. Cell 2016;165:111–24. 10.1016/j.cell.2016.02.011 \[ [DOI](https://doi.org/10.1016/j.cell.2016.02.011)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC4862743/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/26972052/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Cell&title=Gut%20microbial%20metabolite%20TMAO%20enhances%20platelet%20hyperreactivity%20and%20thrombosis%20risk&volume=165&publication_year=2016&pages=111-24&pmid=26972052&doi=10.1016/j.cell.2016.02.011&)\]
+- 58.
+Hadi HA, Carr CS, Al Suwaidi J. Endothelial dysfunction: cardiovascular risk factors, therapy, and outcome. Vasc Health Risk Manag 2005;1:183–98. \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC1993955/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/17319104/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Vasc%20Health%20Risk%20Manag&title=Endothelial%20dysfunction:%20cardiovascular%20risk%20factors,%20therapy,%20and%20outcome&volume=1&publication_year=2005&pages=183-98&pmid=17319104&)\]
+- 59.
+Matsumoto T, Kojima M, Takayanagi Ket al.
+Trimethylamine-N-oxide specifically impairs endothelium-derived hyperpolarizing factor-type relaxation in rat femoral artery. Biol Pharm Bull 2020;43:569–73. 10.1248/bpb.b19-00957 \[ [DOI](https://doi.org/10.1248/bpb.b19-00957)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/32115516/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Biol%20Pharm%20Bull&title=Trimethylamine-N-oxide%20specifically%20impairs%20endothelium-derived%20hyperpolarizing%20factor-type%20relaxation%20in%20rat%20femoral%20artery&volume=43&publication_year=2020&pages=569-73&pmid=32115516&doi=10.1248/bpb.b19-00957&)\]
+- 60.
+Ke Y, Li D, Zhao Met al.
+Gut flora-dependent metabolite trimethylamine-N-oxide accelerates endothelial cell senescence and vascular aging through oxidative stress. Free Radical Biol Med 2018;116:88–100. 10.1016/j.freeradbiomed.2018.01.007 \[ [DOI](https://doi.org/10.1016/j.freeradbiomed.2018.01.007)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/29325896/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Free%20Radical%20Biol%20Med&title=Gut%20flora-dependent%20metabolite%20trimethylamine-N-oxide%20accelerates%20endothelial%20cell%20senescence%20and%20vascular%20aging%20through%20oxidative%20stress&volume=116&publication_year=2018&pages=88-100&pmid=29325896&doi=10.1016/j.freeradbiomed.2018.01.007&)\]
+- 61.
+Brunt VE, Gioscia-Ryan RA, Casso AGet al.
+Trimethylamine-N-oxide promotes age-related vascular oxidative stress and endothelial dysfunction in mice and healthy humans. Hypertension 2020;76:101–12. 10.1161/HYPERTENSIONAHA.120.14759 \[ [DOI](https://doi.org/10.1161/HYPERTENSIONAHA.120.14759)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7295014/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/32520619/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Hypertension&title=Trimethylamine-N-oxide%20promotes%20age-related%20vascular%20oxidative%20stress%20and%20endothelial%20dysfunction%20in%20mice%20and%20healthy%20humans&volume=76&publication_year=2020&pages=101-12&pmid=32520619&doi=10.1161/HYPERTENSIONAHA.120.14759&)\]
+- 62.
+Yancey PH. Organic osmolytes as compatible, metabolic and counteracting cytoprotectants in high osmolarity and other stresses. J Exp Biol 2005;208:2819–30. 10.1242/jeb.01730 \[ [DOI](https://doi.org/10.1242/jeb.01730)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/16043587/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Exp%20Biol&title=Organic%20osmolytes%20as%20compatible,%20metabolic%20and%20counteracting%20cytoprotectants%20in%20high%20osmolarity%20and%20other%20stresses&volume=208&publication_year=2005&pages=2819-30&pmid=16043587&doi=10.1242/jeb.01730&)\]
+- 63.
+Zhu W, Wang Z, Tang WHWet al.
+Gut microbe-generated trimethylamine n-oxide from dietary choline is prothrombotic in subjects. Circulation 2017;135:1671–3. 10.1161/CIRCULATIONAHA.116.025338 \[ [DOI](https://doi.org/10.1161/CIRCULATIONAHA.116.025338)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC5460631/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/28438808/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Circulation&title=Gut%20microbe-generated%20trimethylamine%20n-oxide%20from%20dietary%20choline%20is%20prothrombotic%20in%20subjects&volume=135&publication_year=2017&pages=1671-3&pmid=28438808&doi=10.1161/CIRCULATIONAHA.116.025338&)\]
+- 64.
+Lin TY, Wu PH, Lin YTet al.
+Characterization of gut microbiota composition in hemodialysis patients with normal weight obesity. J Clin Endocrinol Metab 2020;105:2006–14. 10.1210/clinem/dgaa166 \[ [DOI](https://doi.org/10.1210/clinem/dgaa166)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/32296838/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Clin%20Endocrinol%20Metab&title=Characterization%20of%20gut%20microbiota%20composition%20in%20hemodialysis%20patients%20with%20normal%20weight%20obesity&volume=105&publication_year=2020&pages=2006-14&pmid=32296838&doi=10.1210/clinem/dgaa166&)\]
+- 65.
+Ji X, Tian L, Niu Set al.
+Trimethylamine N-oxide promotes demyelination in spontaneous hypertension rats through enhancing pyroptosis of oligodendrocytes. Front Aging Neurosci 2022;14:963876. 10.3389/fnagi.2022.963876 \[ [DOI](https://doi.org/10.3389/fnagi.2022.963876)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC9441869/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/36072486/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Front%20Aging%20Neurosci&title=Trimethylamine%20N-oxide%20promotes%20demyelination%20in%20spontaneous%20hypertension%20rats%20through%20enhancing%20pyroptosis%20of%20oligodendrocytes&volume=14&publication_year=2022&pages=963876&pmid=36072486&doi=10.3389/fnagi.2022.963876&)\]
+- 66.
+Sun G, Yin Z, Liu Net al.
+Gut microbial metabolite TMAO contributes to renal dysfunction in a mouse model of diet-induced obesity. Biochem Biophys Res Commun 2017;493:964–70. 10.1016/j.bbrc.2017.09.108 \[ [DOI](https://doi.org/10.1016/j.bbrc.2017.09.108)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/28942145/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Biochem%20Biophys%20Res%20Commun&title=Gut%20microbial%20metabolite%20TMAO%20contributes%20to%20renal%20dysfunction%20in%20a%20mouse%20model%20of%20diet-induced%20obesity&volume=493&publication_year=2017&pages=964-70&pmid=28942145&doi=10.1016/j.bbrc.2017.09.108&)\]
+- 67.
+Kapetanaki S, Kumawat AK, Persson Ket al.
+The fibrotic effects of TMAO on human renal fibroblasts is mediated by NLRP3, Caspase-1 and the PERK/Akt/mTOR pathway. Int J Mol Sci 2021;22:11864. 10.3390/ijms222111864 \[ [DOI](https://doi.org/10.3390/ijms222111864)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC8584593/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/34769294/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Int%20J%20Mol%20Sci&title=The%20fibrotic%20effects%20of%20TMAO%20on%20human%20renal%20fibroblasts%20is%20mediated%20by%20NLRP3,%20Caspase-1%20and%20the%20PERK/Akt/mTOR%20pathway&volume=22&publication_year=2021&pages=11864&pmid=34769294&doi=10.3390/ijms222111864&)\]
+- 68.
+Gupta N, Buffa JA, Roberts ABet al.
+Targeted inhibition of gut microbial trimethylamine N-oxide production reduces renal tubulointerstitial fibrosis and functional impairment in a murine model of chronic kidney disease. Arterioscler Thromb Vasc Biol 2020;40:1239–55. 10.1161/ATVBAHA.120.314139 \[ [DOI](https://doi.org/10.1161/ATVBAHA.120.314139)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7203662/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/32212854/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Arterioscler%20Thromb%20Vasc%20Biol&title=Targeted%20inhibition%20of%20gut%20microbial%20trimethylamine%20N-oxide%20production%20reduces%20renal%20tubulointerstitial%20fibrosis%20and%20functional%20impairment%20in%20a%20murine%20model%20of%20chronic%20kidney%20disease&volume=40&publication_year=2020&pages=1239-55&pmid=32212854&doi=10.1161/ATVBAHA.120.314139&)\]
+- 69.
+Kapetanaki S, Kumawat AK, Persson Ket al.
+TMAO suppresses megalin expression and albumin uptake in human proximal tubular cells via PI3K and ERK signaling. Int J Mol Sci 2022;23:8856. 10.3390/ijms23168856 \[ [DOI](https://doi.org/10.3390/ijms23168856)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC9407713/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/36012119/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Int%20J%20Mol%20Sci&title=TMAO%20suppresses%20megalin%20expression%20and%20albumin%20uptake%20in%20human%20proximal%20tubular%20cells%20via%20PI3K%20and%20ERK%20signaling&volume=23&publication_year=2022&pages=8856&pmid=36012119&doi=10.3390/ijms23168856&)\]
+- 70.
+Mafra D, Borges N, Cardozo Let al.
+Red meat intake in chronic kidney disease patients: two sides of the coin. Nutrition 2018;46:26–32. 10.1016/j.nut.2017.08.015 \[ [DOI](https://doi.org/10.1016/j.nut.2017.08.015)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/29290351/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Nutrition&title=Red%20meat%20intake%20in%20chronic%20kidney%20disease%20patients:%20two%20sides%20of%20the%20coin&volume=46&publication_year=2018&pages=26-32&pmid=29290351&doi=10.1016/j.nut.2017.08.015&)\]
+- 71.
+Wilcox J, Skye SM, Graham Bet al.
+Dietary choline supplements, but not eggs, raise fasting TMAO levels in participants with normal renal function: a randomized clinical trial. Am J Med 2021;134:1160–9.e3. 10.1016/j.amjmed.2021.03.016 \[ [DOI](https://doi.org/10.1016/j.amjmed.2021.03.016)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC8410632/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/33872583/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Am%20J%20Med&title=Dietary%20choline%20supplements,%20but%20not%20eggs,%20raise%20fasting%20TMAO%20levels%20in%20participants%20with%20normal%20renal%20function:%20a%20randomized%20clinical%20trial&volume=134&publication_year=2021&pages=1160-9.e3&pmid=33872583&doi=10.1016/j.amjmed.2021.03.016&)\]
+- 72.
+Mohan D, Mente A, Dehghan Met al.
+Associations of fish consumption with risk of cardiovascular disease and mortality among individuals with or without vascular disease from 58 countries. JAMA Intern Med 2021;181:631–49. 10.1001/jamainternmed.2021.0036 \[ [DOI](https://doi.org/10.1001/jamainternmed.2021.0036)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7941252/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/33683310/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=JAMA%20Intern%20Med&title=Associations%20of%20fish%20consumption%20with%20risk%20of%20cardiovascular%20disease%20and%20mortality%20among%20individuals%20with%20or%20without%20vascular%20disease%20from%2058%20countries&volume=181&publication_year=2021&pages=631-49&pmid=33683310&doi=10.1001/jamainternmed.2021.0036&)\]
+- 73.
+Sinclair AJ, Xu L, Wang Y. 3-carboxy-4-methyl-5-propyl-2-furanpropanoic acid (CMPF): a metabolite identified after consumption of fish oil and fish. Nutr Bull 2018;43:153–7. 10.1111/nbu.12321 \[ [DOI](https://doi.org/10.1111/nbu.12321)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Nutr%20Bull&title=3-carboxy-4-methyl-5-propyl-2-furanpropanoic%20acid%20(CMPF):%20a%20metabolite%20identified%20after%20consumption%20of%20fish%20oil%20and%20fish&volume=43&publication_year=2018&pages=153-7&doi=10.1111/nbu.12321&)\]
+- 74.
+Liu G, Gibson RA, Callahan Det al.
+Pure omega 3 polyunsaturated fatty acids (EPA, DPA or DHA) are associated with increased plasma levels of 3-carboxy-4-methyl-5-propyl-2-furanpropanoic acid (CMPF) in a short-term study in women. Food Funct 2020;11:2058–66. 10.1039/C9FO02440A \[ [DOI](https://doi.org/10.1039/C9FO02440A)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/32142084/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Food%20Funct&title=Pure%20omega%203%20polyunsaturated%20fatty%20acids%20(EPA,%20DPA%20or%20DHA)%20are%20associated%20with%20increased%20plasma%20levels%20of%203-carboxy-4-methyl-5-propyl-2-furanpropanoic%20acid%20(CMPF)%20in%20a%20short-term%20study%20in%20women&volume=11&publication_year=2020&pages=2058-66&pmid=32142084&doi=10.1039/C9FO02440A&)\]
+- 75.
+Dai L, Massy ZA, Stenvinkel Pet al.
+The association between TMAO, CMPF, and clinical outcomes in advanced chronic kidney disease: results from the European QUALity (EQUAL) Study. Am J Clin Nutr 2022;116:1842–51. 10.1093/ajcn/nqac278 \[ [DOI](https://doi.org/10.1093/ajcn/nqac278)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC9761748/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/36166845/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Am%20J%20Clin%20Nutr&title=The%20association%20between%20TMAO,%20CMPF,%20and%20clinical%20outcomes%20in%20advanced%20chronic%20kidney%20disease:%20results%20from%20the%20European%20QUALity%20(EQUAL)%20Study&volume=116&publication_year=2022&pages=1842-51&pmid=36166845&doi=10.1093/ajcn/nqac278&)\]
+- 76.
+Struijk EA, Fung TT, Rodríguez-Artalejo Fet al.
+Protein intake and risk of frailty among older women in the Nurses’ Health Study. J Cachexia Sarcopenia Muscle 2022;13:1752–61. 10.1002/jcsm.12972 \[ [DOI](https://doi.org/10.1002/jcsm.12972)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC9178161/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/35318829/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Cachexia%20Sarcopenia%20Muscle&title=Protein%20intake%20and%20risk%20of%20frailty%20among%20older%20women%20in%20the%20Nurses%E2%80%99%20Health%20Study&volume=13&publication_year=2022&pages=1752-61&pmid=35318829&doi=10.1002/jcsm.12972&)\]
+- 77.
+Lombardo M, Aulisa G, Marcon Det al.
+The influence of animal- or plant-based diets on blood and urine trimethylamine-N-oxide (TMAO) levels in humans. Curr Nutr Rep 2022;11:56–68. 10.1007/s13668-021-00387-9 \[ [DOI](https://doi.org/10.1007/s13668-021-00387-9)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/34990005/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Curr%20Nutr%20Rep&title=The%20influence%20of%20animal-%20or%20plant-based%20diets%20on%20blood%20and%20urine%20trimethylamine-N-oxide%20(TMAO)%20levels%20in%20humans&volume=11&publication_year=2022&pages=56-68&pmid=34990005&doi=10.1007/s13668-021-00387-9&)\]
+- 78.
+Benítez-Páez A, Kjølbæk L, Gómez Del Pulgar EMet al.
+A multi-omics approach to unraveling the microbiome-mediated effects of arabinoxylan oligosaccharides in overweight humans. mSystems 2019;4:e00209–19. 10.1128/mSystems.00209-19 \[ [DOI](https://doi.org/10.1128/mSystems.00209-19)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC6538848/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/31138673/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=mSystems&title=A%20multi-omics%20approach%20to%20unraveling%20the%20microbiome-mediated%20effects%20of%20arabinoxylan%20oligosaccharides%20in%20overweight%20humans&volume=4&publication_year=2019&pages=e00209-19&pmid=31138673&doi=10.1128/mSystems.00209-19&)\]
+- 79.
+Wiese GN, Biruete A, Moorthi RNet al.
+Plant-based diets, the gut microbiota, and trimethylamine N-oxide production in chronic kidney disease: therapeutic potential and methodological considerations. J Ren Nutr 2021;31:121–31. 10.1053/j.jrn.2020.04.007 \[ [DOI](https://doi.org/10.1053/j.jrn.2020.04.007)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7770016/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/32616440/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Ren%20Nutr&title=Plant-based%20diets,%20the%20gut%20microbiota,%20and%20trimethylamine%20N-oxide%20production%20in%20chronic%20kidney%20disease:%20therapeutic%20potential%20and%20methodological%20considerations&volume=31&publication_year=2021&pages=121-31&pmid=32616440&doi=10.1053/j.jrn.2020.04.007&)\]
+- 80.
+Topping DL, Fukushima M, Bird AR. Resistant starch as a prebiotic and synbiotic: state of the art. Proc Nutr Soc 2003;62:171–6. 10.1079/PNS2002224 \[ [DOI](https://doi.org/10.1079/PNS2002224)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/12749342/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Proc%20Nutr%20Soc&title=Resistant%20starch%20as%20a%20prebiotic%20and%20synbiotic:%20state%20of%20the%20art&volume=62&publication_year=2003&pages=171-6&pmid=12749342&doi=10.1079/PNS2002224&)\]
+- 81.
+Du X, Wu J, Gao Cet al.
+Effects of resistant starch on patients with chronic kidney disease: a systematic review and meta-analysis. J Diabetes Res 2022;2022:1. 10.1155/2022/1861009 \[ [DOI](https://doi.org/10.1155/2022/1861009)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC9314005/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/35899018/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Diabetes%20Res&title=Effects%20of%20resistant%20starch%20on%20patients%20with%20chronic%20kidney%20disease:%20a%20systematic%20review%20and%20meta-analysis&volume=2022&publication_year=2022&pages=1&pmid=35899018&doi=10.1155/2022/1861009&)\]
+- 82.
+Burton KJ, Krüger R, Scherz Vet al.
+Trimethylamine-N-oxide postprandial response in plasma and urine is lower after fermented compared to non-fermented dairy consumption in healthy adults. Nutrients 2020;12:234. 10.3390/nu12010234 \[ [DOI](https://doi.org/10.3390/nu12010234)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7019705/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/31963239/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Nutrients&title=Trimethylamine-N-oxide%20postprandial%20response%20in%20plasma%20and%20urine%20is%20lower%20after%20fermented%20compared%20to%20non-fermented%20dairy%20consumption%20in%20healthy%20adults&volume=12&publication_year=2020&pages=234&pmid=31963239&doi=10.3390/nu12010234&)\]
+- 83.
+Mafra D, Kemp JA, Leal VOet al.
+Consumption of fish in chronic kidney disease - a matter of depth. Mol Nutr Food Res 2023;e2200859. 10.1002/mnfr.202200859 \[ [DOI](https://doi.org/10.1002/mnfr.202200859)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/36861422/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Mol%20Nutr%20Food%20Res&title=Consumption%20of%20fish%20in%20chronic%20kidney%20disease%20-%20a%20matter%20of%20depth&publication_year=2023&pages=2200859&pmid=36861422&doi=10.1002/mnfr.202200859&)\]
+- 84.
+Monteiro CA, Cannon G, Levy RBet al.
+Ultra-processed foods: what they are and how to identify them. Public Health Nutr 2019;22:936–41. 10.1017/S1368980018003762 \[ [DOI](https://doi.org/10.1017/S1368980018003762)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC10260459/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/30744710/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Public%20Health%20Nutr&title=Ultra-processed%20foods:%20what%20they%20are%20and%20how%20to%20identify%20them&volume=22&publication_year=2019&pages=936-41&pmid=30744710&doi=10.1017/S1368980018003762&)\]
+- 85.
+Snelson M, Tan SM, Clarke REet al.
+Processed foods drive intestinal barrier permeability and microvascular diseases. Sci Adv 2021;7:eabe4841. 10.1126/sciadv.abe4841 \[ [DOI](https://doi.org/10.1126/sciadv.abe4841)\] \[ [PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC8011970/)\] \[ [PubMed](https://pubmed.ncbi.nlm.nih.gov/33789895/)\] \[ [Google Scholar](https://scholar.google.com/scholar_lookup?journal=Sci%20Adv&title=Processed%20foods%20drive%20intestinal%20barrier%20permeability%20and%20microvascular%20diseases&volume=7&publication_year=2021&pages=eabe4841&pmid=33789895&doi=10.1126/sciadv.abe4841&)\]
+
+## Associated Data
+
+_This section collects any data citations, data availability statements, or supplementary materials included in this article._
+
+### Data Availability Statement
+
+No new data were generated or analysed in support of this research.
+
+![Close](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/close.svg)
+
+## ACTIONS
+
+- [![View on publisher site icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/launch.svg)View on publisher site](https://doi.org/10.1093/ckj/sfad095)
+- [![Download PDF icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/file_download.svg)PDF (4.4 MB)](https://pmc.ncbi.nlm.nih.gov/articles/PMC10616480/pdf/sfad095.pdf)
+- ![Cite icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/format_quote.svg)Cite
+- ![Collections icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/action-bookmark-full.svg)![Collections icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/action-bookmark-empty.svg)Collections
+- ![Permalink icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/share.svg)Permalink
+
+
+
+
+## PERMALINK
+
+
+
+![Copy icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/content_copy.svg)Copy
+
+
+## RESOURCES
+
+### Similar articles
+
+### Cited by other articles
+
+### Links to NCBI Databases
+
+Back to Top![back to top icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/arrow_upward.svg)

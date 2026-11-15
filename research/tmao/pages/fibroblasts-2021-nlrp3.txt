@@ -1,0 +1,398 @@
+# URL: https://pubmed.ncbi.nlm.nih.gov/34769294/
+# Fetched via web_extract on 2026-11-15
+
+Clipboard, Search History, and several other advanced features are temporarily unavailable.
+
+
+[Skip to main page content](https://pubmed.ncbi.nlm.nih.gov/34769294/#article-details)
+
+![Dot gov](https://cdn.ncbi.nlm.nih.gov/coreutils/uswds/img/icon-dot-gov.svg)
+
+**The .gov means it’s official.**
+
+Federal government websites often end in .gov or .mil. Before
+sharing sensitive information, make sure you’re on a federal
+government site.
+
+
+![Https](https://cdn.ncbi.nlm.nih.gov/coreutils/uswds/img/icon-https.svg)
+
+**The site is secure.**
+
+The **https://** ensures that you are connecting to the
+official website and that any information you provide is encrypted
+and transmitted securely.
+
+
+[Access keys](https://www.ncbi.nlm.nih.gov/guide/browsers/#ncbi_accesskeys) [NCBI Homepage](https://www.ncbi.nlm.nih.gov/) [MyNCBI Homepage](https://pubmed.ncbi.nlm.nih.gov/myncbi/) [Main Content](https://pubmed.ncbi.nlm.nih.gov/34769294/#maincontent) [Main Navigation](https://pubmed.ncbi.nlm.nih.gov/34769294/#)
+
+[![pubmed logo](https://cdn.ncbi.nlm.nih.gov/pubmed/a447896c-976f-490b-b86b-2668b65114a8/core/images/pubmed-logo-blue.svg)](https://pubmed.ncbi.nlm.nih.gov/)[Show search bar](https://pubmed.ncbi.nlm.nih.gov/34769294/# "Show search bar")
+
+Search:
+[Clear search input](https://pubmed.ncbi.nlm.nih.gov/34769294/# "Clear search input") Search
+
+[Advanced](https://pubmed.ncbi.nlm.nih.gov/advanced/) [Clipboard](https://pubmed.ncbi.nlm.nih.gov/clipboard/)
+
+[User Guide](https://pubmed.ncbi.nlm.nih.gov/help/)
+
+Save
+
+Email
+
+
+Send to
+
+- [Clipboard](https://pubmed.ncbi.nlm.nih.gov/34769294/#)
+- [My Bibliography](https://account.ncbi.nlm.nih.gov/?back_url=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F34769294%2F%23open-bibliography-panel)
+- [Collections](https://account.ncbi.nlm.nih.gov/?back_url=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F34769294%2F%23open-collections-panel)
+- [Citation manager](https://pubmed.ncbi.nlm.nih.gov/34769294/#)
+
+Display options
+
+Display options
+
+
+Format
+AbstractPubMedPMID
+
+## Save citation to file
+
+Format:
+Summary (text)PubMedPMIDAbstract (text)CSV
+
+Create file
+
+Cancel
+
+
+## Email citation
+
+Email address has not been verified. Go to
+[My NCBI account settings](https://account.ncbi.nlm.nih.gov/settings/)
+to confirm your email and then refresh this page.
+
+
+To:
+
+
+Subject:
+
+
+Body:
+
+
+Format:
+SummarySummary (text)AbstractAbstract (text)
+
+MeSH and other data
+
+
+Send email
+
+Cancel
+
+
+### Add to Collections
+
+- Create a new collection
+- Add to an existing collection
+
+Name your collection:
+
+
+Name must be less than 100 characters
+
+
+Choose a collection:
+
+
+Unable to load your collection due to an error
+
+[Please try again](https://pubmed.ncbi.nlm.nih.gov/34769294/#)
+
+Add
+
+Cancel
+
+
+### Add to My Bibliography
+
+- My Bibliography
+
+Unable to load your delegates due to an error
+
+[Please try again](https://pubmed.ncbi.nlm.nih.gov/34769294/#)
+
+Add
+
+Cancel
+
+
+## Your saved search
+
+Name of saved search:
+
+
+Search terms:
+
+
+[Test search terms](https://pubmed.ncbi.nlm.nih.gov/34769294/#)
+
+Would you like email updates of new search results?
+Saved Search Alert Radio Buttons
+
+- Yes
+- No
+
+Email:
+( [change](https://www.ncbi.nlm.nih.gov/account/settings/))
+
+Frequency:
+MonthlyWeeklyDaily
+
+Which day?
+The first SundayThe first MondayThe first TuesdayThe first WednesdayThe first ThursdayThe first FridayThe first SaturdayThe first dayThe first weekday
+
+Which day?
+SundayMondayTuesdayWednesdayThursdayFridaySaturday
+
+Report format:
+SummarySummary (text)AbstractAbstract (text)PubMed
+
+Send at most:
+1 item5 items10 items20 items50 items100 items200 items
+
+Send even when there aren't any new results
+
+
+Optional text in email:
+
+
+Save
+
+Cancel
+
+
+## Create a file for external citation management software
+
+Create file
+
+Cancel
+
+
+## Your RSS Feed
+
+Name of RSS Feed:
+
+
+Number of items displayed:
+510152050100
+
+Create RSS
+
+Cancel
+
+
+RSS Link
+Copy
+
+
+Full text links
+Cite
+
+Display options
+
+Display options
+
+
+Format
+AbstractPubMedPMID
+
+Linked Discoveries
+
+## Abstract
+
+
+Trimethylamine N-oxide (TMAO), a product of gut microbiota metabolism, has previously been shown to be implicated in chronic kidney disease. A high TMAO-containing diet has been found to cause tubulointerstitial renal fibrosis in mice. However, today there are no data linking specific molecular pathways with the effect of TMAO on human renal fibrosis. The aim of this study was to investigate the fibrotic effects of TMAO on renal fibroblasts and to elucidate the molecular pathways involved. We found that TMAO promoted renal fibroblast activation and fibroblast proliferation via the PERK/Akt/mTOR pathway, NLRP3, and caspase-1 signaling. We also found that TMAO increased the total collagen production from renal fibroblasts via the PERK/Akt/mTOR pathway. However, TMAO did not induce fibronectin or TGF-β1 release from renal fibroblasts. We have unraveled that the PERK/Akt/mTOR pathway, NLRP3, and caspase-1 mediates TMAO's fibrotic effect on human renal fibroblasts. Our results can pave the way for future research to further clarify the molecular mechanism behind TMAO's effects and to identify novel therapeutic targets in the context of chronic kidney disease.
+
+
+**Keywords:**
+
+TMAO; chronic kidney disease; collagen; proliferation; renal fibroblasts.
+
+
+[PubMed Disclaimer](https://pubmed.ncbi.nlm.nih.gov/disclaimer/)
+
+## Conflict of interest statement
+
+The authors declare no conflict of interest.
+
+## Figures
+
+[![Figure 1](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/acf5/8584593/9338d751a123/ijms-22-11864-g001.gif)](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/acf5/8584593/c2a33d864f29/ijms-22-11864-g001.jpg)
+
+**Figure 1**
+
+Trimethylamine N-oxide (TMAO) promotes renal…
+
+**Figure 1**
+
+Trimethylamine N-oxide (TMAO) promotes renal fibroblast activation. Renal fibroblasts were stimulated with 300…
+
+**Figure 1**
+
+Trimethylamine N-oxide (TMAO) promotes renal fibroblast activation. Renal fibroblasts were stimulated with 300 µM TMAO and 10 ng/mL TGF-β1 for 24 h and α-SMA expression was visualized with fluorescence microscopy ( **A**) and Western blot ( **B**). Green represents α-SMA (smooth muscle actin) and blue (DAPI) represents the nucleus. Scale bar represents 100 µm. GAPDH was used as a loading control. Data are representative of three independent experiments.
+
+[![Figure 2](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/acf5/8584593/b84c8a5cc0d0/ijms-22-11864-g002.gif)](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/acf5/8584593/7e17068994e6/ijms-22-11864-g002.jpg)
+
+**Figure 2**
+
+TMAO induces renal fibroblast proliferation.…
+
+**Figure 2**
+
+TMAO induces renal fibroblast proliferation. Renal fibroblasts were stimulated with 100–300 µM TMAO…
+
+**Figure 2**
+
+TMAO induces renal fibroblast proliferation. Renal fibroblasts were stimulated with 100–300 µM TMAO and 10 ng/mL TGF-β1 for 24 h ( **A**, **C**) or 48 h ( **B**, **C**) and proliferation ( **A**, **B**) or LDH release ( **C**) were evaluated. Proliferation is presented as % of unstimulated control. LDH release is presented as % of total LDH. Data are presented as mean ± SEM ( _n_ = 3 independent experiments). Asterisks denote statistical significance compared to unstimulated cells (\* _p_ < 0.05, \*\* _p_ < 0.01).
+
+[![Figure 3](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/acf5/8584593/86ca2ed2207a/ijms-22-11864-g003.gif)](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/acf5/8584593/407a20d6e172/ijms-22-11864-g003.jpg)
+
+**Figure 3**
+
+PERK/Akt/mTOR pathway mediates TMAOs proliferative…
+
+**Figure 3**
+
+PERK/Akt/mTOR pathway mediates TMAOs proliferative effect on renal fibroblasts. Renal fibroblasts were pre-incubated…
+
+**Figure 3**
+
+PERK/Akt/mTOR pathway mediates TMAOs proliferative effect on renal fibroblasts. Renal fibroblasts were pre-incubated with DMSO (vehicle), PERK inhibitor GSK2656157 (0.5 µM), Akt inhibitor MK-2206 (1 µM), mTOR inhibitor ridaforolimus (1 µM) or PI3K inhibitor wortmannin (1 µM) for 1 h prior to TMAO stimulation (300 µM) for 48 h ( **A**) followed by evaluating proliferation. Proliferation is presented as % of unstimulated control. Western blot analysis was conducted to identify differences in protein levels of p-Akt/Akt and p-mTOR/mTOR after TMAO (300 µM) stimulation for 3 and 5 min ( **B**). GAPDH was used as a loading control. Data are presented as mean ± SEM ( _n_ = 3 independent experiments). Asterisks denote statistical significance (\*\* _p_ < 0.01).
+
+[![Figure 4](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/acf5/8584593/a5e97f383e8c/ijms-22-11864-g004.gif)](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/acf5/8584593/dbcaf54f7d98/ijms-22-11864-g004.jpg)
+
+**Figure 4**
+
+NLRP3 and caspase-1 mediate TMAO’s…
+
+**Figure 4**
+
+NLRP3 and caspase-1 mediate TMAO’s proliferative effect on renal fibroblasts. NLRP3 and caspase-1…
+
+**Figure 4**
+
+
+[... middle omitted — see footer ...]
+
+  - [Search in MeSH](https://www.ncbi.nlm.nih.gov/mesh?term=%22EIF2AK3+protein%2C+human%22)
+  - [Add to Search](https://pubmed.ncbi.nlm.nih.gov/34769294/#)
+
+- Proto-Oncogene Proteins c-akt
+
+
+
+
+Actions
+
+
+
+
+
+  - [Search in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22Proto-Oncogene+Proteins+c-akt%22%5Bnm%5D&sort=date&sort_order=desc)
+  - [Search in MeSH](https://www.ncbi.nlm.nih.gov/mesh?term=%22Proto-Oncogene+Proteins+c-akt%22)
+  - [Add to Search](https://pubmed.ncbi.nlm.nih.gov/34769294/#)
+
+- TOR Serine-Threonine Kinases
+
+
+
+
+Actions
+
+
+
+
+
+  - [Search in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22TOR+Serine-Threonine+Kinases%22%5Bnm%5D&sort=date&sort_order=desc)
+  - [Search in MeSH](https://www.ncbi.nlm.nih.gov/mesh?term=%22TOR+Serine-Threonine+Kinases%22)
+  - [Add to Search](https://pubmed.ncbi.nlm.nih.gov/34769294/#)
+
+- eIF-2 Kinase
+
+
+
+
+Actions
+
+
+
+
+
+  - [Search in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22eIF-2+Kinase%22%5Bnm%5D&sort=date&sort_order=desc)
+  - [Search in MeSH](https://www.ncbi.nlm.nih.gov/mesh?term=%22eIF-2+Kinase%22)
+  - [Add to Search](https://pubmed.ncbi.nlm.nih.gov/34769294/#)
+
+- Caspase 1
+
+
+
+
+Actions
+
+
+
+
+
+  - [Search in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22Caspase+1%22%5Bnm%5D&sort=date&sort_order=desc)
+  - [Search in MeSH](https://www.ncbi.nlm.nih.gov/mesh?term=%22Caspase+1%22)
+  - [Add to Search](https://pubmed.ncbi.nlm.nih.gov/34769294/#)
+
+- trimethyloxamine
+
+
+
+
+Actions
+
+
+
+
+
+  - [Search in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22trimethyloxamine%22%5Bnm%5D&sort=date&sort_order=desc)
+  - [Search in MeSH](https://www.ncbi.nlm.nih.gov/mesh?term=%22trimethyloxamine%22)
+  - [Add to Search](https://pubmed.ncbi.nlm.nih.gov/34769294/#)
+
+## Grants and funding
+
+- [Faculty of Medicine and Health at Örebro University](https://pubmed.ncbi.nlm.nih.gov/?term=Faculty+of+Medicine+and+Health+at+%C3%96rebro+University%5BGrants+and+Funding%5D&sort=date&sort_order=desc "All articles for grant Faculty of Medicine and Health at Örebro University")
+
+## LinkOut - more resources
+
+- ### Full Text Sources
+
+
+  - [Europe PMC](https://europepmc.org/abstract/MED/34769294)
+  - [MDPI](https://www.mdpi.com/resolver?pii=ijms222111864)
+  - [PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/pmid/34769294/)
+- ### Research Materials
+
+
+  - [Addgene Non-profit plasmid repository](https://addgene.org/browse/pubmed/34769294)
+- ### Miscellaneous
+
+
+  - [NCI CPTAC Assay Portal](https://assays.cancer.gov/CPTAC-1360)
+
+NCBI Literature Resources
+
+[MeSH](https://www.ncbi.nlm.nih.gov/mesh/) [PMC](https://www.ncbi.nlm.nih.gov/pmc/) [Bookshelf](https://www.ncbi.nlm.nih.gov/books) [Disclaimer](https://pubmed.ncbi.nlm.nih.gov/disclaimer/)
+
+The PubMed wordmark and PubMed logo are registered trademarks of the U.S. Department of Health and Human Services (HHS). Unauthorized use of these marks is strictly prohibited.
+
+──────── [TRUNCATED] ────────
+Showing 8,689 chars (head) + 2,873 chars (tail) of 26,648 total clean characters.
+Full text saved to: /home/walker/.hermes/cache/web/pubmed.ncbi.nlm.nih.gov-5c45f967d1.md
+To read the omitted middle: read_file path="/home/walker/.hermes/cache/web/pubmed.ncbi.nlm.nih.gov-5c45f967d1.md" offset=283 limit=200  (the file is the complete page; raise/lower offset to page through it).
+─────────────────────────────

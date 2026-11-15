@@ -1,0 +1,118 @@
+# Source: PubMed (NCBI E-utilities efetch)
+# URL: https://pubmed.ncbi.nlm.nih.gov/30646314/
+# Fetched: 2026-11-15
+# PMID: 30646314
+
+1. JAMA Netw Open. 2018 Dec 7;1(8):e186076. doi:
+10.1001/jamanetworkopen.2018.6076.
+
+Effect of Levocarnitine vs Placebo as an Adjunctive Treatment for Septic Shock: 
+The Rapid Administration of Carnitine in Sepsis (RACE) Randomized Clinical 
+Trial.
+
+Jones AE(1), Puskarich MA(2), Shapiro NI(3), Guirgis FW(4), Runyon M(5), Adams 
+JY(6), Sherwin R(7), Arnold R(8), Roberts BW(9), Kurz MC(10), Wang HE(11), Kline 
+JA(12), Courtney DM(13), Trzeciak S(14), Sterling SA(1), Nandi U(1), Patki D(1), 
+Viele K(15).
+
+Author information:
+(1)Department of Emergency Medicine, The University of Mississippi Medical 
+Center, Jackson.
+(2)Department of Emergency Medicine, Hennepin County Medical Center, 
+Minneapolis, Minnesota.
+(3)Department of Emergency Medicine, Beth Israel Deaconess Medical Center, 
+Boston, Massachusetts.
+(4)Department of Emergency Medicine, University of Florida College of 
+Medicine-Jacksonville.
+(5)Department of Emergency Medicine, Carolinas Medical Center, Charlotte, North 
+Carolina.
+(6)Division of Pulmonary, Critical Care, and Sleep Medicine, Department of 
+Internal Medicine, University of California, Davis.
+(7)Department of Emergency Medicine, Wayne State University, Detroit, Michigan.
+(8)Department of Emergency Medicine, Christiana Care Health System, Wilmington, 
+Delaware.
+(9)Department of Emergency Medicine, Cooper University Hospital, Cooper Medical 
+School of Rowan University, Camden, New Jersey.
+(10)Department of Emergency Medicine, The University of Alabama School of 
+Medicine at Birmingham.
+(11)Department of Emergency Medicine, The University of Texas Health Science 
+Center at Houston.
+(12)Department of Emergency Medicine, Indiana University School of Medicine, 
+Indianapolis.
+(13)Department of Emergency Medicine, Northwestern University, Chicago, 
+Illinois.
+(14)Department of Medicine, Cooper University Hospital, Cooper Medical School of 
+Rowan University, Camden, New Jersey.
+(15)Berry Consultants, Austin, Texas.
+
+Comment in
+    JAMA Netw Open. 2018 Dec 7;1(8):e186075. doi: 
+10.1001/jamanetworkopen.2018.6075.
+
+IMPORTANCE: Sepsis induces profound metabolic derangements, while exogenous 
+levocarnitine mitigates metabolic dysfunction by enhancing glucose and lactate 
+oxidation and increasing fatty acid shuttling. Previous trials in sepsis suggest 
+beneficial effects of levocarnitine on patient-centered outcomes.
+OBJECTIVES: To test the hypothesis that levocarnitine reduces cumulative organ 
+failure in patients with septic shock at 48 hours and, if present, to estimate 
+the probability that the most efficacious dose will decrease 28-day mortality in 
+a pivotal phase 3 clinical trial.
+DESIGN, SETTING, AND PARTICIPANTS: Multicenter adaptive, randomized, blinded, 
+dose-finding, phase 2 clinical trial (Rapid Administration of Carnitine in 
+Sepsis [RACE]). The setting was 16 urban US medical centers. Participants were 
+patients aged 18 years or older admitted from March 5, 2013, to February 5, 
+2018, with septic shock and moderate organ dysfunction.
+INTERVENTIONS: Within 24 hours of identification, patients were assigned to 1 of 
+the following 4 treatments: low (6 g), medium (12 g), or high (18 g) doses of 
+levocarnitine or an equivalent volume of saline placebo administered as a 
+12-hour infusion.
+MAIN OUTCOMES AND MEASURES: The primary outcome required, first, a greater than 
+90% posterior probability that the most promising levocarnitine dose decreases 
+the Sequential Organ Failure Assessment (SOFA) score at 48 hours and, second 
+(given having met the first condition), at least a 30% predictive probability of 
+success in reducing 28-day mortality in a subsequent traditional superiority 
+trial to test efficacy.
+RESULTS: Of the 250 enrolled participants (mean [SD] age, 61.7 [14.8] years; 
+56.8% male), 35, 34, and 106 patients were adaptively randomized to the low, 
+medium, and high levocarnitine doses, respectively, while 75 patients were 
+randomized to placebo. In the intent-to-treat analysis, the fitted mean (SD) 
+changes in the SOFA score for the low, medium, and high levocarnitine groups 
+were -1.27 (0.49), -1.66 (0.38), and -1.97 (0.32), respectively, vs -1.63 (0.35) 
+in the placebo group. The posterior probability that the 18-g dose is superior 
+to placebo was 0.78, which did not meet the a priori threshold of 0.90. 
+Mortality at 28 days was 45.9% (34 of 74) in the placebo group compared with 
+43.3% (45 of 104) for the most promising levocarnitine dose (18 g). Similar 
+findings were noted in the per-protocol analysis.
+CONCLUSIONS AND RELEVANCE: In this dose-finding, phase 2 adaptive randomized 
+trial, the most efficacious dose of levocarnitine (18 g) did not meaningfully 
+reduce cumulative organ failure at 48 hours.
+TRIAL REGISTRATION: ClinicalTrials.gov Identifier: NCT01665092.
+
+DOI: 10.1001/jamanetworkopen.2018.6076
+PMCID: PMC6324339
+PMID: 30646314 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest Disclosures: Dr Jones 
+reported receiving grants from the National Institutes of Health (NIH), 
+receiving nonfinancial support from Sigma-Tau Pharmaceuticals, and having a 
+patent pending on markers for sepsis treatment. Dr Puskarich reported receiving 
+grants from the National Institute of General Medical Sciences (NIGMS) and 
+having a patent pending on prediction of l-carnitine drug responsiveness based 
+on metabolic biomarkers. Dr Shapiro reported serving on the advisory board for 
+Baxter International. Dr Guirgis reported receiving grants from the NIGMS. Dr 
+Runyon reported receiving research support from Bristol-Myers Squibb, BRAHMS 
+GmbH, Durata Therapeutics International, Trinity Biotech, Boehringer Ingelheim 
+Pharmaceuticals, Siemens Healthcare Diagnostics, Emergency MCG USA, Janssen 
+Pharmaceutical Companies, and Ortho Clinical Diagnostics; receiving royalties 
+from UpToDate for clinical writing on the topic of genitourinary trauma; and 
+being a member of the editorial board for Academic Emergency Medicine. Dr 
+Sherwin reported receiving grants from the NIH. Dr Arnold reported receiving 
+grants from the NIH, National Library of Medicine, and National Science 
+Foundation. Dr Roberts reported receiving grants from the NIGMS and the National 
+Heart, Lung, and Blood Institute. Dr Kurz reported receiving grants from the 
+NIH. Dr Wang reported receiving grants from the NIH. Dr Kline reported receiving 
+grants from the NIH, Bristol-Myers Squibb, and Janssen Pharmaceutical Companies. 
+Dr Courtney reported receiving grants from the NIGMS. Dr Sterling reported 
+receiving grants from the NIGMS. Dr Viele reported receiving grants and research 
+support from the NIH/University of Mississippi. No other disclosures were 
+reported.

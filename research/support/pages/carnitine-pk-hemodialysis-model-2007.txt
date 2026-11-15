@@ -1,0 +1,45 @@
+# Source: PubMed (NCBI E-utilities efetch)
+# URL: https://pubmed.ncbi.nlm.nih.gov/17506778/
+# Fetched: 2026-11-15
+# PMID: 17506778
+
+1. Br J Clin Pharmacol. 2007 Sep;64(3):335-45. doi: 
+10.1111/j.1365-2125.2007.02926.x. Epub 2007 May 15.
+
+A pharmacokinetic model for L-carnitine in patients receiving haemodialysis.
+
+Fornasini G(1), Upton RN, Evans AM.
+
+Author information:
+(1)Department of Scientific Affairs, Sigma-tau Pharmaceuticals, Inc., 
+Gaithersburg, MD, USA.
+
+AIMS: Patients requiring chronic haemodialysis may develop a secondary carnitine 
+deficiency through dialytic loss of L-carnitine. A previous report has described 
+the plasma concentrations of L-carnitine in 12 such patients under baseline 
+conditions and after L-carnitine administration (20 mg kg(-1)). A 
+three-compartment pharmacokinetic model was developed to describe these data to 
+make inferences about carnitine supplementation in these patients.
+METHODS: L-carnitine removal was mediated solely by intermittent haemodialysis, 
+which was incorporated into the model as an experimentally derived dialysis 
+clearance value that was linked to an on-off pulse function. Data were described 
+by a model with a central compartment linked to 'fast'- and 'slow'-equilibrating 
+peripheral compartments.
+RESULTS: The model adequately described the changing plasma concentrations of 
+endogenous L-carnitine in individual haemodialysis patients. Based on pooled 
+data (mean +/- SD; n = 12), the volume of the central compartment was 10.09 +/- 
+0.72 l and the transfer rate constants into and out of the slowly equilibrating 
+pool were 0.100 +/- 0.018 h(-1) and 0.00014 +/- 0.00016 h(-1), respectively. The 
+turnover time of L-carnitine in the slow pool (which was assumed to represent 
+muscle) was approximately 300 days. The model was in general agreement with 
+separate data on the measured loss of carnitine from muscle in dialysis 
+patients.
+CONCLUSIONS: Haemodialysis causes rapid reductions in plasma L-carnitine 
+concentrations with each dialysis session. Plasma concentrations are restored 
+between sessions by redistribution from peripheral compartments. However, during 
+chronic haemodialysis, the ongoing dialytic loss of L-carnitine may lead to a 
+slow depletion of the compound, contributing to a possible secondary deficiency.
+
+DOI: 10.1111/j.1365-2125.2007.02926.x
+PMCID: PMC2000652
+PMID: 17506778 [Indexed for MEDLINE]

@@ -1,0 +1,451 @@
+# URL: https://pubmed.ncbi.nlm.nih.gov/32958033/
+# Fetched via web_extract on 2026-11-15
+
+Clipboard, Search History, and several other advanced features are temporarily unavailable.
+
+
+[Skip to main page content](https://pubmed.ncbi.nlm.nih.gov/32958033/#article-details)
+
+![Dot gov](https://cdn.ncbi.nlm.nih.gov/coreutils/uswds/img/icon-dot-gov.svg)
+
+**The .gov means it’s official.**
+
+Federal government websites often end in .gov or .mil. Before
+sharing sensitive information, make sure you’re on a federal
+government site.
+
+
+![Https](https://cdn.ncbi.nlm.nih.gov/coreutils/uswds/img/icon-https.svg)
+
+**The site is secure.**
+
+The **https://** ensures that you are connecting to the
+official website and that any information you provide is encrypted
+and transmitted securely.
+
+
+[Access keys](https://www.ncbi.nlm.nih.gov/guide/browsers/#ncbi_accesskeys) [NCBI Homepage](https://www.ncbi.nlm.nih.gov/) [MyNCBI Homepage](https://pubmed.ncbi.nlm.nih.gov/myncbi/) [Main Content](https://pubmed.ncbi.nlm.nih.gov/32958033/#maincontent) [Main Navigation](https://pubmed.ncbi.nlm.nih.gov/32958033/#)
+
+[![pubmed logo](https://cdn.ncbi.nlm.nih.gov/pubmed/a447896c-976f-490b-b86b-2668b65114a8/core/images/pubmed-logo-blue.svg)](https://pubmed.ncbi.nlm.nih.gov/)[Show search bar](https://pubmed.ncbi.nlm.nih.gov/32958033/# "Show search bar")
+
+Search:
+[Clear search input](https://pubmed.ncbi.nlm.nih.gov/32958033/# "Clear search input") Search
+
+[Advanced](https://pubmed.ncbi.nlm.nih.gov/advanced/) [Clipboard](https://pubmed.ncbi.nlm.nih.gov/clipboard/)
+
+[User Guide](https://pubmed.ncbi.nlm.nih.gov/help/)
+
+Save
+
+Email
+
+
+Send to
+
+- [Clipboard](https://pubmed.ncbi.nlm.nih.gov/32958033/#)
+- [My Bibliography](https://account.ncbi.nlm.nih.gov/?back_url=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F32958033%2F%23open-bibliography-panel)
+- [Collections](https://account.ncbi.nlm.nih.gov/?back_url=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F32958033%2F%23open-collections-panel)
+- [Citation manager](https://pubmed.ncbi.nlm.nih.gov/32958033/#)
+
+Display options
+
+Display options
+
+
+Format
+AbstractPubMedPMID
+
+## Save citation to file
+
+Format:
+Summary (text)PubMedPMIDAbstract (text)CSV
+
+Create file
+
+Cancel
+
+
+## Email citation
+
+Email address has not been verified. Go to
+[My NCBI account settings](https://account.ncbi.nlm.nih.gov/settings/)
+to confirm your email and then refresh this page.
+
+
+To:
+
+
+Subject:
+
+
+Body:
+
+
+Format:
+SummarySummary (text)AbstractAbstract (text)
+
+MeSH and other data
+
+
+Send email
+
+Cancel
+
+
+### Add to Collections
+
+- Create a new collection
+- Add to an existing collection
+
+Name your collection:
+
+
+Name must be less than 100 characters
+
+
+Choose a collection:
+
+
+Unable to load your collection due to an error
+
+[Please try again](https://pubmed.ncbi.nlm.nih.gov/32958033/#)
+
+Add
+
+Cancel
+
+
+### Add to My Bibliography
+
+- My Bibliography
+
+Unable to load your delegates due to an error
+
+[Please try again](https://pubmed.ncbi.nlm.nih.gov/32958033/#)
+
+Add
+
+Cancel
+
+
+## Your saved search
+
+Name of saved search:
+
+
+Search terms:
+
+
+[Test search terms](https://pubmed.ncbi.nlm.nih.gov/32958033/#)
+
+Would you like email updates of new search results?
+Saved Search Alert Radio Buttons
+
+- Yes
+- No
+
+Email:
+( [change](https://www.ncbi.nlm.nih.gov/account/settings/))
+
+Frequency:
+MonthlyWeeklyDaily
+
+Which day?
+The first SundayThe first MondayThe first TuesdayThe first WednesdayThe first ThursdayThe first FridayThe first SaturdayThe first dayThe first weekday
+
+Which day?
+SundayMondayTuesdayWednesdayThursdayFridaySaturday
+
+Report format:
+SummarySummary (text)AbstractAbstract (text)PubMed
+
+Send at most:
+1 item5 items10 items20 items50 items100 items200 items
+
+Send even when there aren't any new results
+
+
+Optional text in email:
+
+
+Save
+
+Cancel
+
+
+## Create a file for external citation management software
+
+Create file
+
+Cancel
+
+
+## Your RSS Feed
+
+Name of RSS Feed:
+
+
+Number of items displayed:
+510152050100
+
+Create RSS
+
+Cancel
+
+
+RSS Link
+Copy
+
+
+Full text links
+Cite
+
+Display options
+
+Display options
+
+
+Format
+AbstractPubMedPMID
+
+Linked Discoveries
+
+## Abstract
+
+**Background:**
+
+L-carnitine (LC) is used as a supplement by recreationally-active, competitive and highly trained athletes. This systematic review aims to evaluate the effect of prolonged LC supplementation on metabolism and metabolic modifications.
+
+
+**Methods:**
+
+A literature search was conducted in the MEDLINE (via PubMed) and Web of Science databases from the inception up February 2020. Eligibility criteria included studies on healthy human subjects, treated for at least 12 weeks with LC administered orally, with no drugs or any other multi-ingredient supplements co-ingestion.
+
+
+**Results:**
+
+The initial search retrieved 1024 articles, and a total of 11 studies were finally included after applying inclusion and exclusion criteria. All the selected studies were conducted with healthy human subjects, with supplemented dose ranging from 1 g to 4 g per day for either 12 or 24 weeks. LC supplementation, in combination with carbohydrates (CHO) effectively elevated total carnitine content in skeletal muscle. Twenty-four-weeks of LC supplementation did not affect muscle strength in healthy aged women, but significantly increased muscle mass, improved physical effort tolerance and cognitive function in centenarians. LC supplementation was also noted to induce an increase of fasting plasma trimethylamine-N-oxide (TMAO) levels, which was not associated with modification of determined inflammatory nor oxidative stress markers.
+
+
+**Conclusion:**
+
+Prolonged LC supplementation in specific conditions may affect physical performance. On the other hand, LC supplementation elevates fasting plasma TMAO, compound supposed to be pro-atherogenic. Therefore, additional studies focusing on long-term supplementation and its longitudinal effect on the cardiovascular system are needed.
+
+
+**Keywords:**
+
+Atrogin-1; Forkhead box O; Insulin-like growth factor-1; Mammalian target of rapamycin; MuRF-1; Protein kinase B; Trimethylamine-N-oxide.
+
+
+[PubMed Disclaimer](https://pubmed.ncbi.nlm.nih.gov/disclaimer/)
+
+## Conflict of interest statement
+
+The authors declare that they have no competing interests.
+
+## Figures
+
+[![Fig. 1](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/5f2f/7507632/9808d5094a87/12970_2020_377_Fig1_HTML.gif)](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/5f2f/7507632/4d38a96a2c1a/12970_2020_377_Fig1_HTML.jpg)
+
+**Fig. 1**
+
+Flowchart on the search and…
+
+**Fig. 1**
+
+Flowchart on the search and selection of articles included in the review
+
+**Fig. 1**
+
+Flowchart on the search and selection of articles included in the review
+
+[![Fig. 2](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/5f2f/7507632/ebd2f1732980/12970_2020_377_Fig2_HTML.gif)](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/5f2f/7507632/ef1d15244660/12970_2020_377_Fig2_HTML.jpg)
+
+**Fig. 2**
+
+The association between LC supplementation…
+
+**Fig. 2**
+
+The association between LC supplementation and the regulation of metabolic pathways involved in…
+
+**Fig. 2**
+
+The association between LC supplementation and the regulation of metabolic pathways involved in muscle protein balance. L-carnitine (LC); insulin-like growth factor-1 (IGF-1); phosphoinositide-3-kinase (PI3K); protein kinase B (Akt); mammalian target of rapamycin (mTOR); forkhead box O (FoxO); muscle-specific RING finger-1 (MuRF-1); muscle atrophy F-box (atrogin-1); increase (\[Image: see text\]); decrease (\[Image: see text\]); activation (\[Image: see text\]); inactivation (\[Image: see text\])
+
+[See this image and copyright information in PMC](https://pubmed.ncbi.nlm.nih.gov/32958033/#)
+
+## References
+
+1.
+    Bremer J. Carnitine--metabolism and functions. Physiol Rev. 1983;63(4):1420–1480. doi: 10.1152/physrev.1983.63.4.1420.
+
+
+
+    -
+    [DOI](https://doi.org/10.1152/physrev.1983.63.4.1420)
+
+
+
+
+
+    -
+    [PubMed](https://pubmed.ncbi.nlm.nih.gov/6361812/)
+1.
+    Arenas J, Huertas R, Campos Y, Diaz AE, Villalon JM, Vilas E. Effects of L-carnitine on the pyruvate dehydrogenase complex and carnitine palmitoyl transferase activities in muscle of endurance athletes. FEBS Lett. 1994;341(1):91–93. doi: 10.1016/0014-5793(94)80246-7.
+
+
+
+    -
+    [DOI](https://doi.org/10.1016/0014-5793(94)80246-7)
+
+
+
+
+
+    -
+    [PubMed](https://pubmed.ncbi.nlm.nih.gov/8137928/)
+1.
+    Ringseis R, Keller J, Eder K. Mechanisms underlying the anti-wasting effect of L-carnitine supplementation under pathologic conditions: evidence from experimental and clinical studies. Eur J Nutr. 2013;52(5):1421–1442. doi: 10.1007/s00394-013-0511-0.
+
+
+
+    -
+    [DOI](https://doi.org/10.1007/s00394-013-0511-0)
+
+
+
+
+
+    -
+    [PubMed](https://pubmed.ncbi.nlm.nih.gov/23508457/)
+1.
+    Brass EP. Supplemental carnitine and exercise. Am J Clin Nutr. 2000;72(2 Suppl):618S–623S. doi: 10.1093/ajcn/72.2.618S.
+
+
+
+    -
+    [DOI](https://doi.org/10.1093/ajcn/72.2.618s)
+
+
+
+
+
+    -
+    [PubMed](https://pubmed.ncbi.nlm.nih.gov/10919968/)
+1.
+
+[... middle omitted — see footer ...]
+
+
+## Substances
+
+- Dietary Carbohydrates
+
+
+
+
+Actions
+
+
+
+
+
+  - [Search in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22Dietary+Carbohydrates%22%5Bnm%5D&sort=date&sort_order=desc)
+  - [Search in MeSH](https://www.ncbi.nlm.nih.gov/mesh?term=%22Dietary+Carbohydrates%22)
+  - [Add to Search](https://pubmed.ncbi.nlm.nih.gov/32958033/#)
+
+- Methylamines
+
+
+
+
+Actions
+
+
+
+
+
+  - [Search in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22Methylamines%22%5Bnm%5D&sort=date&sort_order=desc)
+  - [Search in MeSH](https://www.ncbi.nlm.nih.gov/mesh?term=%22Methylamines%22)
+  - [Add to Search](https://pubmed.ncbi.nlm.nih.gov/32958033/#)
+
+- Muscle Proteins
+
+
+
+
+Actions
+
+
+
+
+
+  - [Search in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22Muscle+Proteins%22%5Bnm%5D&sort=date&sort_order=desc)
+  - [Search in MeSH](https://www.ncbi.nlm.nih.gov/mesh?term=%22Muscle+Proteins%22)
+  - [Add to Search](https://pubmed.ncbi.nlm.nih.gov/32958033/#)
+
+- trimethyloxamine
+
+
+
+
+Actions
+
+
+
+
+
+  - [Search in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22trimethyloxamine%22%5Bnm%5D&sort=date&sort_order=desc)
+  - [Search in MeSH](https://www.ncbi.nlm.nih.gov/mesh?term=%22trimethyloxamine%22)
+  - [Add to Search](https://pubmed.ncbi.nlm.nih.gov/32958033/#)
+
+- Carnitine
+
+
+
+
+Actions
+
+
+
+
+
+  - [Search in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22Carnitine%22%5Bnm%5D&sort=date&sort_order=desc)
+  - [Search in MeSH](https://www.ncbi.nlm.nih.gov/mesh?term=%22Carnitine%22)
+  - [Add to Search](https://pubmed.ncbi.nlm.nih.gov/32958033/#)
+
+## Grants and funding
+
+- [2014/15/B/NZ7/00893/Narodowe Centrum Nauki](https://pubmed.ncbi.nlm.nih.gov/?term=2014%2F15%2FB%2FNZ7%2F00893%2FNarodowe+Centrum+Nauki%5BGrants+and+Funding%5D&sort=date&sort_order=desc "All articles for grant 2014/15/B/NZ7/00893/Narodowe Centrum Nauki")
+
+## LinkOut - more resources
+
+- ### Full Text Sources
+
+
+  - [Atypon](https://www.tandfonline.com/doi/10.1186/s12970-020-00377-2?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)
+  - [BioMed Central](https://jissn.biomedcentral.com/articles/10.1186/s12970-020-00377-2)
+  - [Europe PMC](https://europepmc.org/abstract/MED/32958033)
+  - [PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/pmid/32958033/)
+- ### Other Literature Sources
+
+
+  - [The Lens - Patent Citations Database](https://www.lens.org/lens/search/patent/list?q=reference_cited.npl.ids.pmid:32958033)
+- ### Medical
+
+
+  - [MedlinePlus Consumer Health Information](https://medlineplus.gov/exerciseandphysicalfitness.html)
+  - [MedlinePlus Health Information](https://medlineplus.gov/exerciseforchildren.html)
+
+NCBI Literature Resources
+
+[MeSH](https://www.ncbi.nlm.nih.gov/mesh/) [PMC](https://www.ncbi.nlm.nih.gov/pmc/) [Bookshelf](https://www.ncbi.nlm.nih.gov/books) [Disclaimer](https://pubmed.ncbi.nlm.nih.gov/disclaimer/)
+
+The PubMed wordmark and PubMed logo are registered trademarks of the U.S. Department of Health and Human Services (HHS). Unauthorized use of these marks is strictly prohibited.
+
+──────── [TRUNCATED] ────────
+Showing 8,804 chars (head) + 2,990 chars (tail) of 19,330 total clean characters.
+Full text saved to: /home/walker/.hermes/cache/web/pubmed.ncbi.nlm.nih.gov-c234274a6c.md
+To read the omitted middle: read_file path="/home/walker/.hermes/cache/web/pubmed.ncbi.nlm.nih.gov-c234274a6c.md" offset=334 limit=200  (the file is the complete page; raise/lower offset to page through it).
+─────────────────────────────

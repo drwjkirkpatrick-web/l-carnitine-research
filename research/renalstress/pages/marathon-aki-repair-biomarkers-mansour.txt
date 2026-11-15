@@ -1,0 +1,20 @@
+PMID: 28363731
+URL: https://pubmed.ncbi.nlm.nih.gov/28363731/
+Title: Kidney Injury and Repair Biomarkers in Marathon Runners.
+Authors: Mansour SG; Verma G; Pata RW; Martin TG; Perazella MA; Parikh CR
+Journal: American journal of kidney diseases : the official journal of the National Kidney Foundation
+Year: 2017
+Vol/Pages: 70(2):252-261
+DOI: 10.1053/j.ajkd.2017.01.045
+Accessed: 2026-11-15 (NCBI PubMed efetch abstract)
+
+ABSTRACT
+BACKGROUND: Investigation into strenuous activity and kidney function has gained interest given increasing marathon participation.
+STUDY DESIGN: Prospective observational study.
+SETTING & PARTICIPANTS: Runners participating in the 2015 Hartford Marathon.
+PREDICTOR: Completing a marathon.
+OUTCOMES: Acute kidney injury (AKI) as defined by AKI Network (AKIN) criteria. Stage 1 AKI was defined as 1.5- to 2-fold or 0.3-mg/dL increase in serum creatinine level within 48 hours of day 0 and stage 2 was defined as a more than 2- to 3-fold increase in creatinine level. Microscopy score was defined by the number of granular casts and renal tubular epithelial cells.
+MEASUREMENTS: Samples were collected 24 hours premarathon (day 0), immediately postmarathon (day 1), and 24 hours postmarathon (day 2). Measurements of serum creatinine, creatine kinase, and urine albumin were completed, as well as urine microscopy analysis. 6 injury urine biomarkers (IL-6, IL-8, IL-18, kidney injury molecule 1, neutrophil gelatinase-associated lipocalin, and tumor necrosis factor α) and 2 repair urine biomarkers (YKL-40 and monocyte chemoattractant protein 1) were measured.
+RESULTS: 22 marathon runners were included. Mean age was 44 years and 41% were men. 82% of runners developed an increase in creatinine level equivalent to AKIN-defined AKI stages 1 and 2. 73% had microscopy diagnoses of tubular injury. Serum creatinine, urine albumin, and injury and repair biomarker levels peaked on day 1 and were significantly elevated compared to day 0 and day 2. Serum creatine kinase levels continued to significantly increase from day 0 to day 2.
+LIMITATIONS: Small sample size and limited clinical data available at all time points.
+CONCLUSIONS: Marathon runners developed AKI and urine sediment diagnostic of tubular injury. An increase in injury and repair biomarker levels suggests structural damage to renal tubules occurring after marathon. The results of our study should be validated in larger cohorts with longer follow-up of kidney function.

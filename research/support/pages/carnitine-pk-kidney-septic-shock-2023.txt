@@ -1,0 +1,71 @@
+# Source: PubMed (NCBI E-utilities efetch)
+# URL: https://pubmed.ncbi.nlm.nih.gov/37775945/
+# Fetched: 2026-11-15
+# PMID: 37775945
+
+1. Pharmacotherapy. 2023 Dec;43(12):1240-1250. doi: 10.1002/phar.2882. Epub 2023 
+Oct 11.
+
+Kidney function as a key driver of the pharmacokinetic response to high-dose 
+L-carnitine in septic shock.
+
+Jennaro TS(1), Puskarich MA(2)(3), Flott TL(1), McLellan LA(1), Jones AE(4), Pai 
+MP(1), Stringer KA(1)(5)(6).
+
+Author information:
+(1)Department of Clinical Pharmacy, College of Pharmacy, University of Michigan, 
+Ann Arbor, Michigan, USA.
+(2)Department of Emergency Medicine, University of Minnesota, Minneapolis, 
+Minnesota, USA.
+(3)Department of Emergency Medicine, Hennepin County Medical Center, 
+Minneapolis, Minnesota, USA.
+(4)Department of Emergency Medicine, University of Mississippi Medical Center, 
+Jackson, Mississippi, USA.
+(5)The Max Harry Weil Institute for Critical Care Research and Innovation, 
+University of Michigan, Ann Arbor, Michigan, USA.
+(6)Division of Pulmonary and Critical Care Medicine, Department of Internal 
+Medicine, School of Medicine, University of Michigan, Ann Arbor, Michigan, USA.
+
+STUDY OBJECTIVE: Levocarnitine (L-carnitine) has shown promise as a 
+metabolic-therapeutic for septic shock, where mortality approaches 40%. However, 
+high-dose (≥ 6 grams) intravenous supplementation results in a broad range of 
+serum concentrations. We sought to describe the population pharmacokinetics (PK) 
+of high-dose L-carnitine, test various estimates of kidney function, and assess 
+the correlation of PK parameters with pre-treatment metabolites in describing 
+drug response for patients with septic shock.
+DESIGN: Population PK analysis was done with baseline normalized concentrations 
+using nonlinear mixed effect models in the modeling platform Monolix. Various 
+estimates of kidney function, patient demographics, dose received, and organ 
+dysfunction were tested as population covariates.
+DATA SOURCE: We leveraged serum samples and metabolomics data from a phase II 
+trial of L-carnitine in vasopressor-dependent septic shock. Serum was collected 
+at baseline (T0); end-of-infusion (T12); and 24, 48, and 72 h after treatment 
+initiation.
+PATIENTS AND INTERVENTION: Patients were adaptively randomized to receive 
+intravenous L-carnitine (6 grams, 12 grams, or 18 grams) or placebo.
+MEASUREMENTS AND MAIN RESULTS: The final dataset included 542 serum samples from 
+130 patients randomized to L-carnitine. A two-compartment model with linear 
+elimination and a fixed volume of distribution (17.1 liters) best described the 
+data and served as a base structural model. Kidney function estimates as a 
+covariate on the elimination rate constant (k) reliably improved model fit. 
+Estimated glomerular filtration rate (eGFR), based on the 2021 Chronic Kidney 
+Disease Epidemiology collaboration (CKD-EPI) equation with creatinine and 
+cystatin C, outperformed creatinine clearance (Cockcroft-Gault) and older 
+CKD-EPI equations that use an adjustment for self-identified race.
+CONCLUSIONS: High-dose L-carnitine supplementation is well-described by a 
+two-compartment population PK model in patients with septic shock. Kidney 
+function estimates that leverage cystatin C provided superior model fit. Future 
+investigations into high-dose L-carnitine supplementation should consider 
+baseline metabolic status and dose adjustments based on renal function over a 
+fixed or weight-based dosing paradigm.
+
+© 2023 The Authors. Pharmacotherapy: The Journal of Human Pharmacology and Drug 
+Therapy published by Wiley Periodicals LLC on behalf of Pharmacotherapy 
+Publications, Inc.
+
+DOI: 10.1002/phar.2882
+PMCID: PMC10841498
+PMID: 37775945 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflicts of Interest: The authors declare no 
+conflicts of interests

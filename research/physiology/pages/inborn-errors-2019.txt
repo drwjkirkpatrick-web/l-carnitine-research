@@ -1,0 +1,52 @@
+PMID: 31500110
+PubMed URL: https://pubmed.ncbi.nlm.nih.gov/31500110/
+Fetched via NCBI eutils efetch, accessed 2026-11-15
+
+1. Molecules. 2019 Sep 6;24(18):3251. doi: 10.3390/molecules24183251.
+
+Carnitine Inborn Errors of Metabolism.
+
+Almannai M(1), Alfadhel M(2)(3)(4), El-Hattab AW(5).
+
+Author information:
+(1)Section of Medical Genetics, Children's Hospital, King Fahad Medical City, 
+Riyadh 11525, Saudi Arabia. malmannai@kfmc.med.sa.
+(2)Division of Genetics, Department of Pediatrics, King Abdulaziz Medical City, 
+Ministry of National Guard-Health Affairs (MNGHA), Riyadh 11426, Saudi Arabia. 
+dralfadhelm@gmail.com.
+(3)King Abdullah International Medical Research Center (KAIMRC), Riyadh 11426, 
+Saudi Arabia. dralfadhelm@gmail.com.
+(4)College of Medicine, King Saud Bin Abdulaziz University for Health Sciences, 
+Riyadh 11426, Saudi Arabia. dralfadhelm@gmail.com.
+(5)Department of Clinical Sciences, College of Medicine, University of Sharjah, 
+Sharjah 27272, UAE. elhattabaw@yahoo.com.
+
+Carnitine plays essential roles in intermediary metabolism. In non-vegetarians, 
+most of carnitine sources (~75%) are obtained from diet whereas endogenous 
+synthesis accounts for around 25%. Renal carnitine reabsorption along with 
+dietary intake and endogenous production maintain carnitine homeostasis. The 
+precursors for carnitine biosynthesis are lysine and methionine. The 
+biosynthetic pathway involves four enzymes: 6-N-trimethyllysine dioxygenase 
+(TMLD), 3-hydroxy-6-N-trimethyllysine aldolase (HTMLA), 
+4-N-trimethylaminobutyraldehyde dehydrogenase (TMABADH), and γ-butyrobetaine 
+dioxygenase (BBD). OCTN2 (organic cation/carnitine transporter novel type 2) 
+transports carnitine into the cells. One of the major functions of carnitine is 
+shuttling long-chain fatty acids across the mitochondrial membrane from the 
+cytosol into the mitochondrial matrix for β-oxidation. This transport is 
+achieved by mitochondrial carnitine-acylcarnitine cycle, which consists of three 
+enzymes: carnitine palmitoyltransferase I (CPT I), carnitine-acylcarnitine 
+translocase (CACT), and carnitine palmitoyltransferase II (CPT II). Carnitine 
+inborn errors of metabolism could result from defects in carnitine biosynthesis, 
+carnitine transport, or mitochondrial carnitine-acylcarnitine cycle. The 
+presentation of these disorders is variable but common findings include 
+hypoketotic hypoglycemia, cardio(myopathy), and liver disease. In this review, 
+the metabolism and homeostasis of carnitine are discussed. Then we present 
+details of different inborn errors of carnitine metabolism, including clinical 
+presentation, diagnosis, and treatment options. At the end, we discuss some of 
+the causes of secondary carnitine deficiency.
+
+DOI: 10.3390/molecules24183251
+PMCID: PMC6766900
+PMID: 31500110 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflicts of interest.

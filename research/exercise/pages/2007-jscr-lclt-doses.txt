@@ -1,0 +1,38 @@
+SOURCE: Responses of criterion variables to different supplemental doses of L-carnitine L-tartrate.
+URL: https://pubmed.ncbi.nlm.nih.gov/17313301/
+FETCHED: 2026-11-15 via NCBI efetch (pubmed abstract, retmode=text)
+PMID: 17313301
+DOI: 10.1519/00124278-200702000-00046
+------------------------------------------------------------------------
+6. J Strength Cond Res. 2007 Feb;21(1):259-64. doi: 
+10.1519/00124278-200702000-00046.
+
+Responses of criterion variables to different supplemental doses of L-carnitine 
+L-tartrate.
+
+Spiering BA(1), Kraemer WJ, Vingren JL, Hatfield DL, Fragala MS, Ho JY, Maresh 
+CM, Anderson JM, Volek JS.
+
+Author information:
+(1)Department of Kinesiology, University of Connecticut, Storrs 06269, USA.
+
+L-carnitine L-tartrate (LCLT) supplementation beneficially affects markers of 
+postexercise metabolic stress and muscle damage. However, to date, no study has 
+determined the dose response of LCLT to elicit such responses. Therefore, the 
+purpose of this study was to determine the effects of different doses of LCLT on 
+criterion variables previously shown to be responsive to LCLT supplementation. 
+Eight healthy men (22 +/- 3 y, 174 +/- 5 cm, 83.0 +/- 15.3 kg) were supplemented 
+with 0 g, 1 g, and 2 g of LCLT for 3 weeks and then performed a bout of 
+resistance exercise (5 sets of 15-20 repetition maximum with a 2-min rest 
+between sets) with associated blood draws. This procedure was performed in a 
+balanced, randomized, repeated measures design. Serum carnitine concentrations 
+increased (p < or = 0.05) following the 1 g and 2 g doses, with the 2-g dose 
+providing the highest carnitine concentrations. The 1- and 2-g doses reduced 
+postexercise serum hypoxanthine, serum xanthine oxidase, serum myoglobin, and 
+perceived muscle soreness. In conclusion, both the 1- and 2-g doses were 
+effective in mediating various markers of metabolic stress and of muscle 
+soreness. Use of LCLT appears to attenuate metabolic stress and the hypoxic 
+chain of events leading to muscle damage after exercise.
+
+DOI: 10.1519/00124278-200702000-00046
+PMID: 17313301 [Indexed for MEDLINE]

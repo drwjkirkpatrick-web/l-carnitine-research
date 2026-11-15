@@ -1,0 +1,15 @@
+PMID: 28288187
+URL: https://pubmed.ncbi.nlm.nih.gov/28288187/
+Title: Prevention of downhill walking-induced muscle damage by non-damaging downhill walking.
+Authors: Maeo S; Yamamoto M; Kanehisa H; Nosaka K
+Journal: PloS one
+Year: 2017
+Vol/Pages: 12(3):e0173909
+DOI: 10.1371/journal.pone.0173909
+Accessed: 2026-11-15 (NCBI PubMed efetch abstract)
+
+ABSTRACT
+PURPOSE: Mountain trekking involves level, uphill, and downhill walking (DW). Prolonged DW induces damage to leg muscles, reducing force generating ability and muscle coordination. These increase risks for more serious injuries and accidents in mountain trekking, thus a strategy to minimize muscle damage is warranted. It has been shown that low-intensity eccentric contractions confer protective effect on muscle damage induced by high-intensity eccentric contractions. This study tested the hypothesis that 5-min non-damaging DW would attenuate muscle damage induced by 40-min DW, but 5-min level walking (LW) would not.
+METHODS: Untrained young men were allocated (n = 12/group) to either a control or one of the two preconditioning groups (PRE-DW or PRE-LW). The PRE-DW and PRE-LW groups performed 5-min DW (-28%) and 5-min LW, respectively, at 5 km/h with a load of 10% body mass, 1 week before 40-min DW (-28%, 5 km/h, 10% load). The control group performed 40-min DW only. Maximal knee extension strength, plasma creatine kinase (CK) activity, and muscle soreness (0-100 mm visual analogue scale) were measured before and 24 h after 5-min DW and 5-min LW, and before and 24, 48, and 72 h after 40-min DW.
+RESULTS: No significant changes in any variables were evident after 5-min DW and 5-min LW. After 40-min DW, the control and PRE-LW groups showed significant (P<0.05) changes in the variables without significant differences between groups (control vs. PRE-LW; peak strength reduction: -19.2 ± 6.9% vs. -18.7 ± 11.0%, peak CK: 635.5 ± 306.0 vs. 639.6 ± 405.4 U/L, peak soreness: 81.4 ± 14.8 vs. 72.0 ± 29.2 mm). These changes were significantly (P<0.05) attenuated (47-64%) for the PRE-DW group (-9.9 ± 9.6%, 339.3 ± 148.4 U/L, 27.8 ± 16.8 mm).
+CONCLUSIONS: The results supported the hypothesis and suggest that performing small volume of downhill walking is crucial in preparation for trekking.

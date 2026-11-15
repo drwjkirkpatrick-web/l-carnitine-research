@@ -1,0 +1,410 @@
+# URL: https://pubmed.ncbi.nlm.nih.gov/30665924/
+# Fetched via web_extract on 2026-11-15
+
+Clipboard, Search History, and several other advanced features are temporarily unavailable.
+
+
+[Skip to main page content](https://pubmed.ncbi.nlm.nih.gov/30665924/#article-details)
+
+### NIH Websites Are Changing
+
+- [Get the Latest Updates and FAQs on the transition](https://www.nih.gov/web-modernization)
+- Per [Executive Order 14434](https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/), federal agencies are now using "Super Intelligence" (SI) in place of "Artificial Intelligence" (AI). You may see both terms across NIH content during this transition.
+
+![Dot gov](https://cdn.ncbi.nlm.nih.gov/coreutils/uswds/img/icon-dot-gov.svg)
+
+**The .gov means it’s official.**
+
+Federal government websites often end in .gov or .mil. Before
+sharing sensitive information, make sure you’re on a federal
+government site.
+
+
+![Https](https://cdn.ncbi.nlm.nih.gov/coreutils/uswds/img/icon-https.svg)
+
+**The site is secure.**
+
+The **https://** ensures that you are connecting to the
+official website and that any information you provide is encrypted
+and transmitted securely.
+
+
+[Access keys](https://www.ncbi.nlm.nih.gov/guide/browsers/#ncbi_accesskeys) [NCBI Homepage](https://www.ncbi.nlm.nih.gov/) [MyNCBI Homepage](https://pubmed.ncbi.nlm.nih.gov/myncbi/) [Main Content](https://pubmed.ncbi.nlm.nih.gov/30665924/#maincontent) [Main Navigation](https://pubmed.ncbi.nlm.nih.gov/30665924/#)
+
+[![pubmed logo](https://cdn.ncbi.nlm.nih.gov/pubmed/a447896c-976f-490b-b86b-2668b65114a8/core/images/pubmed-logo-blue.svg)](https://pubmed.ncbi.nlm.nih.gov/)[Show search bar](https://pubmed.ncbi.nlm.nih.gov/30665924/# "Show search bar")
+
+Search:
+
+
+```
+
+```
+
+[Clear search input](https://pubmed.ncbi.nlm.nih.gov/30665924/# "Clear search input") Search
+
+[Advanced](https://pubmed.ncbi.nlm.nih.gov/advanced/) [Clipboard](https://pubmed.ncbi.nlm.nih.gov/clipboard/)
+
+[User Guide](https://pubmed.ncbi.nlm.nih.gov/help/)
+
+Save
+
+Email
+
+
+Send to
+
+- [Clipboard](https://pubmed.ncbi.nlm.nih.gov/30665924/#)
+- [My Bibliography](https://account.ncbi.nlm.nih.gov/?back_url=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F30665924%2F%23open-bibliography-panel)
+- [Collections](https://account.ncbi.nlm.nih.gov/?back_url=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F30665924%2F%23open-collections-panel)
+- [Citation manager](https://pubmed.ncbi.nlm.nih.gov/30665924/#)
+
+Display options
+
+Display options
+
+
+Format
+AbstractPubMedPMID
+
+## Save citation to file
+
+Format:
+Summary (text)PubMedPMIDAbstract (text)CSV
+
+Create file
+
+Cancel
+
+
+## Email citation
+
+Email address has not been verified. Go to
+[My NCBI account settings](https://account.ncbi.nlm.nih.gov/settings/)
+to confirm your email and then refresh this page.
+
+
+To:
+
+
+Subject:
+
+
+Body:
+
+
+Format:
+SummarySummary (text)AbstractAbstract (text)
+
+MeSH and other data
+
+
+Send email
+
+Cancel
+
+
+### Add to Collections
+
+- Create a new collection
+- Add to an existing collection
+
+Name your collection:
+
+
+Name must be less than 100 characters
+
+
+Choose a collection:
+
+
+Unable to load your collection due to an error
+
+[Please try again](https://pubmed.ncbi.nlm.nih.gov/30665924/#)
+
+Add
+
+Cancel
+
+
+### Add to My Bibliography
+
+- My Bibliography
+
+Unable to load your delegates due to an error
+
+[Please try again](https://pubmed.ncbi.nlm.nih.gov/30665924/#)
+
+Add
+
+Cancel
+
+
+## Your saved search
+
+Name of saved search:
+
+
+Search terms:
+
+
+[Test search terms](https://pubmed.ncbi.nlm.nih.gov/30665924/#)
+
+Would you like email updates of new search results?
+Saved Search Alert Radio Buttons
+
+- Yes
+- No
+
+Email:
+( [change](https://www.ncbi.nlm.nih.gov/account/settings/))
+
+Frequency:
+MonthlyWeeklyDaily
+
+Which day?
+The first SundayThe first MondayThe first TuesdayThe first WednesdayThe first ThursdayThe first FridayThe first SaturdayThe first dayThe first weekday
+
+Which day?
+SundayMondayTuesdayWednesdayThursdayFridaySaturday
+
+Report format:
+SummarySummary (text)AbstractAbstract (text)PubMed
+
+Send at most:
+1 item5 items10 items20 items50 items100 items200 items
+
+Send even when there aren't any new results
+
+
+Optional text in email:
+
+
+Save
+
+Cancel
+
+
+## Create a file for external citation management software
+
+Create file
+
+Cancel
+
+
+## Your RSS Feed
+
+Name of RSS Feed:
+
+
+Number of items displayed:
+510152050100
+
+Create RSS
+
+Cancel
+
+
+RSS Link
+Copy
+
+
+Full text links
+Cite
+
+Display options
+
+Display options
+
+
+Format
+AbstractPubMedPMID
+
+Linked Discoveries
+
+## Abstract
+
+**Background and objectives:**
+
+Trimethylamine _N_-oxide (TMAO), a compound derived from byproducts of intestinal bacteria, has been shown to accelerate atherosclerosis in rodents. To date, there are conflicting data regarding the association of serum TMAO with cardiovascular outcomes in patients with ESKD, a population exhibiting both high serum TMAO and excessive atherosclerosis.
+
+
+**Design, setting, participants, & measurements:**
+
+We measured baseline serum TMAO concentrations in a subset of participants ( _n_ =1243) from the Evaluation of Cinacalcet Hydrochloride Therapy to Lower Cardiovascular Events (EVOLVE) trial and conducted _post hoc_ analyses evaluating the association between baseline serum TMAO and cardiovascular outcomes.
+
+
+**Results:**
+
+We observed a wide distribution of serum TMAO in our cohort, with approximately 80% of participants exhibiting TMAO concentrations ≥56 _µ_ M and a maximum TMAO concentration of 1103.1 _µ_ M. We found no association between TMAO and our primary outcome, a composite of cardiovascular mortality, myocardial infarction, peripheral vascular event, stroke, and hospitalization for unstable angina. Moreover, in unadjusted and adjusted analyses, we observed no relation between TMAO and all-cause mortality, the independent components of our composite outcome, or the original EVOLVE primary outcome. Although we did observe higher TMAO concentrations in white participants, further subgroup analyses did not confirm the previously identified interaction between TMAO and race observed in a prior study in patients receiving dialysis.
+
+
+**Conclusions:**
+
+We found no evidence linking TMAO to adverse clinical outcomes in patients receiving maintenance hemodialysis with moderate to severe secondary hyperparathyroidism.
+
+
+**Keywords:**
+
+Angina, Unstable; Atherosclerosis; Bacteria; Cohort Studies; Hyperparathyroidism, Secondary; Kidney Failure, Chronic; Methylamines; Myocardial Infarction; Oxides; Rodentia; Stroke; cardiovascular disease; dialysis; end-stage kidney disease; end-stage renal disease; heart disease; hospitalization; mortality; renal dialysis; trimethylamine; trimethyloxamine.
+
+
+Copyright © 2019 by the American Society of Nephrology.
+
+
+[PubMed Disclaimer](https://pubmed.ncbi.nlm.nih.gov/disclaimer/)
+
+## Figures
+
+[![None](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8325/6390920/af9aeab6fee1/CJN.06190518absf1.gif)](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8325/6390920/3e9bce34a32d/CJN.06190518absf1.jpg)
+
+**Graphical abstract**
+
+**Graphical abstract**
+
+**Graphical abstract**[![Figure 1.](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8325/6390920/b7db47c38331/CJN.06190518f1.gif)](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8325/6390920/87c2f81f6f1a/CJN.06190518f1.jpg)
+
+**Figure 1.**
+
+**Association between TMAO and select…**
+
+**Figure 1.**
+
+**Association between TMAO and select cardiovascular and noncardiovascular outcomes.** Adjusted cumulative incidence of…
+
+**Figure 1.**
+
+**Association between TMAO and select cardiovascular and noncardiovascular outcomes.** Adjusted cumulative incidence of the vascular composite (left), cardiac death (middle), and noncardiac death (right), by TMAO quintile ( _P_ >0.05 for all listed outcomes).
+
+[See this image and copyright information in PMC](https://pubmed.ncbi.nlm.nih.gov/30665924/#)
+
+## Comment in
+
+- [Assessing Clinical Relevance of Uremic Toxins.](https://pubmed.ncbi.nlm.nih.gov/30665925/)
+
+Flythe JE, Hostetter TH.Flythe JE, et al.Clin J Am Soc Nephrol. 2019 Feb 7;14(2):182-183. doi: 10.2215/CJN.14931218. Epub 2019 Jan 21.Clin J Am Soc Nephrol. 2019.PMID: 30665925Free PMC article.No abstract available.
+
+
+## Similar articles
+
+- [The Effects of Cinacalcet in Older and Younger Patients on Hemodialysis: The Evaluation of Cinacalcet HCl Therapy to Lower Cardiovascular Events (EVOLVE) Trial.](https://pubmed.ncbi.nlm.nih.gov/25710802/)
+
+Parfrey PS, Drüeke TB, Block GA, Correa-Rotter R, Floege J, Herzog CA, London GM, Mahaffey KW, Moe SM, Wheeler DC, Kubo Y, Dehmel B, Goodman WG, Chertow GM; Evaluation of Cinacalcet HCl Therapy to Lower Cardiovascular Events (EVOLVE) Trial Investigators.Parfrey PS, et al.Clin J Am Soc Nephrol. 2015 May 7;10(5):791-9. doi: 10.2215/CJN.07730814. Epub 2015 Feb 20.Clin J Am Soc Nephrol. 2015.PMID: 25710802Free PMC article.Clinical Trial.
+
+- [Trimethylamine- _N_-oxide is an independent risk factor for hospitalization events in patients receiving maintenance hemodialysis.](https://pubmed.ncbi.nlm.nih.gov/32576072/)
+
+
+[... middle omitted — see footer ...]
+
+  - [Add to Search](https://pubmed.ncbi.nlm.nih.gov/30665924/#)
+
+- Stroke / epidemiology
+
+
+
+
+Actions
+
+
+
+
+
+  - [Search in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22Stroke%2Fepidemiology%22%5BMeSH%5D&sort=date&sort_order=desc)
+  - [Search in MeSH](https://www.ncbi.nlm.nih.gov/mesh?term=Stroke)
+  - [Add to Search](https://pubmed.ncbi.nlm.nih.gov/30665924/#)
+
+## Substances
+
+- Calcimimetic Agents
+
+
+
+
+Actions
+
+
+
+
+
+  - [Search in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22Calcimimetic+Agents%22%5Bnm%5D&sort=date&sort_order=desc)
+  - [Search in MeSH](https://www.ncbi.nlm.nih.gov/mesh?term=%22Calcimimetic+Agents%22)
+  - [Add to Search](https://pubmed.ncbi.nlm.nih.gov/30665924/#)
+
+- Methylamines
+
+
+
+
+Actions
+
+
+
+
+
+  - [Search in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22Methylamines%22%5Bnm%5D&sort=date&sort_order=desc)
+  - [Search in MeSH](https://www.ncbi.nlm.nih.gov/mesh?term=%22Methylamines%22)
+  - [Add to Search](https://pubmed.ncbi.nlm.nih.gov/30665924/#)
+
+- trimethyloxamine
+
+
+
+
+Actions
+
+
+
+
+
+  - [Search in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22trimethyloxamine%22%5Bnm%5D&sort=date&sort_order=desc)
+  - [Search in MeSH](https://www.ncbi.nlm.nih.gov/mesh?term=%22trimethyloxamine%22)
+  - [Add to Search](https://pubmed.ncbi.nlm.nih.gov/30665924/#)
+
+- Cinacalcet
+
+
+
+
+Actions
+
+
+
+
+
+  - [Search in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22Cinacalcet%22%5Bnm%5D&sort=date&sort_order=desc)
+  - [Search in MeSH](https://www.ncbi.nlm.nih.gov/mesh?term=%22Cinacalcet%22)
+  - [Add to Search](https://pubmed.ncbi.nlm.nih.gov/30665924/#)
+
+## Related information
+
+- [MedGen](https://www.ncbi.nlm.nih.gov/medgen?linkname=pubmed_medgen&from_uid=30665924 "Related information in MedGen")
+- [PubChem Compound (MeSH Keyword)](https://www.ncbi.nlm.nih.gov/pccompound?linkname=pubmed_pccompound_mesh&from_uid=30665924 "Related PubChem Compound via MeSH")
+
+## Grants and funding
+
+- [R01 GM107122/GM/NIGMS NIH HHS/United States](https://pubmed.ncbi.nlm.nih.gov/?term=R01+GM107122%2FGM%2FNIGMS+NIH+HHS%2FUnited+States%5BGrants+and+Funding%5D&sort=date&sort_order=desc "All articles for grant R01 GM107122/GM/NIGMS NIH HHS/United States")
+
+## LinkOut - more resources
+
+- ### Full Text Sources
+
+
+  - [Europe PMC](https://europepmc.org/abstract/MED/30665924)
+  - [Ovid Technologies, Inc.](https://www.ovid.com/30665924.pmid)
+  - [PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/pmid/30665924/)
+  - [Wolters Kluwer](https://www.ovid.com/10.2215/CJN.06190518)
+- ### Medical
+
+
+  - [MedlinePlus Health Information](https://medlineplus.gov/kidneyfailure.html)
+
+NCBI Literature Resources
+
+[MeSH](https://www.ncbi.nlm.nih.gov/mesh/) [PMC](https://www.ncbi.nlm.nih.gov/pmc/) [Bookshelf](https://www.ncbi.nlm.nih.gov/books) [Disclaimer](https://pubmed.ncbi.nlm.nih.gov/disclaimer/)
+
+The PubMed wordmark and PubMed logo are registered trademarks of the U.S. Department of Health and Human Services (HHS). Unauthorized use of these marks is strictly prohibited.
+
+──────── [TRUNCATED] ────────
+Showing 8,871 chars (head) + 2,978 chars (tail) of 24,305 total clean characters.
+Full text saved to: /home/walker/.hermes/cache/web/pubmed.ncbi.nlm.nih.gov-99c1e7eb83.md
+To read the omitted middle: read_file path="/home/walker/.hermes/cache/web/pubmed.ncbi.nlm.nih.gov-99c1e7eb83.md" offset=292 limit=200  (the file is the complete page; raise/lower offset to page through it).
+─────────────────────────────

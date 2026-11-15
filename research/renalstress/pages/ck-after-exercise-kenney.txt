@@ -1,0 +1,15 @@
+PMID: 22334169
+URL: https://pubmed.ncbi.nlm.nih.gov/22334169/
+Title: Serum creatine kinase after exercise: drawing the line between physiological response and exertional rhabdomyolysis.
+Authors: Kenney K; Landau ME; Gonzalez RS; Hundertmark J; O'Brien K; Campbell WW
+Journal: Muscle & nerve
+Year: 2012
+Vol/Pages: 45(3):356-62
+DOI: 10.1002/mus.22317
+Accessed: 2026-11-15 (NCBI PubMed efetch abstract)
+
+ABSTRACT
+INTRODUCTION: In this investigation we assessed the spectrum of creatine kinase (CK) responses in military recruits undergoing basic training.
+METHODS: Musculoskeletal examination data, questionnaire findings, and CK levels were obtained from 499 recruits at days 0, 3, 7, and 14 of training. Correlations of CK with ethnicity, age, body mass index, exercise, muscle pain, and climate were obtained.
+RESULTS: None of the subjects developed clinical exertional rhabdomyolysis (ER). The mean/median serum CK values were 223/157, 734/478, 1226/567, and 667/486 IU/L at days 0, 3, 7, and 14, respectively, with a wide overall range (34-35,056 IU/L). African-American subjects had higher mean CK levels.
+CONCLUSIONS: CK elevations and muscle pain are common during basic training. Widely accepted laboratory diagnostic values for ER are routinely exceeded in this military recruits, suggesting that CK levels >50 times the upper limit of normal are more specific. The findings support using CK as a marker for ER. Normal laboratory reference ranges for CK should be published by ethnicity.

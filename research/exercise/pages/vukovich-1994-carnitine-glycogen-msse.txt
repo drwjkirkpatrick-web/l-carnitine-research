@@ -1,0 +1,40 @@
+SOURCE: Carnitine supplementation: effect on muscle carnitine and glycogen content during exercise.
+URL: https://pubmed.ncbi.nlm.nih.gov/7808246/
+FETCHED: 2026-11-15 via NCBI efetch (pubmed abstract, retmode=text)
+PMID: 7808246
+DOI: 
+------------------------------------------------------------------------
+1. Med Sci Sports Exerc. 1994 Sep;26(9):1122-9.
+
+Carnitine supplementation: effect on muscle carnitine and glycogen content 
+during exercise.
+
+Vukovich MD(1), Costill DL, Fink WJ.
+
+Author information:
+(1)Human Performance Laboratory, Ball State University, Muncie, IN 47306.
+
+This study investigated the effects of L-carnitine supplementation on muscle 
+carnitine and glycogen content during submaximal exercise (EX). Triglycerides 
+were evaluated by a fat feeding (90 g fat) and 3 h later subjects cycled for 60 
+min at 70% VO2max (CON). Muscle biopsies were obtained preexercise and after 30 
+and 60 min of EX. Blood samples were taken prior to and every 15 min of 
+exercise. Subjects randomly completed two additional trials following 7 and 14 d 
+of carnitine supplementation (6 g.d-1). During one of the two trials, subjects 
+received 2000 units of heparin 15 min prior to EX to elevate FFA (CNhep); no 
+heparin was administered during the other trial (CN). There were no differences 
+in VO2, respiratory exchange ratio, heart rate, or g.min-1 of CHO and fat 
+oxidized among the three trials. At rest serum total acid soluble (TASC) and 
+free (FC) carnitine increased with supplementation (TASC; CON, 71.3 +/- 2.9; CN, 
+92.8 +/- 5.4; CNhep, 109.8 +/- 3.5 mumol.l-1) (FC; CON, 44.1 +/- 2.7; CN, 66.1 
++/- 5.3; CNhep, 77.1 +/- 4.1 mumol.l-1). During EX, TASC remained stable, while 
+FC decreased and short-chain acylcarnitine (SCAC) increased (P < 0.05). Muscle 
+carnitine concentration at rest was unaffected by supplementation. During EX, 
+muscle TASC did not change, FC decreased, and SCAC increased significantly in 
+all three trials. Pre-EX and post-EX muscle glycogens were not different. 
+Increased availability of serum carnitine does not result in an increase in 
+muscle carnitine content nor does it alter lipid oxidation. It appears that 
+there is an adequate amount of carnitine present within the mitochondria to 
+support lipid oxidation.
+
+PMID: 7808246 [Indexed for MEDLINE]

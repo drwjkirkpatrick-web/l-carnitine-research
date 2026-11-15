@@ -1,0 +1,30 @@
+SOURCE: The effects of increasing exercise intensity on muscle fuel utilisation in humans.
+URL: https://pubmed.ncbi.nlm.nih.gov/11579177/
+FETCHED: 2026-11-15 via NCBI efetch (pubmed abstract, retmode=text)
+PMID: 11579177
+DOI: 10.1111/j.1469-7793.2001.00295.x
+------------------------------------------------------------------------
+1. Contemporary stable isotope methodology was applied in combination with 
+muscle biopsy sampling to accurately quantify substrate utilisation and study 
+the regulation of muscle fuel selection during exercise. 2. Eight cyclists were 
+studied at rest and during three consecutive 30 min stages of exercise at 
+intensities of 40, 55 and 75 % maximal workload (W(max)). A continuous infusion 
+of [U-(13)C]palmitate and [6,6-(2)H(2)]glucose was administered to determine 
+plasma free fatty acid (FFA) oxidation and estimate plasma glucose oxidation, 
+respectively. Biopsy samples were collected before and after each exercise 
+stage. 3. Muscle glycogen and plasma glucose oxidation rates increased with 
+every increment in exercise intensity. Whole-body fat oxidation increased to 32 
++/- 2 kJ min(-1) at 55 % W(max), but declined at 75 % W(max) (19 +/- 2 kJ 
+min(-1)). This decline involved a decrease in the oxidation rate of both plasma 
+FFA and triacylglycerol fat sources (sum of intramuscular plus 
+lipoprotein-derived triacylglycerol), and was accompanied by increases in muscle 
+pyruvate dehydrogenase complex activation and acetylation of the carnitine pool, 
+resulting in a decline in muscle free carnitine concentration. 4. We conclude 
+that the most likely mechanism for the reduction in fat oxidation during 
+high-intensity exercise is a downregulation of carnitine palmitoyltransferase I, 
+either by this marked decline in free carnitine availability or by a decrease in 
+intracellular pH.
+
+DOI: 10.1111/j.1469-7793.2001.00295.x
+PMCID: PMC2278845
+PMID: 11579177 [Indexed for MEDLINE]

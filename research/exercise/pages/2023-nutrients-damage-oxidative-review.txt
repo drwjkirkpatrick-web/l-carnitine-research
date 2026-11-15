@@ -1,0 +1,61 @@
+SOURCE: Effects of L-Carnitine Intake on Exercise-Induced Muscle Damage and Oxidative Stress: A Narrative Scoping Review.
+URL: https://pubmed.ncbi.nlm.nih.gov/37299549/
+FETCHED: 2026-11-15 via NCBI efetch (pubmed abstract, retmode=text)
+PMID: 37299549
+DOI: 10.3390/nu15112587
+------------------------------------------------------------------------
+8. Nutrients. 2023 May 31;15(11):2587. doi: 10.3390/nu15112587.
+
+Effects of L-Carnitine Intake on Exercise-Induced Muscle Damage and Oxidative 
+Stress: A Narrative Scoping Review.
+
+Caballero-García A(1), Noriega-González DC(2), Roche E(3)(4)(5), Drobnic F(6), 
+Córdova A(7).
+
+Author information:
+(1)Department of Anatomy and Radiology, Faculty of Health Sciences, GIR Physical 
+Exercise and Aging, University of Valladolid, Campus Los Pajaritos, 42004 Soria, 
+Spain.
+(2)Department of Surgery, Ophthalmology, Otorhinolaryngology and Physiotherapy, 
+Faculty of Medicine, Hospital Clínico Universitario de Valladolid, 47003 
+Valladolid, Spain.
+(3)Department of Applied Biology-Nutrition, Institute of Bioengineering, 
+University Miguel Hernández, 03202 Elche, Spain.
+(4)Alicante Institute for Health and Biomedical Research (ISABIAL), 03010 
+Alicante, Spain.
+(5)CIBER Fisiopatología de la Obesidad y Nutrición (CIBEROBN), Instituto de 
+Salud Carlos III (ISCIII), 28029 Madrid, Spain.
+(6)Medical Services Wolverhampton Wanderers FC, Wolverhampton WV3 9BF, UK.
+(7)Biochemistry, Molecular Biology and Physiology, Faculty of Health Sciences, 
+GIR Physical Exercise and Aging, University of Valladolid, Campus Duques de 
+Soria, 42004 Soria, Spain.
+
+Exercise-induced muscle damage results in decreased physical performance that is 
+accompanied by an inflammatory response in muscle tissue. The inflammation 
+process occurs with the infiltration of phagocytes (neutrophils and macrophages) 
+that play a key role in the repair and regeneration of muscle tissue. In this 
+context, high intensity or long-lasting exercise results in the breakdown of 
+cell structures. The removal of cellular debris is performed by infiltrated 
+phagocytes, but with the release of free radicals as collateral products. 
+L-carnitine is a key metabolite in cellular energy metabolism, but at the same 
+time, it exerts antioxidant actions in the neuromuscular system. L-carnitine 
+eliminates reactive oxygen and nitrogen species that, in excess, alter DNA, 
+lipids and proteins, disturbing cell function. Supplementation using L-carnitine 
+results in an increase in serum L-carnitine levels that correlates positively 
+with the decrease in cell alterations induced by oxidative stress situations, 
+such as hypoxia. The present narrative scoping review focuses on the critical 
+evaluation of the efficacy of L-carnitine supplementation on exercise-induced 
+muscle damage, particularly in postexercise inflammatory and oxidative damage. 
+Although both concepts appear associated, only in two studies were evaluated 
+together. In addition, other studies explored the effect of L-carnitine in 
+perception of fatigue and delayed onset of muscle soreness. In view of the 
+studies analyzed and considering the role of L-carnitine in muscle bioenergetics 
+and its antioxidant potential, this supplement could help in postexercise 
+recovery. However, further studies are needed to conclusively clarify the 
+mechanisms underlying these protective effects.
+
+DOI: 10.3390/nu15112587
+PMCID: PMC10255885
+PMID: 37299549 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.

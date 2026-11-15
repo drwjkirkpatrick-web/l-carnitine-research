@@ -1,0 +1,45 @@
+# Source: PubMed (NCBI E-utilities efetch)
+# URL: https://pubmed.ncbi.nlm.nih.gov/30943487/
+# Fetched: 2026-11-15
+# PMID: 30943487
+
+1. Blood Purif. 2019;47 Suppl 2:38-44. doi: 10.1159/000496720. Epub 2019 Apr 3.
+
+Prevalence of Carnitine Deficiency and Decreased Carnitine Levels in Patients on 
+Hemodialysis.
+
+Hatanaka Y(1), Higuchi T(2), Akiya Y(1), Horikami T(1), Tei R(1), Furukawa T(1), 
+Takashima H(1), Tomita H(3), Abe M(4).
+
+Author information:
+(1)Division of Nephrology, Hypertension and Endocrinology, Department of 
+Internal Medicine, Nihon University School of Medicine, Tokyo, Japan.
+(2)Department of Nephrology, Keiai Hospital, Tokyo, Japan.
+(3)Department of Nephrology, Yujin Clinic, Tokyo, Japan.
+(4)Division of Nephrology, Hypertension and Endocrinology, Department of 
+Internal Medicine, Nihon University School of Medicine, Tokyo, Japan, 
+abe.masanori@nihon-u.ac.jp.
+
+BACKGROUND: Patients on hemodialysis (HD) are known to be at risk of carnitine 
+deficiency. The aims of this study were to investigate the prevalence of 
+carnitine deficiency in patients on dialysis and to compare the likelihood of a 
+reduction in the serum carnitine level on HD with that on hemodiafiltration 
+(HDF).
+METHODS: The prevalence of carnitine deficiency, defined as a serum free 
+carnitine level < 20 μmol/L, and that of carnitine insufficiency, defined as an 
+acyl/free carnitine ratio > 0.4, was investigated in 150 patients on dialysis. 
+The reduction rate of serum carnitine was then compared between HD and HDF.
+RESULTS: The prevalence of carnitine deficiency and that of carnitine 
+insufficiency was 25.3 and 86.7%, respectively. Patients at high risk of 
+carnitine deficiency accounted for 64.7%. Multivariate regression identified an 
+association of duration of dialysis with the free serum carnitine level. The 
+reduction rates of serum free carnitine in HD and HDF were 64 ± 4 and 75 ± 7%, 
+respectively (p < 0.0001).
+CONCLUSION: The prevalence rates of carnitine deficiency and carnitine 
+insufficiency were high in patients on dialysis. The serum carnitine reduction 
+rate was greater with HDF than with HD.
+
+© 2019 S. Karger AG, Basel.
+
+DOI: 10.1159/000496720
+PMID: 30943487 [Indexed for MEDLINE]

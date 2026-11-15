@@ -1,0 +1,53 @@
+SOURCE: Chronic oral ingestion of L-carnitine and carbohydrate increases muscle carnitine content and alters muscle fuel metabolism during exercise in humans.
+URL: https://pubmed.ncbi.nlm.nih.gov/21224234/
+FETCHED: 2026-11-15 via NCBI efetch (pubmed abstract, retmode=text)
+PMID: 21224234
+DOI: 10.1113/jphysiol.2010.201343
+------------------------------------------------------------------------
+7. J Physiol. 2011 Feb 15;589(Pt 4):963-73. doi: 10.1113/jphysiol.2010.201343.
+Epub  2011 Jan 4.
+
+Chronic oral ingestion of L-carnitine and carbohydrate increases muscle 
+carnitine content and alters muscle fuel metabolism during exercise in humans.
+
+Wall BT(1), Stephens FB, Constantin-Teodosiu D, Marimuthu K, Macdonald IA, 
+Greenhaff PL.
+
+Author information:
+(1)Department of Human Movement Sciences, Maastricht University, Maastricht, 
+6200 MD, the Netherlands. benjamin.wall@maastrichtuniversity.nl
+
+Comment in
+    J Physiol. 2011 Apr 1;589(Pt 7):1509-10. doi: 10.1113/jphysiol.2011.205815.
+
+We have previously shown that insulin increases muscle total carnitine (TC) 
+content during acute i.v. l-carnitine infusion. Here we determined the effects 
+of chronic l-carnitine and carbohydrate (CHO; to elevate serum insulin) 
+ingestion on muscle TC content and exercise metabolism and performance in 
+humans. On three visits, each separated by 12 weeks, 14 healthy male volunteers 
+(age 25.9 ± 2.1 years, BMI 23.0 ± 0.8 kg m−2) performed an exercise test 
+comprising 30 min cycling at 50% , 30 min at 80% , then a 30 min work output 
+performance trial. Muscle biopsies were obtained at rest and after exercise at 
+50% and 80% on each occasion. Following visit one, volunteers ingested either 80 
+g of CHO (Control) or 2 g of l-carnitine-l-tartrate and 80 g of CHO (Carnitine) 
+twice daily for 24 weeks in a randomised, double blind manner. All significant 
+effects reported occurred after 24 weeks. Muscle TC increased from basal by 21% 
+in Carnitine (P < 0.05), and was unchanged in Control. At 50% , the Carnitine 
+group utilised 55% less muscle glycogen compared to Control (P < 0.05) and 31% 
+less pyruvate dehydrogenase complex (PDC) activation compared to before 
+supplementation (P < 0.05). Conversely, at 80% , muscle PDC activation was 38% 
+higher (P < 0.05), acetylcarnitine content showed a trend to be 16% greater (P < 
+0.10), muscle lactate content was 44% lower (P < 0.05) and the muscle PCr/ATP 
+ratio was better maintained (P < 0.05) in Carnitine compared to Control. The 
+Carnitine group increased work output 11% from baseline in the performance 
+trial, while Control showed no change. This is the first demonstration that 
+human muscle TC can be increased by dietary means and results in muscle glycogen 
+sparing during low intensity exercise (consistent with an increase in lipid 
+utilisation) and a better matching of glycolytic, PDC and mitochondrial flux 
+during high intensity exercise, thereby reducing muscle anaerobic ATP 
+production. Furthermore, these changes were associated with an improvement in 
+exercise performance.
+
+DOI: 10.1113/jphysiol.2010.201343
+PMCID: PMC3060373
+PMID: 21224234 [Indexed for MEDLINE]

@@ -1,0 +1,14 @@
+PMID: 39688252
+URL: https://pubmed.ncbi.nlm.nih.gov/39688252/
+Title: The kidney under heat stress: a vulnerable state.
+Authors: Amorim F; Schlader Z
+Journal: Current opinion in nephrology and hypertension
+Year: 2025
+Vol/Pages: 34(2):170-176
+DOI: 10.1097/MNH.0000000000001050
+Accessed: 2026-11-15 (NCBI PubMed efetch abstract)
+
+ABSTRACT
+PURPOSE OF REVIEW: This review examines the effects of occupational heat stress on kidney health. It focuses on the role of hyperthermia in the development of acute kidney injury (AKI) and its potential progression to chronic kidney disease of nontraditional etiology (CKDnt). We highlight the physiological mechanisms by which hyperthermia affects kidney function and discuss emerging preventive strategies.
+RECENT FINDINGS: Hyperthermia places the kidneys in a vulnerable state. As body temperature increases, blood flow is directed toward the skin to aid in cooling, diverting it away from internal organs like the kidneys to support blood pressure regulation. At the same time, hyperthermia and dehydration increases energetic demand to promote fluid and electrolyte conservation. Collectively, this can create a localized supply-demand mismatch, resulting in tissue hypoxia that can damage kidney tissues. These findings highlight that heat hyperthermia can lead to subclinical kidney damage, with potential long-term implications for kidney health.
+SUMMARY: Heat-induced AKI is a growing public health concern. Individuals engaged in manual labor with prolonged exposure are at risk of CKDnt. Interventions aimed to prevent hyperthermia show promise in mitigating the risk of AKI. Further research is necessary to refine these strategies and establish evidence-based guidelines for reducing heat-related kidney injuries.

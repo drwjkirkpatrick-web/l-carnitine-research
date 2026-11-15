@@ -1,0 +1,55 @@
+12. Clin Pharmacokinet. 2012 Sep 1;51(9):553-72. doi: 10.1007/BF03261931.
+
+Carnitine and acylcarnitines: pharmacokinetic, pharmacological and clinical 
+aspects.
+
+Reuter SE(1), Evans AM.
+
+Author information:
+(1)School of Pharmacy Medical Sciences, University of South Australia, Adelaide, 
+SA, Australia. stephanie.reuter@unisa.edu.au
+
+L-Carnitine (levocarnitine) is a naturally occurring compound found in all 
+mammalian species. The most important biological function of L-carnitine is in 
+the transport of fatty acids into the mitochondria for subsequent β-oxidation, a 
+process which results in the esterification of L-carnitine to form acylcarnitine 
+derivatives. As such, the endogenous carnitine pool is comprised of L-carnitine 
+and various short-, medium- and long-chain acylcarnitines. The physiological 
+importance of L-carnitine and its obligatory role in the mitochondrial 
+metabolism of fatty acids has been clearly established; however, more recently, 
+additional functions of the carnitine system have been described, including the 
+removal of excess acyl groups from the body and the modulation of intracellular 
+coenzyme A (CoA) homeostasis. In light of this, acylcarnitines cannot simply be 
+considered by-products of the enzymatic carnitine transfer system, but provide 
+indirect evidence of altered mitochondrial metabolism. Consequently, examination 
+of the contribution of L-carnitine and acylcarnitines to the endogenous 
+carnitine pool (i.e. carnitine pool composition) is critical in order to 
+adequately characterize metabolic status. The concentrations of L-carnitine and 
+its esters are maintained within relatively narrow limits for normal biological 
+functioning in their pivotal roles in fatty acid oxidation and maintenance of 
+free CoA availability. The homeostasis of carnitine is multifaceted with 
+concentrations achieved and maintained by a combination of oral absorption, de 
+novo biosynthesis, carrier-mediated distribution into tissues and extensive, but 
+saturable, renal tubular reabsorption. Various disorders of carnitine 
+insufficiency have been described but ultimately all result in impaired entry of 
+fatty acids into the mitochondria and consequently disturbed lipid oxidation. 
+Given the sensitivity of acylcarnitine concentrations and the relative carnitine 
+pool composition in reflecting the intramitochondrial acyl-CoA to free CoA ratio 
+(and, hence, any disturbances in mitochondrial metabolism), the relative 
+contribution of L-carnitine and acylcarnitines within the total carnitine pool 
+is therefore considered critical in the identification of mitochondria 
+dysfunction. Although there is considerable research in the literature focused 
+on disorders of carnitine insufficiency, relatively few have examined relative 
+carnitine pool composition in these conditions; consequently, the complexity of 
+these disorders may not be fully understood. Similarly, although important 
+studies have been conducted establishing the pharmacokinetics of exogenous 
+carnitine and short-chain carnitine esters in healthy volunteers, few studies 
+have examined carnitine pharmacokinetics in patient groups. Furthermore, the 
+impact of L-carnitine administration on the kinetics of acylcarnitines has not 
+been established. Given the importance of L-carnitine as well as acylcarnitines 
+in maintaining normal mitochondrial function, this review seeks to examine 
+previous research associated with the homeostasis and pharmacokinetics of 
+L-carnitine and its esters, and highlight potential areas of future research.
+
+DOI: 10.1007/BF03261931
+PMID: 22804748 [Indexed for MEDLINE]

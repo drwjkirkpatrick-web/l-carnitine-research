@@ -1,0 +1,30 @@
+# Source: PubMed (NCBI E-utilities efetch)
+# URL: https://pubmed.ncbi.nlm.nih.gov/10491743/
+# Fetched: 2026-11-15
+# PMID: 10491743
+
+1. Curr Opin Nephrol Hypertens. 1999 Jul;8(4):473-7. doi: 
+10.1097/00041552-199907000-00012.
+
+Role of fatty acid beta-oxidation and calcium-independent phospholipase A2 in 
+ischemic acute renal failure.
+
+Portilla D(1).
+
+Author information:
+(1)Department of Medicine, University of Arkansas for Medical Science, Little 
+Rock 72205, USA.
+
+Membrane phospholipolysis during ischemic cell injury is accompanied by the 
+activation of a novel calcium-independent phospholipase A2 in the proximal 
+tubule. Long-chain fatty acid metabolic products produced by phospholipase A2 
+activation accumulate during ischemia as a result of the inhibition of fatty 
+acid beta-oxidation on the mitochondria and peroxisomes. Altogether, 
+lysophospholipids, long-chain acyl carnitines, and long-chain acyl coenzyme A 
+inhibit proximal tubule Na+K(+)-ATPase. Metabolic regulation of the gene 
+expression of fatty acid beta-oxidation enzymes during ischemic acute renal 
+failure may represent a novel therapeutic maneuver to enhance the recovery of 
+kidney function during ischemia.
+
+DOI: 10.1097/00041552-199907000-00012
+PMID: 10491743 [Indexed for MEDLINE]

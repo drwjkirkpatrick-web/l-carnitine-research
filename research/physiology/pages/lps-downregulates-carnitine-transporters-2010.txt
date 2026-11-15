@@ -1,0 +1,42 @@
+PMID: 20381822
+PubMed URL: https://pubmed.ncbi.nlm.nih.gov/20381822/
+Fetched via NCBI eutils efetch, accessed 2026-11-15
+
+1. Res Vet Sci. 2010 Oct;89(2):200-2. doi: 10.1016/j.rvsc.2010.03.004. Epub 2010 
+Apr 9.
+
+LPS-induced inflammation downregulates mammary gland glucose, fatty acid, and 
+L-carnitine transporter expression at different lactation stages.
+
+Ling B(1), Alcorn J.
+
+Author information:
+(1)College of Pharmacy and Nutrition, University of Saskatchewan, 110 Science 
+Place, Saskatoon, Saskatchewan, Canada S7N5C9.
+
+Glucose, fatty acids, and L-carnitine are important substrates that support 
+mammary epithelial cell metabolism, biosynthetic capacity, and milk yield and 
+composition. Our study investigated the effects of LPS-induced inflammation on 
+the expression of several glucose, fatty acid, and L-carnitine transporters in 
+the lactating rat mammary gland at different lactation stages. Day 4, 11, and 18 
+lactating rats (n=3/treatment) were administered LPS (1 mg/kg) or saline by 
+intraperitoneal (i.p.) injection. Fold differences in the mRNA expression of 
+glucose transporters Glut1, Glut8 and Sglt1, fatty acid transporters Fatp1, 
+Fatp4 and Fabp3, and L-carnitine transporters Octn1, Octn2, and Octn3 were 
+determined using the Comparative C(T) method. The mRNA expression levels of all 
+transporters evaluated, except Fatp4 and Octn2 were markedly higher in mammary 
+gland at lactation day 11 compared to lactation day 4. LPS caused a marked 
+decrease in transporter mRNA expression at each lactation stage except for Octn3 
+and Fatp1, which were markedly increased with LPS administration at lactation 
+day 4, and Sglt1, which was slightly increased at day 11 of lactation. Our 
+results suggest LPS-induced inflammation generally downregulates glucose, fatty 
+acid, and L-carnitine transporter expression. Whether such changes lead to 
+reductions in transporter substrate availability to the lactating mammary 
+epithelial cell requires investigation since decreases in the availability of 
+these nutrients may significantly impact mammary epithelial function and milk 
+quality and yield.
+
+2010 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.rvsc.2010.03.004
+PMID: 20381822 [Indexed for MEDLINE]

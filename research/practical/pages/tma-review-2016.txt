@@ -1,0 +1,37 @@
+8. Expert Rev Mol Med. 2016 Apr 29;18:e8. doi: 10.1017/erm.2016.6.
+
+The complex metabolism of trimethylamine in humans: endogenous and exogenous 
+sources.
+
+Chhibber-Goel J(1), Gaur A(1), Singhal V(1), Parakh N(2), Bhargava B(2), Sharma 
+A(1).
+
+Author information:
+(1)Molecular Medicine Group,International Centre for Genetic Engineering and 
+Biotechnology,New Delhi,India.
+(2)Cardiothoracic Sciences Centre,All India Institute of Medical Sciences,New 
+Delhi,India.
+
+Erratum in
+    Expert Rev Mol Med. 2016 Nov 23;18:e19. doi: 10.1017/erm.2016.19.
+
+Trimethylamine (TMA) is a tertiary amine with a characteristic fishy odour. It 
+is synthesised from dietary constituents, including choline, L-carnitine, 
+betaine and lecithin by the action of microbial enzymes during both healthy and 
+diseased conditions in humans. Trimethylaminuria (TMAU) is a disease typified by 
+its association with the characteristic fishy odour because of decreased TMA 
+metabolism and excessive TMA excretion. Besides TMAU, a number of other diseases 
+are associated with abnormal levels of TMA, including renal disorders, cancer, 
+obesity, diabetes, cardiovascular diseases and neuropsychiatric disorders. Aside 
+from its role in pathobiology, TMA is a precursor of trimethylamine-N-oxide that 
+has been associated with an increased risk of athero-thrombogenesis. 
+Additionally, TMA is a major air pollutant originating from vehicular exhaust, 
+food waste and animal husbandry industry. The adverse effects of TMA need to be 
+monitored given its ubiquitous presence in air and easy absorption through human 
+skin. In this review, we highlight multifaceted attributes of TMA with an 
+emphasis on its physiological, pathological and environmental impacts. We 
+propose a clinical surveillance of human TMA levels that can fully assess its 
+role as a potential marker of microbial dysbiosis-based diseases.
+
+DOI: 10.1017/erm.2016.6
+PMID: 27126549 [Indexed for MEDLINE]

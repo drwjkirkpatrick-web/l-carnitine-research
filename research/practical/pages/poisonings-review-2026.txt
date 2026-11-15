@@ -1,0 +1,63 @@
+11. J Appl Toxicol. 2026 May;46(5):1447-1459. doi: 10.1002/jat.70095. Epub 2026
+Feb  15.
+
+L-Carnitine and Acetyl-L-Carnitine in Drug Poisonings: A Systematic Review of 
+Clinical and Experimental Evidence.
+
+Rezaee H(1), Abbasgholizadeh F(1)(2).
+
+Author information:
+(1)Department of Clinical Pharmacy, Faculty of Pharmacy, Tabriz University of 
+Medical Sciences, Tabriz, Iran.
+(2)Student Research Committee, Tabriz University of Medical Sciences, Tabriz, 
+Iran.
+
+L-carnitine (LC) and acetyl-L-carnitine (ALC) aid in the transfer of fatty acids 
+inside the mitochondria and may alleviate toxic syndromes marked by oxidative 
+stress, poor β-oxidation, hyperammonemia, and mitochondrial dysfunction. The 
+adjunctive role of LC/ALC in acute drug and chemical poisonings was assessed in 
+this systematic study. Clinical studies, mechanistic models, and animal 
+experiments involving LC/ALC in valproic acid, aluminum phosphide, 
+organophosphates, paracetamol (acetaminophen), methanol and other toxic 
+alcohols, and anthracycline cardiotoxicity were found by searching PubMed, 
+Scopus, and Web of Science between February and July 2025. PRISMA guidelines and 
+predetermined criteria were used in the selection of the study. Two reviewers 
+did a basic domain-based bias appraisal, screened records, and extracted data 
+using a standardized form. The results were narratively synthesized and 
+organized by toxin and research type due to significant variation in design, 
+demographics, dose, and outcomes. Nineteen research studies satisfied the 
+requirements for inclusion. Adjunctive LC decreased lipid peroxidation, enhanced 
+cholinesterase activity, and decreased atropine/oxime needs in organophosphate 
+poisoning, according to two clinical studies, although there was no discernible 
+mortality effect. A mortality signal was observed when LC was combined with 
+N-acetylcysteine, whereas paraffin oil performed marginally better in some 
+outcomes. Three small randomized trials in aluminum phosphide poisoning 
+suggested improvements in oxidative stress markers, cardiac function, 
+ventilation needs, and intensive care course. Although case series and modeling 
+suggest LC for hyperammonemia and hepatoprotection, especially in conjunction 
+with extracorporeal clearance, a retrospective cohort in valproate toxicity 
+revealed no kinetic or survival advantage. Preclinical evidence points to better 
+results in methanol models, anthracycline cardioprotection, and paracetamol 
+hepatoprotection (in combination with N-acetylcysteine). In general, LC/ALC was 
+well tolerated. Rather than taking the place of proven antidotes and supportive 
+treatment, LC/ALC seems to enhance mitochondrial activity and redox balance. In 
+actual use, LC may be taken into consideration in cases of severe valproate 
+toxicity with hyperammonemia or hepatotoxicity, as well as an adjuvant in 
+certain organophosphate and aluminum phosphide poisonings within thorough 
+resuscitation protocols. However, its application in cases of paracetamol, 
+methanol, and anthracycline toxicity should remain primarily investigational. To 
+identify the patient categories most likely to benefit, standardized dose and 
+sufficiently powered pragmatic trials are required, especially in cases of 
+organophosphate and paracetamol poisoning. LC/ALC targets common oxidative and 
+mitochondrial pathways in a number of significant poisonings. Evidence currently 
+available points to promising preclinical protection against paracetamol 
+hepatotoxicity, methanol intoxication, and anthracycline cardiotoxicity, as well 
+as clinically significant adjunctive effects in aluminum phosphide and 
+organophosphate poisoning. Although survival benefits are still unknown, these 
+medicines are generally safe, accessible, and biologically plausible; pragmatic 
+trials are needed to clarify patient selection, dosage, and indications.
+
+© 2026 John Wiley & Sons Ltd.
+
+DOI: 10.1002/jat.70095
+PMID: 41692009 [Indexed for MEDLINE]
